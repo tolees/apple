@@ -10,8 +10,11 @@ author: ring
 slug: B086XKQMY4
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: 'Satechi Base de Carga Inalámbrica USB-C - Compatible con Apple AirPods Pro & AirPods 2/1 con Estuche de Carga Inalámbrica'
 ---
 
 Tienes [Satechi Base de Carga Inalámbrica USB-C - Compatible con Apple AirPods Pro & AirPods 2/1 con Estuche de Carga Inalámbrica](https://www.amazon.es/dp/B086XKQMY4/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B086HHVH3B
 description:
 actualPrice: 3.99 EUR
+currency: EUR
+price: 3.99
 comparePrice: 9.99 EUR
 inStock: true
+prodname: 'APHT Funda para teléfono Angels Cute Pattern Design Funda de Gel de Silicona Suave TPU para Apple iPhone 5-11 Pro MAX'
 ---
 
 Ahora mismo tienes [APHT Funda para teléfono Angels Cute Pattern Design Funda de Gel de Silicona Suave TPU para Apple iPhone 5-11 Pro MAX](https://www.amazon.es/dp/B086HHVH3B/?tag=tolees-21) a 3.99 EUR (original: 9.99 EUR) (60.06 %  de descuento) en el siguiente enlace!

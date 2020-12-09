@@ -10,8 +10,11 @@ author: ring
 slug: B072K6NNGG
 description:
 actualPrice: 629.3 EUR
+currency: EUR
+price: 629.3
 comparePrice: 1059 EUR
 inStock: true
+prodname: 'Apple iPad Pro  10 5 pulgadas y 256GB con Wi-Fi + Cellular  - Oro'
 ---
 
 Está [Apple iPad Pro  10 5 pulgadas y 256GB con Wi-Fi + Cellular  - Oro](https://www.amazon.es/dp/B072K6NNGG/?tag=tolees-21) con 40.58 de descuento por 629.3 EUR (original: 1059 EUR) en el siguiente enlace!

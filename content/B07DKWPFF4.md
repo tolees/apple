@@ -10,8 +10,11 @@ author: ring
 slug: B07DKWPFF4
 description:
 actualPrice: 53.99 EUR
+currency: EUR
+price: 53.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: 'Mixcder E8 Auriculares Bluetooth Cancelación Activa de Ruido con Micrófono  Cascos Inalámbricos de Diadema  Plegable con Estéreo  Deep Bass  Diseño Portátil  para iPhone  Android  PC  TV-Negro'
 ---
 
 Ahora mismo tienes [Mixcder E8 Auriculares Bluetooth Cancelación Activa de Ruido con Micrófono  Cascos Inalámbricos de Diadema  Plegable con Estéreo  Deep Bass  Diseño Portátil  para iPhone  Android  PC  TV-Negro](https://www.amazon.es/dp/B07DKWPFF4/?tag=tolees-21) a 53.99 EUR (original: 79.99 EUR) (32.50 %  de descuento) en el siguiente enlace!

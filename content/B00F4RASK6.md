@@ -10,8 +10,11 @@ author: ring
 slug: B00F4RASK6
 description:
 actualPrice: 19.75 EUR
+currency: EUR
+price: 19.75
 comparePrice: 35.0 EUR
 inStock: true
+prodname: 'Apple Cable de conector Lightning a USB  2m '
 ---
 
 Tienes [Apple Cable de conector Lightning a USB  2m ](https://www.amazon.es/dp/B00F4RASK6/?tag=tolees-21) con un 43.57 % de descuento con precio de oferta de 19.75 EUR (original: 35.0 EUR) en el siguiente enlace!

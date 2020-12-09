@@ -10,8 +10,11 @@ author: ring
 slug: B077QHCXM3
 description:
 actualPrice: 7.49 EUR
+currency: EUR
+price: 7.49
 comparePrice: 14.99 EUR
 inStock: true
+prodname: 'ULTRICS Cargador Coche  4 Puertos 35W/ 7A Carga Rápida 3.0 USB Adaptador Movil  Universal Car Charger Compatible con Android Apple iPhone X/XR/XS MAX Samsung Galaxy S10/ S9/ S8 Plus LG - Negro'
 ---
 
 Está [ULTRICS Cargador Coche  4 Puertos 35W/ 7A Carga Rápida 3.0 USB Adaptador Movil  Universal Car Charger Compatible con Android Apple iPhone X/XR/XS MAX Samsung Galaxy S10/ S9/ S8 Plus LG - Negro](https://www.amazon.es/dp/B077QHCXM3/?tag=tolees-21) con 50.03 de descuento por 7.49 EUR (original: 14.99 EUR) en el siguiente enlace!

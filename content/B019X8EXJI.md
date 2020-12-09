@@ -10,8 +10,11 @@ author: ring
 slug: B019X8EXJI
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: 'RAVPOWER Quick Charge 3.0 Bateria Externa 20100mAh Type C Carga Rápida Qualcomm Power Bank para Móvil  iPhone 7 iPhone 7 Plus  Samsung  Tablet'
 ---
 
 Está [RAVPOWER Quick Charge 3.0 Bateria Externa 20100mAh Type C Carga Rápida Qualcomm Power Bank para Móvil  iPhone 7 iPhone 7 Plus  Samsung  Tablet](https://www.amazon.es/dp/B019X8EXJI/?tag=tolees-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

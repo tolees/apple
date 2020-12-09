@@ -10,8 +10,11 @@ author: ring
 slug: B07DCM93FW
 description:
 actualPrice: 13.6 EUR
+currency: EUR
+price: 13.6
 comparePrice: 45.57 EUR
 inStock: true
+prodname: 'Mezone - Cargador inalámbrico Qi para iPhone X  iPhone 8  Samsung Galaxy S8 Note 8 y más  16000 mAh  Doble luz de Flash con Pantalla LCD Digital  Cargador Externo'
 ---
 
 Está [Mezone - Cargador inalámbrico Qi para iPhone X  iPhone 8  Samsung Galaxy S8 Note 8 y más  16000 mAh  Doble luz de Flash con Pantalla LCD Digital  Cargador Externo](https://www.amazon.es/dp/B07DCM93FW/?tag=tolees-21) con 70.16 de descuento por 13.6 EUR (original: 45.57 EUR) en el siguiente enlace!

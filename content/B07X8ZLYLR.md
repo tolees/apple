@@ -10,8 +10,11 @@ author: ring
 slug: B07X8ZLYLR
 description:
 actualPrice: 25.19 EUR
+currency: EUR
+price: 25.19
 comparePrice: 39.99 EUR
 inStock: true
+prodname: 'Anker Hub USB-C actualizado  Adaptador USB-C 5 en 1 con USB-C a HDMI de 4K  Puerto Ethernet  3 Puertos USB 3.0  para MacBook Pro  iPad Pro  XPS  Pixelbook y Muchos más'
 ---
 
 Está [Anker Hub USB-C actualizado  Adaptador USB-C 5 en 1 con USB-C a HDMI de 4K  Puerto Ethernet  3 Puertos USB 3.0  para MacBook Pro  iPad Pro  XPS  Pixelbook y Muchos más](https://www.amazon.es/dp/B07X8ZLYLR/?tag=tolees-21) con 37.01 de descuento por 25.19 EUR (original: 39.99 EUR) en el siguiente enlace!

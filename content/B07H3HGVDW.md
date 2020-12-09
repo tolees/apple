@@ -10,8 +10,11 @@ author: ring
 slug: B07H3HGVDW
 description:
 actualPrice: 48.99 EUR
+currency: EUR
+price: 48.99
 comparePrice: 71.99 EUR
 inStock: true
+prodname: 'Logitech Crayon Lápiz Digital para Todos los iPad 2019 o posteriores  iPad  iPad Pro  iPad Mini  iPad Air with iOS 12.2 o posterior  Naranja'
 ---
 
 Tienes [Logitech Crayon Lápiz Digital para Todos los iPad 2019 o posteriores  iPad  iPad Pro  iPad Mini  iPad Air with iOS 12.2 o posterior  Naranja](https://www.amazon.es/dp/B07H3HGVDW/?tag=tolees-21) con un 31.95 % de descuento con precio de oferta de 48.99 EUR (original: 71.99 EUR) en el siguiente enlace!

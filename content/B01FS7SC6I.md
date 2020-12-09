@@ -10,8 +10,11 @@ author: ring
 slug: B01FS7SC6I
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 34.47 EUR
 inStock: true
+prodname: 'Neissstar Altavoz Bluetooth Inalámbrico con Dual Radiador Pasivo  Sonido Superior  Entrada de Audio  Manos Libres para Huawei  XIAOMI  iPhone  Sony etc  Verde '
 ---
 
 Ahora mismo tienes [Neissstar Altavoz Bluetooth Inalámbrico con Dual Radiador Pasivo  Sonido Superior  Entrada de Audio  Manos Libres para Huawei  XIAOMI  iPhone  Sony etc  Verde ](https://www.amazon.es/dp/B01FS7SC6I/?tag=tolees-21) a 8.99 EUR (original: 34.47 EUR) (73.92 %  de descuento) en el siguiente enlace!

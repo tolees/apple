@@ -10,8 +10,11 @@ author: ring
 slug: B06XV8BYDD
 description:
 actualPrice: 369 EUR
+currency: EUR
+price: 369
 comparePrice: 521.51 EUR
 inStock: true
+prodname: 'iPad 9 7"" con Wi-Fi 128GB Apple - Gris Espacial'
 ---
 
 Está [iPad 9 7"" con Wi-Fi 128GB Apple - Gris Espacial](https://www.amazon.es/dp/B06XV8BYDD/?tag=tolees-21) con 29.24 de descuento por 369 EUR (original: 521.51 EUR) en el siguiente enlace!

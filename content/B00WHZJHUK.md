@@ -10,8 +10,11 @@ author: ring
 slug: B00WHZJHUK
 description:
 actualPrice: 6.89 EUR
+currency: EUR
+price: 6.89
 comparePrice: 9.59 EUR
 inStock: true
+prodname: 'Soporte Móvil Mesa  OMOTON Soporte Teléfono de Escritorio  Base Móvil de Aluminio para iPhone 12 Pro Max 12 Mini 11 SE Xiaomi Redmi 9 9S 8 Pro   Samsung  Huawei  iPad Mini y Otras Smartphones  Negro'
 ---
 
 Está [Soporte Móvil Mesa  OMOTON Soporte Teléfono de Escritorio  Base Móvil de Aluminio para iPhone 12 Pro Max 12 Mini 11 SE Xiaomi Redmi 9 9S 8 Pro   Samsung  Huawei  iPad Mini y Otras Smartphones  Negro](https://www.amazon.es/dp/B00WHZJHUK/?tag=tolees-21) con 28.15 de descuento por 6.89 EUR (original: 9.59 EUR) en el siguiente enlace!

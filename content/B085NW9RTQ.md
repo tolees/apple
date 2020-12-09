@@ -10,8 +10,11 @@ author: ring
 slug: B085NW9RTQ
 description:
 actualPrice: 25.59 EUR
+currency: EUR
+price: 25.59
 comparePrice: 39.99 EUR
 inStock: true
+prodname: 'Auriculares Bluetooth  GRDE Auriculares Inalambricos  Deportivos IPX5 Impermeable  con Microfono Incorporado Hi-Fi CVC8.0  50H Reproducción Auriculares In-Ear con Estuche de Carga para iPhone Android'
 ---
 
 Está [Auriculares Bluetooth  GRDE Auriculares Inalambricos  Deportivos IPX5 Impermeable  con Microfono Incorporado Hi-Fi CVC8.0  50H Reproducción Auriculares In-Ear con Estuche de Carga para iPhone Android](https://www.amazon.es/dp/B085NW9RTQ/?tag=tolees-21) con 36.01 de descuento por 25.59 EUR (original: 39.99 EUR) en el siguiente enlace!

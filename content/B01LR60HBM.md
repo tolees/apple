@@ -10,8 +10,11 @@ author: ring
 slug: B01LR60HBM
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: 'Vaultskin Eton Armour - Funda de Cuero para iPhone 6 y 6s  marrón '
 ---
 
 Ahora mismo tienes [Vaultskin Eton Armour - Funda de Cuero para iPhone 6 y 6s  marrón ](https://www.amazon.es/dp/B01LR60HBM/?tag=tolees-21) a 24.99 EUR (original: 49.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

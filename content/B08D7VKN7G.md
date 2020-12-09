@@ -10,8 +10,11 @@ author: ring
 slug: B08D7VKN7G
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 16.8 EUR
 inStock: true
+prodname: 'LNLYY Fuego iPhone 11 Funda Carcasa Silicona Case Cover para Apple iPhone 11'
 ---
 
 Tienes [LNLYY Fuego iPhone 11 Funda Carcasa Silicona Case Cover para Apple iPhone 11](https://www.amazon.es/dp/B08D7VKN7G/?tag=tolees-21) con un 52.44 % de descuento con precio de oferta de 7.99 EUR (original: 16.8 EUR) en el siguiente enlace!

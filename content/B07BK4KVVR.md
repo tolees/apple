@@ -10,8 +10,11 @@ author: ring
 slug: B07BK4KVVR
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: 'Micrófono Inalámbrico de Bluetooth Karaoke Player Micrófono Color Gold para KTV Karaoke Player Compatible con PC/ iPhone /Android /Smartphone'
 ---
 
 Tienes [Micrófono Inalámbrico de Bluetooth Karaoke Player Micrófono Color Gold para KTV Karaoke Player Compatible con PC/ iPhone /Android /Smartphone](https://www.amazon.es/dp/B07BK4KVVR/?tag=tolees-21) con un 66.26 % de descuento con precio de oferta de 26.99 EUR (original: 79.99 EUR) en el siguiente enlace!

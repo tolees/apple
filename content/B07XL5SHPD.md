@@ -10,8 +10,11 @@ author: ring
 slug: B07XL5SHPD
 description:
 actualPrice: 28.79 EUR
+currency: EUR
+price: 28.79
 comparePrice: 45.0 EUR
 inStock: true
+prodname: 'Apple Funda Silicone Case  para el iPhone 11 Pro Max  -  PRODUCT RED'
 ---
 
 Está [Apple Funda Silicone Case  para el iPhone 11 Pro Max  -  PRODUCT RED](https://www.amazon.es/dp/B07XL5SHPD/?tag=tolees-21) con 36.02 de descuento por 28.79 EUR (original: 45.0 EUR) en el siguiente enlace!

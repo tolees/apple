@@ -10,8 +10,11 @@ author: ring
 slug: B08CXY1GSH
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 9.9 EUR
 inStock: true
+prodname: 'LvShui Stranger Things iPhone 11 Funda Suave Carcasa Silicona Case Cover para Apple iPhone 11'
 ---
 
 Está [LvShui Stranger Things iPhone 11 Funda Suave Carcasa Silicona Case Cover para Apple iPhone 11](https://www.amazon.es/dp/B08CXY1GSH/?tag=tolees-21) con 49.60 de descuento por 4.99 EUR (original: 9.9 EUR) en el siguiente enlace!

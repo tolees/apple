@@ -10,8 +10,11 @@ author: ring
 slug: B07W6JCCVX
 description:
 actualPrice: 65.99 EUR
+currency: EUR
+price: 65.99
 comparePrice: 105.0 EUR
 inStock: true
+prodname: 'Logitech Slim Folio - Funda con Teclado inalámbrico Integrado para iPad  7a generación  Grafito'
 ---
 
 Está [Logitech Slim Folio - Funda con Teclado inalámbrico Integrado para iPad  7a generación  Grafito](https://www.amazon.es/dp/B07W6JCCVX/?tag=tolees-21) con 37.15 de descuento por 65.99 EUR (original: 105.0 EUR) en el siguiente enlace!

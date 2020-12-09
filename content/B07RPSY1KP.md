@@ -10,8 +10,11 @@ author: ring
 slug: B07RPSY1KP
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 55 EUR
 inStock: true
+prodname: 'Dongle Inalámbrico con Pantalla WiFi 1080P HD  AideMeng Adaptador inalámbrico WiFi Dongle HDMI Compatible con DLNA Airplay Miracast para Android Tablet iPhone iPad Pixel Nexus  Wireless HDMI Dongle'
 ---
 
 Está [Dongle Inalámbrico con Pantalla WiFi 1080P HD  AideMeng Adaptador inalámbrico WiFi Dongle HDMI Compatible con DLNA Airplay Miracast para Android Tablet iPhone iPad Pixel Nexus  Wireless HDMI Dongle](https://www.amazon.es/dp/B07RPSY1KP/?tag=tolees-21) con 45.47 de descuento por 29.99 EUR (original: 55 EUR) en el siguiente enlace!

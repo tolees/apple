@@ -10,8 +10,11 @@ author: ring
 slug: B07W4DHNBL
 description:
 actualPrice: 37.99 EUR
+currency: EUR
+price: 37.99
 comparePrice: 50.7 EUR
 inStock: true
+prodname: 'Logitech K380 Teclado inalámbrico  Bluetooth multidispositivo con Easy-Switch para hasta 3 dispositivos  compacto – PC  portátiles  Windows  Mac  Chrome OS  Android  iPad OS  Apple TV  Color Rosa'
 ---
 
 Ahora mismo tienes [Logitech K380 Teclado inalámbrico  Bluetooth multidispositivo con Easy-Switch para hasta 3 dispositivos  compacto – PC  portátiles  Windows  Mac  Chrome OS  Android  iPad OS  Apple TV  Color Rosa](https://www.amazon.es/dp/B07W4DHNBL/?tag=tolees-21) a 37.99 EUR (original: 50.7 EUR) (25.07 %  de descuento) en el siguiente enlace!

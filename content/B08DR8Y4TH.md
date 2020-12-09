@@ -10,8 +10,11 @@ author: ring
 slug: B08DR8Y4TH
 description:
 actualPrice: 20.71 EUR
+currency: EUR
+price: 20.71
 comparePrice: 36.99 EUR
 inStock: true
+prodname: 'QARFEE Memoria USB 128GB para iPhone Pendrive 4 en 1 USB 3.0 para iPhone Compatible con Android Tipo C iPad Smartphone Windows Mac  128GB  Oro '
 ---
 
 Tienes [QARFEE Memoria USB 128GB para iPhone Pendrive 4 en 1 USB 3.0 para iPhone Compatible con Android Tipo C iPad Smartphone Windows Mac  128GB  Oro ](https://www.amazon.es/dp/B08DR8Y4TH/?tag=tolees-21) con un 44.01 % de descuento con precio de oferta de 20.71 EUR (original: 36.99 EUR) en el siguiente enlace!

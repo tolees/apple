@@ -10,8 +10,11 @@ author: ring
 slug: B07K8GP3HR
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: 'MOSNOVO [Ultra Hybrid Funda iPhone XR protección híbrida de la Gota para Apple iPhone XR - Floral Garden'
 ---
 
 Está [MOSNOVO [Ultra Hybrid Funda iPhone XR protección híbrida de la Gota para Apple iPhone XR - Floral Garden](https://www.amazon.es/dp/B07K8GP3HR/?tag=tolees-21) con 56.69 de descuento por 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

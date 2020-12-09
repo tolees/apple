@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ3ZGHL
 description:
 actualPrice: 28.58 EUR
+currency: EUR
+price: 28.58
 comparePrice: 96.98 EUR
 inStock: true
+prodname: '87 en 1 kit Destornillador de precisión  magnético  accewit herramienta de reparación Kits para teléfono portátil  iPhone  iPad  reloj  Tablet  PC  ordenador portátil Macbook profesionales  amarillo '
 ---
 
 Tienes [87 en 1 kit Destornillador de precisión  magnético  accewit herramienta de reparación Kits para teléfono portátil  iPhone  iPad  reloj  Tablet  PC  ordenador portátil Macbook profesionales  amarillo ](https://www.amazon.es/dp/B07DJ3ZGHL/?tag=tolees-21) con un 70.53 % de descuento con precio de oferta de 28.58 EUR (original: 96.98 EUR) en el siguiente enlace!

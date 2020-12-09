@@ -10,8 +10,11 @@ author: ring
 slug: B07JXVKHD2
 description:
 actualPrice: 7.01 EUR
+currency: EUR
+price: 7.01
 comparePrice: 49 EUR
 inStock: true
+prodname: 'DAM. DMX190GR. Correa De Silicona para Apple Watch 42Mm / 44Mm. Broche Metálico  7 Posiciones. Compatible Series 1  2  3  Y 4. Gris'
 ---
 
 Ahora mismo tienes [DAM. DMX190GR. Correa De Silicona para Apple Watch 42Mm / 44Mm. Broche Metálico  7 Posiciones. Compatible Series 1  2  3  Y 4. Gris](https://www.amazon.es/dp/B07JXVKHD2/?tag=tolees-21) a 7.01 EUR (original: 49 EUR) (85.69 %  de descuento) en el siguiente enlace!

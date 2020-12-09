@@ -10,8 +10,11 @@ author: ring
 slug: B07DPDD5PH
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 22.99 EUR
 inStock: true
+prodname: 'Auricular Bluetooth estéreo inalámbrico HiFi con manos libres para iPhone  Android  PC  Plegable/Ligero '
 ---
 
 Está [Auricular Bluetooth estéreo inalámbrico HiFi con manos libres para iPhone  Android  PC  Plegable/Ligero ](https://www.amazon.es/dp/B07DPDD5PH/?tag=tolees-21) con 56.55 de descuento por 9.99 EUR (original: 22.99 EUR) en el siguiente enlace!

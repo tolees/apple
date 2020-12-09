@@ -10,8 +10,11 @@ author: ring
 slug: B07GLRYLYV
 description:
 actualPrice: 42.99 EUR
+currency: EUR
+price: 42.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: 'LifeProof Frē - Funda estanca y Anti caídas para iPhone XS  Lila'
 ---
 
 Tienes [LifeProof Frē - Funda estanca y Anti caídas para iPhone XS  Lila](https://www.amazon.es/dp/B07GLRYLYV/?tag=tolees-21) con un 46.26 % de descuento con precio de oferta de 42.99 EUR (original: 79.99 EUR) en el siguiente enlace!

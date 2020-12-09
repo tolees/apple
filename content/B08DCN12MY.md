@@ -10,8 +10,11 @@ author: ring
 slug: B08DCN12MY
 description:
 actualPrice: 9.79 EUR
+currency: EUR
+price: 9.79
 comparePrice: 13.99 EUR
 inStock: true
+prodname: 'Cargador Coche Carga rapida 39W [QC 3.0] RAMPOW  Cargador Coche USB 12V / 2.4A Cargador móvil Coche con Doble Puerto para iPhone  iPad  Samsung  LG  HTC  Sony  Huawei  Xiaomi - Negro'
 ---
 
 Está [Cargador Coche Carga rapida 39W [QC 3.0] RAMPOW  Cargador Coche USB 12V / 2.4A Cargador móvil Coche con Doble Puerto para iPhone  iPad  Samsung  LG  HTC  Sony  Huawei  Xiaomi - Negro](https://www.amazon.es/dp/B08DCN12MY/?tag=tolees-21) con 30.02 de descuento por 9.79 EUR (original: 13.99 EUR) en el siguiente enlace!
