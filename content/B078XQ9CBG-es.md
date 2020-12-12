@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.20 % en Bovon - Soporte Móvil Multiángulo  Ajust'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41xQTNctmGL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41xQTNctmGL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41xQTNctmGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Bovon - Soporte Móvil Multiángulo  Ajustable para iPad Mini  Base de Teléfono e Smartphones  E-reader  libros electrónicos  4-7.9 pulgadas  Gris'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078XQ9CBG/?tag=tolees-21'
+descuento: '41.20'
+titulo: 'Bovon - Soporte Móvil Multiángulo  Ajust'
 ---
 
 Tienes [Bovon - Soporte Móvil Multiángulo  Ajustable para iPad Mini  Base de Teléfono e Smartphones  E-reader  libros electrónicos  4-7.9 pulgadas  Gris](https://www.amazon.es/dp/B078XQ9CBG/?tag=tolees-21) con un 41.20 % de descuento con precio de oferta de 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!

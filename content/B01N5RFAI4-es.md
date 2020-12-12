@@ -3,6 +3,7 @@ layout: post
 title: 'CHOETECH Cable USB C a DisplayPort 4K@60 al 36.57 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41dGYRSN9DL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41dGYRSN9DL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41dGYRSN9DL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23 EUR
 inStock: true
 prodname: 'CHOETECH Cable USB C a DisplayPort 4K@60HZ  USB 3.1 Tipo C a DP Cable Compatible con iPad Pro/Macbook Air 2018  MacBook Pro 2018  Galaxy Note 9/S9/S8/S8 Plus Huawei Mate 20 Pro/Mate 20/P20 1.2M '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01N5RFAI4/?tag=tolees-21'
+descuento: '36.57'
+titulo: 'CHOETECH Cable USB C a DisplayPort 4K@60'
 ---
 
 Está [CHOETECH Cable USB C a DisplayPort 4K@60HZ  USB 3.1 Tipo C a DP Cable Compatible con iPad Pro/Macbook Air 2018  MacBook Pro 2018  Galaxy Note 9/S9/S8/S8 Plus Huawei Mate 20 Pro/Mate 20/P20 1.2M ](https://www.amazon.es/dp/B01N5RFAI4/?tag=tolees-21) con 36.57 de descuento por 14.59 EUR (original: 23 EUR) en el siguiente enlace!

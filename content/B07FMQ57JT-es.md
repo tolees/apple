@@ -3,6 +3,7 @@ layout: post
 title: 'fitpolo Relojes Inteligente Mujer/Hombre al 40.00 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41BLYIeP9BL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41BLYIeP9BL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41BLYIeP9BL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 44.98 EUR
 inStock: true
 prodname: 'fitpolo Relojes Inteligente Mujer/Hombre/Niño  Pulsera de Actividad con Pulsómetro Pulsera  Deporte Reloj fit Podometro Monitor de sueño smartwatch Impermeable IP67 para iPhone Android Púrpura '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FMQ57JT/?tag=tolees-21'
+descuento: '40.00'
+titulo: 'fitpolo Relojes Inteligente Mujer/Hombre'
 ---
 
 Está [fitpolo Relojes Inteligente Mujer/Hombre/Niño  Pulsera de Actividad con Pulsómetro Pulsera  Deporte Reloj fit Podometro Monitor de sueño smartwatch Impermeable IP67 para iPhone Android Púrpura ](https://www.amazon.es/dp/B07FMQ57JT/?tag=tolees-21) con 40.00 de descuento por 26.99 EUR (original: 44.98 EUR) en el siguiente enlace!

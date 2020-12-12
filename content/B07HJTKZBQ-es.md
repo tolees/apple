@@ -3,6 +3,7 @@ layout: post
 title: 'READ Tezer Bluetooth Headset - Mini Auri al 55.35 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41OBXZMUb6L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41OBXZMUb6L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41OBXZMUb6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.3 EUR
 inStock: true
 prodname: 'READ Tezer Bluetooth Headset - Mini Auriculares Bluetooth V5.0 Wireless Auricular Invisible en oído Headset Audio Sport Kit  para iPhone X 8 7 6 S 6 + iPad Samsung S8 +  note8  S9 S9+  Black   Black '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07HJTKZBQ/?tag=tolees-21'
+descuento: '55.35'
+titulo: 'READ Tezer Bluetooth Headset - Mini Auri'
 ---
 
 Está [READ Tezer Bluetooth Headset - Mini Auriculares Bluetooth V5.0 Wireless Auricular Invisible en oído Headset Audio Sport Kit  para iPhone X 8 7 6 S 6 + iPad Samsung S8 +  note8  S9 S9+  Black   Black ](https://www.amazon.es/dp/B07HJTKZBQ/?tag=tolees-21) con 55.35 de descuento por 39.87 EUR (original: 89.3 EUR) en el siguiente enlace!

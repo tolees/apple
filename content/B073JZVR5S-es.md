@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 79.29 % en SanDisk - Base iXpand de 64 GB  para Car'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Ug2El6ZBL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Ug2El6ZBL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Ug2El6ZBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 78.99 EUR
 inStock: true
 prodname: 'SanDisk - Base iXpand de 64 GB  para Cargar iPhone y Hacer copias de Seguridad de su Contenido'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B073JZVR5S/?tag=tolees-21'
+descuento: '79.29'
+titulo: 'SanDisk - Base iXpand de 64 GB  para Car'
 ---
 
 Tienes [SanDisk - Base iXpand de 64 GB  para Cargar iPhone y Hacer copias de Seguridad de su Contenido](https://www.amazon.es/dp/B073JZVR5S/?tag=tolees-21) con un 79.29 % de descuento con precio de oferta de 16.36 EUR (original: 78.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Apple iPhone 6s  de 32GB  - Gris espacia al 26.54 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/31AK1aeJfQL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/31AK1aeJfQL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/31AK1aeJfQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 407 EUR
 inStock: true
 prodname: 'Apple iPhone 6s  de 32GB  - Gris espacial'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B01LYT6SRC/?tag=tolees-21'
+descuento: '26.54'
+titulo: 'Apple iPhone 6s  de 32GB  - Gris espacia'
 ---
 
 Está [Apple iPhone 6s  de 32GB  - Gris espacial](https://www.amazon.es/dp/B01LYT6SRC/?tag=tolees-21) con 26.54 de descuento por 299 EUR (original: 407 EUR) en el siguiente enlace!

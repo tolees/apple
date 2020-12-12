@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.55 % en Auricular Bluetooth estéreo inalámbrico '
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41Cp50wZIoL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41Cp50wZIoL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41Cp50wZIoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 22.99 EUR
 inStock: true
 prodname: 'Auricular Bluetooth estéreo inalámbrico HiFi con manos libres para iPhone  Android  PC  Plegable/Ligero '
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07DPDD5PH/?tag=tolees-21'
+descuento: '56.55'
+titulo: 'Auricular Bluetooth estéreo inalámbrico '
 ---
 
 Tienes [Auricular Bluetooth estéreo inalámbrico HiFi con manos libres para iPhone  Android  PC  Plegable/Ligero ](https://www.amazon.es/dp/B07DPDD5PH/?tag=tolees-21) con un 56.55 % de descuento con precio de oferta de 9.99 EUR (original: 22.99 EUR) en el siguiente enlace!

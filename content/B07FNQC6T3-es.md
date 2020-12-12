@@ -3,6 +3,7 @@ layout: post
 title: 'SAWAKE Soporte Móvil Coche  Tablero del  al 61.55 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/519A4ZjUfXL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/519A4ZjUfXL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/519A4ZjUfXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.98 EUR
 inStock: true
 prodname: 'SAWAKE Soporte Móvil Coche  Tablero del Mesa  Soporte Teléfono  HUD  Soporte para Teléfono Universal Compatible Todos Coches para iPhone Samsung Sony Huawei Xiaomi  Oneplus e GPS 3.5" a6.5'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07FNQC6T3/?tag=tolees-21'
+descuento: '61.55'
+titulo: 'SAWAKE Soporte Móvil Coche  Tablero del '
 ---
 
 Está [SAWAKE Soporte Móvil Coche  Tablero del Mesa  Soporte Teléfono  HUD  Soporte para Teléfono Universal Compatible Todos Coches para iPhone Samsung Sony Huawei Xiaomi  Oneplus e GPS 3.5" a6.5](https://www.amazon.es/dp/B07FNQC6T3/?tag=tolees-21) con 61.55 de descuento por 9.99 EUR (original: 25.98 EUR) en el siguiente enlace!

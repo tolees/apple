@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en iPad 9.7 2017/2018 Funda de teclado  Bes'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51EEaZbxd2L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51EEaZbxd2L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51EEaZbxd2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'iPad 9.7 2017/2018 Funda de teclado  Besmall teclado inalámbrico Bluetooth con cuero de la PU cubierta Para Nuevo Apple iPad 9.7 Lanzado en 2017/2018  iPad Air 1/2  iPad Pro 9.7- Púrpura'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B07CNYQK2N/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'iPad 9.7 2017/2018 Funda de teclado  Bes'
 ---
 
 Tienes [iPad 9.7 2017/2018 Funda de teclado  Besmall teclado inalámbrico Bluetooth con cuero de la PU cubierta Para Nuevo Apple iPad 9.7 Lanzado en 2017/2018  iPad Air 1/2  iPad Pro 9.7- Púrpura](https://www.amazon.es/dp/B07CNYQK2N/?tag=tolees-21) con un 33.34 % de descuento con precio de oferta de 25.99 EUR (original: 38.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Auriculares Bluetooth Cascos inálambrico al 51.44 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41igbUbYWzL._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/41igbUbYWzL._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41igbUbYWzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Auriculares Bluetooth Cascos inálambrico  Mixcder Auriculares Inalámbricos Bluetooth con Micrófono  20 horas de juego  Cascos Bluetooth Audio de Alta Fidelidad y HiFi  para iPhone Samsung Huawei  etc'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B06W9JCH4X/?tag=tolees-21'
+descuento: '51.44'
+titulo: 'Auriculares Bluetooth Cascos inálambrico'
 ---
 
 Está [Auriculares Bluetooth Cascos inálambrico  Mixcder Auriculares Inalámbricos Bluetooth con Micrófono  20 horas de juego  Cascos Bluetooth Audio de Alta Fidelidad y HiFi  para iPhone Samsung Huawei  etc](https://www.amazon.es/dp/B06W9JCH4X/?tag=tolees-21) con 51.44 de descuento por 33.99 EUR (original: 69.99 EUR) en el siguiente enlace!

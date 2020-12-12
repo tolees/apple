@@ -3,6 +3,7 @@ layout: post
 title: 'Transmisor FM Coche Bluetooth  Chuangmei al 33.34 % de descuento'
 date: 
 thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/51jyV4KRE5L._SL200_.jpg'
+image: 'https://images-eu.ssl-images-amazon.com/images/I/51jyV4KRE5L._SL200_.jpg'
 images: [ 'https://images-eu.ssl-images-amazon.com/images/I/51jyV4KRE5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 32.99 EUR
 inStock: true
 prodname: 'Transmisor FM Coche Bluetooth  Chuangmeida Wireless coche FM transmisor Radio adaptador cargador de coche con doble Puertos USB/AUX  coche Kit con llamadas manos libres para iPhone X 8  Samsung'
 country: 'es'
+buyurl: 'https://www.amazon.es/dp/B078DZPP85/?tag=tolees-21'
+descuento: '33.34'
+titulo: 'Transmisor FM Coche Bluetooth  Chuangmei'
 ---
 
 Está [Transmisor FM Coche Bluetooth  Chuangmeida Wireless coche FM transmisor Radio adaptador cargador de coche con doble Puertos USB/AUX  coche Kit con llamadas manos libres para iPhone X 8  Samsung](https://www.amazon.es/dp/B078DZPP85/?tag=tolees-21) con 33.34 de descuento por 21.99 EUR (original: 32.99 EUR) en el siguiente enlace!
