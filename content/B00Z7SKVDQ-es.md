@@ -26,8 +26,8 @@ Ahora mismo tienes [Otterbox Performance Glass  Protector de Pantalla Cristal Te
 🔎:
 
 - Protege contra impactos
+- Conserva la nitidez y la brillantez de la pantalla
 - Compatible con determinadas fundas de OtterBox
 - Resistente a arañazos
-- Conserva la nitidez y la brillantez de la pantalla
 
 [Visítala!!!](https://www.amazon.es/dp/B00Z7SKVDQ/?tag=tolees-21)
