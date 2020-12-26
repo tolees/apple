@@ -25,13 +25,13 @@ Tienes [Apple iPad Pro  12 9 pulgadas y 256 GB con Wi-Fi + Cellular  - Plata  Mo
 
 🔎:
 
+- Face ID para autenticarse de forma segura y usar Apple Pay
+- Hasta 10 horas de autonomía
 - Cuatro altavoces con sonido estéreo más amplio
 - Conector USB-C para cargar y conectar accesorios
-- iOS 12 con FaceTime de grupo, experiencias compartidas de realidad aumentada, Tiempo de Uso y mucho más
 - Wi-Fi 802.11ac y 4G LTE Advanced
-- Hasta 10 horas de autonomía
-- Face ID para autenticarse de forma segura y usar Apple Pay
 - Cámara trasera de 12 Mpx y cámara frontal TrueDepth de 7 Mpx
 - Chip A10X Bionic con Neural Engine
+- iOS 12 con FaceTime de grupo, experiencias compartidas de realidad aumentada, Tiempo de Uso y mucho más
 
 [Comprar!!!](https://www.amazon.es/dp/B072KH9BCM/?tag=tolees-21)
