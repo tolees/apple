@@ -26,8 +26,8 @@ Tienes [Incase Icon Sleeve - Funda Protectora para Apple MacBook Gris Oscuro](ht
 ℹ️:
 
 - Protección lateral completa para su MacBook. El marco de tensores amortiguador protege cada lado y ofrece la máxima protección contra impactos con el mínimo peso.
-- La funda se compone de Woolenex, una mezcla de lana y poliéster que repele la humedad, el moho y los productos químicos.
 - El cierre magnético seguro evita que el polvo y la suciedad se deslicen. En el interior protege su Apple MacBook.
+- La funda se compone de Woolenex, una mezcla de lana y poliéster que repele la humedad, el moho y los productos químicos.
 - La funda protectora está tejida tanto de poliéster 300D como de 600D y mantiene una forma delgada y ligera con la alta resistencia a la tracción de nailon balístico.
 - Compatible con el Apple MacBook Pro de 15,4" (Thunderbolt 3 - con Touchbar) - Late 2016, mediados de 2017, mediados de 2018.
 
