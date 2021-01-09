@@ -25,15 +25,15 @@ Tienes [Apple AirPods con estuche de carga inalámbrica](https://www.amazon.es/d
 
 ℹ️:
 
-- Conexión inalámbrica más rápida con tus dispositivos gracias al nuevo chip h1 de apple
-- Acceso rápido a siri con solo decir «oye siri»
-- Sonido y voz de alta calidad
-- El estuche se puede cargar sin cables mediante una base de carga compatible con la tecnología qi o utilizando el conector lightning
-- Cambio fácil de un dispositivo a otro
 - Se cargan rápidamente en el estuche
-- El estuche de carga inalámbrica te da para varias cargas y más de 24 horas de uso
-- Activación y conexión automáticas
-- Toca dos veces para reproducir audio o cambiar de canción
+- Acceso rápido a siri con solo decir «oye siri»
+- Conexión inalámbrica más rápida con tus dispositivos gracias al nuevo chip h1 de apple
+- Sonido y voz de alta calidad
 - Configuración sencilla para todos tus dispositivos apple
+- Activación y conexión automáticas
+- El estuche de carga inalámbrica te da para varias cargas y más de 24 horas de uso
+- El estuche se puede cargar sin cables mediante una base de carga compatible con la tecnología qi o utilizando el conector lightning
+- Toca dos veces para reproducir audio o cambiar de canción
+- Cambio fácil de un dispositivo a otro
 
 [Accede a la oferta!!](https://www.amazon.es/dp/B07PZRD7C5/?tag=tolees-21)
