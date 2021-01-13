@@ -25,8 +25,8 @@ Está [Sony MDR-Zx110Apb - Auriculares para Smartphone  Diadema  Mando de Contro
 
 ℹ️:
 
-- Rango de frecuencia de 12 Hz a 22 kHz
 - Diafragmas tipo cúpula de 30 mm
+- Rango de frecuencia de 12 Hz a 22 kHz
 - Diseño ligero para la máxima comodidad
 - Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados.
 
