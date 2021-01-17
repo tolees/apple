@@ -25,12 +25,12 @@ En este momento está [Apple Funda Leather Case  para el iPhone 11 Pro Max  - Ve
 
 🔎:
 
-- Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
 - Además, puedes dejar la funda siempre puesta, incluso durante la carga inalámbrica.
-- Los botones de aluminio combinan a la perfección con el acabado de la piel, y el forro de microfibra protege el iPhone.
-- Estas fundas diseñadas por Apple se adaptan perfectamente a las curvas del iPhone sin abultar nada.
 - Para el iPhone 11 Pro Max
-- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
+- Estas fundas diseñadas por Apple se adaptan perfectamente a las curvas del iPhone sin abultar nada.
+- Los botones de aluminio combinan a la perfección con el acabado de la piel, y el forro de microfibra protege el iPhone.
 - Están fabricadas en piel europea curtida y teñida con un proceso especial, son suaves al tacto y adquieren un tono natural con el tiempo.
+- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
+- Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XQRK3BR/?tag=tolees-21)
