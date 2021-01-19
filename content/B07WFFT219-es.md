@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WFFT219-es GVDV Funda de portátil de Fieltro de 13 3 Pulgadas...'
-tags: [ tole.es, ipad ]
+tags: [ 'tole.es','ipad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

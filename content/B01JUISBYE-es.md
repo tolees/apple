@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JUISBYE-es JETech Protector Pantalla compatible iPad 9 7 Pulgadas...'
-tags: [ tole.es, ipad ]
+tags: [ 'tole.es','ipad', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

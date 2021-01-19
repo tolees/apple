@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVJ3QLQ-es Kaisi Kit Herramienta movil Destornillador Apertura de...'
-tags: [ tole.es, ipad, iphone ]
+tags: [ 'tole.es','ipad','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

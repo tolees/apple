@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0X3NL5-es Anker PowerCore Speed 20000 Cargador Móvil Portátil rápido...'
-tags: [ tole.es, ipad, iphone ]
+tags: [ 'tole.es','ipad','iphone', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

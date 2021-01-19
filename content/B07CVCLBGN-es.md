@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVCLBGN-es Tryone Soporte Tablet Móvil Multiángulo - Soporte con...'
-tags: [ tole.es, ipad ]
+tags: [ 'tole.es','ipad', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

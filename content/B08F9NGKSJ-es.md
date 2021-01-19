@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F9NGKSJ-es Auriculare/Auriculares Auriculares Cableados En El Ruido...'
-tags: [ tole.es, iphone ]
+tags: [ 'tole.es','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GKPW4G-es KEEHOM Funda Impermeable Universal 2 Unidades Bolsa para...'
-tags: [ tole.es, iphone ]
+tags: [ 'tole.es','iphone', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00W4ZLZP8-es JETech Funda Compatible iPad Pro 12 9 Modelo 2015 y 2017...'
-tags: [ tole.es, ipad ]
+tags: [ 'tole.es','ipad', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0833WRHBN-es 61w USB-C Power Adapter Mac Charger Compatible con Macbook...'
-tags: [ tole.es, ipad ]
+tags: [ 'tole.es','ipad', ]
 actualPrice: 34.68 EUR
 currency: EUR
 price: 34.68

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9PZ3TN-es Befekt Gears Riñonera Deportiva Riñonera Running Mujer...'
-tags: [ tole.es, iphone ]
+tags: [ 'tole.es','iphone', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

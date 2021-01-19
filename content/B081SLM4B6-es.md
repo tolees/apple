@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081SLM4B6-es Brazalete Deportivo para Correr Brazalete Móvil Deportivo...'
-tags: [ tole.es, iphone ]
+tags: [ 'tole.es','iphone', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

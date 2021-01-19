@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSQ3VSW-es Soporte Portatil Laptop Stand Aluminio Ventilado...'
-tags: [ tole.es, ipad ]
+tags: [ 'tole.es','ipad', ]
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

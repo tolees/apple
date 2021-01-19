@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08269FVYD-es Adaptador de cámara USB Adaptador OTG Hembra USB...'
-tags: [ tole.es, iphone ]
+tags: [ 'tole.es','iphone', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

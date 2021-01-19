@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013WBOPWW-es Sostenedor para télefono móvil Breett soporte universal de...'
-tags: [ tole.es, iphone ]
+tags: [ 'tole.es','iphone', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

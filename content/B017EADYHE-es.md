@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B017EADYHE-es JETech 0902- Protector de Pantalla para iPad Pro 12 9...'
-tags: [ tole.es, ipad ]
+tags: [ 'tole.es','ipad', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

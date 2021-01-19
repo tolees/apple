@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XZH8SKF-es JETech Funda para iPad 9 7 Pulgadas 2018/2017 Modelo 6ª /...'
-tags: [ tole.es, ipad ]
+tags: [ 'tole.es','ipad', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

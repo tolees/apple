@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07258ZQTZ-es DETUOSI Funda iPad 9.7 2017 Ultra Slim Fundas iPad 9.7...'
-tags: [ tole.es, apple, ipad ]
+tags: [ 'tole.es','apple','ipad', ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

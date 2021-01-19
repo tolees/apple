@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WLWZRBG-es UGREEN Cable USB C a USB C Cable PD 60W 20V / 3A Carga...'
-tags: [ tole.es, ipad ]
+tags: [ 'tole.es','ipad', ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7
