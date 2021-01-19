@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074N8HDGL-es Apple iPhone 7 - Smartphone de 32 GB Color Rosa...'
-tags: [ 'tole.es','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ5G6DK-es JETech Funda para iPad Air Carcasa con Soporte Función...'
-tags: [ 'tole.es','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

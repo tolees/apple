@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRGXCPJ-es Fintie Funda para iPad 2018/2017 - Trasera Transparente...'
-tags: [ 'tole.es','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

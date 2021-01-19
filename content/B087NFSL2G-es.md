@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087NFSL2G-es Tapa Webcam 8 Piezas Cubierta Camara Portatil KIWI design...'
-tags: [ 'tole.es','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

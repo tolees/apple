@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072KZQHMD-es Fintie Funda para iPad 4/3 / 2 - [Protección de Esquina]...'
-tags: [ 'tole.es','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

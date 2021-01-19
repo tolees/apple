@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF8QGW7-es Ringke Soporte para Portátil [Negro] Soporte Adhesivo...'
-tags: [ 'tole.es','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
