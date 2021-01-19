@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ncb2UACML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQ6QBSR-es OMOTON Teclado Bluetooth Español Compatible con Sistema de iOS/iPadOS  iPad Pro 12.9 2020 / iPad Pro/iPad Air/iPad Mini  No Sirve para iMac  Macbook - Color Rosa'
+slug: 'B07XQ6QBSR-es OMOTON Teclado Bluetooth Español Compatible con Sistema de...'
+tags: ipad
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

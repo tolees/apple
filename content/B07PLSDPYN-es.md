@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41it4oNyTOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PLSDPYN-es UGREEN Cable USB C a USB C  Cable PD 20V 3A 60W Carga Rápida USB Tipo C para Macbook Pro 16   2019  iMac  iPad Pro 2020  Nexus 5X 6P  Samsung S20 S10  Huawei P40 P30 P20 Lite  Xiaomi Mi 10  1 Metro '
+slug: 'B07PLSDPYN-es UGREEN Cable USB C a USB C Cable PD 20V 3A 60W Carga...'
+tags: ipad
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

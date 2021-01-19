@@ -6,7 +6,8 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41-Xow%2BkDDL._SL200_.j
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y7SPHLB-es 【Última Versión】 Auriculares Inalambricos Deporte Bluetooth 5.0  AXLOIE Audífonos Bluetooth Impermeable IPX7 Estéreo Auténticos Sonido Hi-Fi 25 Horas Autonomía para iPhone Samsung Huawei Tableta etc'
+slug: 'B07Y7SPHLB-es 【Última Versión】 Auriculares Inalambricos Deporte...'
+tags: iphone
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

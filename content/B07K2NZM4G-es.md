@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21MixoTYZQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2NZM4G-es Apple Mac mini  Modelo Anterior  8GB RAM  256GB de almacenamiento '
+slug: 'B07K2NZM4G-es Apple Mac mini Modelo Anterior 8GB RAM 256GB de...'
+tags: apple
 actualPrice: 949.0 EUR
 currency: EUR
 price: 949.0

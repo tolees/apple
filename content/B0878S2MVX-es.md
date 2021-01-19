@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o9+oogmHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0878S2MVX-es Kdely Cable USB C to HDMI 4K@60Hz  Adaptador Tipo C a HDMI para iPad Pro/Macbook Air 2019/2018/Macbook Pro 2020/2019/iMac/Samsung S20/S10/S9/S8/Note 10/9/8/Huawei P40 Pro/P30 Pro/P20 Pro/Mate20 Pro'
+slug: 'B0878S2MVX-es Kdely Cable USB C to HDMI 4K@60Hz Adaptador Tipo C a HDMI...'
+tags: ipad
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

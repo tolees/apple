@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WTKa3stwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YDC779T-es ROCONTRIP Estuche de Silicona con Cuello Ajustable y Soporte para Anillo para teléfonos Inteligentes de 4.7-6.5"para iPhone 11  X  8.7.6S Galaxy  Huawei  Gris '
+slug: 'B07YDC779T-es ROCONTRIP Estuche de Silicona con Cuello Ajustable y...'
+tags: iphone
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

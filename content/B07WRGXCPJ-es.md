@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61tKK4xgEFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRGXCPJ-es Fintie Funda para iPad 2018/2017 - Trasera Transparente Carcasa Ligera con Función de Soporte y Auto-Reposo/Activación para iPad 5.ª / 6.ª Generación 9 7 Pulgadas  Festival de Flores'
+slug: 'B07WRGXCPJ-es Fintie Funda para iPad 2018/2017 - Trasera Transparente...'
+tags: ipad
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

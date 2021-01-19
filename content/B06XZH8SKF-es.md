@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jvbi-CvHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XZH8SKF-es JETech Funda para iPad  9 7 Pulgadas  2018/2017 Modelo  6ª / 5ª generación   Carcasa con Auto-Sueño/Estela  Negro'
+slug: 'B06XZH8SKF-es JETech Funda para iPad 9 7 Pulgadas 2018/2017 Modelo 6ª /...'
+tags: ipad
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

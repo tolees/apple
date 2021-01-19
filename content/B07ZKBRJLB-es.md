@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gd7xKmOoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZKBRJLB-es Voova Funda Portátil 11 11.6 12 Pulgadas Impermeable para Computadora de Múltiples Bolsillos  Compatible con MacBook Air Chromebook Surface ProX/7/6/5/4/3  iPad Pro 12.9 con Asa  Negro '
+slug: 'B07ZKBRJLB-es Voova Funda Portátil 11 11.6 12 Pulgadas Impermeable para...'
+tags: ipad
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

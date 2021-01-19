@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X2ktHQsNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089DGQ1TT-es PIPIKA Cable Cargador iPhone  [2pack-1.8M] MFI Cable Lightning Carga Rápida Trenzado de Nylon Cargador iPhone Compatible con iPhone 11 Pro MAX XR XS MAX X 10 8 7 6s 6 Plus 5s 5 SE  iPad iPod'
+slug: 'B089DGQ1TT-es PIPIKA Cable Cargador iPhone [2pack-1.8M] MFI Cable...'
+tags: ipad, iphone, ipod
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

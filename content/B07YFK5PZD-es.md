@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21VJ5wKrbGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YFK5PZD-es UGREEN Cargador USB C 30W  Cargador Carga Rapida Power Delivery 3.0  Cargador Pared USB C Quick Charge QC 3.0 para Xiaomi Mi 9 Redmi Note 8 iPhone 9 11 XS XR 8 iPad Pro 2020 Macbook 12” Samsung S20'
+slug: 'B07YFK5PZD-es UGREEN Cargador USB C 30W Cargador Carga Rapida Power...'
+tags: ipad, iphone
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

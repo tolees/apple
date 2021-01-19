@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LW0mQF0UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9X6G9M-es Logitech Slim Folio Funda para iPad con Teclado Bluetooth  iPad 5a & 6a Generation  A1893  A1954  A1822  A1823   14 Teclas de Acceso Directo de iOs  Batería   Disposición QWERTY Español'
+slug: 'B07F9X6G9M-es Logitech Slim Folio Funda para iPad con Teclado Bluetooth...'
+tags: ipad
 actualPrice: 83.66 EUR
 currency: EUR
 price: 83.66

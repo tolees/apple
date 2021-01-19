@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HSKI9dWGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016MOI1XK-es Soundcore de Anker Altavoces Bluetooth con sonido estéreo potente  24 horas de reproducción  alcance de Bluetooth de 20 metros y micrófono integrado. Altavoz inalámbrico portátil  ideal para iPhone  Samsung y muchos dispositivos más'
+slug: 'B016MOI1XK-es Soundcore de Anker Altavoces Bluetooth con sonido estéreo...'
+tags: iphone
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vg1+RhCiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5CYWT2-es Soporte de Escritorio para iPad  tabletas  lectores electrónicos  teléfonos móviles  Kindles  Paquete de 8 Unidades  tamaño Universal  Plegable  Colorido  portátil  Modelo V'
+slug: 'B07H5CYWT2-es Soporte de Escritorio para iPad tabletas lectores...'
+tags: ipad
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

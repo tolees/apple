@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410uZL9QUaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0863SCGNT-es Nuevo Apple iPad Pro  de 11 Pulgadas  con Wi-Fi + Cellular y 1 TB  - Plata  2.ª generación '
+slug: 'B0863SCGNT-es Nuevo Apple iPad Pro de 11 Pulgadas con Wi-Fi + Cellular y...'
+tags: apple, ipad
 actualPrice: 1350.01 EUR
 currency: EUR
 price: 1350.01

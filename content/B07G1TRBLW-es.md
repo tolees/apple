@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3178Z-hvbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G1TRBLW-es Belkin Boost Charge 10K - Batería externa con conector Lightning + cable Lightning  cargador portátil de 10000 mAh para iPhone 11  11 Pro/Pro Max  XS  XS Max  XR  X  SE  8  7  6  5 y iPad   negro'
+slug: 'B07G1TRBLW-es Belkin Boost Charge 10K - Batería externa con conector...'
+tags: ipad, iphone
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49

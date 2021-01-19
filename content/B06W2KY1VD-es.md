@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21UJWM8fRmL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W2KY1VD-es AUKEY Soporte Coche Móvil Magnetico  2 Pack  Salpicadero Soporte Teléfono Coche para iPhone 7 / 6s / 6 / 5s / 5  Samsung Note 8 / S8  Echo Dot  LG y Dispositivo GPS'
+slug: 'B06W2KY1VD-es AUKEY Soporte Coche Móvil Magnetico 2 Pack Salpicadero...'
+tags: iphone
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

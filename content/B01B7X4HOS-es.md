@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MXnI9ZdAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B7X4HOS-es Dimples Excel 2 in 1 Precisión Lápiz para Tactil Tablet iPad Pro Xiaomi Lenovo Huawei Windows Surface Pad Moviles'
+slug: 'B01B7X4HOS-es Dimples Excel 2 in 1 Precisión Lápiz para Tactil Tablet...'
+tags: ipad
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

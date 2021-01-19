@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tZiT9f3tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH5F1X8-es UGREEN Cable Cargador iPhone 90 Grados Cable Lightning Apple MFI Certificado Nylon Trenzado ángulo Recto para iPhone 11  11 Pro  XS  XS MAX  XR  X  8 Plus  7  6s  6 Plus  6S  iPad y Airpods  1 Metro '
+slug: 'B07QH5F1X8-es UGREEN Cable Cargador iPhone 90 Grados Cable Lightning...'
+tags: apple, ipad, iphone
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AVURmeUOL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WFFT219-es GVDV Funda de portátil de Fieltro de 13 3 Pulgadas antirrobo - Funda para computadora portátil Bolsa Compatible para MacBook Pro Retina/MacBook Air /12.9" iPad Pro  HP  ASUS  Acer  DELL  Lenovo'
+slug: 'B07WFFT219-es GVDV Funda de portátil de Fieltro de 13 3 Pulgadas...'
+tags: ipad
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

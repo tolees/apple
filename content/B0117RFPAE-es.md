@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315bgTACS8L._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0117RFPAE-es Bose® SoundSport ® - Auriculares in-ear para Apple  color Energy Green'
+slug: 'B0117RFPAE-es Bose® SoundSport ® - Auriculares in-ear para Apple color...'
+tags: apple
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

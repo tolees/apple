@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rDgYILCeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086VCWT35-es UGREEN Cable USB C a USB C con PD 60W 20V/ 3A Carga Rápida  4K 60HZ Tipo C Compatible Thunderbolt 3 para Macbook Pro  Macbook Air  iPad Pro 2020  Huawei P40 P30 P20  Nexus 5X  Samsung S20  2Metros '
+slug: 'B086VCWT35-es UGREEN Cable USB C a USB C con PD 60W 20V/ 3A Carga Rápida...'
+tags: ipad
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

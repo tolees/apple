@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-ZqHiW+5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QPV9Z7X-es JETech Funda Compatible con iPad 8/7  10 2 Pulgadas  2020/2019 Modelo  8.ª/ 7.ª Generación   Carcasa con Auto-Sueño/Estela  Negro'
+slug: 'B07QPV9Z7X-es JETech Funda Compatible con iPad 8/7 10 2 Pulgadas...'
+tags: ipad
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

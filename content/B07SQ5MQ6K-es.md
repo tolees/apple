@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DMaLW1SJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQ5MQ6K-es Anker PowerCore Essential 20000 PD Batería Externa  20000mAh USB-C Power Bank con 18W Power Delivery  Enorme Capacidad  Compatible con iPhone 11/11 Pro / 11 Pro MAX / 8 / X/XR  Samsung y más'
+slug: 'B07SQ5MQ6K-es Anker PowerCore Essential 20000 PD Batería Externa...'
+tags: iphone
 actualPrice: 36.79 EUR
 currency: EUR
 price: 36.79

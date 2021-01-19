@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QczGGTFkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZP3M7B-es JETech Protector de Pantalla Compatible iPad Air 3  10 5 Pulgadas Modelo 2019  y iPad Pro 10 5  2017  Vidrio Templado'
+slug: 'B071ZP3M7B-es JETech Protector de Pantalla Compatible iPad Air 3 10 5...'
+tags: ipad
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

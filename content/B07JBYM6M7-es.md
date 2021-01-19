@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VT0X3cZaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JBYM6M7-es E EGOWAY - Batería de Repuesto para Apple MacBook Pro A1278 A1322  10 95 V  6000 mAh '
+slug: 'B07JBYM6M7-es E EGOWAY - Batería de Repuesto para Apple MacBook Pro...'
+tags: apple
 actualPrice: 64.59 EUR
 currency: EUR
 price: 64.59

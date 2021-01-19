@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ov3ezZmeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJZKRVL-es Sternitz Botella de Agua Hydra Acero Inoxidable con Aislamiento al vacio. Mantiene Tus Bebidas frías por 24 Horas y Calientes por 12 Horas. Water Bottle  Apple Red '
+slug: 'B07XJZKRVL-es Sternitz Botella de Agua Hydra Acero Inoxidable con...'
+tags: apple
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

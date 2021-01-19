@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G7QNL5kzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTK8X4M-es Hevanto Cargador Rápido Inalámbrico 7.5W Carga Inalambrica para iPhone 11/11 Pro/11 Pro MAX/XS MAX/XR/XS/X/8Plus/8 10W Cargador Inducción para Samsung S20/S10/Note10 15W MAX Output para LG V50/G7/G8'
+slug: 'B07ZTK8X4M-es Hevanto Cargador Rápido Inalámbrico 7.5W Carga Inalambrica...'
+tags: iphone
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

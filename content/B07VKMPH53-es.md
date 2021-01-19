@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QhjlEk8sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKMPH53-es UGREEN Cable USB Tipo C 90 Grados  Cable USB 2.0 a USB C Carga Rápida  Cable USB C Codo para Xiaomi Mi A2  A3  Redmi Note 7  Redmi Note 8 Pro  Pocophone  Samsung A50  iPad Pro 2020  2018  3 Metros '
+slug: 'B07VKMPH53-es UGREEN Cable USB Tipo C 90 Grados Cable USB 2.0 a USB C...'
+tags: ipad
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

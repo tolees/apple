@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FHhKtaJKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XPGTXQ8-es Macally ASTAND soporte de aluminio para portátiles Apple MacBook  MacBook Air  MacBook Pro y cualquier otro portátil de entre 10” y 17"'
+slug: 'B06XPGTXQ8-es Macally ASTAND soporte de aluminio para portátiles Apple...'
+tags: apple
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

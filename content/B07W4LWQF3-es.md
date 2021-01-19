@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31UQ3eP1etL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W4LWQF3-es Powerbeats Pro - Auriculares intraurales inalámbricos - Chip Apple H1  Bluetooth de Clase 1  9 horas de sonido ininterrumpido  resistentes al sudor - Azul Marino'
+slug: 'B07W4LWQF3-es Powerbeats Pro - Auriculares intraurales inalámbricos -...'
+tags: apple
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

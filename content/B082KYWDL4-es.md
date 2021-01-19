@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51o-gSv7lQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082KYWDL4-es ShellBox Fundas Impermeables Original iPhone 11 bajo el Agua  Prueba de Vida  A Prueba de choques  A Prueba de Polvo  Cubierta Protectora de Cuerpo Completo de 360 ° Protector de teléfono  Negro'
+slug: 'B082KYWDL4-es ShellBox Fundas Impermeables Original iPhone 11 bajo el...'
+tags: iphone
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

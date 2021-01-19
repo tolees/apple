@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GouFHupXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MG82ZN8-es UrbanX 12W Cargador Portátil USB Power Adapter y USB Cable Compatible con iPad Pro 9.7/10.5/12.9 Air 1/2 Mini 2/3/4 - con UK y US Intercambiables adaptadores  con Cable de 3 Metro '
+slug: 'B07MG82ZN8-es UrbanX 12W Cargador Portátil USB Power Adapter y USB Cable...'
+tags: ipad
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

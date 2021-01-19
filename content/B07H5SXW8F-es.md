@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Iex9P-lEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5SXW8F-es KNOK Funda Colgante movil con Cuerda para Colgar iPhone X/iPhone XS - Carcasa de móvil iPhone Samsung Huawei con Correa Colgante - con Cordon para Llevar en el Cuello'
+slug: 'B07H5SXW8F-es KNOK Funda Colgante movil con Cuerda para Colgar iPhone...'
+tags: iphone
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

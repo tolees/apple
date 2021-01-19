@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yqcVcXAmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WNPYSQQ-es ESR Funda para iPad 10.2  Inteligente Serie Yippee Trifold Funda para 7ª generación 2019  Carcasa Tríptica Ligera  Soporte Modo Escritura/Visualización  Tapa Trasera Rígida  Oro Rosa'
+slug: 'B07WNPYSQQ-es ESR Funda para iPad 10.2 Inteligente Serie Yippee Trifold...'
+tags: ipad
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

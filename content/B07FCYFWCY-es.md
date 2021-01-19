@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mEmVDEDFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FCYFWCY-es Logitech Slim Combo Funda para iPad con Teclado Inalámbrico Bluetooth Retroiluminado  para iPad  Modelos: A1893  A1954  A1822  A1823   Batería de Adecuada Duración  Español'
+slug: 'B07FCYFWCY-es Logitech Slim Combo Funda para iPad con Teclado...'
+tags: ipad
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

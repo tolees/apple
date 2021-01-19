@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PnS-driQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0828P3FWG-es Correa del Reloj Compatible con Apple Watch de 38mm 40mm 42mm 44mm  Pulsera para Reloj de Reemplazo de Acero Inoxidable con Imán para iWatch Series 5/4/3/2/1'
+slug: 'B0828P3FWG-es Correa del Reloj Compatible con Apple Watch de 38mm 40mm...'
+tags: apple
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

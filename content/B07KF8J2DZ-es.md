@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31U7YzoMKjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF8J2DZ-es Ringke Soporte para Portátil [Gris] Soporte Adhesivo Delgado y liviano  portátil y Antideslizante  Plegable y portátil para computadora portátil  iPad  Tableta y más'
+slug: 'B07KF8J2DZ-es Ringke Soporte para Portátil [Gris] Soporte Adhesivo...'
+tags: ipad
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

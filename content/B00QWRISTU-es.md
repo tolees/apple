@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ywQtyx27L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00QWRISTU-es JETech 3043 - Funda para iPad Air 2  Carcasa con Soporte Función  Auto-Sueño / Estela  Gris Oscuro'
+slug: 'B00QWRISTU-es JETech 3043 - Funda para iPad Air 2 Carcasa con Soporte...'
+tags: ipad
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

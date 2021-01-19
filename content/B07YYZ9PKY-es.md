@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pMoavQw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYZ9PKY-es Beats Solo Pro con cancelación de ruido - Auriculares supraaurales inalámbricos - Chip Apple H1  Bluetooth de Clase 1  22 horas de sonido ininterrumpido - Azul Claro'
+slug: 'B07YYZ9PKY-es Beats Solo Pro con cancelación de ruido - Auriculares...'
+tags: apple
 actualPrice: 228.0 EUR
 currency: EUR
 price: 228.0

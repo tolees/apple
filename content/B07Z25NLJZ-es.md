@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gybr0CzRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z25NLJZ-es Brinonac Pantalla para iPhone 8  4.7" Táctil LCD de Repuesto Ensamblaje de Marco Digitalizador con Herramienta de reparación y Protector de Pantalla  Blanco '
+slug: 'B07Z25NLJZ-es Brinonac Pantalla para iPhone 8 4.7" Táctil LCD de...'
+tags: iphone
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

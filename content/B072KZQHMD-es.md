@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515Or+EaU+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072KZQHMD-es Fintie Funda para iPad 4/3 / 2 - [Protección de Esquina] [Multiángulo] Carcasa con Bolsillo y Función de Soporte y Auto-Reposo/Activación  Negro'
+slug: 'B072KZQHMD-es Fintie Funda para iPad 4/3 / 2 - [Protección de Esquina]...'
+tags: ipad
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

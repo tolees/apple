@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RigKkf79L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DNTQF9A-es Leitz 44730001 - Cuaderno de notas  tamaño iPad  cuadriculado   color blanco'
+slug: 'B00DNTQF9A-es Leitz 44730001 - Cuaderno de notas tamaño iPad...'
+tags: ipad
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52
