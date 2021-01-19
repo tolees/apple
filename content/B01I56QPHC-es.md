@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I56QPHC-es Silver HT - Funda Universal con Teclado Micro USB Pixel...'
-tags: tole.es, ipad
+tags: [ tole.es, ipad ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

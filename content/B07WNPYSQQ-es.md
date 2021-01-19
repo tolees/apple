@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNPYSQQ-es ESR Funda para iPad 10.2 Inteligente Serie Yippee Trifold...'
-tags: tole.es, ipad
+tags: [ tole.es, ipad ]
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

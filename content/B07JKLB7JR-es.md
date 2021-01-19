@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKLB7JR-es Bateria Externa Movil 25000mAh Power Bank Cargador...'
-tags: tole.es, iphone
+tags: [ tole.es, iphone ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

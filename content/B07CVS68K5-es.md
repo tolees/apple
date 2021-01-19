@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVS68K5-es Aukey - Cargador USB C de 30 W cargador rápido portátil...'
-tags: tole.es, ipad, iphone
+tags: [ tole.es, ipad, iphone ]
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

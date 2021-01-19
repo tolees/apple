@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083QY2DC6-es HYGF Auriculares Bluetooth Auriculares inalámbricos 5.0...'
-tags: tole.es, apple
+tags: [ tole.es, apple ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

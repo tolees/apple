@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01G5KURYC-es Zolion® Laptop Stand solide haut de gamme simple en...'
-tags: tole.es, ipad
+tags: [ tole.es, ipad ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L7NPK28-es AUKEY Auriculares Bluetooth Inalámbricos Deportivos...'
-tags: tole.es, iphone
+tags: [ tole.es, iphone ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHK4G8P-es [Diseño LED Tacto] Altavoz Bluetooth XLEADER Altavoces...'
-tags: tole.es, ipad, iphone
+tags: [ tole.es, ipad, iphone ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

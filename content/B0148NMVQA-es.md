@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0148NMVQA-es Philips Hue White and Color Ambiance - Lightstrip Plus...'
-tags: tole.es, apple
+tags: [ tole.es, apple ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

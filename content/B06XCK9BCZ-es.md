@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCK9BCZ-es MoKo 4 PZS Lápiz Táctil Capacitiva Universal Digitales...'
-tags: tole.es, apple, iphone
+tags: [ tole.es, apple, iphone ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

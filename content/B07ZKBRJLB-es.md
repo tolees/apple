@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKBRJLB-es Voova Funda Portátil 11 11.6 12 Pulgadas Impermeable para...'
-tags: tole.es, ipad
+tags: [ tole.es, ipad ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

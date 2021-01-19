@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PXMF52C-es Anker PowerCore Slim 10000 Cargador portátil Ultrafino...'
-tags: tole.es, iphone
+tags: [ tole.es, iphone ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99
