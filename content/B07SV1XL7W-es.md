@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SV1XL7W-es Herefun 32 en 1 Juego de Destornilladores Mini Profesional...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R22YGPR-es Soporte Móvil Coche hanmir Soporte Móvil Coche para...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

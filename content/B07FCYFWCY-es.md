@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FCYFWCY-es Logitech Slim Combo Funda para iPad con Teclado...'
-tags: ipad
+tags: tole.es, ipad
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVCDXG7-es Tryone Flexible Soporte móvil Teléfono – Soporte con...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 9.76 EUR
 currency: EUR
 price: 9.76

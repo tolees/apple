@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9Z9N7H-es Guzack Brazalete Deportivo Brazalete Correr Móvil para...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

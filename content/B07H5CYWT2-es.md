@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5CYWT2-es Soporte de Escritorio para iPad tabletas lectores...'
-tags: ipad
+tags: tole.es, ipad
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

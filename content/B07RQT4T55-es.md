@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQT4T55-es Smartwatch Reloj Inteligente Impermeable IP68 Pulsera...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 33.11 EUR
 currency: EUR
 price: 33.11

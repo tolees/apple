@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y7SPHLB-es 【Última Versión】 Auriculares Inalambricos Deporte...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

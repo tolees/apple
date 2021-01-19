@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089DGQ1TT-es PIPIKA Cable Cargador iPhone [2pack-1.8M] MFI Cable...'
-tags: ipad, iphone, ipod
+tags: tole.es, ipad, iphone, ipod
 actualPrice: 5.09 EUR
 currency: EUR
 price: 5.09

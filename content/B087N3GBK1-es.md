@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087N3GBK1-es Cocoda Soporte Tablet Portátil Soporte iPad con Ajustable...'
-tags: ipad, iphone
+tags: tole.es, ipad, iphone
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1X5ZFV-es Anker PowerPort Mini Dual Cargador de Pared Ultracompacto...'
-tags: ipad, iphone
+tags: tole.es, ipad, iphone
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

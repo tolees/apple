@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KHQLL5B-es Auriculares Bluetooth Deportivos Syllable D15 Auriculares...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

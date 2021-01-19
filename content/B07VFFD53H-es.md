@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VFFD53H-es Beikell Cable de Audio Jack Cable Audio 3.5mm Macho Macho...'
-tags: ipad, iphone, ipod
+tags: tole.es, ipad, iphone, ipod
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

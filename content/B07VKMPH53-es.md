@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKMPH53-es UGREEN Cable USB Tipo C 90 Grados Cable USB 2.0 a USB C...'
-tags: ipad
+tags: tole.es, ipad
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

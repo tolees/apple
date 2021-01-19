@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087RLK1MY-es Auriculares Inalambricos 5.0 Auriculares Bluetooth In Ear...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

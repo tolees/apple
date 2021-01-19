@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6Y3FVY-es K&F Concept - Soporte Estabilizador de Smartphone para...'
-tags: apple, iphone
+tags: tole.es, apple, iphone
 actualPrice: 22.76 EUR
 currency: EUR
 price: 22.76

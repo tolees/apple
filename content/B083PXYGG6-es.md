@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083PXYGG6-es Adaptador USB C a HDMI VGA KOOPAO 2 en 1 Tipo C...'
-tags: ipad
+tags: tole.es, ipad
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

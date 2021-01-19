@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V1L8BN-es AUKEY Bateria Externa 20000mAh Cargador Portatil con 2...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

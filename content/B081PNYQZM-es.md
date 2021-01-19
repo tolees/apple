@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081PNYQZM-es Babacom Soporte Movil Coche Magnético 360 Grados Rotación...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

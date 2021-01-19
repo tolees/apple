@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BZP6TG9-es New Bee Cargador Inalámbrico 5W con Soporte Auriculares...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

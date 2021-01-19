@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H55Y8KB-es Cinturón de Correr Chuangmeida Riñonera Cinturón Running...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

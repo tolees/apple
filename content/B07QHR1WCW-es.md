@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QHR1WCW-es Huyeta Smartwatch Reloj Inteligente 5ATM Impermeable...'
-tags: iphone
+tags: tole.es, iphone
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DNTQF9A-es Leitz 44730001 - Cuaderno de notas tamaño iPad...'
-tags: ipad
+tags: tole.es, ipad
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

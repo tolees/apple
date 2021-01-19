@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00L5MLHIG-es doupi Deluxe Protección Funda para iPad Mini 1 2 3 Smart...'
-tags: ipad
+tags: tole.es, ipad
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRBL929-es Hossom Organizadores para Coche 2 pcs Kick Mats de Coche...'
-tags: ipad
+tags: tole.es, ipad
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69
