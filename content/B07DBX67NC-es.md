@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tER0mi8wL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBX67NC-es'
+slug: 'B07DBX67NC-es Anker Power Wave Ladepad  10 W Cargador inalámbrico  Qi de Certificado  Compatible con iPhone XS Max/XR/XS/X/8/8 Plus  10 W rápido Cargas  Samsung Galaxy S9/S9 +/S8/S8 + y Muchos más'
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

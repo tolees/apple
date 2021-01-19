@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OTRm1+0EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0842Y7XLH-es'
+slug: 'B0842Y7XLH-es Urban Armor Gear Maleta Universal para Apple MacBook Pro  Microsoft Surface Book 2 / Laptop 3 etc.  Cubierta Protectora Universal de hasta 15"  Bolsillo Interior  Lazo para la Mano  Negro'
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

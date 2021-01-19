@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NEJEVz-QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2RP83T-es'
+slug: 'B07K2RP83T-es Apple iPad Pro  11 pulgadas  Wi-Fi  512GB  - Gris Espacial  Modelo Anterior '
 actualPrice: 1045.0 EUR
 currency: EUR
 price: 1045.0

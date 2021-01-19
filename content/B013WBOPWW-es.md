@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aBl1cjgIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013WBOPWW-es'
+slug: 'B013WBOPWW-es Sostenedor para télefono móvil  Breett soporte universal de clip para el teléfono móvil Soporte perezoso flexible brazos largos para iPhone 6 plus/6/5s/5/4S/4  dispositivos de GPS'
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

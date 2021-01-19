@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sEDixr7gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L7NPK28-es'
+slug: 'B07L7NPK28-es AUKEY Auriculares Bluetooth Inalámbricos Deportivos  Auricular Impermeable  8 Horas Reproducción de Música  Micrófono Incorporado  para iPhone  Samsung  Huawei  Xiaomi ect'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

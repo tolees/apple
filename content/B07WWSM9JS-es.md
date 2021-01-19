@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CsSKdW4+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWSM9JS-es'
+slug: 'B07WWSM9JS-es ESR Funda para iPad 10.2  Inteligente Serie Rebound Slim para iPad 7a Generación 2019  Tapa Trasera de TPU Flexible. Modo Automático de Reposo/Actividad  Modo Escritura/Visualización  Oro Rosa'
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lFq+zIJeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078N3LHXS-es'
+slug: 'B078N3LHXS-es Yodoit para Pantalla iPhone 6s Plus Negro  Conjunto de Pantalla LCD y digitalizador Reemplazo de la Pantalla táctil de Vidrio con Marco + Kit de Herramientas de reparación  5 5 Pulgadas '
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

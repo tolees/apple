@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l6Mld-FCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PW7N4CB-es'
+slug: 'B07PW7N4CB-es UGREEN Cable USB Tipo C a Lightning Cable iPhone 11  Apple MFi Certificado  para iPhone SE 2020  iPhone X  iPhone XS  iPhone XR  iPhone 8  8 Plus  iPad Pro 10.5  iPad Pro 12.9  iPad Air  1M Blanco '
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

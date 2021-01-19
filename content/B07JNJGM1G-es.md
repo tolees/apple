@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AV8a3NM2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNJGM1G-es'
+slug: 'B07JNJGM1G-es UNBREAKcable Protector de Pantalla para iPhone X iPhone XS [2 Pack]-Cristal Vidrio Templado iPhone X/XS [2.5d Borde Redondo] [9H Dureza] [Alta Definicion] 5.8'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

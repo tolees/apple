@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LI5ecd9UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GKPW4G-es'
+slug: 'B089GKPW4G-es KEEHOM Funda Impermeable Universal 2 Unidades  Bolsa para Móvil Estanca a Prueba de Agua para iPhone 11/XS MAX/XR Samsung Galaxy Huawei P40 P30 Pro Xiaomi OnePlus y Otros Teléfonos hasta 7 Pulgadas'
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

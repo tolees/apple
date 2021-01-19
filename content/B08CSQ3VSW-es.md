@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HsKhjoN8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CSQ3VSW-es'
+slug: 'B08CSQ3VSW-es Soporte Portatil  Laptop Stand Aluminio Ventilado Refrigeración Soporte para Portatil Mesa  Adjustable Soporte Ordenador para MacBook Pro/Air  HP  iPad  Samsung  Dell y Otros 10-15.6” Portatiles'
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MzphxVmRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2N9W8L-es'
+slug: 'B07K2N9W8L-es Apple iPad Pro  11 pulgadas  Wi-Fi  512GB  - Plata  Modelo Anterior '
 actualPrice: 1059.0 EUR
 currency: EUR
 price: 1059.0

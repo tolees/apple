@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XA2dE+b2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0799JJ3DY-es'
+slug: 'B0799JJ3DY-es RAVPOWER Bateria Externa 10000mAh Ultra-Delgado con Carga Rápida 3.0 de Entrada y Salida  Baterías de Polímero de Litio de Alta Densidad para el iPhone X / 8 Plus / 8  Galaxy S8 / Note8 y Más'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

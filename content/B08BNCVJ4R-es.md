@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lbafvRIPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNCVJ4R-es'
+slug: 'B08BNCVJ4R-es RAMPOW Cable USB C a Lightning [Apple MFi Certificado] Cable iPhone 11 Tipo C Power Delivery 18W 3A  Compatible con iPhone X/iPhone XS/iPhone XS MAX/iPhone XR/iPhone 8  iPad Pro  iPad Air-0.2M  Negro'
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518AQdRAS9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K4G9W5S-es'
+slug: 'B01K4G9W5S-es ESR Protector Pantalla para iPhone 7 Plus/8 Plus [2 Piezas][Fácil de Instalar] Cristal Templado 9H Dureza [3D Touch Compatible]  Anti-Huella para Apple iPhone 8 Plus/7 Plus/6s Plus/6 Plus'
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

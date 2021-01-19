@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rruT+jC4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08269FVYD-es'
+slug: 'B08269FVYD-es Adaptador de cámara USB  Adaptador OTG Hembra USB Compatible con iPhone 11 XS X 8 7  Lector de Tarjetas de Apoyo  Teclado  micrófono  Adaptador USB Ethernet  ratón'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

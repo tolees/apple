@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K2pOZecbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6GTJ1L-es'
+slug: 'B07V6GTJ1L-es Apple MacBook Air  de 13 pulgadas  Último Modelo  8GB RAM  256GB de almacenamiento  Intel Core i5 a 1 6GHz  - Plata'
 actualPrice: 1139.0 EUR
 currency: EUR
 price: 1139.0

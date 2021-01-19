@@ -6,7 +6,7 @@ image: 'None._SL200_'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011U55EZE-es'
+slug: 'B011U55EZE-es Apple iPod touch  de 32GB  - Oro'
 actualPrice: 191.37 EUR
 currency: EUR
 price: 191.37

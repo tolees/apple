@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410bWEfZkmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085ZFGBBM-es'
+slug: 'B085ZFGBBM-es SUMKUMY Cargador Coche USB Carga Rápida QC3.0  [7 en 1] 4 Puertos USB y 3 Puertos Adaptador De Encendedor De Cigarrillos 12V/24V para GPS  Dash CAM  Sat Nav  iPhone Teléfono  iPad  Tableta  y etc'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

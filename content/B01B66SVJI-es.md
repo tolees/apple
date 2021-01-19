@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wTWdumQIL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B66SVJI-es'
+slug: 'B01B66SVJI-es Xiaomi Portable 10000mAh de gran capacidad Segura Mi banco de la energía para el iPhone 6 6 Plus Samsung HTC Smartphones'
 actualPrice: 27.06 EUR
 currency: EUR
 price: 27.06

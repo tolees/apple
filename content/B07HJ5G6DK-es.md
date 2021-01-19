@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415h7tHkFwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJ5G6DK-es'
+slug: 'B07HJ5G6DK-es JETech Funda para iPad Air  Carcasa con Soporte Función  Auto-Sueño/Estela  Oro Rosa'
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

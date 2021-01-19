@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51nnKqLJkSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C3S24WB-es'
+slug: 'B07C3S24WB-es Soporte de iPad para el Coche TFY Soporte de iPad para Reposacabezas de Coche con Malla de Silicona para Sujetar Teléfonos Móviles de 4 5 a 6 Pulgadas y Tablets de 7 a 10 5 Pulgadas'
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

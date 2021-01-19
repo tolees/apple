@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LH58zpPlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C1VT9WH-es'
+slug: 'B07C1VT9WH-es GEARGO Webcam Cover Tapa Webcam Ultra Delgada 0.7mm Cubierta de la Cámara Web para Macbook Pro  iPad  Smartphones  Ordenador  Evita ser Grabados y espiados Protege su Privacidad y Seguridad  3 Pack '
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

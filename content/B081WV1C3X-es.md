@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/51uypH8KeYL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B081WV1C3X-es'
+slug: 'B081WV1C3X-es Siikii Soporte para teléfono móvil Soporte para teléfono Soporte para Cuello de Cisne Soporte Universal para iPhone teléfono Inteligente Tableta práctica Giro de 360 ° 360（blanco-18）'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

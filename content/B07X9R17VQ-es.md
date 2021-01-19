@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4195Ln2o1DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X9R17VQ-es'
+slug: 'B07X9R17VQ-es Omars Batería Externa 20000mAh PowerBank Bateria Portatil para Movil con 3 Salidas  USB C 5V 3A y 2 x USB-A 5V 2.4A   2 entradas para iPhone X/ 8/7/ 6s  Samsung S8 / S8  Huawei  iPad y más'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

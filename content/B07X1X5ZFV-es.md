@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21By8X8-ejL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1X5ZFV-es'
+slug: 'B07X1X5ZFV-es Anker PowerPort Mini Dual Cargador de Pared Ultracompacto USB Cargador de Pared 2.5A Potencia para iPhone XS XS MAX XR X 8 7 6 Plus iPad Pro Air 2 Mini 4 Samsung y Muchos más'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

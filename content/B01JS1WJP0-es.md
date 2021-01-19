@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511cvIV1aHL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JS1WJP0-es'
+slug: 'B01JS1WJP0-es Anker  2 Pack  Cable Lightning Cargador iPhone [Apple MFi Certificado / 180 cm] -Nylon Cable para iPhone XS/XS MAX/XR/X  iPad Pro Air 2  iPad Mini 4 3 2  iPod Touch 5th Gen / 6th Gen/Nano 7th Gen'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qCNoAnRNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQM2ZSZ-es'
+slug: 'B07CQM2ZSZ-es CHOETECH Cable USB C a HDMI  [4K@60Hz] Cable HDMI a USB Tipo C 3.1 para MacBook Pro/Macbook Air 2020/2019/2018  iMac 2017 iPad Pro  Galaxy S20/S10/S9/S8/Note10  Huawei P40/P30/Mate 30 Pro/Mate 20'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Ji3QoNl3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CCN9FQS-es'
+slug: 'B07CCN9FQS-es Anker Paquete de Carga inalámbrica  PowerPort Wireless 5 Pad y Soporte  Qi-Certified Ultra-Slim Wireless Charger Compatible iPhone XS MAX/XR/XS/X / 8/8 Plus y más  Adaptador de CA no Incluido '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

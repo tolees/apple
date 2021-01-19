@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41miHWbYWmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073Q3QPLV-es'
+slug: 'B073Q3QPLV-es Apple Smart Keyboard  para el iPad de 10 2 pulgadas  el iPad Air de 10 5 pulgadas  el iPad Pro de 10 5 pulgadas  - Español'
 actualPrice: 147.93 EUR
 currency: EUR
 price: 147.93

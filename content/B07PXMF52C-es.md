@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v+AynvhaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PXMF52C-es'
+slug: 'B07PXMF52C-es Anker PowerCore Slim 10000 Cargador portátil Ultrafino  batería Exterior compacta de 10000 mAh  tecnología de Carga de Gran Velocidad PowerIQ y VoltageBoost  para iPhone  Samsung Galaxy y más'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

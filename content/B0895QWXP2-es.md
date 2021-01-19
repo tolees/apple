@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XNQipFYcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0895QWXP2-es'
+slug: 'B0895QWXP2-es RIWNNI [2 Unidades] Protector Pantalla para iPad 8 2020/iPad 7 2019/iPad 10.2/iPad Air 3/iPad Pro 10.5  Ultra Fino Antirreflejo Mate Película de Papel  Escritura o Dibujo  Compatible con Apple Pencil'
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

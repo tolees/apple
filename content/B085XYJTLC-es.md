@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KTNmpWgEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085XYJTLC-es'
+slug: 'B085XYJTLC-es Babacom Raton Inalámbrico Recargable  Ratón Ordenador 2.4GHz Silencioso con Receptor USB & Adaptador Tipo C & Bluetooth  Mouse Inalambrico con 4 Niveles de dpi Ajustables para Portatil PC iPad iMac'
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

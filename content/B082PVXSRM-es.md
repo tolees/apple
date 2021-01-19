@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IuNwEaTML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PVXSRM-es'
+slug: 'B082PVXSRM-es ESR Adaptador USB C a HDMI 4K[Thunderbolt 3]  Adaptador USB Tipo C a HDMI Nylon Trenzado Compatible con MacBook Pro/Air  iPad Pro 2020/2018  Galaxy S20/S20+/S10/S9/Note 10  Huawei P30/Mate 20'
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

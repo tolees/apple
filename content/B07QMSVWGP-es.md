@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l7asoIJaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QMSVWGP-es'
+slug: 'B07QMSVWGP-es JETech Funda para iPad  9 7 Pulgadas 2018/2017 Modelo   Carcasa con Soporte Función  Auto-Sueño/Estela  Papaya'
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

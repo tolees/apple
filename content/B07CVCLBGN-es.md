@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rAemjafSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CVCLBGN-es'
+slug: 'B07CVCLBGN-es Tryone Soporte Tablet Móvil Multiángulo - Soporte con Cuello de Cisne Brazo para iPad Serie/Nintendo Switch/Samsung Galaxy Tabs/Huawei Mediapad/Kindle Fire y más  75cm de Longitud Total Negro '
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

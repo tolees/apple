@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-gAPXMvoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088NGKFF6-es'
+slug: 'B088NGKFF6-es UGREEN Cargador de Coche con LED  24W 4.8A Doble Puerto Cargador Automóvil con Funda de Aluminio  Mini Cargador Coche Carga Rápido para iPhone 11/X/XR/SE/8 Samsung S20 Huawei P40 Xiaomi Mi 10 Moto G8'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

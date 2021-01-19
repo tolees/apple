@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61U+RynjH4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07258ZQTZ-es'
+slug: 'B07258ZQTZ-es DETUOSI Funda iPad 9.7 2017 Ultra Slim Fundas iPad 9.7 Función de Soporte Smart Cover Protectora Función de Soporte Plegable Carcasa para Apple New iPad 2017 Tablet de 9.7 Pulgadas -Mariposa de Color'
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

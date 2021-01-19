@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k91dBbjhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087N3GBK1-es'
+slug: 'B087N3GBK1-es Cocoda Soporte Tablet  Portátil Soporte iPad con Ajustable Altura y Angulo  Soporte Movil Mesa Compatible con iPhone  Samsung  Huawei  iPad Mini  Tablet  Videollamada  Escritorio'
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

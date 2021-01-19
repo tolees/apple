@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xGRYL2kYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGD48PZ-es'
+slug: 'B07RGD48PZ-es G-Color Laptop Stand / Soporte / Stand Portátil y Ergonómico para Laptop  Plegable y Ajustable Soporte para Computadora/ Ordenador Portátil  iPad'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

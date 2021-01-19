@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IkcG2r6cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMY81Q8-es'
+slug: 'B07TMY81Q8-es Funda Bateria para iPhone X/XS/10  FLYLINKTECH 4000mAh Batería Cargador Externa para iPhone X/XS/10 5.8   Recargable Backup Charger Case Portátil Power Bank Case  Negro '
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

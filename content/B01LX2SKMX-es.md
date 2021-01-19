@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YjnV4ArwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX2SKMX-es'
+slug: 'B01LX2SKMX-es Belkin Valet Charger - Batería externa de 6700 mAh para Apple Watch 5/4/3/2/1 + iPhone 11  11 Pro/Pro Max  XS  XS Max  XR  X  SE  8  7  6  5  con certificación Mfi '
 actualPrice: 83.34 EUR
 currency: EUR
 price: 83.34

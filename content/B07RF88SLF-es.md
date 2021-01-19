@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kCrxyIrQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RF88SLF-es'
+slug: 'B07RF88SLF-es Incase Icon Sleeve - Funda para Apple MacBook Pro 13"  2016-2018  / Air 13 3"  Late 2018   Azul Oscuro [Material Woolenex I TENSAERLITE-Bumper I Interior de Piel sintética I Cierre magnético]'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

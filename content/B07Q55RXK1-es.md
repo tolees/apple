@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rBBS71hOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q55RXK1-es'
+slug: 'B07Q55RXK1-es JETech Funda Compatible iPad  9 7 Pulgadas  2018/2017 Modelo  6ª/5ª Generación   Soporte de Doble Plegables y Contraportada de TPU a Prueba de Choques  Auto-Sueño/Estela  Negro'
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

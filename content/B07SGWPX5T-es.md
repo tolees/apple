@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-HRV8NBFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SGWPX5T-es'
+slug: 'B07SGWPX5T-es Cocoda Soporte Tablet  Universal Soportes Movil iPad Mesa con Ventosa Grande Más Fuerte  Porta Sujeta Tablets para Baño/Pared/Cocina/Oficina/Coche  Compatible con iPhone iPad Samsung Galaxy Tab y Más'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

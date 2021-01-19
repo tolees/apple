@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41EfoUkjE4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BTQHNC-es'
+slug: 'B088BTQHNC-es LUROON Soporte Tablet Soporte Teléfono Altura de ángulo Ajustable Soporte Móvil para Smartphone  iPad Pro  iPad Air  iPad Mini  Samsung Tab  Facetime  Teletrabajo  Transmisión en Vivo etc.  Plata '
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

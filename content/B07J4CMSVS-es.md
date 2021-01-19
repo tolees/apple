@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-L-AESjUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J4CMSVS-es'
+slug: 'B07J4CMSVS-es Apple iPad Air 2 64GB Wi-Fi - Gris Espacial  Reacondicionado '
 actualPrice: 319.0 EUR
 currency: EUR
 price: 319.0

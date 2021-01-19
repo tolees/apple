@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BZiAArt7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MB64LXC-es'
+slug: 'B07MB64LXC-es Sileu Funda Tablet e iPad Carcasa de Silicona para Niños - Resistente a Golpes y Caídas  Irrompible - Se Puede Colgar del Reposacabezas del Coche - Mono Marrón - Universal  9.7 Pulgadas'
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

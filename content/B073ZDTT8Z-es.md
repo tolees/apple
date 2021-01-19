@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nXtxW0ppL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073ZDTT8Z-es'
+slug: 'B073ZDTT8Z-es ESR Funda para iPhone SE/8/7 [Funda TPU][No amarillea][Tapa trasera de solo 1 1 mm] [Esquinas con Absorción de Golpes][Funda de Silicona Flexible] Transparente'
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419f+Y2YNtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XMBR4CC-es'
+slug: 'B07XMBR4CC-es Anker iPhone 11 Charger  USB C to Lightning Cable [6ft Apple Mfi Certified] Powerline+ II Nylon Braided Cable for iPhone 11/11 Pro / 11 Pro MAX/X/XS MAX/XR / 8 Plus  Supports Power Delivery'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

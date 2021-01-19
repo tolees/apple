@@ -6,7 +6,7 @@ image: 'https://images-eu.ssl-images-amazon.com/images/I/41JSD3qcUnL._SL200_.jpg
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M3TJLUC-es'
+slug: 'B01M3TJLUC-es UBMSA cargador unicornio 2600mAh Cargadores Horse portátil de la batería Diversión Pokemon GO cargador externo del banco de la energía para el iPhone Samsung compatible con todos los smartphones'
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C+FDRqkZL._AC_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07318PMHL-es'
+slug: 'B07318PMHL-es Logitech Slim Combo Funda para iPad  iPad Pro 10.5 Pulgadas   2a Generación Modelos: A1701  A1709  A1852   Teclas Retroiluminadas  Smart Conector  Disposición QWERTY Español  Negro'
 actualPrice: 113.51 EUR
 currency: EUR
 price: 113.51

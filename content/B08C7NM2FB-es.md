@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G1kFK1WDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C7NM2FB-es'
+slug: 'B08C7NM2FB-es Cocoda Tripode para Movil  Flexible Palo Selfie  Mini Tripode Portátil con Obturador Remoto Bluetooth Compatible con iPhone SE / 11 Pro MAX/XS/XR  Samsung Galaxy S20 / S10  Cámara  GoPro'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

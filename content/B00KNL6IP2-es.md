@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Zq0K-aF0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KNL6IP2-es'
+slug: 'B00KNL6IP2-es AUKEY Hub USB 3.0 4 Puertos Aluminio SuperSpeed 5Gbps con Cable USB 3.0 50cm y LED USB Data Hub para Apple MacBook  Macbook Air  Macbook Pro  iMac y Ordenador Portátil - Plata'
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

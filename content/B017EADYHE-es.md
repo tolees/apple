@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51tb9P90+6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B017EADYHE-es'
+slug: 'B017EADYHE-es JETech 0902- Protector de Pantalla para iPad Pro 12 9  Modelo 2015 y 2017   Vidrio Templado'
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

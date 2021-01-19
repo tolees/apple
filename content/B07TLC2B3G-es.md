@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5154w3vBJML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TLC2B3G-es'
+slug: 'B07TLC2B3G-es Aioneus Cargador iPhone 5Pack Cable iPhone  1+1+1.5+1.5+2  M Cable Lightning Carga Rapida Compatible con iPhone X 8 8 Plus 7 7 Plus 6s 6s Plus 6 6 Plus 5 5s SE iPad- [Certificado MFi] -Rojo'
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZiyoGW23L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YY7VF1-es'
+slug: 'B081YY7VF1-es Brinonac Pantalla para iPhone 6s  4.7" Pantalla Táctil LCD con botón de Inicio Cámara Frontal  Sensor de proximidad  Altavoz  ensamblaje de Marco digitalizador y Kit de reparación  Blanco '
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

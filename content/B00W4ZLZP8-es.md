@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31YLEc--vWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W4ZLZP8-es'
+slug: 'B00W4ZLZP8-es JETech Funda Compatible iPad Pro 12 9  Modelo 2015 y 2017   Carcasa con Auto-Sueño / Estela  Negro'
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19
