@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WNPYSQQ-es ESR Funda para iPad 10.2 Inteligente Serie Yippee Trifold...'
+sku: 'B07WNPYSQQ-es'
 tags: [ 'ipad', ]
 actualPrice: 10.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HJ5G6DK-es JETech Funda para iPad Air Carcasa con Soporte Función...'
+sku: 'B07HJ5G6DK-es'
 tags: [ 'ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR

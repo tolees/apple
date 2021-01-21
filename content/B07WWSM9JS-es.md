@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WWSM9JS-es ESR Funda para iPad 10.2 Inteligente Serie Rebound Slim...'
+sku: 'B07WWSM9JS-es'
 tags: [ 'ipad', ]
 actualPrice: 10.79 EUR
 currency: EUR

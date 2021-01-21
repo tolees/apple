@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRGXCPJ-es Fintie Funda para iPad 2018/2017 - Trasera Transparente...'
+sku: 'B07WRGXCPJ-es'
 tags: [ 'ipad', ]
 actualPrice: 16.99 EUR
 currency: EUR

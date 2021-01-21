@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMSVWGP-es JETech Funda para iPad 9 7 Pulgadas 2018/2017 Modelo...'
+sku: 'B07QMSVWGP-es'
 tags: [ 'ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR

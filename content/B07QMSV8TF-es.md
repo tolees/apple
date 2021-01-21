@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QMSV8TF-es JETech Funda Compatible iPad 9 7 Pulgadas 2018/2017 Modelo...'
+sku: 'B07QMSV8TF-es'
 tags: [ 'ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR

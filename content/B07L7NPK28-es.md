@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L7NPK28-es AUKEY Auriculares Bluetooth Inalámbricos Deportivos...'
+sku: 'B07L7NPK28-es'
 tags: [ 'iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR

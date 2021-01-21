@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R46GJ7G-es Yosh Funda Impermeable para teléfono móvil Compatible con...'
+sku: 'B07R46GJ7G-es'
 tags: [ 'iphone', ]
 actualPrice: 10.39 EUR
 currency: EUR

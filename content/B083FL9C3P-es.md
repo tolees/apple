@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FL9C3P-es 【Actualizado 2020】 Proyector WiFi BOSNAS Nativo 720P Mini...'
+sku: 'B083FL9C3P-es'
 tags: [ 'iphone', ]
 actualPrice: 118.99 EUR
 currency: EUR

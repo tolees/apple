@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C3S24WB-es Soporte de iPad para el Coche TFY Soporte de iPad para...'
+sku: 'B07C3S24WB-es'
 tags: [ 'ipad', ]
 actualPrice: 19.5 EUR
 currency: EUR

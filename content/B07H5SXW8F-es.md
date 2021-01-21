@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5SXW8F-es KNOK Funda Colgante movil con Cuerda para Colgar iPhone...'
+sku: 'B07H5SXW8F-es'
 tags: [ 'iphone', ]
 actualPrice: 19.9 EUR
 currency: EUR

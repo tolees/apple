@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JUISBYE-es JETech Protector Pantalla compatible iPad 9 7 Pulgadas...'
+sku: 'B01JUISBYE-es'
 tags: [ 'ipad', ]
 actualPrice: 8.98 EUR
 currency: EUR

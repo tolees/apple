@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZKBRJLB-es Voova Funda Portátil 11 11.6 12 Pulgadas Impermeable para...'
+sku: 'B07ZKBRJLB-es'
 tags: [ 'ipad', ]
 actualPrice: 11.89 EUR
 currency: EUR

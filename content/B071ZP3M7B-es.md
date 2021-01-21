@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZP3M7B-es JETech Protector de Pantalla Compatible iPad Air 3 10 5...'
+sku: 'B071ZP3M7B-es'
 tags: [ 'ipad', ]
 actualPrice: 6.77 EUR
 currency: EUR

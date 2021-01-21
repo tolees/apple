@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GKPW4G-es KEEHOM Funda Impermeable Universal 2 Unidades Bolsa para...'
+sku: 'B089GKPW4G-es'
 tags: [ 'iphone', ]
 actualPrice: 6.79 EUR
 currency: EUR
