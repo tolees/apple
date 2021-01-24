@@ -27,13 +27,13 @@ Tienes [Apple iPhone 11 Pro  512 GB  - Gris Espacial](https://www.amazon.es/dp/
 
 🔎:
 
-- Carga inalámbrica
-- Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
-- Sistema de triple cámara de 12 Mpx con gran angular, ultra gran angular y teleobjetivo; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
-- Chip A13 Bionic con Neural Engine de 3.ª generación
-- Pantalla OLED Super Retina XDR de 5,8 pulgadas
 - Resistencia al agua y al polvo (4 metros hasta 30 minutos, IP68)
 - Face ID para autenticarse deforma segura y usar ApplePay
+- Pantalla OLED Super Retina XDR de 5,8 pulgadas
+- Chip A13 Bionic con Neural Engine de 3.ª generación
+- Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
+- Carga inalámbrica
 - Carga rápida con el adaptador de 18W incluido
+- Sistema de triple cámara de 12 Mpx con gran angular, ultra gran angular y teleobjetivo; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XS4MBMR/?tag=tolees-21)
