@@ -27,15 +27,15 @@ Está [Nuevo Apple iPad Pro  de 11 pulgadas  con Wi-Fi y 1 TB  - Plata  2.ª g
 
 ℹ️:
 
-- Redes wifi 802.11ax
 - Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
-- Chip A12Z Bionic con Neural Engine
-- Face ID para autenticarse de forma segura y usar Apple Pay
-- Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
-- Hasta 10 horas de autonomía
-- Cuatro altavoces y cinco micrófonos con calidad de estudio
-- Cámara frontal TrueDepth de 7 Mpx
-- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
 - Conector USB-C para cargar el iPad y conectar accesorios
+- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
+- Cuatro altavoces y cinco micrófonos con calidad de estudio
+- Face ID para autenticarse de forma segura y usar Apple Pay
+- Redes wifi 802.11ax
+- Cámara frontal TrueDepth de 7 Mpx
+- Hasta 10 horas de autonomía
+- Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
+- Chip A12Z Bionic con Neural Engine
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0863L1FCK/?tag=tolees-21)
