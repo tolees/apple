@@ -29,13 +29,13 @@ En este momento está [Apple iPhone XR  64 GB  - en negro](https://www.amazon.e
 
 - Face ID para autenticarse de forma segura y usar Apple Pay
 - Como parte de nuestros esfuerzos por alcanzar nuestros objetivos medioambientales, el iPhone XR ya no incluye un adaptador de corriente ni EarPods. Utilice su adaptador de corriente y auriculares Apple existentes o compre estos accesorios por separado
-- Cámara frontal TrueDepth de 7 Mpx con modo Retrato, Iluminación de Retratos, Control de Profundidad y vídeo 1080p
-- Cámara de 12 Mpx con gran angular, modo Retrato, Iluminación de Retratos, Control de Profundidad, HDR Inteligente y vídeo 4K hasta 60 f/s
-- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
 - Resistencia al agua y al polvo (1 metro hasta 30 minutos, calificación IP67)
-- Carga inalámbrica
-- Chip A12 Bionic con Neural Engine de 2.a generación
 - Admite carga rápida
+- Cámara de 12 Mpx con gran angular, modo Retrato, Iluminación de Retratos, Control de Profundidad, HDR Inteligente y vídeo 4K hasta 60 f/s
+- Chip A12 Bionic con Neural Engine de 2.a generación
+- Carga inalámbrica
+- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
+- Cámara frontal TrueDepth de 7 Mpx con modo Retrato, Iluminación de Retratos, Control de Profundidad y vídeo 1080p
 - Pantalla LCD Liquid Retina HD de 6,1 pulgadas
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L71C8RL/?tag=tolees-21)
