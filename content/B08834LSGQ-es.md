@@ -27,14 +27,14 @@ Tienes [Apple MacBook Pro  de 13 pulgadas  16 GB RAM  512 GB Almacenamiento 
 
 🔎:
 
-- Trackpad Force Touch
-- Intel Iris Plus Graphics
 - Procesador Intel Core i5 de cuatro núcleos de décima generación
 - Hasta 10 horas de autonomía
 - Almacenamiento SSD ultrarrápido
 - Wifi 802.11ac
-- Touch Bar y Touch ID
+- Trackpad Force Touch
+- Intel Iris Plus Graphics
 - Cuatro puertos Thunderbolt 3 (USB-C)
+- Touch Bar y Touch ID
 - Teclado Magic Keyboard retroiluminado
 - Espectacular pantalla Retina con tecnología True Tone
 
