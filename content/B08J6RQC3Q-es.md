@@ -27,15 +27,15 @@ En este momento está [Apple iPad Air  de 10.9 pulgadas  con Wi-Fi + Cellular 
 
 🔎:
 
-- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
 - Hasta 10 horas de autonomía
+- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
+- Sonido estéreo amplio
+- Compatibilidad con el MagicKeyboard, el SmartKeyboard Folio y el Apple Pencil (2.ªgeneración)
 - Chip A14 Bionic con Neural Engine
+- Disponible en plata, gris espacial, oro rosa, verde y azul cielo
+- Conector USB-C para cargar el iPad y conectar accesorios
 - Redes wifi 802.11ax (6.ªgeneración) y 4G LTE Advanced
 - Cámara trasera de 12 Mpx y cámara frontal FaceTimeHD de 7 Mpx
-- Sonido estéreo amplio
-- Conector USB-C para cargar el iPad y conectar accesorios
-- Disponible en plata, gris espacial, oro rosa, verde y azul cielo
-- Compatibilidad con el MagicKeyboard, el SmartKeyboard Folio y el Apple Pencil (2.ªgeneración)
 - Touch ID para autenticarse deforma segura y usar Apple Pay
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08J6RQC3Q/?tag=tolees-21)
