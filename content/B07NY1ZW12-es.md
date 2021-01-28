@@ -27,10 +27,10 @@ Ahora mismo tienes [Beeasy Funda para iPhone XR Impermeable Antigolpes con Prote
 
 🔎:
 
+- 【Antipolvos y a Prueba de Arena】 La cubierta completamente sellada ofrece protección total, detiene cualquier suciedad y polvo en su aifon XR, no se preocupe por el polvo mientras trabajangdo, arena mientras juegando en la playa y escalar montañas.
+- 【Impermeable y Sumergible】Grado de impermeabilidad IP68, sumergible a más de 2m durante 1 hora. Protección perfecta para cualquier actividad subacuática, deportes al aire libre y uso diario (soporte para tomar fotos y grabar videos en el agua). Si la carcasa aifonXR está sucia, puede lavarla directamente con agua.
+- 【Touch Sensible】 Perfecta para la función Face ID de iPhoneXR / iPhone10R, los botones de encendido y volumen, silencio, la tapa frontal con protector de pantalla incorporado, funciona estupendamente como si no hubiera un estuche.
 - 【Garantía De Por Vida】 Su satisfacción es primordial para nosotros.Si no le gusta la funda, le reembolsaremos 100% en cualquier momento.
 - 【Antigolpes y Anti-caídas】Premium carcasa con 3 capas, grado militar de alta resistencia que proporciona la máxima protección para iPhone XR (6.1), soportando golpes y caídas de 6,6 pies (2 m) de altura, resistente para adaptarse a todos los malos entornos.
-- 【Antipolvos y a Prueba de Arena】 La cubierta completamente sellada ofrece protección total, detiene cualquier suciedad y polvo en su aifon XR, no se preocupe por el polvo mientras trabajangdo, arena mientras juegando en la playa y escalar montañas.
-- 【Touch Sensible】 Perfecta para la función Face ID de iPhoneXR / iPhone10R, los botones de encendido y volumen, silencio, la tapa frontal con protector de pantalla incorporado, funciona estupendamente como si no hubiera un estuche.
-- 【Impermeable y Sumergible】Grado de impermeabilidad IP68, sumergible a más de 2m durante 1 hora. Protección perfecta para cualquier actividad subacuática, deportes al aire libre y uso diario (soporte para tomar fotos y grabar videos en el agua). Si la carcasa aifonXR está sucia, puede lavarla directamente con agua.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07NY1ZW12/?tag=tolees-21)
