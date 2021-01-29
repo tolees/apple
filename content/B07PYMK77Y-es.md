@@ -28,9 +28,9 @@ Ahora mismo tienes [Apple AirPods con estuche de carga con cable  2.ª generaci�
 🔎:
 
 - Ajuste universal para una gran comodidad todo el día
-- Acceso rápido a Siri con solo decir «Oye Siri»
-- Configuración sencilla con todos tus dispositivos Apple
 - Cambio fácil de un dispositivo a otro
+- Configuración sencilla con todos tus dispositivos Apple
+- Acceso rápido a Siri con solo decir «Oye Siri»
 - Activación y conexión automáticas
 - Estuche de carga para disfrutar de más de 24 horas de autonomía
 
