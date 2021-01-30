@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'ESR Funda para iPad 10.2  Inteligente Serie Rebound Slim para iPad 7a Generación 2019  Tapa Trasera de TPU Flexible. Modo Automático de Reposo/Actividad  Modo Escritura/Visualización  Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WWSM9JS/?tag=tolees-21'
 descuento: '16.94'
 average: '11.03'

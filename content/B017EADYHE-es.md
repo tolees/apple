@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'JETech 0902- Protector de Pantalla para iPad Pro 12 9  Modelo 2015 y 2017   Vidrio Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B017EADYHE/?tag=tolees-21'
 descuento: '15.01'
 average: '10.106666666666666'

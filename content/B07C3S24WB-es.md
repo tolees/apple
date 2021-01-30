@@ -16,6 +16,7 @@ comparePrice: 23.16 EUR
 prodname: 'Soporte de iPad para el Coche TFY Soporte de iPad para Reposacabezas de Coche con Malla de Silicona para Sujetar Teléfonos Móviles de 4 5 a 6 Pulgadas y Tablets de 7 a 10 5 Pulgadas'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07C3S24WB/?tag=tolees-21'
 descuento: '15.80'
 average: '19.5'

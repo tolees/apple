@@ -16,6 +16,7 @@ comparePrice: 16.27 EUR
 prodname: 'Leitz 44730001 - Cuaderno de notas  tamaño iPad  cuadriculado   color blanco'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00DNTQF9A/?tag=tolees-21'
 descuento: '23.05'
 average: '12.52'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'JETech 3043 - Funda para iPad Air 2  Carcasa con Soporte Función  Auto-Sueño / Estela  Gris Oscuro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00QWRISTU/?tag=tolees-21'
 descuento: '15.01'
 average: '13.865'

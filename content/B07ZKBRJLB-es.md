@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Voova Funda Portátil 11 11.6 12 Pulgadas Impermeable para Computadora de Múltiples Bolsillos  Compatible con MacBook Air Chromebook Surface ProX/7/6/5/4/3  iPad Pro 12.9 con Asa  Negro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07ZKBRJLB/?tag=tolees-21'
 descuento: '15.01'
 average: '12.940000000000001'

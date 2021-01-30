@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'ESR Funda para iPad 10.2  Inteligente Serie Yippee Trifold Funda para 7ª generación 2019  Carcasa Tríptica Ligera  Soporte Modo Escritura/Visualización  Tapa Trasera Rígida  Oro Rosa'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07WNPYSQQ/?tag=tolees-21'
 descuento: '16.95'
 average: '11.261999999999999'

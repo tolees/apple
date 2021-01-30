@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'JETech Funda Compatible iPad  9 7 Pulgadas  2018/2017 Modelo  6ª/5ª Generación   Soporte de Doble Plegables y Contraportada de TPU a Prueba de Choques  Auto-Sueño/Estela  Azul'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QMSV8TF/?tag=tolees-21'
 descuento: '15.01'
 average: '12.74'

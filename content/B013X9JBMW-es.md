@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'JETech 3282- Funda para iPad mini 4  Carcasa con Soporte Función  Auto-Sueño / Estela  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B013X9JBMW/?tag=tolees-21'
 descuento: '15.01'
 average: '11.89'

@@ -16,6 +16,7 @@ comparePrice: 8.97 EUR
 prodname: 'JETech Protector de Pantalla Compatible iPad Air 3  10 5 Pulgadas Modelo 2019  y iPad Pro 10 5  2017  Vidrio Templado'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B071ZP3M7B/?tag=tolees-21'
 descuento: '24.53'
 average: '7.825000000000001'

@@ -16,6 +16,7 @@ comparePrice: 24.95 EUR
 prodname: 'UrbanX 12W Cargador Portátil USB Power Adapter y USB Cable Compatible con iPad Pro 9.7/10.5/12.9 Air 1/2 Mini 2/3/4 - con UK y US Intercambiables adaptadores  con Cable de 3 Metro '
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07MG82ZN8/?tag=tolees-21'
 descuento: '20.04'
 average: '19.95'

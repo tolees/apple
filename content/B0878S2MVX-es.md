@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Kdely Cable USB C to HDMI 4K@60Hz  Adaptador Tipo C a HDMI para iPad Pro/Macbook Air 2019/2018/Macbook Pro 2020/2019/iMac/Samsung S20/S10/S9/S8/Note 10/9/8/Huawei P40 Pro/P30 Pro/P20 Pro/Mate20 Pro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B0878S2MVX/?tag=tolees-21'
 descuento: '15.01'
 average: '16.99'

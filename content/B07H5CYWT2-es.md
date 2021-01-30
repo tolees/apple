@@ -16,6 +16,7 @@ comparePrice: 8.99 EUR
 prodname: 'Soporte de Escritorio para iPad  tabletas  lectores electrónicos  teléfonos móviles  Kindles  Paquete de 8 Unidades  tamaño Universal  Plegable  Colorido  portátil  Modelo V'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07H5CYWT2/?tag=tolees-21'
 descuento: '22.25'
 average: '6.99'

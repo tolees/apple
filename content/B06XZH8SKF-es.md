@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'JETech Funda para iPad  9 7 Pulgadas  2018/2017 Modelo  6ª / 5ª generación   Carcasa con Auto-Sueño/Estela  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B06XZH8SKF/?tag=tolees-21'
 descuento: '22.75'
 average: '8.656666666666666'

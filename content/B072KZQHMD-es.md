@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Fintie Funda para iPad 4/3 / 2 - [Protección de Esquina] [Multiángulo] Carcasa con Bolsillo y Función de Soporte y Auto-Reposo/Activación  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B072KZQHMD/?tag=tolees-21'
 descuento: '17.40'
 average: '18.99'

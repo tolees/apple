@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Ringke Soporte para Portátil [Negro] Soporte Adhesivo Delgado y liviano  portátil y Antideslizante  Plegable y portátil para computadora portátil  iPad  Tableta y más'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07KF8QGW7/?tag=tolees-21'
 descuento: '21.06'
 average: '14.546666666666667'

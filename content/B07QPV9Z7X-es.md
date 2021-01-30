@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'JETech Funda Compatible con iPad 8/7  10 2 Pulgadas  2020/2019 Modelo  8.ª/ 7.ª Generación   Carcasa con Auto-Sueño/Estela  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07QPV9Z7X/?tag=tolees-21'
 descuento: '15.01'
 average: '10.056538461538462'

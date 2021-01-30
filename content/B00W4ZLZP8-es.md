@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'JETech Funda Compatible iPad Pro 12 9  Modelo 2015 y 2017   Carcasa con Auto-Sueño / Estela  Negro'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00W4ZLZP8/?tag=tolees-21'
 descuento: '15.01'
 average: '11.39'

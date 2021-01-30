@@ -16,6 +16,7 @@ comparePrice: 10.97 EUR
 prodname: 'JETech Protector Pantalla compatible iPad  9 7 Pulgadas  2018/2017 Modelo  6ª / 5ª Generación   iPad Air 1  iPad Air 2  iPad Pro 9 7 pulgadas  Vidrio Templado  2 Unidades'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B01JUISBYE/?tag=tolees-21'
 descuento: '18.14'
 average: '9.420000000000002'

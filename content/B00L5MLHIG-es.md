@@ -16,6 +16,7 @@ comparePrice: 12.98 EUR
 prodname: 'doupi Deluxe Protección Funda para iPad Mini 1 2 3  Smart Sleep/Wake Up función 360 Grados giratoria del Caso del Soporte Bolsa  Verde'
 country: 'es'
 flag: '🇪🇸'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B00L5MLHIG/?tag=tolees-21'
 descuento: '15.02'
 average: '10.046666666666667'
