@@ -28,15 +28,15 @@ Tienes [Apple iPad  de 10.2 pulgadas  con Wi-Fi + Cellular y 32 GB  - Gris esp
 
 🔎:
 
-- Hasta 10 horas de autonomía
 - Conector Lightning para cargar el iPad y conectar accesorios
-- Compatibilidad con el Apple Pencil (1.ªgeneración) y el Smart Keyboard
-- iPadOS 14 con nuevas prestaciones exclusivas para el iPad
-- Altavoces estéreo
-- Espectacular pantalla Retina de 10,2 pulgadas
+- Hasta 10 horas de autonomía
 - Chip A12 Bionic con Neural Engine
+- Altavoces estéreo
 - Cámara trasera de 8 Mpx y cámara frontal FaceTime HD de 1,2 Mpx
-- Redes wifi 802.11ac y 4G LTE Advanced
+- iPadOS 14 con nuevas prestaciones exclusivas para el iPad
+- Compatibilidad con el Apple Pencil (1.ªgeneración) y el Smart Keyboard
 - Touch ID para autenticarse deforma segura y usar Apple Pay
+- Espectacular pantalla Retina de 10,2 pulgadas
+- Redes wifi 802.11ac y 4G LTE Advanced
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08J6KKY9F/?tag=tolees-21)
