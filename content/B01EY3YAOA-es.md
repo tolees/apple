@@ -28,11 +28,11 @@ En este momento está [Apple - Altavoz portátil Beats Pill+ - Negro](https://ww
 
 🔎:
 
+- Adaptador de corriente y cable de conector lightning incluidos
+- Calidad de sonido clara y nítida en un dispositivo de diseño portátil y compacto
 - Manos libres integrado
 - Salida de carga que te permite cargar tu iphone y otros dispositivos
 - Batería recargable de 12 horas
 - Vinculación con dispositivos bluetooth
-- Adaptador de corriente y cable de conector lightning incluidos
-- Calidad de sonido clara y nítida en un dispositivo de diseño portátil y compacto
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B01EY3YAOA/?tag=tolees-21)
