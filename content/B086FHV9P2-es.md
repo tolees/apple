@@ -28,10 +28,10 @@ Ahora mismo tienes [Otterbox Defender  Funda protección Triple Capa para Apple 
 
 🔎:
 
-- TAPA / SOPORTE PROTECTOR INCLUIDOS
-- TAPAS PARA LOS PUERTOS
 - PROTECCIÓN DE TRIPLE CAPA
+- TAPAS PARA LOS PUERTOS
 - PROTECTOR DE PANTALLA
+- TAPA / SOPORTE PROTECTOR INCLUIDOS
 - PENSADA PARA PROTEGER
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B086FHV9P2/?tag=tolees-21)
