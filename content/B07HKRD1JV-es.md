@@ -28,15 +28,15 @@ Está [Apple Watch Series 3  GPS  con caja de 42 mm de aluminio en plata y
 
 ℹ️:
 
-- Pantalla Retina
-- Emergencia SOS con llamadas nacionales
-- Caja de aluminio
-- Apto para nadar
-- Almacenamiento yr eproducción de música, podcasts ya udiolibros
-- Chip S3 con procesador de doble núcleo
-- El modelo GPS te permite hacer llamadas y mandar mensajes desde la muñeca.
-- watchOS con Tendencias de Actividad, Control de Ciclos, innovaciones para tu salud auditiva y el App Store en tu muñeca
-- Sensor óptico de frecuencia cardiaca
 - El Apple Watch requiere un iPhone 6s o posterior con iOS 14 o posterior
+- Caja de aluminio
+- Emergencia SOS con llamadas nacionales
+- Pantalla Retina
+- Apto para nadar
+- Sensor óptico de frecuencia cardiaca
+- Chip S3 con procesador de doble núcleo
+- Almacenamiento yr eproducción de música, podcasts ya udiolibros
+- watchOS con Tendencias de Actividad, Control de Ciclos, innovaciones para tu salud auditiva y el App Store en tu muñeca
+- El modelo GPS te permite hacer llamadas y mandar mensajes desde la muñeca.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07HKRD1JV/?tag=tolees-21)
