@@ -28,15 +28,15 @@ Está [Nuevo Apple iPad  de 10 2 Pulgadas  con Wi-Fi + Cellular y 32 GB  - Oro
 
 ℹ️:
 
-- Conector Lightning para cargar el iPad y conectar accesorios
-- iPadOS 14 con nuevas prestaciones exclusivas para el iPad
-- Cámara trasera de 8 Mpx y cámara frontal FaceTime HD de 1,2 Mpx
 - Touch ID para autenticarse deforma segura y usar Apple Pay
-- Chip A12 Bionic con Neural Engine
-- Hasta 10 horas de autonomía
+- Cámara trasera de 8 Mpx y cámara frontal FaceTime HD de 1,2 Mpx
+- Conector Lightning para cargar el iPad y conectar accesorios
 - Compatibilidad con el Apple Pencil (1.ªgeneración) y el Smart Keyboard
 - Espectacular pantalla Retina de 10,2 pulgadas
-- Altavoces estéreo
+- Hasta 10 horas de autonomía
 - Redes wifi 802.11ac y 4G LTE Advanced
+- Chip A12 Bionic con Neural Engine
+- Altavoces estéreo
+- iPadOS 14 con nuevas prestaciones exclusivas para el iPad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08J6TZXQZ/?tag=tolees-21)
