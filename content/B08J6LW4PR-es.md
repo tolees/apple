@@ -28,15 +28,15 @@ Tienes [Nuevo Apple iPad Air  de 10 9 Pulgadas  con Wi-Fi + Cellular y 64 GB 
 
 🔎:
 
-- Chip A14 Bionic con Neural Engine
-- Redes wifi 802.11ax (6.ªgeneración) y 4G LTE Advanced
-- Conector USB-C para cargar el iPad y conectar accesorios
-- Disponible en plata, gris espacial, oro rosa, verde y azul cielo
-- Compatibilidad con el MagicKeyboard, el SmartKeyboard Folio y el Apple Pencil (2.ªgeneración)
-- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
-- Sonido estéreo amplio
-- Cámara trasera de 12 Mpx y cámara frontal FaceTimeHD de 7 Mpx
 - Touch ID para autenticarse deforma segura y usar Apple Pay
 - Hasta 10 horas de autonomía
+- Conector USB-C para cargar el iPad y conectar accesorios
+- Disponible en plata, gris espacial, oro rosa, verde y azul cielo
+- Cámara trasera de 12 Mpx y cámara frontal FaceTimeHD de 7 Mpx
+- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
+- Redes wifi 802.11ax (6.ªgeneración) y 4G LTE Advanced
+- Compatibilidad con el MagicKeyboard, el SmartKeyboard Folio y el Apple Pencil (2.ªgeneración)
+- Chip A14 Bionic con Neural Engine
+- Sonido estéreo amplio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08J6LW4PR/?tag=tolees-21)
