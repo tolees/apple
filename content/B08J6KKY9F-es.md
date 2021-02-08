@@ -28,15 +28,15 @@ Tienes [Nuevo Apple iPad  de 10 2 Pulgadas  con Wi-Fi + Cellular y 32 GB  - Gr
 
 🔎:
 
-- Espectacular pantalla Retina de 10,2 pulgadas
-- Altavoces estéreo
-- Hasta 10 horas de autonomía
-- Touch ID para autenticarse deforma segura y usar Apple Pay
-- Chip A12 Bionic con Neural Engine
-- iPadOS 14 con nuevas prestaciones exclusivas para el iPad
-- Cámara trasera de 8 Mpx y cámara frontal FaceTime HD de 1,2 Mpx
-- Redes wifi 802.11ac y 4G LTE Advanced
-- Compatibilidad con el Apple Pencil (1.ªgeneración) y el Smart Keyboard
 - Conector Lightning para cargar el iPad y conectar accesorios
+- Hasta 10 horas de autonomía
+- Compatibilidad con el Apple Pencil (1.ªgeneración) y el Smart Keyboard
+- Redes wifi 802.11ac y 4G LTE Advanced
+- Cámara trasera de 8 Mpx y cámara frontal FaceTime HD de 1,2 Mpx
+- Touch ID para autenticarse deforma segura y usar Apple Pay
+- Altavoces estéreo
+- iPadOS 14 con nuevas prestaciones exclusivas para el iPad
+- Espectacular pantalla Retina de 10,2 pulgadas
+- Chip A12 Bionic con Neural Engine
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08J6KKY9F/?tag=tolees-21)
