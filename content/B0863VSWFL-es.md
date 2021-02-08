@@ -28,15 +28,15 @@ En este momento está [Nuevo Apple iPad Pro  de 11 Pulgadas  con Wi-Fi y 512 G
 
 🔎:
 
-- Hasta 10 horas de autonomía
-- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
 - Redes wifi 802.11ax y 4G LTE Advanced
+- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
+- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
 - Cuatro altavoces y cinco micrófonos con calidad de estudio
 - Face ID para autenticarse de forma segura y usar Apple Pay
 - Chip A12Z Bionic con Neural Engine
 - Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
-- Cámara frontal TrueDepth de 7 Mpx
 - Conector USB-C para cargar el iPad y conectar accesorios
-- Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
+- Hasta 10 horas de autonomía
+- Cámara frontal TrueDepth de 7 Mpx
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0863VSWFL/?tag=tolees-21)
