@@ -28,9 +28,9 @@ Está [NEW C 2 Unidades  Protector de Pantalla para iPhone 7 Plus y iPhone 8 Plu
 
 ℹ️:
 
-- Hecho 0,33 mm de espesor de alta calidad premium de vidrio templado bordes redondeados en exclusiva para iPhone 7 Plus y iPhone 8 Plus
 - NEWC Protector de pantalla de vidrio templado iPhone 7 Plus y iPhone 8 Plus, toque delicado: está recubierto en la parte posterior con un adhesivo de silicona sólido que facilita la instalación y fija la película firmemente para no afectar la sensibilidad de la pantalla táctil. Sin polvo, sin huellas dactilares, un botón, demasiado fácil de instalar, sin burbujas.
 - El Protector de Pantalla para proporciona la máxima protección para la pantalla táctil iPhone 7 Plus y iPhone 8 Plus. El espacio entre el iPhone 7 Plus, iPhone 8 Plus y el protector de pantalla permite el espacio adecuado para la instalación de la mayoría de las carcasas de teléfonos.
+- Hecho 0,33 mm de espesor de alta calidad premium de vidrio templado bordes redondeados en exclusiva para iPhone 7 Plus y iPhone 8 Plus
 - Libre de polvo, huellas dactilares libre, instalación de una pulsación súper easiy, libre de burbujas
 - Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo); De alta respuesta, alta transparencia y alta transparencia
 
