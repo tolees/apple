@@ -30,8 +30,8 @@ Ahora mismo tienes [Tucano-Bolsa para Ordenador  Hombre y Mujer con Bolsillo Par
 
 - Completely foam-padded compartment to protect laptop equipment
 - Shoulder strap with swivel clips prevent twisting
-- Shoulder strap with easy-grip, shock absorbing design
 - Anti-scratch protection
 - External pockets for quick access to accessories
+- Shoulder strap with easy-grip, shock absorbing design
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B003Z12NIS/?tag=tolees-21)
