@@ -29,14 +29,14 @@ En este momento está [Apple Watch Series 3  GPS  con caja de 38 mm de alum
 🔎:
 
 - watchOS con Tendencias de Actividad, Control de Ciclos, innovaciones para tu salud auditiva y el App Store en tu muñeca
-- Chip S3 con procesador de doble núcleo
-- Pantalla Retina
-- Almacenamiento yr eproducción de música, podcasts ya udiolibros
-- Sensor óptico de frecuencia cardiaca
-- Apto para nadar
 - El modelo GPS te permite hacer llamadas y mandar mensajes desde la muñeca.
-- Emergencia SOS con llamadas nacionales
+- Pantalla Retina
+- Apto para nadar
+- Chip S3 con procesador de doble núcleo
 - Caja de aluminio
+- Emergencia SOS con llamadas nacionales
+- Sensor óptico de frecuencia cardiaca
+- Almacenamiento yr eproducción de música, podcasts ya udiolibros
 - El Apple Watch requiere un iPhone 6s o posterior con iOS 14 o posterior
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07HKVTB3T/?tag=tolees-21)
