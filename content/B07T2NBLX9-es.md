@@ -28,9 +28,9 @@ Tienes [Spigen Funda Ultra Hybrid Compatible con iPhone 11 - Transparente](https
 
 🔎:
 
-- Biseles elevados para proteger la pantalla y la cámara de superficies planas
-- Tecnología híbrida hecha de parachoques de TPU y trasera de policarbonato
 - Recortes para que las funciones opcionales sean accesibles
+- Tecnología híbrida hecha de parachoques de TPU y trasera de policarbonato
+- Biseles elevados para proteger la pantalla y la cámara de superficies planas
 - Tecnología de Air cushion para la protección de todas las esquinas
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07T2NBLX9/?tag=tolees-21)
