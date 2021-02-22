@@ -2,7 +2,7 @@
 layout: post
 title: 'Fintie Funda para iPad 4/3 / 2 - [Protec al 17.40 % de descuento'
 date: 2020-08-07 18:20:51
-image: 'https://m.media-amazon.com/images/I/515Or+EaU+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515Or+EaU+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Ahora mismo tienes [Fintie Funda para iPad 4/3 / 2 - [Protección de Esquina] [Multiángulo] Carcasa con Bolsillo y Función de Soporte y Auto-Reposo/Activación  Negro](https://www.amazon.es/dp/B072KZQHMD/?tag=tolees-21) a 18.99 EUR (original: 22.99 EUR) (17.40 %  de descuento) en el siguiente enlace!
 
-[![Fintie Funda para iPad 4/3 / 2 - [Protec](https://m.media-amazon.com/images/I/515Or+EaU+L._SL200_.jpg)](https://www.amazon.es/dp/B072KZQHMD/?tag=tolees-21)
+[![Fintie Funda para iPad 4/3 / 2 - [Protec](https://m.media-amazon.com/images/I/515Or+EaU+L._SL400_.jpg)](https://www.amazon.es/dp/B072KZQHMD/?tag=tolees-21)
 
 🔎:
 
