@@ -28,10 +28,10 @@ Está [JETech 0467- Funda para iPad Air  Edición de 2013   Carcasa con Soporte 
 
 ℹ️:
 
-- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
 - El paquete incluye: Funda iPad Air, tarjeta de servicio al cliente
-- Hecho con PC y PU.Exterior sintético y interior liso para la protección; Despertar automáticamente / poner a dormir Su iPad
+- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
 - Diseñado para iPad Air 1st Edición. No es compatible con el iPad Air 2. Modelos aptos del iPad: A1474/A1475/A1476. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
 - El Smart Cover Con cierre magnético: Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.Tres veces plegables: Conveniente soporte posición para ver la película o escribir
+- Hecho con PC y PU.Exterior sintético y interior liso para la protección; Despertar automáticamente / poner a dormir Su iPad
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00HV51OZM/?tag=tolees-21)

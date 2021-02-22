@@ -28,10 +28,10 @@ Está [JETech Funda para iPad 4  iPad 3 y iPad 2  Carcasa con Soporte Función  
 
 ℹ️:
 
-- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
-- Modelos aptos del iPad: A1395/A1396/A1397/A1416/A1430/A1403/A1458/A1459/A1460. Nota: para las ediciones más tempranas de Apple iPad: iPad 2/3/4 9.7 "NO para iPad posterior, como iPad mini, iPad Air, iPad Pro, NO para el más nuevo 2017 iPad 9.7
-- El paquete incluye: Funda iPad 2/3/4, tarjeta de servicio al cliente
 - El Smart Cover Con cierre magnético: Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.Cuatro veces plegables: Conveniente soporte posición para ver la película o escribir
+- El paquete incluye: Funda iPad 2/3/4, tarjeta de servicio al cliente
+- Modelos aptos del iPad: A1395/A1396/A1397/A1416/A1430/A1403/A1458/A1459/A1460. Nota: para las ediciones más tempranas de Apple iPad: iPad 2/3/4 9.7 "NO para iPad posterior, como iPad mini, iPad Air, iPad Pro, NO para el más nuevo 2017 iPad 9.7
 - Hecho con PC y PU.Exterior sintético y interior liso para la protección; Despertar automáticamente / poner a dormir Su iPad
+- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B00CZ6EZYO/?tag=tolees-21)
