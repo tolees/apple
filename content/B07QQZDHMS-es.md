@@ -28,10 +28,10 @@ Ahora mismo tienes [JETech Funda para iPad Air 2  Carcasa con Soporte Función  
 
 🔎:
 
-- El paquete incluye: Funda iPad Air 2, tarjeta de servicio al cliente
-- Diseñado para iPad Air 2 segundo edición con tecnología Touch ID, NO para iPad Air 1st Edición. Modelos aptos del iPad: A1566/A1567. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
 - Hecho con PC y PU.Exterior sintético y interior liso para la protección; Despertar automáticamente / poner a dormir Su iPad
 - El Smart Cover Con cierre magnético: Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.Tres veces plegables: Conveniente soporte posición para ver la película o escribir
 - Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
+- El paquete incluye: Funda iPad Air 2, tarjeta de servicio al cliente
+- Diseñado para iPad Air 2 segundo edición con tecnología Touch ID, NO para iPad Air 1st Edición. Modelos aptos del iPad: A1566/A1567. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QQZDHMS/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [JETech Funda para iPad Mini 1 2 3  Carcasa con Soporte Función  Auto-Su
 
 ℹ️:
 
+- El paquete incluye: Funda iPad mini 1/2/3, tarjeta de servicio al cliente
 - El Smart Cover Con cierre magnético: Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.Tres veces plegables: Conveniente soporte posición para ver la película o escribir
+- Hecho con PC y PU.Exterior sintético y interior liso para la protección; Despertar automáticamente / poner a dormir Su iPad
 - Diseñado para iPad mini 1/2/3 todos los modelos. NO es compatible con ningún otro modelo de iPad. Modelos aptos del iPad: A1432 / A1454 / A1455 / A1489 / A1490 / A1491 / A1599 / A1600. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
 - Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
-- El paquete incluye: Funda iPad mini 1/2/3, tarjeta de servicio al cliente
-- Hecho con PC y PU.Exterior sintético y interior liso para la protección; Despertar automáticamente / poner a dormir Su iPad
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00HRM5TZA/?tag=tolees-21)

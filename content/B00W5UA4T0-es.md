@@ -28,10 +28,10 @@ Tienes [JETech Protector de Pantalla compatible iPad  9 7 Pulgadas  2018/2017 Mo
 
 ℹ️:
 
-- Libre de polvo, huellas dactilares libre, de una pulsación muy fácil instalación, sin burbujas
 - Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo).Alta respuesta y alta transparencia
+- Libre de polvo, huellas dactilares libre, de una pulsación muy fácil instalación, sin burbujas
 - Hecho con vidrio templado de primera calidad de 0,33 mm de espesor con bordes redondeados
-- El paquete incluye: templado protector de pantalla de cristal, paño de limpieza, la instrucción, tarjeta de servicio al cliente
 - Compatible con: iPad Air 1, iPad Air 2, iPad Pro 9,7,el nuevo iPad 9,7 pulgadas (2018/2017 modelo). Modelos de iPad aptos: A1474/A1475/A1476/A1566/A1567/A1822/A1823/A1673/A1674/A1675/A1893/A1954
+- El paquete incluye: templado protector de pantalla de cristal, paño de limpieza, la instrucción, tarjeta de servicio al cliente
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00W5UA4T0/?tag=tolees-21)
