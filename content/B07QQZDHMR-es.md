@@ -28,10 +28,10 @@ Ahora mismo tienes [JETech Protector de Pantalla Compatible con iPad 8/7  10 2 P
 
 🔎:
 
-- Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo)
 - Hecho con vidrio templado de primera calidad de 0,33 mm de espesor con bordes redondeados. Alta respuesta y alta transparencia
 - 2 Unidades. Exclusivamente para iPad 8 / 7 (10,2 Pulgadas, 2020 / 2019 Modelo) iPad Air 3 (10,5 Pulgadas, 2019) and iPad Pro 10,5 (2017). NO es compatible con ningún otro modelo de iPad
-- Libre de polvo, huellas dactilares libre, de una pulsación muy fácil instalación, sin burbujas
 - El paquete minorista incluye: 2 paquete de protector de pantalla de vidrio templado, paño de limpieza, varilla para quitar el polvo, varilla guía, instrucciones, tarjeta de servicio al cliente
+- Libre de polvo, huellas dactilares libre, de una pulsación muy fácil instalación, sin burbujas
+- Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QQZDHMR/?tag=tolees-21)

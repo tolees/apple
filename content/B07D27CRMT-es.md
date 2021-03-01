@@ -28,10 +28,10 @@ Ahora mismo tienes [HOMIEE Funda Protectora de Fieltro para portátiles de 13-13
 
 🔎:
 
-- ★ Accesorios adicionales: la bolsa de fieltro contiene un cojín y una bolsa de accesorios. Puede usar el teclado para llenar la computadora o usarlo como mouse pad, y la bolsa de accesorios se puede usar para sostener otros accesorios
-- ★ Almacenamiento multifuncional: la bolsa de fieltro tiene 2 compartimentos y 2 bolsillos adicionales. El compartimento principal puede contener una computadora portátil y el compartimento puede contener revistas, Kindle o iPad. 2 bolsillos adicionales para teléfonos móviles, auriculares, billeteras, tarjetas de identificación ect
 - ★ Ligero y conveniente: el diseño liviano le permite transportarlo fácilmente. Esta bolsa de fieltro es perfecta para el uso diario. También es ideal para negocios, viajes y escuela. Puedes ponerlo fácilmente en tu maletín, mochila o cualquier otra bolsa
 - ★Alta compatibilidad: Dimensiones externas: 36.4 * 25.6 * 0.6, dimensiones internas: 35.2 * 24 * 0.6, adecuado para los siguientes modelos: MacBook Pro Retina 13.3 "(A1425 / A1437 / A1502), MacBook Air 13.3" (A1369 / A1406 / A1466 / A1496 / A1181 ), IPad Pro 12.9 ", Surface Pro 12.3", Latitude 12, HP Spectre 13.3", HP EliteBook 820 12.5 ", Asus Zenbook UX301 13.3", Lenovo IdeaPad 100S 11.6 "
+- ★ Accesorios adicionales: la bolsa de fieltro contiene un cojín y una bolsa de accesorios. Puede usar el teclado para llenar la computadora o usarlo como mouse pad, y la bolsa de accesorios se puede usar para sostener otros accesorios
 - ★ Protección de 360°: Tanto el interior como el exterior de las bolsas de fieltro HOMIEE utilizan materiales suaves para proteger su computadora del polvo, la suciedad, los rasguños y los impactos. Los sellos de velcro son más convenientes de usar
+- ★ Almacenamiento multifuncional: la bolsa de fieltro tiene 2 compartimentos y 2 bolsillos adicionales. El compartimento principal puede contener una computadora portátil y el compartimento puede contener revistas, Kindle o iPad. 2 bolsillos adicionales para teléfonos móviles, auriculares, billeteras, tarjetas de identificación ect
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07D27CRMT/?tag=tolees-21)
