@@ -28,9 +28,9 @@ Está [YOSH Funda Impermeable Móvil IPX8  Bolsa para Móvil Estanca a Prueba de
 
 ℹ️:
 
+- Tamaño Universal: Compatible con todo tipo de teléfonos móviles de longitud diagonal inferior a 6,9 pulgadas. Tales como el iPhone X, 8, 7, 7Plus, 6, 6s, 6Plus, Samsung Galaxy S9 S8, S7, J5, J3, LG V30, HTC U12+, HUAWEI P20 P10 etc. Ofrecer espacio adicional para tarjetas de crédito, dinero en efectivo, pasaporte y la identificación también.
 - Garantía y contacto con el vendedor: YOSH ofrece una garantía de 18 meses para nuestros productos, y puede solicitar una garantía extendida de acuerdo con las instrucciones para una GARANTÍA DE POR VIDA. Puede contactarnos a través de amzn.to/3cIkd88 y nuestro equipo de atención al cliente se comunicará con usted dentro de las 24 horas. También puede encontrarnos enviando correos electrónicos a support@yoshforyouth.com.
 - Resistente: Protege tus objetos personales del agua, la nieve, la arena y el polvo. Puedes disfrutar de tus actividades de exterior preferidas sin ningún tipo de preocupación. Tales como buceo, correr, nadar, surfear, pescar, remar un barco, acampar y viajar. Además, contiene el cordón, puedes ponerlo alrededor del cuello o envolverlo en la mano, muy fácil de llevar.
-- Tamaño Universal: Compatible con todo tipo de teléfonos móviles de longitud diagonal inferior a 6,9 pulgadas. Tales como el iPhone X, 8, 7, 7Plus, 6, 6s, 6Plus, Samsung Galaxy S9 S8, S7, J5, J3, LG V30, HTC U12+, HUAWEI P20 P10 etc. Ofrecer espacio adicional para tarjetas de crédito, dinero en efectivo, pasaporte y la identificación también.
 - Resistencia Superior Al Agua: Certificado IPX8. Todas nuestras funda impermeable móvil son sometidas a la prueba de inmersión en agua durante un mínimo de 30 minutos para una total seguridad de todos nuestros usuarios. El certificado IPX8 le permite bucear a 30 m de profundidad de agua.
 - Flexibilidad: Ofrece una sencilla toma de fotos, videos y manipulación.( El botón de inicio del iPhone funciona también). Es transparente en dos lados para que pueda tomar fotografías con la cámara frontal y posterior de su móvil. También puede enviar mensajes, revisar el correo y contestar el teléfono.
 
