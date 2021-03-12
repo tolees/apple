@@ -28,8 +28,8 @@ Ahora mismo tienes [Tommy Hilfiger Boys Gingham Shirt L/s Blusa  Rojo  Apple Red
 
 🔎:
 
-- Cinta distintiva en el interior del cuello
 - Costuras a contraste en el botón final
 - Logo de Tommy Hilfiger bordado en el pecho
+- Cinta distintiva en el interior del cuello
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QPTQGJ7/?tag=tolees-21)
