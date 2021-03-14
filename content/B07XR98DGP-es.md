@@ -28,14 +28,14 @@ En este momento está [Apple Funda Transparente  para el iPhone 11 Pro ](https:/
 
 🔎:
 
-- Tanto la superficie exterior como la interior cuentan con un revestimiento resistente a los arañazos.
-- Esta funda diseñada por Apple es ligera y fácil de sujetar. Protege tu iPhone 11 Pro y deja todo el protagonismo a su acabado de color brillante.
-- Hasta con funda y todo.
-- Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
 - Para el iPhone 11 Pro
-- La parte trasera está diseñada para ser dura y resistente, mientras que los laterales son de un material más suave y flexible que se adapta como un guante a la forma de los botones.
+- Tanto la superficie exterior como la interior cuentan con un revestimiento resistente a los arañazos.
+- Hasta con funda y todo.
+- Esta funda diseñada por Apple es ligera y fácil de sujetar. Protege tu iPhone 11 Pro y deja todo el protagonismo a su acabado de color brillante.
+- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
 - Y todos los materiales se han optimizado para que no amarilleen con el tiempo.
 - Y puedes cargar el iPhone sin cables poniéndolo directamente sobre una base de carga inalámbrica Qi.
-- Como todas las fundas de Apple, se ha sometido a miles de horas de pruebas a lo largo de todo el proceso de diseño y fabricación.
+- Para que protejas tu iPhone de arañazos y caídas sin renunciar al estilo.
+- La parte trasera está diseñada para ser dura y resistente, mientras que los laterales son de un material más suave y flexible que se adapta como un guante a la forma de los botones.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07XR98DGP/?tag=tolees-21)
