@@ -28,10 +28,10 @@ Ahora mismo tienes [ESR 2 Pack Protector de Pantalla Compatible con iPhone 11 Pr
 
 🔎:
 
-- ★★Garantía de por Vida★★: ESR ofrece servicio al cliente profesional, la protección de pantalla ESR para iPhone Xs Max está garantizada de por vida. ★★
-- [5X Más Fuerte]: el protector de pantalla ESR para iPhone se ha sometido a 5 procesos de temperatura y puede soportar una presión de 11 libras, protegiendo la pantalla de otros tipos de daños.
-- [Kit de Limpieza]: El adhesivo de eliminación de polvo y la tela incluidos garantizan una aplicación sin burbujas ni polvo.
-- [Compatible con Reconocimiento Facial]: diseñado minuciosamente para el iPhone Xs Max, no causa ningún tipo de interferencia con la función de reconocimiento facial. (Diseñado exclusivamente para Apple iPhone Xs Max)
 - [3D + Protección Máxima]: Bordes curvados especialmente diseñados para proteger su precioso iPhone Xs Max del polvo y de las fracturas en los bordes, protegiendo efectivamente tu iPhone.
+- [Compatible con Reconocimiento Facial]: diseñado minuciosamente para el iPhone Xs Max, no causa ningún tipo de interferencia con la función de reconocimiento facial. (Diseñado exclusivamente para Apple iPhone Xs Max)
+- [5X Más Fuerte]: el protector de pantalla ESR para iPhone se ha sometido a 5 procesos de temperatura y puede soportar una presión de 11 libras, protegiendo la pantalla de otros tipos de daños.
+- ★★Garantía de por Vida★★: ESR ofrece servicio al cliente profesional, la protección de pantalla ESR para iPhone Xs Max está garantizada de por vida. ★★
+- [Kit de Limpieza]: El adhesivo de eliminación de polvo y la tela incluidos garantizan una aplicación sin burbujas ni polvo.
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07G42KLZZ/?tag=tolees-21)
