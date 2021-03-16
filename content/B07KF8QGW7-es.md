@@ -5,7 +5,7 @@ date: 2020-08-07 04:29:24
 image: 'https://m.media-amazon.com/images/I/31yMH8VIMcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF8QGW7-es Ringke Soporte para Portátil [Negro] Soporte Adhesivo...'
 sku: 'B07KF8QGW7-es'
 tags: [ 'ipad', ]

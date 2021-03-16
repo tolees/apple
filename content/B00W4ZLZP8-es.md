@@ -5,7 +5,7 @@ date: 2020-09-27 22:59:55
 image: 'https://m.media-amazon.com/images/I/31YLEc--vWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W4ZLZP8-es JETech Funda Compatible iPad Pro 12 9 Modelo 2015 y 2017...'
 sku: 'B00W4ZLZP8-es'
 tags: [ 'ipad', ]

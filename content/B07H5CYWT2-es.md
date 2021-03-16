@@ -5,7 +5,7 @@ date: 2020-08-26 22:12:33
 image: 'https://m.media-amazon.com/images/I/41vg1+RhCiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5CYWT2-es Soporte de Escritorio para iPad tabletas lectores...'
 sku: 'B07H5CYWT2-es'
 tags: [ 'ipad', ]

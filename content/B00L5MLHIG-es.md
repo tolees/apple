@@ -5,7 +5,7 @@ date: 2020-06-28 22:08:13
 image: 'https://m.media-amazon.com/images/I/51sefdNGwUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L5MLHIG-es doupi Deluxe Protección Funda para iPad Mini 1 2 3 Smart...'
 sku: 'B00L5MLHIG-es'
 tags: [ 'ipad', ]

@@ -5,7 +5,7 @@ date: 2020-09-27 23:02:03
 image: 'https://m.media-amazon.com/images/I/31l7asoIJaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QMSVWGP-es JETech Funda para iPad 9 7 Pulgadas 2018/2017 Modelo...'
 sku: 'B07QMSVWGP-es'
 tags: [ 'ipad', ]

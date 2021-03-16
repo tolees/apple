@@ -5,7 +5,7 @@ date: 2020-07-09 22:08:34
 image: 'https://m.media-amazon.com/images/I/31GouFHupXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MG82ZN8-es UrbanX 12W Cargador Portátil USB Power Adapter y USB Cable...'
 sku: 'B07MG82ZN8-es'
 tags: [ 'ipad', ]

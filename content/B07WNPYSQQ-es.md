@@ -5,7 +5,7 @@ date: 2020-05-20 02:05:20
 image: 'https://m.media-amazon.com/images/I/51yqcVcXAmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WNPYSQQ-es ESR Funda para iPad 10.2 Inteligente Serie Yippee Trifold...'
 sku: 'B07WNPYSQQ-es'
 tags: [ 'ipad', ]

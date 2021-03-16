@@ -5,7 +5,7 @@ date: 2020-05-12 16:21:38
 image: 'https://m.media-amazon.com/images/I/41CsSKdW4+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WWSM9JS-es ESR Funda para iPad 10.2 Inteligente Serie Rebound Slim...'
 sku: 'B07WWSM9JS-es'
 tags: [ 'ipad', ]

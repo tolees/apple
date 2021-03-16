@@ -5,7 +5,7 @@ date: 2020-09-28 00:05:50
 image: 'https://m.media-amazon.com/images/I/51tb9P90+6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B017EADYHE-es JETech 0902- Protector de Pantalla para iPad Pro 12 9...'
 sku: 'B017EADYHE-es'
 tags: [ 'ipad', ]

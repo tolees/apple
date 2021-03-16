@@ -5,7 +5,7 @@ date: 2020-09-27 23:03:38
 image: 'https://m.media-amazon.com/images/I/415h7tHkFwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJ5G6DK-es JETech Funda para iPad Air Carcasa con Soporte Función...'
 sku: 'B07HJ5G6DK-es'
 tags: [ 'ipad', ]

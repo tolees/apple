@@ -5,7 +5,7 @@ date: 2020-08-17 09:54:18
 image: 'https://m.media-amazon.com/images/I/41LaybqF3wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00QWRISRC-es JETech 3045- Funda para iPad Air 2 Carcasa con Soporte...'
 sku: 'B00QWRISRC-es'
 tags: [ 'ipad', ]

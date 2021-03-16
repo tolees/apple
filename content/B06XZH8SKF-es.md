@@ -5,7 +5,7 @@ date: 2020-08-17 01:01:20
 image: 'https://m.media-amazon.com/images/I/31jvbi-CvHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XZH8SKF-es JETech Funda para iPad 9 7 Pulgadas 2018/2017 Modelo 6ª /...'
 sku: 'B06XZH8SKF-es'
 tags: [ 'ipad', ]

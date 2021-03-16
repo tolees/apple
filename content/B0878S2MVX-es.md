@@ -5,7 +5,7 @@ date: 2020-08-26 07:29:45
 image: 'https://m.media-amazon.com/images/I/41o9+oogmHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0878S2MVX-es Kdely Cable USB C to HDMI 4K@60Hz Adaptador Tipo C a HDMI...'
 sku: 'B0878S2MVX-es'
 tags: [ 'ipad', ]

@@ -5,7 +5,7 @@ date: 2020-05-11 11:26:01
 image: 'https://m.media-amazon.com/images/I/51nnKqLJkSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C3S24WB-es Soporte de iPad para el Coche TFY Soporte de iPad para...'
 sku: 'B07C3S24WB-es'
 tags: [ 'ipad', ]

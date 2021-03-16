@@ -5,7 +5,7 @@ date: 2020-07-09 01:02:34
 image: 'https://m.media-amazon.com/images/I/31RigKkf79L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DNTQF9A-es Leitz 44730001 - Cuaderno de notas tamaño iPad...'
 sku: 'B00DNTQF9A-es'
 tags: [ 'ipad', ]

@@ -5,7 +5,7 @@ date: 2020-09-27 23:03:11
 image: 'https://m.media-amazon.com/images/I/51rBBS71hOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q55RXK1-es JETech Funda Compatible iPad 9 7 Pulgadas 2018/2017 Modelo...'
 sku: 'B07Q55RXK1-es'
 tags: [ 'ipad', ]

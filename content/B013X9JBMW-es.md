@@ -5,7 +5,7 @@ date: 2020-09-27 23:01:47
 image: 'https://m.media-amazon.com/images/I/31gY3hdsBPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013X9JBMW-es JETech 3282- Funda para iPad mini 4 Carcasa con Soporte...'
 sku: 'B013X9JBMW-es'
 tags: [ 'ipad', ]

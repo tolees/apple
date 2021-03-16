@@ -5,7 +5,7 @@ date: 2020-08-19 05:31:23
 image: 'https://m.media-amazon.com/images/I/31l9x+jRSBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPPN853-es DANGZW Lápiz Stylus para iPad Recargable Lápiz óptico...'
 sku: 'B07VPPN853-es'
 tags: [ 'ipad', ]
