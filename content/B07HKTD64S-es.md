@@ -28,15 +28,15 @@ Tienes [Apple Watch Series 3  GPS  42mm  Aluminio en Gris Espacial - Correa De
 
 🔎:
 
-- Sensor óptico de frecuencia cardiaca
-- Almacenamiento yr eproducción de música, podcasts ya udiolibros
 - El modelo GPS te permite hacer llamadas y mandar mensajes desde la muñeca.
 - watchOS con Tendencias de Actividad, Control de Ciclos, innovaciones para tu salud auditiva y el App Store en tu muñeca
-- Apto para nadar
-- Emergencia SOS con llamadas nacionales
+- Almacenamiento yr eproducción de música, podcasts ya udiolibros
 - El Apple Watch requiere un iPhone 6s o posterior con iOS 14 o posterior
+- Apto para nadar
 - Pantalla Retina
-- Caja de aluminio
 - Chip S3 con procesador de doble núcleo
+- Emergencia SOS con llamadas nacionales
+- Sensor óptico de frecuencia cardiaca
+- Caja de aluminio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07HKTD64S/?tag=tolees-21)
