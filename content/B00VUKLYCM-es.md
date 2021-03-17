@@ -28,8 +28,8 @@ Tienes [Apple Adaptador de USB-C a USB](https://www.amazon.es/dp/B00VUKLYCM/?tag
 
 ℹ️:
 
-- Apple Adaptador de USB-C a USB
-- Con el Adaptador de USB-C a USB puedes conectar tus dispositivos iOS y muchos de los accesorios USB estándar a tu MacBook con USB-C.*Colócalo en el puerto USB-C y podrás conectar memorias flash, cámaras y otros accesorios USB estándar. También puedes usar un cable USB para sincronizar y cargar tu iPhone, iPad o iPod.
 - Algunos accesorios USB no son compatibles.
+- Con el Adaptador de USB-C a USB puedes conectar tus dispositivos iOS y muchos de los accesorios USB estándar a tu MacBook con USB-C.*Colócalo en el puerto USB-C y podrás conectar memorias flash, cámaras y otros accesorios USB estándar. También puedes usar un cable USB para sincronizar y cargar tu iPhone, iPad o iPod.
+- Apple Adaptador de USB-C a USB
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B00VUKLYCM/?tag=tolees-21)
