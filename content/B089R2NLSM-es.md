@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089R2NLSM-es Ranura para Tarjeta de Rayas Funda de Cuero sintético con...'
 sku: 'B089R2NLSM-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
 actualPrice: 3.17 EUR
 currency: EUR
 price: 3.17

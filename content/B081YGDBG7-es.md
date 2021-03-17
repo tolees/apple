@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081YGDBG7-es uni Hub USB C 8 en 1 USB C Hub con un Conector extraíble y...'
 sku: 'B081YGDBG7-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

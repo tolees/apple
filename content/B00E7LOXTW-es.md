@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E7LOXTW-es Belkin F8J088bt - Base con cable USB de 1 2 m integrado...'
 sku: 'B00E7LOXTW-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

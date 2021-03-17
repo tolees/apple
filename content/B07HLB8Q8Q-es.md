@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HLB8Q8Q-es Apple iPhone XS Max de 256GB - Gris espacial'
 sku: 'B07HLB8Q8Q-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','iphone', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','iphone', ]
 actualPrice: 929.65 EUR
 currency: EUR
 price: 929.65

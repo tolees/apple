@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008MJKW54-es Boxer Gifts - Carcasa para iPhone 4/4s diseño con Texto LMAO'
 sku: 'B008MJKW54-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
 actualPrice: 9.07 EUR
 currency: EUR
 price: 9.07

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071G2HSLB-es Apple Funda de piel para el iPad Pro de 10 5 pulgadas -...'
 sku: 'B071G2HSLB-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','ipad', ]
 actualPrice: 75.64 EUR
 currency: EUR
 price: 75.64

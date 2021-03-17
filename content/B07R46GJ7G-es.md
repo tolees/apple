@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R46GJ7G-es Yosh Funda Impermeable para teléfono móvil Compatible con...'
 sku: 'B07R46GJ7G-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

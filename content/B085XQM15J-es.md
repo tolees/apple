@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XQM15J-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
 sku: 'B085XQM15J-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

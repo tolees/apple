@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NZJXWB-es Apple - Funda de Piel para el iPad Pro de 10 5 Pulgadas -...'
 sku: 'B075NZJXWB-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','ipad', ]
 actualPrice: 71.39 EUR
 currency: EUR
 price: 71.39

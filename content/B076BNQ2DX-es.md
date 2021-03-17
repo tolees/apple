@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BNQ2DX-es Protector de pantalla de vidrio templado para iPhone 7 y 8...'
 sku: 'B076BNQ2DX-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
 actualPrice: 3.82 EUR
 currency: EUR
 price: 3.82

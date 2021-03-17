@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0852XNCK4-es LAQI Funda para Apple iPad Pro 10.5 2017 iPad Air 3 2019...'
 sku: 'B0852XNCK4-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','ipad', ]
 actualPrice: 4.57 EUR
 currency: EUR
 price: 4.57

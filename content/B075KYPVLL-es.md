@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KYPVLL-es Apple Funda Leather Case para el iPhone 8 Plus / iPhone 7...'
 sku: 'B075KYPVLL-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','iphone', ]
+tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','iphone', ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0
