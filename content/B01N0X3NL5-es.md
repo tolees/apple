@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0X3NL5-es Anker PowerCore Speed 20000 Cargador Móvil Portátil rápido...'
 sku: 'B01N0X3NL5-es'
-tags: [ 'ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad','iphone', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

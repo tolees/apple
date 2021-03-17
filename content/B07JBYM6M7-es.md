@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JBYM6M7-es E EGOWAY - Batería de Repuesto para Apple MacBook Pro...'
 sku: 'B07JBYM6M7-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 64.59 EUR
 currency: EUR
 price: 64.59

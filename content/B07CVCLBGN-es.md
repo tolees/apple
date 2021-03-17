@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVCLBGN-es Tryone Soporte Tablet Móvil Multiángulo - Soporte con...'
 sku: 'B07CVCLBGN-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

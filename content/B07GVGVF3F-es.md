@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVGVF3F-es LIFEGOO Mini T Auriculares inalambricos Bluetooth 5.0...'
 sku: 'B07GVGVF3F-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 10 EUR
 currency: EUR
 price: 10

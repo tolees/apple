@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086BZ97QZ-es Oihxse Funda Compatible con iPhone 7 Plus/iPhone 8 Plus...'
 sku: 'B086BZ97QZ-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

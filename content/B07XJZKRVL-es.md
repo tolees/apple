@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJZKRVL-es Sternitz Botella de Agua Hydra Acero Inoxidable con...'
 sku: 'B07XJZKRVL-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

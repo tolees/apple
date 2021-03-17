@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMPYF8Q-es Nuevo 8 Cnady Colors Stylus Pen Crystal 2 in1 Pantalla...'
 sku: 'B07TMPYF8Q-es'
-tags: [ 'ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad','iphone', ]
 actualPrice: 0.14 EUR
 currency: EUR
 price: 0.14

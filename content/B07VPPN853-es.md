@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VPPN853-es DANGZW Lápiz Stylus para iPad Recargable Lápiz óptico...'
 sku: 'B07VPPN853-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

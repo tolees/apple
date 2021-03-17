@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BCIS5I8-es Belkin MIXIT - Cable de Lightning a USB con certificación...'
 sku: 'B00BCIS5I8-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 12.18 EUR
 currency: EUR
 price: 12.18

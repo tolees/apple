@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JG131ST-es Fullmosa Compatible Correa Apple Watch Series 5 Series 4...'
 sku: 'B07JG131ST-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

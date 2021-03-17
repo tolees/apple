@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WWSM9JS-es ESR Funda para iPad 10.2 Inteligente Serie Rebound Slim...'
 sku: 'B07WWSM9JS-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

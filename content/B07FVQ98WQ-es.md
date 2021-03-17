@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVQ98WQ-es Eazyhurry - Funda con tapa para iPhone 6 y 6S incluye...'
 sku: 'B07FVQ98WQ-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

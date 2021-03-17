@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W2KY1VD-es AUKEY Soporte Coche Móvil Magnetico 2 Pack Salpicadero...'
 sku: 'B06W2KY1VD-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

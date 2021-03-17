@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G2BP87N-es TACKLIFE Juego de Destornilladores de Precisión...'
 sku: 'B07G2BP87N-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

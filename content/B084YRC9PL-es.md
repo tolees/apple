@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YRC9PL-es AR-Gun Brazalete Deportivo Pack 2 uds valido para...'
 sku: 'B084YRC9PL-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

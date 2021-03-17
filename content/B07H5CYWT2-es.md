@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5CYWT2-es Soporte de Escritorio para iPad tabletas lectores...'
 sku: 'B07H5CYWT2-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

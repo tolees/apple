@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHBP5RC-es HOTLIFE Funda iPad Air 3 10.5 2019/iPad Pro 10.5 2017...'
 sku: 'B07VHBP5RC-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 10.95 EUR
 currency: EUR
 price: 10.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B017EADYHE-es JETech 0902- Protector de Pantalla para iPad Pro 12 9...'
 sku: 'B017EADYHE-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

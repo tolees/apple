@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XS7G71Y-es Apple Funda Smart Cover para el iPad - Gris carbón'
 sku: 'B06XS7G71Y-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

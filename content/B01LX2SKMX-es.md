@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX2SKMX-es Belkin Valet Charger - Batería externa de 6700 mAh para...'
 sku: 'B01LX2SKMX-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','iphone', ]
 actualPrice: 83.34 EUR
 currency: EUR
 price: 83.34

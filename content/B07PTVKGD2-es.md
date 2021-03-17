@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PTVKGD2-es Apple iPad mini - Tablet 20 1 cm 7.9" 2048 x 1536 Pixeles...'
 sku: 'B07PTVKGD2-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 561.71 EUR
 currency: EUR
 price: 561.71

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B1HXYCV-es Anillo de Luz con Tripode doosl 10" Regulables Selfies...'
 sku: 'B08B1HXYCV-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

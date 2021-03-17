@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PR44HV8-es Unidad Memoria Flash USB 3.0 128GB Memoria Lápiz Drive OTG...'
 sku: 'B07PR44HV8-es'
-tags: [ 'ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad','iphone', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

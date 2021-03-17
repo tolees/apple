@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYXWM2K-es OurLeeme Iluminación para lectura Brillo de 4 niveles...'
 sku: 'B07MYXWM2K-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZK3M3-es Charms Bling Glitter Funda ultradelgada para teléfono...'
 sku: 'B083HZK3M3-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W96J8SD-es Auriculares Bluetooth Orit Auriculares inalámbricos...'
 sku: 'B07W96J8SD-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

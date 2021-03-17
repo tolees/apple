@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015HZYEHC-es Apple iPad mini 4 Wi-Fi 128GB - Gris espacial Modelo...'
 sku: 'B015HZYEHC-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 339 EUR
 currency: EUR
 price: 339

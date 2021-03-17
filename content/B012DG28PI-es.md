@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B012DG28PI-es KHOMO Funda iPad PRO 9.7 - Carcasa Roja y Negra Protectora...'
 sku: 'B012DG28PI-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

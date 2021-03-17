@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0876YGD8Q-es Funda Transparente Compatible para iPhone SE2/iPhone 9...'
 sku: 'B0876YGD8Q-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

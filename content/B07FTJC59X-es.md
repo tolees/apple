@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTJC59X-es BONAI Bateria Externa Wireless 12000mAh 2 In 1 Cargador...'
 sku: 'B07FTJC59X-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

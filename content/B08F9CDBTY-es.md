@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F9CDBTY-es Voova Funda Portatil 11-11.6 11.3 Pulgada Upgraded...'
 sku: 'B08F9CDBTY-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

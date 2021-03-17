@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074PJJQ3Q-es Osram Smart + Apple homekit Classic A RGBW LED Bombilla En...'
 sku: 'B074PJJQ3Q-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 33.69 EUR
 currency: EUR
 price: 33.69

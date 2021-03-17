@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7JH8TM-es Otterbox Symmetry Clear - Funda Anti-Caídas Fina y...'
 sku: 'B07V7JH8TM-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','iphone', ]
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

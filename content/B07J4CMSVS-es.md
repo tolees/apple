@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4CMSVS-es Apple iPad Air 2 64GB Wi-Fi - Gris Espacial Reacondicionado'
 sku: 'B07J4CMSVS-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 319.0 EUR
 currency: EUR
 price: 319.0

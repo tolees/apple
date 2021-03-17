@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VBPRLP-es Oihxse Silicona Matorral Funda Compatible con iPhone 11...'
 sku: 'B081VBPRLP-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

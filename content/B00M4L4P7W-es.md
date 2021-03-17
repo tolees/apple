@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M4L4P7W-es Apple iPad Air 32GB Wi-Fi - Silver Reacondicionado'
 sku: 'B00M4L4P7W-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 190.0 EUR
 currency: EUR
 price: 190.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AS1ZAD2-es KHOMO Funda iPad Air 1 - Carcasa Gris Protectora Ultra...'
 sku: 'B01AS1ZAD2-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 10.13 EUR
 currency: EUR
 price: 10.13

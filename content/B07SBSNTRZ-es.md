@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SBSNTRZ-es Memoria Flash 4 en 1 128 GB Compatible con iPhone y...'
 sku: 'B07SBSNTRZ-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

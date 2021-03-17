@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2RP83T-es Apple iPad Pro 11 pulgadas Wi-Fi 512GB - Gris Espacial...'
 sku: 'B07K2RP83T-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 1045.0 EUR
 currency: EUR
 price: 1045.0

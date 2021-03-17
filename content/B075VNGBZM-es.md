@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075VNGBZM-es AUKEY Bateria Externa 20000mAh Cargador Portatil con 2...'
 sku: 'B075VNGBZM-es'
-tags: [ 'ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad','iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

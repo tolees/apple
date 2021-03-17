@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9THKDH-es Apple Funda Leather Folio para el iPhone XS Max - Azul cabo'
 sku: 'B07H9THKDH-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','iphone', ]
 actualPrice: 33.63 EUR
 currency: EUR
 price: 33.63

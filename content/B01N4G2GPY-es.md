@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4G2GPY-es Thule TSA313 - Maletín Resistente para Apple MacBook de...'
 sku: 'B01N4G2GPY-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 57.55 EUR
 currency: EUR
 price: 57.55

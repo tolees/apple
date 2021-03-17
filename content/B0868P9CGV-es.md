@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0868P9CGV-es ZOZOSEP Fundas para Apple iPad Mini 3 iPad Mini 2/1 Case...'
 sku: 'B0868P9CGV-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 2.26 EUR
 currency: EUR
 price: 2.26

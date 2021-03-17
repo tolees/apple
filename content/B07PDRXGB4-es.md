@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PDRXGB4-es Belkin Boost Up Soporte de carga inalámbrica de 10 W...'
 sku: 'B07PDRXGB4-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

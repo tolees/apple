@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0851FQFVL-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
 sku: 'B0851FQFVL-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

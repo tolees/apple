@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6GTJ1L-es Apple MacBook Air de 13 pulgadas Último Modelo 8GB RAM...'
 sku: 'B07V6GTJ1L-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 1139.0 EUR
 currency: EUR
 price: 1139.0

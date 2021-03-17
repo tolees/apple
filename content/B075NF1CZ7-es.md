@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NF1CZ7-es VEENAX HS3 Auriculares Inalámbricos Over-Ear Altavoz...'
 sku: 'B075NF1CZ7-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 28.11 EUR
 currency: EUR
 price: 28.11

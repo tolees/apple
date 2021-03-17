@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ3CB8-es Friends Impreso TPU A Prueba de Golpes Ligero Ultra...'
 sku: 'B083HZ3CB8-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 1.55 EUR
 currency: EUR
 price: 1.55

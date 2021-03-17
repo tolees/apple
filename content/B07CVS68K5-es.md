@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVS68K5-es Aukey - Cargador USB C de 30 W cargador rápido portátil...'
 sku: 'B07CVS68K5-es'
-tags: [ 'ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad','iphone', ]
 actualPrice: 17.56 EUR
 currency: EUR
 price: 17.56

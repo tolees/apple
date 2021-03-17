@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QTXZO62-es Munchkin Platos con compartimentos Apple 3 unidades'
 sku: 'B00QTXZO62-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

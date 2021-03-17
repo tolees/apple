@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6S4KVX-es KHOMO Carcasa Funda Trasera Semi Transparente para Apple...'
 sku: 'B07D6S4KVX-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

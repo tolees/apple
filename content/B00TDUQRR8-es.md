@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TDUQRR8-es Belkin F8M730btGRY - Cargador Premium para el coche USB 12...'
 sku: 'B00TDUQRR8-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 9.8 EUR
 currency: EUR
 price: 9.8

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HD1XLBK-es Apple Watch Correa rosa peonía con hebilla moderna 40mm -...'
 sku: 'B07HD1XLBK-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 37.08 EUR
 currency: EUR
 price: 37.08

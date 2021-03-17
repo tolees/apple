@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082F6HGF8-es Oihxse Mirror Funda Compatible con iPhone 11 Pro Espejo de...'
 sku: 'B082F6HGF8-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 10.98 EUR
 currency: EUR
 price: 10.98

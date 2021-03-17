@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LZXWIRP-es Tribe Star Wars - Cable USB Lightning para Apple iPhone...'
 sku: 'B01LZXWIRP-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','iphone', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

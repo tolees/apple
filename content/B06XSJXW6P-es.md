@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XSJXW6P-es RLSOCO Externo CD Burner CD-RW DVD-R Combo Reader Writer...'
 sku: 'B06XSJXW6P-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

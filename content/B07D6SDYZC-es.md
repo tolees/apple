@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6SDYZC-es KHOMO - Funda para iPad de 9 7 Pulgadas 2017 y 2018 Serie...'
 sku: 'B07D6SDYZC-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 10.41 EUR
 currency: EUR
 price: 10.41

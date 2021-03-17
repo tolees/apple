@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K4G9W5S-es ESR Protector Pantalla para iPhone 7 Plus/8 Plus [2...'
 sku: 'B01K4G9W5S-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','iphone', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

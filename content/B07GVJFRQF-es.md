@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVJFRQF-es Lápiz Stylus Pen 40 Horas de Trabajo Continuo y de 30 días...'
 sku: 'B07GVJFRQF-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','ipad', ]
 actualPrice: 32.69 EUR
 currency: EUR
 price: 32.69

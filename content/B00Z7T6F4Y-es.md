@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7T6F4Y-es OtterBox Defender - Funda de protección triple capa para...'
 sku: 'B00Z7T6F4Y-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple','ipad', ]
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

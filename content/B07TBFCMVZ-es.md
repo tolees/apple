@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TBFCMVZ-es HolyHigh Auriculares Bluetooth 5.0 Inalámbricos Deportivos...'
 sku: 'B07TBFCMVZ-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

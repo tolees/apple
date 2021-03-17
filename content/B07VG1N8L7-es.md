@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VG1N8L7-es ivencase Funda para iPhone 11 Pro Carcasa Transparente...'
 sku: 'B07VG1N8L7-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','iphone', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98
