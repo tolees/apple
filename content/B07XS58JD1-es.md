@@ -28,14 +28,14 @@ Está [Apple iPhone 11 Pro  512 GB  - de en Verde Noche](https://www.amazon.es/
 
 ℹ️:
 
-- Carga inalámbrica
 - Sistema de triple cámara de 12 mpx con gran angular, ultra gran angular y teleobjetivo; modo noche, modo retrato y vídeo 4k hasta 60 f/s
-- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
 - Face id para autenticarse deforma segura y usar applepay
-- Pantalla OLED super retina xdr de 5,8 pulgadas
+- Ios con modo oscuro, más herramientas para editar fotos y vídeos, y nuevas prestaciones de privacidad
+- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
 - Cámara frontal truedepth de 12 mpx con modo retrato, vídeo 4k y grabación a cámara lenta.
 - Carga rápida con el adaptador de 18w incluido
 - Chip a13 bionic con neural engine de 3.ª generación
-- Ios con modo oscuro, más herramientas para editar fotos y vídeos, y nuevas prestaciones de privacidad
+- Pantalla OLED super retina xdr de 5,8 pulgadas
+- Carga inalámbrica
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XS58JD1/?tag=tolees-21)
