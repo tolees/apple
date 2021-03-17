@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C7NM2FB-es Cocoda Tripode para Movil Flexible Palo Selfie Mini...'
 sku: 'B08C7NM2FB-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

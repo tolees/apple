@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8GBQJZ-es SHIELDON Funda Portátil 13.5 Pulgadas Maletín Portatil...'
 sku: 'B07X8GBQJZ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

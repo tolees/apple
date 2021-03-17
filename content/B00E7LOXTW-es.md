@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E7LOXTW-es Belkin F8J088bt - Base con cable USB de 1 2 m integrado...'
 sku: 'B00E7LOXTW-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

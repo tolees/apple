@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZGG8WB5-es CHOETECH Cargador USB C PD 60W Cargador Rápida Tipo C...'
 sku: 'B07ZGG8WB5-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

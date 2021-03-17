@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081PNYQZM-es Babacom Soporte Movil Coche Magnético 360 Grados Rotación...'
 sku: 'B081PNYQZM-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

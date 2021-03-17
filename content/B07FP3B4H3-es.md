@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP3B4H3-es Belkin ScreenForce InvisiGlass Ultra - Protector de...'
 sku: 'B07FP3B4H3-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 9.09 EUR
 currency: EUR
 price: 9.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1LMT8F-es Otterbox Symmetry Clear - Funda Protectora Trasera...'
 sku: 'B07T1LMT8F-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 56.81 EUR
 currency: EUR
 price: 56.81

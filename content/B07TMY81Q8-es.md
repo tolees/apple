@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMY81Q8-es Funda Bateria para iPhone X/XS/10 FLYLINKTECH 4000mAh...'
 sku: 'B07TMY81Q8-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

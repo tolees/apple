@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076STWCPQ-es Tucano-Bolsa para Ordenador Hombre y Mujer con Bolsillo...'
 sku: 'B076STWCPQ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNRHHR6-es Belkin Boost Up - Soporte de Carga Inalámbrica para Coche...'
 sku: 'B07RNRHHR6-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 44.32 EUR
 currency: EUR
 price: 44.32

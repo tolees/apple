@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTM9KHJ-es Funda para iPhone 11 Adsorcion Magnetica Carcasa 360...'
 sku: 'B07XTM9KHJ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSQFCHC-es LUDOS Clamor Auriculares con Micrófono y Cable Espuma de...'
 sku: 'B07VSQFCHC-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P39LJDR-es SOONAN 48 en 1 destornilladores precisión profesionales...'
 sku: 'B07P39LJDR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

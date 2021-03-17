@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CXG8S3Y-es COFIT Cargador de Coche 2 USB Adaptador 3 Sockets...'
 sku: 'B07CXG8S3Y-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

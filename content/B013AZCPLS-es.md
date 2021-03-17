@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013AZCPLS-es Anker AK-A2021321 - Cargador de pared con entrada USB 2 x...'
 sku: 'B013AZCPLS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

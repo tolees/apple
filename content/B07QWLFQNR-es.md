@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWLFQNR-es Bovon Soporte Tablet para Coche Soporte de Tablet para...'
 sku: 'B07QWLFQNR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

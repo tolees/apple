@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JESZT8M-es Inversor De Corriente 300W para Coche BESTEK Transformador...'
 sku: 'B00JESZT8M-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

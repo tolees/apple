@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0825ZXMM2-es Nniter - Funda ultrafina para iPhone 6/6S de silicona TPU...'
 sku: 'B0825ZXMM2-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 12.89 EUR
 currency: EUR
 price: 12.89

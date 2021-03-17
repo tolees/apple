@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089F2PXQG-es SYOSIN Soporte Movil Bicicleta Soporte Universal Manillar...'
 sku: 'B089F2PXQG-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

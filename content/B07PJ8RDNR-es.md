@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ8RDNR-es SDBAUX 3 in 1 Cable de Carga 2Pack Múltiples USB Cargador...'
 sku: 'B07PJ8RDNR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','ipod', ]
+tags: [ 'ipad','ipod', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

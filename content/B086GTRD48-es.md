@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GTRD48-es Oihxse Compatible con iPhone X/iPhone XS Funda Suave Gel...'
 sku: 'B086GTRD48-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

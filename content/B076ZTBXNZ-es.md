@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076ZTBXNZ-es Belkin ScreenForce TemperedCurve - Protección de Pantalla...'
 sku: 'B076ZTBXNZ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 24.18 EUR
 currency: EUR
 price: 24.18

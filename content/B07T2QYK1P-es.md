@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T2QYK1P-es BESTEK Inversor De Corriente 300W para Coche Transformador...'
 sku: 'B07T2QYK1P-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

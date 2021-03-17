@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYLM63Q-es TOPELEK Teclado y Raton Inálambrico con Tapa de Suspensión...'
 sku: 'B07DYLM63Q-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
+tags: [ 'apple', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

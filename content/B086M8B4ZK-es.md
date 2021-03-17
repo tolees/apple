@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086M8B4ZK-es Oihxse Funda para iPhone XS MAX/iPhone 10 Plus...'
 sku: 'B086M8B4ZK-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

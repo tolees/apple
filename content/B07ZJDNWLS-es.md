@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJDNWLS-es Carpeta de Conferencia de Cuero A4 Portafolio con Cuaderno...'
 sku: 'B07ZJDNWLS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 17.95 EUR
 currency: EUR
 price: 17.95

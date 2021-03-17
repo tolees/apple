@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTH8F3K-es Anker Altavoz Bluetooth Soundcore Mini Super Altavoz...'
 sku: 'B01HTH8F3K-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

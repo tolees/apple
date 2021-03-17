@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVDCDQM-es UniqueMe Funda para iPhone XS 2018 / iPhone X 2017 Ultra...'
 sku: 'B07GVDCDQM-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

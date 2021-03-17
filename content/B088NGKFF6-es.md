@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088NGKFF6-es UGREEN Cargador de Coche con LED 24W 4.8A Doble Puerto...'
 sku: 'B088NGKFF6-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

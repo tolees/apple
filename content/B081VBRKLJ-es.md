@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VBRKLJ-es Oihxse Silicona Matorral Funda Compatible con iPhone 11...'
 sku: 'B081VBRKLJ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

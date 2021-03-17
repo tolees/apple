@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NZJXWB-es Apple - Funda de Piel para el iPad Pro de 10 5 Pulgadas -...'
 sku: 'B075NZJXWB-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','ipad', ]
+tags: [ 'apple','ipad', ]
 actualPrice: 71.39 EUR
 currency: EUR
 price: 71.39

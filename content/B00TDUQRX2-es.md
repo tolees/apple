@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TDUQRX2-es Belkin F8M730btWHT - Cargador Premium para el coche USB 12...'
 sku: 'B00TDUQRX2-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

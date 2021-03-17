@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DLZZ2DJ-es Kindle Luces Toolove Lámpara de Lectura LED Recargable USB...'
 sku: 'B07DLZZ2DJ-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

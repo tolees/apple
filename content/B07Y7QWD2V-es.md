@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7QWD2V-es Compatible con iPhone XS Max Carcasa transparente de...'
 sku: 'B07Y7QWD2V-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

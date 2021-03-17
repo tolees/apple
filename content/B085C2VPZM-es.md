@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085C2VPZM-es nonda Hub USB C 4 en 1 3 Puertos USB de 3.0 y 1 Puerto de...'
 sku: 'B085C2VPZM-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

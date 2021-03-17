@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q7GG8BD-es Umi. Essentials - Auriculares de botón inalámbricos TWS W9...'
 sku: 'B07Q7GG8BD-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

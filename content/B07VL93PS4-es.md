@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VL93PS4-es ORICO 40W con 5 Cables USB Estación de Carga Inteligente...'
 sku: 'B07VL93PS4-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

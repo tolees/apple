@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084V3GQ8J-es BatPower A1527 Bateria de Laptop para Apple Early 2015...'
 sku: 'B084V3GQ8J-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
+tags: [ 'apple', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

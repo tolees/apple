@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085HYXRHG-es Blukar Auriculares In Ear Auriculares con Cable y...'
 sku: 'B085HYXRHG-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

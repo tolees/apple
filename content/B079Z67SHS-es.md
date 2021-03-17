@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Z67SHS-es Mochila antirrobo para computadora portátil /portátil y...'
 sku: 'B079Z67SHS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

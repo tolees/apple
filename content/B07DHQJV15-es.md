@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHQJV15-es Limxems Cargador Inalámbrico 10W Qi Wireless Carga Rápida...'
 sku: 'B07DHQJV15-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

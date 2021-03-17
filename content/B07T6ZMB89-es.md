@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T6ZMB89-es HAISSKY Riñonera de Correr con 2 x 175 ml Botellas de Agua...'
 sku: 'B07T6ZMB89-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

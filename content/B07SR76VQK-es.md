@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR76VQK-es Chok Idea Innovador Hebilla Piel Genuina Correa Compatible...'
 sku: 'B07SR76VQK-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
+tags: [ 'apple', ]
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

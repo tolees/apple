@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLHRS8R-es BOTRE 13-15.6 Pulgadas Bolso de Mujer Bandolera...'
 sku: 'B07PLHRS8R-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

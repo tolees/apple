@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7SZI5C-es LifeProof Fre - Funda estanca y Anti caídas para Apple...'
 sku: 'B00Z7SZI5C-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

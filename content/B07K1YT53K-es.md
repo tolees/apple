@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1YT53K-es Apple Watch Series 4 GPS + Cellular con caja de 40 mm de...'
 sku: 'B07K1YT53K-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
+tags: [ 'apple', ]
 actualPrice: 548.7 EUR
 currency: EUR
 price: 548.7

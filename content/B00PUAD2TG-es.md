@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PUAD2TG-es Belkin Boosy Up - Cargador para Coche Universal con Cable...'
 sku: 'B00PUAD2TG-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

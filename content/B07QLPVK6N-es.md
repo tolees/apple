@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QLPVK6N-es Guzack Riñonera Deportivo Bolso Cintura Cinturón Running...'
 sku: 'B07QLPVK6N-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

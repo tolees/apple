@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CVCDXG7-es Tryone Flexible Soporte móvil Teléfono – Soporte con...'
 sku: 'B07CVCDXG7-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 9.76 EUR
 currency: EUR
 price: 9.76

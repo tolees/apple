@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BX0YKX4-es Fosmon Mini Bluetooth Keyboard con touchpad Teclado...'
 sku: 'B00BX0YKX4-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

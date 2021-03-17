@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NWFYLKV-es Soporte Tablet Coche Soporte iPad Tablet Soporte...'
 sku: 'B07NWFYLKV-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

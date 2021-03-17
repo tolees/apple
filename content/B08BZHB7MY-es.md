@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZHB7MY-es Lomogo Funda Cartera [iPhone XS MAX] Funda de Cuero con...'
 sku: 'B08BZHB7MY-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

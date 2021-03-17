@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QY2DC6-es HYGF Auriculares Bluetooth Auriculares inalámbricos 5.0...'
 sku: 'B083QY2DC6-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
+tags: [ 'apple', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

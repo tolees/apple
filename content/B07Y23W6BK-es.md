@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y23W6BK-es TECHGEAR Funda Impermeable para iPad 7 10.2" [Poseidon...'
 sku: 'B07Y23W6BK-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

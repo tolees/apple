@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4GMMLR-es LENCENT Cargador USB Pared con 2 Puerto[2 Unidades]...'
 sku: 'B07Z4GMMLR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

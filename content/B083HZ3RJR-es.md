@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ3RJR-es Funda Protectora para teléfono móvil de diseño Lindo Funda...'
 sku: 'B083HZ3RJR-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

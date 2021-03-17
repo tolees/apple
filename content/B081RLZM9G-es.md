@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RLZM9G-es McNory Soporte Magnético Movil Coche 2 PC Mini Móvil Coche...'
 sku: 'B081RLZM9G-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

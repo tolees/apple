@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V49Y2PS-es Apple MacBook Air de 13 pulgadas Modelo Anterior 8GB RAM...'
 sku: 'B07V49Y2PS-es'
-tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
+tags: [ 'apple', ]
 actualPrice: 1089.0 EUR
 currency: EUR
 price: 1089.0
