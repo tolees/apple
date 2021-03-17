@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5WJPJ6-es ANEWSIR Funda + 2 Pack Vidrio Templado para iPhone 11 Pro...'
 sku: 'B07X5WJPJ6-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 2.95 EUR
 currency: EUR
 price: 2.95

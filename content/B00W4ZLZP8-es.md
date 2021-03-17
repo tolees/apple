@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W4ZLZP8-es JETech Funda Compatible iPad Pro 12 9 Modelo 2015 y 2017...'
 sku: 'B00W4ZLZP8-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

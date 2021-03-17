@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7T0VWQ-es OtterBox Defender - Funda anticaídas para Apple iPad Pro...'
 sku: 'B00Z7T0VWQ-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','ipad', ]
 actualPrice: 54.62 EUR
 currency: EUR
 price: 54.62

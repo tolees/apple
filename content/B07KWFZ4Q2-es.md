@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KWFZ4Q2-es Belkin Boost Up Bold - Cargador inalámbrico para iPhone...'
 sku: 'B07KWFZ4Q2-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

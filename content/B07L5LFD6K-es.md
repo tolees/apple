@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L5LFD6K-es LATEC Pulsera Actividad Inteligente Pulsómetro y Presión...'
 sku: 'B07L5LFD6K-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T6ZMB89-es HAISSKY Riñonera de Correr con 2 x 175 ml Botellas de Agua...'
 sku: 'B07T6ZMB89-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

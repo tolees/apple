@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0757VXH7V-es Carcasa con certificación militar para Apple iPhone'
 sku: 'B0757VXH7V-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','iphone', ]
 actualPrice: 20.23 EUR
 currency: EUR
 price: 20.23

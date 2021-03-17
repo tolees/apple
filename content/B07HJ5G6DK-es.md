@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HJ5G6DK-es JETech Funda para iPad Air Carcasa con Soporte Función...'
 sku: 'B07HJ5G6DK-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

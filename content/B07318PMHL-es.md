@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07318PMHL-es Logitech Slim Combo Funda para iPad iPad Pro 10.5 Pulgadas...'
 sku: 'B07318PMHL-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
 actualPrice: 113.51 EUR
 currency: EUR
 price: 113.51

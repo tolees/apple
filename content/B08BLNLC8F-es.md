@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLNLC8F-es NANTING Funda de Silicona para Airpods Funda Protectora...'
 sku: 'B08BLNLC8F-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

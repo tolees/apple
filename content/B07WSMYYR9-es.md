@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSMYYR9-es memumi Delgado Funda Compatible con iPhone 11 Pro MAX...'
 sku: 'B07WSMYYR9-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

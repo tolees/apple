@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS8JTNM-es Power Bank PD 3.0 Batería Externa15800mAh con USB C QC 3.0...'
 sku: 'B07WS8JTNM-es'
-tags: [ 'ipad','iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

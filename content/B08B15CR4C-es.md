@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B15CR4C-es Tryone Soporte Tablet Multiángulo Soporte Tablet - Altura...'
 sku: 'B08B15CR4C-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

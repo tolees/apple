@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B7X4HOS-es Dimples Excel 2 in 1 Precisión Lápiz para Tactil Tablet...'
 sku: 'B01B7X4HOS-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

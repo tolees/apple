@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0878S2MVX-es Kdely Cable USB C to HDMI 4K@60Hz Adaptador Tipo C a HDMI...'
 sku: 'B0878S2MVX-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

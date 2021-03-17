@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MX2VDYY-es Apple Smart Battery Case for iPhone XR - White'
 sku: 'B07MX2VDYY-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','iphone', ]
 actualPrice: 113.43 EUR
 currency: EUR
 price: 113.43

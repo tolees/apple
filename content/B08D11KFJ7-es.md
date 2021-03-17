@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D11KFJ7-es WINMI para iPhone 12 Pro 6.1" Funda 360 Anillo iman...'
 sku: 'B08D11KFJ7-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02

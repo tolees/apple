@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTVMRX2-es LTDNB Cargador Inalámbrico Rápido Qi Wireless Charger por...'
 sku: 'B07RTVMRX2-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

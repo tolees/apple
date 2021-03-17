@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V4CWBD5-es LK [3 Pack] Protector de Pantalla para iPhone 11 / iPhone...'
 sku: 'B07V4CWBD5-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

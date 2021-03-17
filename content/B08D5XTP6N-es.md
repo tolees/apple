@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D5XTP6N-es Supore Correa de Repuesto Compatible con Apple Watch de 44...'
 sku: 'B08D5XTP6N-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

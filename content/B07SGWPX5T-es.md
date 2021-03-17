@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SGWPX5T-es Cocoda Soporte Tablet Universal Soportes Movil iPad Mesa...'
 sku: 'B07SGWPX5T-es'
-tags: [ 'ipad','iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

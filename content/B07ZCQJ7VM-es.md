@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCQJ7VM-es ESR Cargador Inalámbrico Rápido 7.5W Carga rápida para...'
 sku: 'B07ZCQJ7VM-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

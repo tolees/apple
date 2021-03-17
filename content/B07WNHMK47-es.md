@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNHMK47-es BEENLE Soporte Movil Coche 2 In 1 Universal 360 Grados...'
 sku: 'B07WNHMK47-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

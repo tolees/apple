@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084VVPLGX-es YUNMAI Pro Báscula Cargador USB 10 Datos Corporales...'
 sku: 'B084VVPLGX-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

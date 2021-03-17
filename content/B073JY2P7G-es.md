@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073JY2P7G-es SanDisk - Base iXpand de 32 GB para Cargar iPhone y Hacer...'
 sku: 'B073JY2P7G-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 26.92 EUR
 currency: EUR
 price: 26.92

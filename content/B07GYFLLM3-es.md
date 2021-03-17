@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GYFLLM3-es Babacom Protector Pantalla para iPhone 11 Pro MAX/XS MAX...'
 sku: 'B07GYFLLM3-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 5.0 EUR
 currency: EUR
 price: 5.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJSNJSQ-es Hanek Funda iPhone XR Funda de móvil con cordón para...'
 sku: 'B07ZJSNJSQ-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

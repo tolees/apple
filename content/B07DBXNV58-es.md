@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBXNV58-es Anker Cargador inalámbrico rápido Soporte de Carga...'
 sku: 'B07DBXNV58-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

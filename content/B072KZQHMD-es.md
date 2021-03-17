@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KZQHMD-es Fintie Funda para iPad 4/3 / 2 - [Protección de Esquina]...'
 sku: 'B072KZQHMD-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

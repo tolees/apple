@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HWYYZVK-es Apple iPhone XS Max de 512GB - Oro'
 sku: 'B07HWYYZVK-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','iphone', ]
 actualPrice: 1014.18 EUR
 currency: EUR
 price: 1014.18

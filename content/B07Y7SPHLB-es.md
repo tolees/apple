@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7SPHLB-es 【Última Versión】 Auriculares Inalambricos Deporte...'
 sku: 'B07Y7SPHLB-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

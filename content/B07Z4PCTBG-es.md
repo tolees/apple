@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4PCTBG-es LIVACASA Bolso para Ordenador Bandolera para Portátil...'
 sku: 'B07Z4PCTBG-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

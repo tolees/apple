@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084WQQFH4-es 1 unids/Lote Diseño de Cabeza Redonda Lápiz de Metal...'
 sku: 'B084WQQFH4-es'
-tags: [ 'ipad','iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 0.99 EUR
 currency: EUR
 price: 0.99

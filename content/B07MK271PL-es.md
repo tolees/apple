@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK271PL-es steanum Cargador Inalámbrico Coche Qi 10W Carga Rápida...'
 sku: 'B07MK271PL-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

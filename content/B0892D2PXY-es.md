@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0892D2PXY-es XILOSIN Blanco 30 del Pin Femenino a 5 Adaptador de...'
 sku: 'B0892D2PXY-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
 actualPrice: 3.13 EUR
 currency: EUR
 price: 3.13

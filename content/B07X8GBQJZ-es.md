@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8GBQJZ-es SHIELDON Funda Portátil 13.5 Pulgadas Maletín Portatil...'
 sku: 'B07X8GBQJZ-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
