@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L1V43UY-es Wacom CS-610CB Bamboo Stylus Fineline 3 Lápiz digital para...'
 sku: 'B01L1V43UY-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 34.69 EUR
 currency: EUR
 price: 34.69

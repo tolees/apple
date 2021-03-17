@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK7N4HW-es ELEGIANT Mini LED Luz USB con Altavoz Bluetooth Lámpara...'
 sku: 'B07KK7N4HW-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

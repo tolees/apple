@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VHLY9VC-es Belkin - Soporte de smartphone universal para coche para...'
 sku: 'B00VHLY9VC-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 20.81 EUR
 currency: EUR
 price: 20.81

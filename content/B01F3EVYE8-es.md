@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F3EVYE8-es Fotopro Palo Selfie para Gopro Selfie Stick con Mini...'
 sku: 'B01F3EVYE8-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

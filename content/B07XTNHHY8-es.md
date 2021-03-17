@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTNHHY8-es Funda para iPhone 11 Adsorcion Magnetica Carcasa 360...'
 sku: 'B07XTNHHY8-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

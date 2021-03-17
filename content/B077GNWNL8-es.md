@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GNWNL8-es MATONE Soporte Movil Bicicleta Soporte Universal Manillar...'
 sku: 'B077GNWNL8-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

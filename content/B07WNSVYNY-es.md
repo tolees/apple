@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNSVYNY-es Funda para iPad 9 7 Pulgadas 2018/2017 Modelo 6ª / 5ª...'
 sku: 'B07WNSVYNY-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','ipad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

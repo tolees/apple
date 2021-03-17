@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WDPH515-es Quntis Cable iPhone [Apple MFi Certificado] 1+2+3m Piezas...'
 sku: 'B07WDPH515-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

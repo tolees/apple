@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z25NLJZ-es Brinonac Pantalla para iPhone 8 4.7" Táctil LCD de...'
 sku: 'B07Z25NLJZ-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WW7YBW-es Soporte Movil Coche Magnético Universal Avolare N52 Iman...'
 sku: 'B086WW7YBW-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

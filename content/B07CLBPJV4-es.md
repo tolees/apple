@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CLBPJV4-es HOMEYU Enchufe Antipolvo de Aluminio de Primera Calidad...'
 sku: 'B07CLBPJV4-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 3.09 EUR
 currency: EUR
 price: 3.09

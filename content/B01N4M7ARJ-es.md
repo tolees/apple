@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N4M7ARJ-es Auriculares para niños iClever Volumen Limitado Cascos...'
 sku: 'B01N4M7ARJ-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DFHCHRD-es Syncwire Cable iPhone Cable Lightning a USB 1m - [MFi...'
 sku: 'B07DFHCHRD-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

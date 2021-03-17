@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRDVJR2-es i-Buy Funda de Cuero Microfibra PU Resistente al Agua para...'
 sku: 'B01MRDVJR2-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 10.24 EUR
 currency: EUR
 price: 10.24

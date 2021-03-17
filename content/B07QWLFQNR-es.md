@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QWLFQNR-es Bovon Soporte Tablet para Coche Soporte de Tablet para...'
 sku: 'B07QWLFQNR-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

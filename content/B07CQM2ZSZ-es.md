@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CQM2ZSZ-es CHOETECH Cable USB C a HDMI [4K@60Hz] Cable HDMI a USB...'
 sku: 'B07CQM2ZSZ-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

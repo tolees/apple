@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DSZMOWU-es Belkin F8W713vf - Protector de Pantalla de Cristal...'
 sku: 'B01DSZMOWU-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

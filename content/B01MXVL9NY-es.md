@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXVL9NY-es Tribe Marvel Avengers - Funda para Apple iPhone 6 diseño...'
 sku: 'B01MXVL9NY-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

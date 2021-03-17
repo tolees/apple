@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MV5YFC3-es NOVOO - Batería Externa 20000mAh Powerbank con 3 Puertos 1...'
 sku: 'B07MV5YFC3-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

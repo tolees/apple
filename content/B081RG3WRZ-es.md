@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081RG3WRZ-es KOOPAO Cable USB C a Jack 3.5 mm Cable Aux USB Tipo C a...'
 sku: 'B081RG3WRZ-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

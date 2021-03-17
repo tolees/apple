@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCMDK18-es YOOTECH Cargador Inducción Rápido 2 pack 7.5W Qi wireless...'
 sku: 'B07ZCMDK18-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

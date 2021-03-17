@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZMHKT8D-es Mochilero Compatible with Apple Watch Band 40mm 44mm...'
 sku: 'B07ZMHKT8D-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

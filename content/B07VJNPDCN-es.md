@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VJNPDCN-es ESR Funda Transparente para iPhone 11 Pro MAX Carcasa...'
 sku: 'B07VJNPDCN-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

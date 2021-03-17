@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5NGP9Y-es Targus THZ749GL Funda VersaVu para iPad Pro de 12 9...'
 sku: 'B07H5NGP9Y-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 43.03 EUR
 currency: EUR
 price: 43.03

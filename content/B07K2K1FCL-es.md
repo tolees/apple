@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2K1FCL-es Apple Funda Smart Folio para el iPad Pro de 12 9 pulgadas...'
 sku: 'B07K2K1FCL-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','ipad', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MX2TYMT-es Apple Smart Battery Case for iPhone XS MAX - White'
 sku: 'B07MX2TYMT-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 57.07 EUR
 currency: EUR
 price: 57.07

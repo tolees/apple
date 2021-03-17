@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083YZCT41-es uni Adaptador USB C a HDMI Adaptador USB Tipo C a HDMI...'
 sku: 'B083YZCT41-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

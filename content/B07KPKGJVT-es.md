@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPKGJVT-es KHOMO iPad Pro 11 Funda Dual Ultra Delgada y Ligera con...'
 sku: 'B07KPKGJVT-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','ipad', ]
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

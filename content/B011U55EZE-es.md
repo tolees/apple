@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011U55EZE-es Apple iPod touch de 32GB - Oro'
 sku: 'B011U55EZE-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','ipod', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','ipod', ]
 actualPrice: 191.37 EUR
 currency: EUR
 price: 191.37

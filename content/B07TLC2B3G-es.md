@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TLC2B3G-es Aioneus Cargador iPhone 5Pack Cable iPhone 1+1+1.5+1.5+2 M...'
 sku: 'B07TLC2B3G-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

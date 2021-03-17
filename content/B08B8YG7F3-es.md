@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B8YG7F3-es El disco de almacenamiento del disco flash el disco de...'
 sku: 'B08B8YG7F3-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

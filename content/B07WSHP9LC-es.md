@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSHP9LC-es Griffin Technology Funda Survivor Endurance para iPhone 11...'
 sku: 'B07WSHP9LC-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 7.89 EUR
 currency: EUR
 price: 7.89

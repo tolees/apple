@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QMWDP5-es Huyeta Stylus Pen para Apple Pencil Lápiz Stylus...'
 sku: 'B083QMWDP5-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

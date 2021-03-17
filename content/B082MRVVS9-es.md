@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082MRVVS9-es SATECHI Cargador Portátil Certificado MFi con Puerto de...'
 sku: 'B082MRVVS9-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 33.74 EUR
 currency: EUR
 price: 33.74

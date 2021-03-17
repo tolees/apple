@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YYDMB1Q-es Auriculares inalámbricos Bluetooth 5.0 Etrigger TWS...'
 sku: 'B07YYDMB1Q-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

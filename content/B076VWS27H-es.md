@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076VWS27H-es KHOMO Funda iPad Air 3 10.5 2019 / iPad Pro 10.5 2017...'
 sku: 'B076VWS27H-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','ipad', ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

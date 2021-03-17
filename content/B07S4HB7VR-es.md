@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4HB7VR-es QWDDECO Sticker Pack 360 PCS Vinilo Pegatinas para...'
 sku: 'B07S4HB7VR-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

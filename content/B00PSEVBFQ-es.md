@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PSEVBFQ-es Adaptador de candado para el Mac Pro de Apple'
 sku: 'B00PSEVBFQ-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

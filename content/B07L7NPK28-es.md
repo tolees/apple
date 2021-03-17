@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L7NPK28-es AUKEY Auriculares Bluetooth Inalámbricos Deportivos...'
 sku: 'B07L7NPK28-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

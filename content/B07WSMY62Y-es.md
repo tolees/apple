@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WSMY62Y-es memumi Case para iPhone 11 Pro MAX Funda Ultra Delgada...'
 sku: 'B07WSMY62Y-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 12.77 EUR
 currency: EUR
 price: 12.77

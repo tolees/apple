@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FL9C3P-es 【Actualizado 2020】 Proyector WiFi BOSNAS Nativo 720P Mini...'
 sku: 'B083FL9C3P-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

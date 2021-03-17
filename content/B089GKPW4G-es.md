@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GKPW4G-es KEEHOM Funda Impermeable Universal 2 Unidades Bolsa para...'
 sku: 'B089GKPW4G-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

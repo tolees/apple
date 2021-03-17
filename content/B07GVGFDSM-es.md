@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVGFDSM-es UniqueMe Funda para iPhone XS MAX 2018 Ultra [Slim Thin]...'
 sku: 'B07GVGFDSM-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

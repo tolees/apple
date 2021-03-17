@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L9MDCLQ-es Belkin F8J206BTGRY - Funda y Soporte para Apple Pencil...'
 sku: 'B01L9MDCLQ-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074N8HDGL-es Apple iPhone 7 - Smartphone de 32 GB Color Rosa...'
 sku: 'B074N8HDGL-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q9PZ3TN-es Befekt Gears Riñonera Deportiva Riñonera Running Mujer...'
 sku: 'B07Q9PZ3TN-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 8.59 EUR
 currency: EUR
 price: 8.59

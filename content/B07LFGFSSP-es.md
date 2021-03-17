@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFGFSSP-es Levi s 514 Vaqueros Straight Azul Apple Overt Adapt 1238...'
 sku: 'B07LFGFSSP-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 59.87 EUR
 currency: EUR
 price: 59.87

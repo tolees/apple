@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VK8BCV7-es TECHGEAR Funda Compatible con iPad Pro 11" 2018 [Apple...'
 sku: 'B07VK8BCV7-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

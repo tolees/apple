@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013X9JBMW-es JETech 3282- Funda para iPad mini 4 Carcasa con Soporte...'
 sku: 'B013X9JBMW-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

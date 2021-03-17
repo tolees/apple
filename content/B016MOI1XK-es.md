@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016MOI1XK-es Soundcore de Anker Altavoces Bluetooth con sonido estéreo...'
 sku: 'B016MOI1XK-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

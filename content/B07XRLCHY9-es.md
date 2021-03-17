@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRLCHY9-es Fintie Funda para iPad 10.2" 2019 - Trasera Transparente...'
 sku: 'B07XRLCHY9-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

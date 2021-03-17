@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GMEM24A-es Belkin F8J054btBLK - Cargador para coche 12 W para...'
 sku: 'B00GMEM24A-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

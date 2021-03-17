@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMFWXXR-es CAFELE Funda Protectora para teléfono de Silicona Suave...'
 sku: 'B07WMFWXXR-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

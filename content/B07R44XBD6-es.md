@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R44XBD6-es WANPOOL - Soporte para reposacabezas de Coche para Tablets...'
 sku: 'B07R44XBD6-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','ipad','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','ipad','iphone', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

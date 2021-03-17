@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGJ51HR-es Funda iPhone X Funda iPhone XS Libro Carcasa iPhone X con...'
 sku: 'B07LGJ51HR-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

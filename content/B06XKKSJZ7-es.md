@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XKKSJZ7-es Mophie Juice Pack Air Funda para teléfono móvil 14 cm 5.5"...'
 sku: 'B06XKKSJZ7-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H35FJ6V-es Caseflex CS000002AP - Carcasa de gel transparente para...'
 sku: 'B07H35FJ6V-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

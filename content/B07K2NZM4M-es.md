@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2NZM4M-es Apple MacBook Air de 13 pulgadas Modelo Anterior 8GB RAM...'
 sku: 'B07K2NZM4M-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 1169.0 EUR
 currency: EUR
 price: 1169.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S54HRAE-es Aquapac Funda iPhone 6+SIMILARES'
 sku: 'B00S54HRAE-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

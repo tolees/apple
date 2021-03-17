@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086GTRD48-es Oihxse Compatible con iPhone X/iPhone XS Funda Suave Gel...'
 sku: 'B086GTRD48-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

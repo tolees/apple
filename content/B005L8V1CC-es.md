@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005L8V1CC-es Duronic SCK102 Spray Limpiador x2 de 200ml para Pantallas...'
 sku: 'B005L8V1CC-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

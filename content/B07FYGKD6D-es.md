@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYGKD6D-es Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS...'
 sku: 'B07FYGKD6D-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PXMF52C-es Anker PowerCore Slim 10000 Cargador portátil Ultrafino...'
 sku: 'B07PXMF52C-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

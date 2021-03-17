@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M2QDKNO-es SODIAL R Soporte base de mesa universal ajustable plegable...'
 sku: 'B00M2QDKNO-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

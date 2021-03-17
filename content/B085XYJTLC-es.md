@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XYJTLC-es Babacom Raton Inalámbrico Recargable Ratón Ordenador...'
 sku: 'B085XYJTLC-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

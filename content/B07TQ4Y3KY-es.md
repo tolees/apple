@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TQ4Y3KY-es Caler Funda Compatible con iPhone 7 Plus/iPhone 8 Plus...'
 sku: 'B07TQ4Y3KY-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

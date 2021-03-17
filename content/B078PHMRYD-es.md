@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078PHMRYD-es Insta360 Nano S - Videocámara 3D VR Compacta Cámara HD 4K...'
 sku: 'B078PHMRYD-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S94BYG4-es BSEED Eupope Estándar Tuya Smart Wifi Socket Soporte Apple...'
 sku: 'B07S94BYG4-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 23.49 EUR
 currency: EUR
 price: 23.49

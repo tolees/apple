@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078N3LHXS-es Yodoit para Pantalla iPhone 6s Plus Negro Conjunto de...'
 sku: 'B078N3LHXS-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

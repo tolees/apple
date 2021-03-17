@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B4RQ47B-es AUKEY Powerbank USB C 10000mAh con Power Delivery de 18 W...'
 sku: 'B07B4RQ47B-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

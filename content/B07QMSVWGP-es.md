@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMSVWGP-es JETech Funda para iPad 9 7 Pulgadas 2018/2017 Modelo...'
 sku: 'B07QMSVWGP-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

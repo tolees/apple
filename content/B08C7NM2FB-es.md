@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C7NM2FB-es Cocoda Tripode para Movil Flexible Palo Selfie Mini...'
 sku: 'B08C7NM2FB-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

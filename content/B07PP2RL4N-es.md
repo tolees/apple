@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PP2RL4N-es FKANT Batería Externa Movil Power Bank 25000mAh Carga...'
 sku: 'B07PP2RL4N-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

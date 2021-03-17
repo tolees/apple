@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QWRISRC-es JETech 3045- Funda para iPad Air 2 Carcasa con Soporte...'
 sku: 'B00QWRISRC-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

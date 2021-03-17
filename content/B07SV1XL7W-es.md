@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SV1XL7W-es Herefun 32 en 1 Juego de Destornilladores Mini Profesional...'
 sku: 'B07SV1XL7W-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

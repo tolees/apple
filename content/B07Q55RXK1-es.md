@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Q55RXK1-es JETech Funda Compatible iPad 9 7 Pulgadas 2018/2017 Modelo...'
 sku: 'B07Q55RXK1-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 11.02 EUR
 currency: EUR
 price: 11.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YXWSD1C-es LEWOTE Airpods Carcasa de Silicona Compatible con Airpods...'
 sku: 'B07YXWSD1C-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

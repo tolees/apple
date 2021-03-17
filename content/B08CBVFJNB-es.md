@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CBVFJNB-es LJP Funda iPhone XR Suave PU Cuero Carcasa y TPU Funda...'
 sku: 'B08CBVFJNB-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

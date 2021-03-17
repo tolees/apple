@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTY57J9-es ZNE - Carcasa para iPhone SE 2020 diseño de flores de...'
 sku: 'B08BTY57J9-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 9.93 EUR
 currency: EUR
 price: 9.93

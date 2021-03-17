@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CIEBXZG-es SanDisk iXpand - Memoria Flash USB de 128 GB para iPhone y...'
 sku: 'B01CIEBXZG-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 60.99 EUR
 currency: EUR
 price: 60.99

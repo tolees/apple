@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H2SKGSZ-es Funda para iPhone X/XS ZHIKE Diseño de una Sola Pieza...'
 sku: 'B07H2SKGSZ-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

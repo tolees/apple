@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0117MD8NA-es JETech Banda Correa Reemplazable Compatible con Apple...'
 sku: 'B0117MD8NA-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

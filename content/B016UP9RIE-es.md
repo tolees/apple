@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016UP9RIE-es Apple MJ2R2ZM/A - Magic Trackpad 2 color blanco y plata'
 sku: 'B016UP9RIE-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

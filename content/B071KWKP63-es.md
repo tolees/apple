@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KWKP63-es Aeeque - Funda de cuero para iPhone 6 6S Plus 5S 5 Samsung...'
 sku: 'B071KWKP63-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

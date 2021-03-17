@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B66SVJI-es Xiaomi Portable 10000mAh de gran capacidad Segura Mi banco...'
 sku: 'B01B66SVJI-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 27.06 EUR
 currency: EUR
 price: 27.06

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SYKYMZ-es Funda iPhone 11 6.1" Silicona Anti-Golpes Detalles...'
 sku: 'B085SYKYMZ-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

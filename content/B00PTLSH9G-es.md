@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PTLSH9G-es Anker Cargador USB Charging Hub 60W 6 Puertos USB...'
 sku: 'B00PTLSH9G-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','ipad','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

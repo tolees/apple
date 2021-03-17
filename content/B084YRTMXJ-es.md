@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YRTMXJ-es Auriculares Bluetooth Auriculares inalámbricos Bluetooth...'
 sku: 'B084YRTMXJ-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','apple', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 19.77 EUR
 currency: EUR
 price: 19.77

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTCSLPD-es JOOMFEEN Cargador de Coche Qualcomm Quick Charge 3.0+2.4A...'
 sku: 'B07XTCSLPD-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Soportes para moto','iphone', ]
+tags: [ 'Comunicación móvil y accesorios','Electrónica','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99
