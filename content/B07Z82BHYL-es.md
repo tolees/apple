@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z82BHYL-es Oihxse Compatible con iPhone 7 Plus/iPhone 8 Plus Funda...'
 sku: 'B07Z82BHYL-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

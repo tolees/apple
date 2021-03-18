@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ79BW-es J35038-Tm Anti-Fall Creative Simple Marble Pattern...'
 sku: 'B083HZ79BW-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

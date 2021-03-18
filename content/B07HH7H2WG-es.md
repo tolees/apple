@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HH7H2WG-es Funda iphone 7 Plus/iphone 8 Plus Case ultrafino diseño de...'
 sku: 'B07HH7H2WG-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 5.98 EUR
 currency: EUR
 price: 5.98

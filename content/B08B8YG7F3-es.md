@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B8YG7F3-es El disco de almacenamiento del disco flash el disco de...'
 sku: 'B08B8YG7F3-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
+tags: [ 'apple', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

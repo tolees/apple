@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074N8ZLY2-es Apple iPhone 7 - Smartphone DE 4 7” con tecnología IPS...'
 sku: 'B074N8ZLY2-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 290.0 EUR
 currency: EUR
 price: 290.0

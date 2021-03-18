@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VBSNRZ-es Adaptador USB C HDMI 3 en 1 uni Hub USB C HDMI 4K HDMI...'
 sku: 'B081VBSNRZ-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

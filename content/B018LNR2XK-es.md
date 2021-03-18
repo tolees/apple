@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018LNR2XK-es Brazalete Deportivo para Correr Prueba de Sudor Apoyo...'
 sku: 'B018LNR2XK-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085SM6HH1-es Only Onlmay Life Vestido de Verano Apple Butter XS para Mujer'
 sku: 'B085SM6HH1-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
+tags: [ 'apple', ]
 actualPrice: 11.92 EUR
 currency: EUR
 price: 11.92

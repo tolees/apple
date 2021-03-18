@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011PYKOZK-es EXZACT Smart - Escala Analizadora Inteligente/Analizador...'
 sku: 'B011PYKOZK-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

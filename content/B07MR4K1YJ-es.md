@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MR4K1YJ-es Memoria Flash 4 en 1 de 32 GB Compatible con iPhone y...'
 sku: 'B07MR4K1YJ-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XQM15J-es Oihxse Mandala Flores Encaje Patrón Serie Case Compatible...'
 sku: 'B085XQM15J-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

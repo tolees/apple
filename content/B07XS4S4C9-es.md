@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS4S4C9-es Apple iPhone 11 Pro MAX 512 GB - Plata'
 sku: 'B07XS4S4C9-es'
-tags: [ 'Accesorios para móviles','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Móviles','Móviles y smartphones libres','apple','iphone', ]
+tags: [ 'Fundas y carcasas para teléfonos móviles','apple','iphone', ]
 actualPrice: 1215.41 EUR
 currency: EUR
 price: 1215.41
@@ -29,13 +29,13 @@ Tienes [Apple iPhone 11 Pro MAX  512 GB  - Plata](https://www.amazon.es/dp/B07X
 🔎:
 
 - Ios con modo oscuro, más herramientas para editar fotos y vídeos, y nuevas prestaciones de privacidad
+- Face id para autenticarse deforma segura y usar applepay
+- Chip a13 bionic con neural engine de 3.ª generación
+- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
+- Carga inalámbrica
 - Sistema de triple cámara de 12 mpx con gran angular, ultra gran angular y teleobjetivo; modo noche, modo retrato y vídeo 4k hasta 60 f/s
 - Carga rápida con el adaptador de 18w incluido
-- Face id para autenticarse deforma segura y usar applepay
-- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
 - Pantalla oled super retina xdr de 6,5 pulgadas
 - Cámara frontal truedepth de 12 mpx con modo retrato, vídeo 4k y grabación a cámara lenta.
-- Chip a13 bionic con neural engine de 3.ª generación
-- Carga inalámbrica
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07XS4S4C9/?tag=tolees-21)

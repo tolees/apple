@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HWYYZVK-es Apple iPhone XS Max de 512GB - Oro'
 sku: 'B07HWYYZVK-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 1014.18 EUR
 currency: EUR
 price: 1014.18

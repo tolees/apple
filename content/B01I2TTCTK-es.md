@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I2TTCTK-es Belkin F2CU038BTBLK - Adaptador de USB-C a HDMI 4k a 60 Hz...'
 sku: 'B01I2TTCTK-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

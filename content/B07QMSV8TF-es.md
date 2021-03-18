@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMSV8TF-es JETech Funda Compatible iPad 9 7 Pulgadas 2018/2017 Modelo...'
 sku: 'B07QMSV8TF-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

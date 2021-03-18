@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KHPD5HS-es Belkin MIXIT - Cable metálico de Lightning a USB con...'
 sku: 'B00KHPD5HS-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 12.1 EUR
 currency: EUR
 price: 12.1

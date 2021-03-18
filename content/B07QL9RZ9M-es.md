@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QL9RZ9M-es Targus Click-In 20 1 cm 7.9" Folio Negro - Fundas para...'
 sku: 'B07QL9RZ9M-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','ipad', ]
+tags: [ 'apple','ipad', ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C3S24WB-es Soporte de iPad para el Coche TFY Soporte de iPad para...'
 sku: 'B07C3S24WB-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

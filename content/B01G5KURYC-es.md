@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G5KURYC-es Zolion® Laptop Stand solide haut de gamme simple en...'
 sku: 'B01G5KURYC-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

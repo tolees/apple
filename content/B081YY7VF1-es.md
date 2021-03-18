@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081YY7VF1-es Brinonac Pantalla para iPhone 6s 4.7" Pantalla Táctil LCD...'
 sku: 'B081YY7VF1-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

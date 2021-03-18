@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083PXYGG6-es Adaptador USB C a HDMI VGA KOOPAO 2 en 1 Tipo C...'
 sku: 'B083PXYGG6-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

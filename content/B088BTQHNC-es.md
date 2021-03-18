@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BTQHNC-es LUROON Soporte Tablet Soporte Teléfono Altura de ángulo...'
 sku: 'B088BTQHNC-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

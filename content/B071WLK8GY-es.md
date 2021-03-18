@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WLK8GY-es Apple Funda de piel para el iPad Pro de 10 5 pulgadas - Negro'
 sku: 'B071WLK8GY-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','ipad', ]
+tags: [ 'apple','ipad', ]
 actualPrice: 64.78 EUR
 currency: EUR
 price: 64.78

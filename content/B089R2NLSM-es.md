@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089R2NLSM-es Ranura para Tarjeta de Rayas Funda de Cuero sintético con...'
 sku: 'B089R2NLSM-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 3.17 EUR
 currency: EUR
 price: 3.17

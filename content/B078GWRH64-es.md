@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GWRH64-es Eve Button - Mando para la casa conectada con tecnología...'
 sku: 'B078GWRH64-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
+tags: [ 'apple', ]
 actualPrice: 30.2 EUR
 currency: EUR
 price: 30.2

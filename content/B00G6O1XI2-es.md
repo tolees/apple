@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G6O1XI2-es KHOMO APP-IPA-5-360-BRW Funda para Tablet 24 6 cm 9.7"...'
 sku: 'B00G6O1XI2-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','ipad', ]
+tags: [ 'apple','ipad', ]
 actualPrice: 7.1 EUR
 currency: EUR
 price: 7.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087LY3WPS-es Oihxse Cristal Compatible con iPhone XS/X Funda...'
 sku: 'B087LY3WPS-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98
