@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YRQ7CGS-es Yoozon Mini Palo Selfie Bluetooth Selfie Stick Giratorio...'
 sku: 'B07YRQ7CGS-es'
+tags: [ 'iphone', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

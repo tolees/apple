@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XRLCHY9-es Fintie Funda para iPad 10.2" 2019 - Trasera Transparente...'
 sku: 'B07XRLCHY9-es'
+tags: [ 'ipad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

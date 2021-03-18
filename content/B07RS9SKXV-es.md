@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS9SKXV-es Hoidokly Cargador Inalámbrico Rápido Qi Wireless Charger...'
 sku: 'B07RS9SKXV-es'
+tags: [ 'iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

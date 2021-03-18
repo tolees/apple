@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MG82ZN8-es UrbanX 12W Cargador Portátil USB Power Adapter y USB Cable...'
 sku: 'B07MG82ZN8-es'
+tags: [ 'ipad', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

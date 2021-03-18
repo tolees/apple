@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QWRISTU-es JETech 3043 - Funda para iPad Air 2 Carcasa con Soporte...'
 sku: 'B00QWRISTU-es'
+tags: [ 'ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74
