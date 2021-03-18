@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFTRM17-es Funda para iPad de 10 2 Pulgadas 2019 7ª generación...'
 sku: 'B07ZFTRM17-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
+tags: [ 'apple','ipad', ]
 actualPrice: 22.06 EUR
 currency: EUR
 price: 22.06

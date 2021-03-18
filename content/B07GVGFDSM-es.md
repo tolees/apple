@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVGFDSM-es UniqueMe Funda para iPhone XS MAX 2018 Ultra [Slim Thin]...'
 sku: 'B07GVGFDSM-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2OJX82-es Mixoo Stylus Lapiz Táctil Capacitivo con Puntas de 2...'
 sku: 'B01N2OJX82-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
+tags: [ 'apple','ipad', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

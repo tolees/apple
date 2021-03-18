@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WC5FZDJ-es Auriculares Inalambricos Blutetooth Auriculares Blutetooth...'
 sku: 'B07WC5FZDJ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KYWDL4-es ShellBox Fundas Impermeables Original iPhone 11 bajo el...'
 sku: 'B082KYWDL4-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

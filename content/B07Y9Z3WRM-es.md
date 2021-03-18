@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9Z3WRM-es Guzack Brazalete Deportivo Brazalete Correr Móvil para...'
 sku: 'B07Y9Z3WRM-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

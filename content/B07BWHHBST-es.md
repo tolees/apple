@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BWHHBST-es Gritin Auriculares Auriculares con Cable y Micrófono In...'
 sku: 'B07BWHHBST-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

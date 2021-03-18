@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZK3M3-es Charms Bling Glitter Funda ultradelgada para teléfono...'
 sku: 'B083HZK3M3-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

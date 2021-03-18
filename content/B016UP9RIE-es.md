@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016UP9RIE-es Apple MJ2R2ZM/A - Magic Trackpad 2 color blanco y plata'
 sku: 'B016UP9RIE-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

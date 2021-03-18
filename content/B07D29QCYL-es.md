@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D29QCYL-es Hitchy Trípode Movil Trípode iPhone 42" Pulgadas 106cm...'
 sku: 'B07D29QCYL-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

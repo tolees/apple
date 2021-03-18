@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SNTRGB-es InvisibleShield Ultra Clear Protective Case - Funda...'
 sku: 'B077SNTRGB-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

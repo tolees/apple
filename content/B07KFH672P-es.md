@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFH672P-es AUKEY Quick Charge 2.0 Bateria Externa 20000mAh Cargador...'
 sku: 'B07KFH672P-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

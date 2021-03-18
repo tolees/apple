@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SLM4B6-es Brazalete Deportivo para Correr Brazalete Móvil Deportivo...'
 sku: 'B081SLM4B6-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

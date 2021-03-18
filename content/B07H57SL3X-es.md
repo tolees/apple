@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H57SL3X-es AZDOME Mini Altavoz Bluetooth Portatiles Pequeño...'
 sku: 'B07H57SL3X-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

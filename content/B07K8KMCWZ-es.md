@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8KMCWZ-es MOSNOVO Funda para iPhone XR Transparente Carcasa para...'
 sku: 'B07K8KMCWZ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

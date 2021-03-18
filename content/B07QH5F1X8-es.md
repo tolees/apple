@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QH5F1X8-es UGREEN Cable Cargador iPhone 90 Grados Cable Lightning...'
 sku: 'B07QH5F1X8-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad','iphone', ]
+tags: [ 'apple','ipad','iphone', ]
 actualPrice: 11.69 EUR
 currency: EUR
 price: 11.69

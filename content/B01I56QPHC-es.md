@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I56QPHC-es Silver HT - Funda Universal con Teclado Micro USB Pixel...'
 sku: 'B01I56QPHC-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

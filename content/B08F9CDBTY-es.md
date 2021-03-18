@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F9CDBTY-es Voova Funda Portatil 11-11.6 11.3 Pulgada Upgraded...'
 sku: 'B08F9CDBTY-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

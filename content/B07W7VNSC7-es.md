@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7VNSC7-es Powerbeats Pro - Auriculares intraurales inalámbricos -...'
 sku: 'B07W7VNSC7-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

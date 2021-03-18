@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P39LJDR-es SOONAN 48 en 1 destornilladores precisión profesionales...'
 sku: 'B07P39LJDR-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

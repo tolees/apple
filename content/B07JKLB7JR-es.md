@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKLB7JR-es Bateria Externa Movil 25000mAh Power Bank Cargador...'
 sku: 'B07JKLB7JR-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

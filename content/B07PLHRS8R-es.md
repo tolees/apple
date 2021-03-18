@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLHRS8R-es BOTRE 13-15.6 Pulgadas Bolso de Mujer Bandolera...'
 sku: 'B07PLHRS8R-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

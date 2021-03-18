@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011PYKOZK-es EXZACT Smart - Escala Analizadora Inteligente/Analizador...'
 sku: 'B011PYKOZK-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

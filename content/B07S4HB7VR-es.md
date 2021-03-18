@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4HB7VR-es QWDDECO Sticker Pack 360 PCS Vinilo Pegatinas para...'
 sku: 'B07S4HB7VR-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

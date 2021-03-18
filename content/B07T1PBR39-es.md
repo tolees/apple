@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T1PBR39-es BESTEK Inversor De Corriente 300W para Coche Transformador...'
 sku: 'B07T1PBR39-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

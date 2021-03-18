@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKLWDM4-es Apple Funda de piel para el MacBook de 12 pulgadas - Negro'
 sku: 'B07FKLWDM4-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 133.09 EUR
 currency: EUR
 price: 133.09

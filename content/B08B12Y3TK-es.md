@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B12Y3TK-es Estación de Carga USB Multifunción con 4 Puertos Qi...'
 sku: 'B08B12Y3TK-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

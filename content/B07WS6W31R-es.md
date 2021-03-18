@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WS6W31R-es CiSiRUN Lápiz Táctil Lápiz iPad Lápiz para Pantalla Táctil...'
 sku: 'B07WS6W31R-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

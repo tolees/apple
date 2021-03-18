@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MB64LXC-es Sileu Funda Tablet e iPad Carcasa de Silicona para Niños -...'
 sku: 'B07MB64LXC-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 18.79 EUR
 currency: EUR
 price: 18.79

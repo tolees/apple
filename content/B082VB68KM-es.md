@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VB68KM-es LEWOTE Airpods Pro Carcasa de Silicona para Apple Airpods...'
 sku: 'B082VB68KM-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

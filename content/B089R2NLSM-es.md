@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089R2NLSM-es Ranura para Tarjeta de Rayas Funda de Cuero sintético con...'
 sku: 'B089R2NLSM-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 3.17 EUR
 currency: EUR
 price: 3.17

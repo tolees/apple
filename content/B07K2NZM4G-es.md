@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2NZM4G-es Apple Mac mini Modelo Anterior 8GB RAM 256GB de...'
 sku: 'B07K2NZM4G-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 949.0 EUR
 currency: EUR
 price: 949.0

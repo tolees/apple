@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7T5W2U-es Otterbox Symmetry - Funda para Apple iPhone XR diseño RAD...'
 sku: 'B00Z7T5W2U-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJZKRVL-es Sternitz Botella de Agua Hydra Acero Inoxidable con...'
 sku: 'B07XJZKRVL-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

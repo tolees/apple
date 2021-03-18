@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPLGMG3-es HolyHigh Auriculares Bluetooth Inalámbricos Cacos...'
 sku: 'B07QPLGMG3-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

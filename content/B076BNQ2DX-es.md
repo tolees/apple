@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076BNQ2DX-es Protector de pantalla de vidrio templado para iPhone 7 y 8...'
 sku: 'B076BNQ2DX-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 3.82 EUR
 currency: EUR
 price: 3.82

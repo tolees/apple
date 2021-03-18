@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMSVWGP-es JETech Funda para iPad 9 7 Pulgadas 2018/2017 Modelo...'
 sku: 'B07QMSVWGP-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

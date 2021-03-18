@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081JXBW4C-es Looffy Memoria USB para iPhone y iPad Memoria Flash Drive...'
 sku: 'B081JXBW4C-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 32.39 EUR
 currency: EUR
 price: 32.39

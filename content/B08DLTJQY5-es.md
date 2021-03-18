@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DLTJQY5-es USB C Auriculares Tipo C con Cable y Micrófono para Google...'
 sku: 'B08DLTJQY5-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 14.98 EUR
 currency: EUR
 price: 14.98

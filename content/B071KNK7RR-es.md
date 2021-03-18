@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071KNK7RR-es Targus Click-in - Funda para el iPad Pro de 10.5" Color Gris'
 sku: 'B071KNK7RR-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6PPDW6-es Tommy Hilfiger T Camiseta Básica de Manga Corta Rojo Apple...'
 sku: 'B07K6PPDW6-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

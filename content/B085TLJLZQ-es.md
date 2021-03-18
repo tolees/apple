@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TLJLZQ-es Funda iPhone 11 Pro 5.8" Silicona Anti-Golpes Detalles...'
 sku: 'B085TLJLZQ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

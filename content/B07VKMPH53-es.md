@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKMPH53-es UGREEN Cable USB Tipo C 90 Grados Cable USB 2.0 a USB C...'
 sku: 'B07VKMPH53-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

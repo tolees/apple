@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X3SSW51-es [2 pack] Funda Apple Watch 44mm Series 4/Series 5...'
 sku: 'B07X3SSW51-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

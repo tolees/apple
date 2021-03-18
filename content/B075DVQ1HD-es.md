@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DVQ1HD-es Tucano Guscio - Funda tipo libro con tapa extraíble...'
 sku: 'B075DVQ1HD-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNTS58D-es Belkin F8J050bt04-BLK - Cable Micro-USB con Adaptador...'
 sku: 'B07CNTS58D-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

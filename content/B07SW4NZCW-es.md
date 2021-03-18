@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SW4NZCW-es iWalker Smart Pulsera Fitness Tracker Pulsera Actividad de...'
 sku: 'B07SW4NZCW-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

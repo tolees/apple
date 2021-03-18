@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085ZFGBBM-es SUMKUMY Cargador Coche USB Carga Rápida QC3.0 [7 en 1] 4...'
 sku: 'B085ZFGBBM-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

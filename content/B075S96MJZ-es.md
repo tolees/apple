@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075S96MJZ-es ultrapower100® Cargador Compatible iPhone 1A 5 W 1400 +...'
 sku: 'B075S96MJZ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

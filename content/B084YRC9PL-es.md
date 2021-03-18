@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084YRC9PL-es AR-Gun Brazalete Deportivo Pack 2 uds valido para...'
 sku: 'B084YRC9PL-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

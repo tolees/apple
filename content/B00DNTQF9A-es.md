@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DNTQF9A-es Leitz 44730001 - Cuaderno de notas tamaño iPad...'
 sku: 'B00DNTQF9A-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

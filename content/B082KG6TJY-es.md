@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KG6TJY-es Rocontrip Funda de Silicona para Teléfono con el Cordón...'
 sku: 'B082KG6TJY-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

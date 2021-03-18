@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ4PRLQ-es Limxems Cargador Inalámbrico 10W Qi Wireless Carga Rápida...'
 sku: 'B07MJ4PRLQ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

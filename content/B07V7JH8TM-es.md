@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7JH8TM-es Otterbox Symmetry Clear - Funda Anti-Caídas Fina y...'
 sku: 'B07V7JH8TM-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 22.93 EUR
 currency: EUR
 price: 22.93

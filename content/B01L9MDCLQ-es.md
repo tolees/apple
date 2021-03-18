@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L9MDCLQ-es Belkin F8J206BTGRY - Funda y Soporte para Apple Pencil...'
 sku: 'B01L9MDCLQ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

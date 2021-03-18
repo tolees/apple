@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XTNHHY8-es Funda para iPhone 11 Adsorcion Magnetica Carcasa 360...'
 sku: 'B07XTNHHY8-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

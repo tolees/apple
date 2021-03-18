@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R22YGPR-es Soporte Móvil Coche hanmir Soporte Móvil Coche para...'
 sku: 'B07R22YGPR-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

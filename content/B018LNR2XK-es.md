@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018LNR2XK-es Brazalete Deportivo para Correr Prueba de Sudor Apoyo...'
 sku: 'B018LNR2XK-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

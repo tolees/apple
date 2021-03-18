@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z7LWRX6-es KUNGIX Pulsera de Inteligente Mujer Smartwatch Impermeable...'
 sku: 'B07Z7LWRX6-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JG131ST-es Fullmosa Compatible Correa Apple Watch Series 5 Series 4...'
 sku: 'B07JG131ST-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

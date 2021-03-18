@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMFWXXR-es CAFELE Funda Protectora para teléfono de Silicona Suave...'
 sku: 'B07WMFWXXR-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 1.43 EUR
 currency: EUR
 price: 1.43

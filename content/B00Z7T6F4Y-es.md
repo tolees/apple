@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7T6F4Y-es OtterBox Defender - Funda de protección triple capa para...'
 sku: 'B00Z7T6F4Y-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
+tags: [ 'apple','ipad', ]
 actualPrice: 67.49 EUR
 currency: EUR
 price: 67.49

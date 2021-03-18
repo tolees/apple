@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073ZDTT8Z-es ESR Funda para iPhone SE/8/7 [Funda TPU][No...'
 sku: 'B073ZDTT8Z-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 6.29 EUR
 currency: EUR
 price: 6.29

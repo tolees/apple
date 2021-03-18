@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RSQQZ2S-es LTDNB Cargador Inalámbrico Rápido Qi Wireless Charger por...'
 sku: 'B07RSQQZ2S-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

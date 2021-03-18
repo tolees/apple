@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Q6FF6C-es Luxtude Bateria Externa Movil iPhone 5000mAh Powerbank con...'
 sku: 'B077Q6FF6C-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

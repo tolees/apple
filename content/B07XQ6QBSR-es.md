@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQ6QBSR-es OMOTON Teclado Bluetooth Español Compatible con Sistema de...'
 sku: 'B07XQ6QBSR-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 15.25 EUR
 currency: EUR
 price: 15.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHTQB4G-es Omars USB C Hub 9 en 1 Adaptador USB Tipo C con HDMI 4K...'
 sku: 'B07HHTQB4G-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

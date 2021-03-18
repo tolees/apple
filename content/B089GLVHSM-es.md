@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GLVHSM-es 3.5mm Auriculares Auriculares Auriculares Auriculares...'
 sku: 'B089GLVHSM-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone','ipod', ]
+tags: [ 'iphone','ipod', ]
 actualPrice: 3.33 EUR
 currency: EUR
 price: 3.33

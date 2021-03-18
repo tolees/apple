@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQJ4AO1-es Vaultskin Eton Armour - Funda de cuero para iPhone SE y 5s...'
 sku: 'B01MQJ4AO1-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

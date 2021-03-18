@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VG1N8L7-es ivencase Funda para iPhone 11 Pro Carcasa Transparente...'
 sku: 'B07VG1N8L7-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 4.98 EUR
 currency: EUR
 price: 4.98

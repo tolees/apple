@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087N3GBK1-es Cocoda Soporte Tablet Portátil Soporte iPad con Ajustable...'
 sku: 'B087N3GBK1-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

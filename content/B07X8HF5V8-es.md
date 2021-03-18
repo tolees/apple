@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8HF5V8-es iAmotus Soporte Movil Coche Soporte Movil Coche Celular...'
 sku: 'B07X8HF5V8-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0148NMVQA-es Philips Hue White and Color Ambiance - Lightstrip Plus...'
 sku: 'B0148NMVQA-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

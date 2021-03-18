@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5SXW8F-es KNOK Funda Colgante movil con Cuerda para Colgar iPhone...'
 sku: 'B07H5SXW8F-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

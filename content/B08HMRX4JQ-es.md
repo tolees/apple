@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HMRX4JQ-es Auriculares Inalambricos Bluetooth con Micrófono HiFi...'
 sku: 'B08HMRX4JQ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

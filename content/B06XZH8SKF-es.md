@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XZH8SKF-es JETech Funda para iPad 9 7 Pulgadas 2018/2017 Modelo 6ª /...'
 sku: 'B06XZH8SKF-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

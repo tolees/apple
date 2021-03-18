@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCK9BCZ-es MoKo 4 PZS Lápiz Táctil Capacitiva Universal Digitales...'
 sku: 'B06XCK9BCZ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 7.59 EUR
 currency: EUR
 price: 7.59

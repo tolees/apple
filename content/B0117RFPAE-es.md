@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0117RFPAE-es Bose® SoundSport ® - Auriculares in-ear para Apple color...'
 sku: 'B0117RFPAE-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

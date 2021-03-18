@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QMQ3W8M-es Guzack Riñonera Deportivo Bolso Cintura Cinturón Running...'
 sku: 'B07QMQ3W8M-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

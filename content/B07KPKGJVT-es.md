@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KPKGJVT-es KHOMO iPad Pro 11 Funda Dual Ultra Delgada y Ligera con...'
 sku: 'B07KPKGJVT-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
+tags: [ 'apple','ipad', ]
 actualPrice: 10.08 EUR
 currency: EUR
 price: 10.08

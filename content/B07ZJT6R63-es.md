@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZJT6R63-es Hanek Funda iPhone 7/8 Funda de móvil con cordón para...'
 sku: 'B07ZJT6R63-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 19.92 EUR
 currency: EUR
 price: 19.92

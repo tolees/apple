@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X44LSZG-es Spigen Urban Fit diseñado para Apple Airpods Funda para...'
 sku: 'B07X44LSZG-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

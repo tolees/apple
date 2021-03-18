@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5CYWT2-es Soporte de Escritorio para iPad tabletas lectores...'
 sku: 'B07H5CYWT2-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

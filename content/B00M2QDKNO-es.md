@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M2QDKNO-es SODIAL R Soporte base de mesa universal ajustable plegable...'
 sku: 'B00M2QDKNO-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 2.61 EUR
 currency: EUR
 price: 2.61

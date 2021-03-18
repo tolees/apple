@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HD26KQK-es Apple Watch Correa rosa peonía con hebilla moderna 40mm -...'
 sku: 'B07HD26KQK-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 33.93 EUR
 currency: EUR
 price: 33.93

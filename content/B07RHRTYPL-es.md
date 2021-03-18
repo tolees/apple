@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RHRTYPL-es LATEC Pulsera Actividad Inteligente Pulsómetro y Presión...'
 sku: 'B07RHRTYPL-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

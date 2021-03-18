@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF67NFQ-es Levi s 514 Vaqueros Straight Azul Apple Overt Adapt 1238...'
 sku: 'B07LF67NFQ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
+tags: [ 'apple', ]
 actualPrice: 78.57 EUR
 currency: EUR
 price: 78.57

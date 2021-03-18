@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076D7F4DS-es iWALK 20000mAh Alta Capacidad Móvil Batería Externa Power...'
 sku: 'B076D7F4DS-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

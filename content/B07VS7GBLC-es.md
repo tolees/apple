@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VS7GBLC-es LUDOS Clamor Auriculares con Micrófono y Cable Cascos...'
 sku: 'B07VS7GBLC-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

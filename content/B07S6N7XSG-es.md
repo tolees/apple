@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6N7XSG-es NWOUIIAY Organizadores para Coche 2PCS Funda Protección...'
 sku: 'B07S6N7XSG-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

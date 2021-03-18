@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H9PSJHT-es Apple Funda Leather Folio para el iPhone XS - Azul cabo'
 sku: 'B07H9PSJHT-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','iphone', ]
+tags: [ 'apple','iphone', ]
 actualPrice: 43.06 EUR
 currency: EUR
 price: 43.06

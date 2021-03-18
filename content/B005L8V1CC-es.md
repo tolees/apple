@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005L8V1CC-es Duronic SCK102 Spray Limpiador x2 de 200ml para Pantallas...'
 sku: 'B005L8V1CC-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

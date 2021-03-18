@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ3RJR-es Funda Protectora para teléfono móvil de diseño Lindo Funda...'
 sku: 'B083HZ3RJR-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 1.06 EUR
 currency: EUR
 price: 1.06

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MRG3HAY-es Brazalete Deportivo para Correr Prueba de Sudor Apoyo...'
 sku: 'B01MRG3HAY-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

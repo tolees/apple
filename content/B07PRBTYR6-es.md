@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PRBTYR6-es FKANT Batería Externa Movil Powerbank 25000mAh Carga...'
 sku: 'B07PRBTYR6-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

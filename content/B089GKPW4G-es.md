@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GKPW4G-es KEEHOM Funda Impermeable Universal 2 Unidades Bolsa para...'
 sku: 'B089GKPW4G-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
+tags: [ 'iphone', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

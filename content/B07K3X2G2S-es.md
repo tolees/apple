@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K3X2G2S-es E·Durable 86in1 Herramientas pc Kit Destornilladores...'
 sku: 'B07K3X2G2S-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

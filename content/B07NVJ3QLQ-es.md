@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVJ3QLQ-es Kaisi Kit Herramienta movil Destornillador Apertura de...'
 sku: 'B07NVJ3QLQ-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
+tags: [ 'ipad','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

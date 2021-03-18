@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRBL929-es Hossom Organizadores para Coche 2 pcs Kick Mats de Coche...'
 sku: 'B07VRBL929-es'
-tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
+tags: [ 'ipad', ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69
