@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF8J2DZ-es Ringke Soporte para Portátil [Gris] Soporte Adhesivo...'
 sku: 'B07KF8J2DZ-es'
-tags: [ 'ipad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

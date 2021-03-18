@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00W5UA4T0-es JETech Protector de Pantalla compatible iPad 9 7 Pulgadas...'
 sku: 'B00W5UA4T0-es'
-tags: [ 'ipad', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

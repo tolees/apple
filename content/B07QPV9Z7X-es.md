@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QPV9Z7X-es JETech Funda Compatible con iPad 8/7 10 2 Pulgadas...'
 sku: 'B07QPV9Z7X-es'
-tags: [ 'ipad', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

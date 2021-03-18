@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CZ6EZYO-es JETech Funda para iPad 4 iPad 3 y iPad 2 Carcasa con...'
 sku: 'B00CZ6EZYO-es'
-tags: [ 'ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

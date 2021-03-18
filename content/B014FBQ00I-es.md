@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014FBQ00I-es Belkin F2CU037btBLK - Adaptador de USB-C a VGA Color Negro...'
 sku: 'B014FBQ00I-es'
-tags: [ 'ipad', ]
 actualPrice: 27.67 EUR
 currency: EUR
 price: 27.67

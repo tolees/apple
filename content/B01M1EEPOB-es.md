@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M1EEPOB-es Apple EarPods con conector Lightning'
 sku: 'B01M1EEPOB-es'
-tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','apple', ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

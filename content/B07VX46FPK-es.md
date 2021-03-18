@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VX46FPK-es Baseus Hub USB C 6 En 1 para iPad Air 4/ Pro 2018/2020...'
 sku: 'B07VX46FPK-es'
-tags: [ 'ipad', ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QMSVDS8-es JETech Funda Compatible iPad Pro 12 9 Pulgadas 4.ª...'
 sku: 'B07QMSVDS8-es'
-tags: [ 'ipad', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

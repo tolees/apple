@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKKVPCV-es IK Multimedia iKlip 3 - Soporte de micrófono Universal...'
 sku: 'B07JKKVPCV-es'
-tags: [ 'ipad', ]
 actualPrice: 42.97 EUR
 currency: EUR
 price: 42.97

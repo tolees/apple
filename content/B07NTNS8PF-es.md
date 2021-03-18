@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NTNS8PF-es Eono by Amazon Soporte Tablet Multiángulo Soporte Mesa...'
 sku: 'B07NTNS8PF-es'
-tags: [ 'ipad', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

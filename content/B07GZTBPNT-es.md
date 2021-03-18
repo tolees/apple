@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZTBPNT-es JETech Protector Pantalla Compatible iPad Pro 12 9...'
 sku: 'B07GZTBPNT-es'
-tags: [ 'ipad', ]
 actualPrice: 10.17 EUR
 currency: EUR
 price: 10.17

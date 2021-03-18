@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N5NSX9M-es AUKEY Soporte Móvil Coche Magnético Universal 2 Pack para...'
 sku: 'B01N5NSX9M-es'
-tags: [ 'iphone', ]
 actualPrice: 7.3 EUR
 currency: EUR
 price: 7.3

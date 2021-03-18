@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HPKVC5Y-es MOEVERT Soporte Portatil Ajustable Soporte para Ordenador...'
 sku: 'B08HPKVC5Y-es'
-tags: [ 'ipad', ]
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

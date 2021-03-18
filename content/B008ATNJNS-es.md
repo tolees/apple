@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ATNJNS-es Apple MagSafe 2 - Adaptador de Corriente de 85 vatios para...'
 sku: 'B008ATNJNS-es'
-tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QVL27L2-es SPARIN Protector de Pantalla Compatible con iPad Air 4 y...'
 sku: 'B07QVL27L2-es'
-tags: [ 'ipad', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

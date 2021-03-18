@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K7HGSTP-es Vobafe Funda Compatible con Nuevo iPad 8ª Generación 2020/...'
 sku: 'B08K7HGSTP-es'
-tags: [ 'ipad', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

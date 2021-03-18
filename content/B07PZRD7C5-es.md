@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZRD7C5-es Apple AirPods con estuche de carga inalámbrica 2ª generación'
 sku: 'B07PZRD7C5-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 178.0 EUR
 currency: EUR
 price: 178.0

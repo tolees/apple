@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VUKLYCM-es Apple Adaptador de USB-C a USB'
 sku: 'B00VUKLYCM-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

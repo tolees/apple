@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQZDHMR-es JETech Protector de Pantalla Compatible con iPad 8/7 10 2...'
 sku: 'B07QQZDHMR-es'
-tags: [ 'ipad', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

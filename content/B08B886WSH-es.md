@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B886WSH-es Fintie Funda de Tablet 11" Portafolio Bolsa Organizado con...'
 sku: 'B08B886WSH-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Soportes para moto','fintie','ipad', ]
 actualPrice: 20.79 EUR
 currency: EUR
 price: 20.79

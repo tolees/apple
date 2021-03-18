@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089YD5CJQ-es Lamicall Soporte Tablet Multiángulo Soporte Tablet -...'
 sku: 'B089YD5CJQ-es'
-tags: [ 'ipad','iphone', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

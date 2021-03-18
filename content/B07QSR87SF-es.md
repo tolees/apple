@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSR87SF-es JETech Protector de Pantalla Compatible con iPad Air 4 10...'
 sku: 'B07QSR87SF-es'
-tags: [ 'ipad', ]
 actualPrice: 7.63 EUR
 currency: EUR
 price: 7.63

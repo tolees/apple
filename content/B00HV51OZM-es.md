@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HV51OZM-es JETech 0467- Funda para iPad Air Edición de 2013 Carcasa...'
 sku: 'B00HV51OZM-es'
-tags: [ 'ipad', ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

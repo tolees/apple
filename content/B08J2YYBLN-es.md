@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J2YYBLN-es Inateck 11 6/12 3/13" Funda Compatible con MacBook Air...'
 sku: 'B08J2YYBLN-es'
-tags: [ 'ipad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00F4RASK6-es Apple Cable de Conector Lightning a USB 2m'
 sku: 'B00F4RASK6-es'
-tags: [ 'Cables Lightning','apple', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

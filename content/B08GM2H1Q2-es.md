@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GM2H1Q2-es Lemorele PowerExpand + 5-in-1 USB-C Ethernet Hub Adaptador...'
 sku: 'B08GM2H1Q2-es'
-tags: [ 'ipad', ]
 actualPrice: 20.38 EUR
 currency: EUR
 price: 20.38

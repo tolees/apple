@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088JVVTWS-es SmartDevil Funda para iPad Mini 2 3 1 con Tapa Inteligente...'
 sku: 'B088JVVTWS-es'
-tags: [ 'ipad', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

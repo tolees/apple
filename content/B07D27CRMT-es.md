@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D27CRMT-es HOMIEE Funda Protectora de Fieltro para portátiles de...'
 sku: 'B07D27CRMT-es'
-tags: [ 'ipad', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

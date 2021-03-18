@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HRM5TZA-es JETech Funda para iPad Mini 1 2 3 Carcasa con Soporte...'
 sku: 'B00HRM5TZA-es'
-tags: [ 'ipad', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HWGRDBY-es GRDE - Auricular Bluetooth Inalámbrico Auriculares Manos...'
 sku: 'B08HWGRDBY-es'
-tags: [ 'iphone', ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

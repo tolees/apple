@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JUJYXP4-es JETech Protector de Pantalla Compatible con iPad Air 4 10...'
 sku: 'B01JUJYXP4-es'
-tags: [ 'ipad', ]
 actualPrice: 8.47 EUR
 currency: EUR
 price: 8.47

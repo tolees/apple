@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQZDHMS-es JETech Funda para iPad Air 2 Carcasa con Soporte Función...'
 sku: 'B07QQZDHMS-es'
-tags: [ 'ipad', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ON5KZC-es Corsair Mac Memory - Memoria para Apple Mac de 16 GB 2 x 8...'
 sku: 'B006ON5KZC-es'
-tags: [ 'Accesorios','Accesorios para tablets','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Electrónica para moto','Electrónica para vehículos','Fundas blandas para tablets','Fundas para tablets','Informática','Smartwatches','Soportes para moto','Tecnología para vestir','apple', ]
 actualPrice: 74.5 EUR
 currency: EUR
 price: 74.5

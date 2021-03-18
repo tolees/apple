@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016UPAXBE-es Apple Magic Keyboard - Español'
 sku: 'B016UPAXBE-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99
