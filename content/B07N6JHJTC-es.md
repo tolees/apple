@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6JHJTC-es Baseus Hub Tipo C de 5 Puertos de Datos Ultrafino de...'
 sku: 'B07N6JHJTC-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

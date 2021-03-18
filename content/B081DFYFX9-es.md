@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DFYFX9-es FNBK Funda para iPhone 7 Plus / 8 Plus Case Funda Móvil PU...'
 sku: 'B081DFYFX9-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QX4VN3B-es Warxin Soporte Magnético Movil Coche Mini Móvil Coche Iman...'
 sku: 'B07QX4VN3B-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086M8B4ZK-es Oihxse Funda para iPhone XS MAX/iPhone 10 Plus...'
 sku: 'B086M8B4ZK-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078J9VQ5L-es StillCool Universal Tablet para iPad Soporte de la Cama...'
 sku: 'B078J9VQ5L-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HWMN9ZT-es Apple iPhone XS Max de 512GB - Plata'
 sku: 'B07HWMN9ZT-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','iphone', ]
 actualPrice: 1089.0 EUR
 currency: EUR
 price: 1089.0

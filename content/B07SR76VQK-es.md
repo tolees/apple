@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SR76VQK-es Chok Idea Innovador Hebilla Piel Genuina Correa Compatible...'
 sku: 'B07SR76VQK-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 18.23 EUR
 currency: EUR
 price: 18.23

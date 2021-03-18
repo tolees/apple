@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X9R17VQ-es Omars Batería Externa 20000mAh PowerBank Bateria Portatil...'
 sku: 'B07X9R17VQ-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

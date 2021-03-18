@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QHR1WCW-es Huyeta Smartwatch Reloj Inteligente 5ATM Impermeable...'
 sku: 'B07QHR1WCW-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

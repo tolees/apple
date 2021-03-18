@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CSQ3VSW-es Soporte Portatil Laptop Stand Aluminio Ventilado...'
 sku: 'B08CSQ3VSW-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

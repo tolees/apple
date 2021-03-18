@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NWD9PF-es Typicshop Tapa Cámara Ultra Delgada 0.85mm Webcam Cover...'
 sku: 'B089NWD9PF-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

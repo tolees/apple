@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08133ZZFL-es XLTOK Cargador Coche 24W 4.8A Doble Puerto con LED...'
 sku: 'B08133ZZFL-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

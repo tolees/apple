@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XJP45YG-es Fullmosa Correa Compatible de Acero Inoxidable y Desmontar...'
 sku: 'B07XJP45YG-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

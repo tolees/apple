@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZP3M7B-es JETech Protector de Pantalla Compatible iPad Air 3 10 5...'
 sku: 'B071ZP3M7B-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

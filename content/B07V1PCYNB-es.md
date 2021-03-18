@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V1PCYNB-es Otterbox Symmetry Clear - Funda Anti-Caídas Fina y...'
 sku: 'B07V1PCYNB-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','iphone', ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

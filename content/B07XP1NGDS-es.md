@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XP1NGDS-es WIWJ Funda para iPhone XR Carcasa Hollow Pintado Suave...'
 sku: 'B07XP1NGDS-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C1VT9WH-es GEARGO Webcam Cover Tapa Webcam Ultra Delgada 0.7mm...'
 sku: 'B07C1VT9WH-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CYF94N8-es Sonoka Lector Tarjetas de Memoria - Auelek 4 en 1...'
 sku: 'B07CYF94N8-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

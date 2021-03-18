@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS6BN1H-es Apple Watch Correa Loop Deportiva 40 mm - Gris Hierro'
 sku: 'B07XS6BN1H-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

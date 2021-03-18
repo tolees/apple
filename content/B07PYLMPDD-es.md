@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PYLMPDD-es Apple MVFU2ZM/A Funda para teléfono móvil Folio - Fundas...'
 sku: 'B07PYLMPDD-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','iphone', ]
 actualPrice: 89.16 EUR
 currency: EUR
 price: 89.16

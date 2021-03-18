@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2ZM99V-es Ryaco Soporte de Móvil Deportiva para Bicicletas y Motos...'
 sku: 'B07D2ZM99V-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

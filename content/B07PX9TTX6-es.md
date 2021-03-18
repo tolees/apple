@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PX9TTX6-es HOTLIFE Funda Teclado para iPad Mini 5 2019/Mini 4 2015...'
 sku: 'B07PX9TTX6-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

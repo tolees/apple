@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3KRWTR-es Lamicall Soporte de Almohada para Tablet - Almohada...'
 sku: 'B08B3KRWTR-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

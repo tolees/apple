@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LWAR461-es Apple Beats Solo3 Auriculares de Diadema Inalámbricos - Plata'
 sku: 'B01LWAR461-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 109.2 EUR
 currency: EUR
 price: 109.2

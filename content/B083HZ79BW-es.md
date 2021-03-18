@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ79BW-es J35038-Tm Anti-Fall Creative Simple Marble Pattern...'
 sku: 'B083HZ79BW-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 1.33 EUR
 currency: EUR
 price: 1.33

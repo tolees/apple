@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XS8FKWY-es Apple Funda Smart Cover para el iPad - Blanco'
 sku: 'B06XS8FKWY-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad', ]
 actualPrice: 33.15 EUR
 currency: EUR
 price: 33.15

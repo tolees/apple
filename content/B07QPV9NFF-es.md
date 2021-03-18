@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPV9NFF-es JETech Funda Compatible iPad Air 10 5 3ª Generación 2019 y...'
 sku: 'B07QPV9NFF-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

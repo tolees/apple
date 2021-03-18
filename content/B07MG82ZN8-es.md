@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MG82ZN8-es UrbanX 12W Cargador Portátil USB Power Adapter y USB Cable...'
 sku: 'B07MG82ZN8-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

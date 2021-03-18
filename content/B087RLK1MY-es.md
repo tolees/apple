@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RLK1MY-es Auriculares Inalambricos 5.0 Auriculares Bluetooth In Ear...'
 sku: 'B087RLK1MY-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

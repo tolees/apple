@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C5XBSUK-es Maclean MC 676 -Soporte para iPad 2/3/4/Air/Air2 de Pared...'
 sku: 'B01C5XBSUK-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

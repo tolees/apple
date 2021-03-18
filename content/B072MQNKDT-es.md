@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072MQNKDT-es Nuevo Apple MacBook de 12 pulgadas Intel Core m3 de doble...'
 sku: 'B072MQNKDT-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

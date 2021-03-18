@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XMBR4CC-es Anker iPhone 11 Charger USB C to Lightning Cable [6ft...'
 sku: 'B07XMBR4CC-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

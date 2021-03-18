@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NWFYLKV-es Soporte Tablet Coche Soporte iPad Tablet Soporte...'
 sku: 'B07NWFYLKV-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

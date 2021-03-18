@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087LY3WPS-es Oihxse Cristal Compatible con iPhone XS/X Funda...'
 sku: 'B087LY3WPS-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

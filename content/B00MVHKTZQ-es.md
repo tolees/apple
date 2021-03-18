@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MVHKTZQ-es Anker Cargador USB de Pared 36W 7.2A con 4 Puertos PowerIQ...'
 sku: 'B00MVHKTZQ-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

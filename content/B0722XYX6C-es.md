@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0722XYX6C-es Cable iPhone [Apple Certificado] IQIYI 1M Cable de Carga y...'
 sku: 'B0722XYX6C-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone','ipod', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone','ipod', ]
 actualPrice: 6.88 EUR
 currency: EUR
 price: 6.88

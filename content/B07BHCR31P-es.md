@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHCR31P-es iMangoo Adaptador de Carga para lápiz de Apple 2 Unidades...'
 sku: 'B07BHCR31P-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','ipad','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad','iphone', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

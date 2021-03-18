@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P8M6P5R-es SDBAUX 3 in 1 Cable de Carga 2Pack Múltiples USB Cargador...'
 sku: 'B07P8M6P5R-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','ipod', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','ipod', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

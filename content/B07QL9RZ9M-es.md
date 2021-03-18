@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QL9RZ9M-es Targus Click-In 20 1 cm 7.9" Folio Negro - Fundas para...'
 sku: 'B07QL9RZ9M-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad', ]
 actualPrice: 11.59 EUR
 currency: EUR
 price: 11.59

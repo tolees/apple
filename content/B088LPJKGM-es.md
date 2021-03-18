@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088LPJKGM-es Looffy Pendrive 32GB Memoria USB para iPhone y iPad Pen...'
 sku: 'B088LPJKGM-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 19.98 EUR
 currency: EUR
 price: 19.98

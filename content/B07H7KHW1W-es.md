@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H7KHW1W-es Fundas para iPhone Dolce&Gabbana iPhone 6g Hombre - Piel...'
 sku: 'B07H7KHW1W-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 177.5 EUR
 currency: EUR
 price: 177.5

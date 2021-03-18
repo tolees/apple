@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YRQ7CGS-es Yoozon Mini Palo Selfie Bluetooth Selfie Stick Giratorio...'
 sku: 'B07YRQ7CGS-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

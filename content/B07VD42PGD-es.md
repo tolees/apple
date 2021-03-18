@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VD42PGD-es IWAVION Cable Phone 3PACK 1M Cable Cargador Phon Nylon...'
 sku: 'B07VD42PGD-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

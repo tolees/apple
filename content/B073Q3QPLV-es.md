@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073Q3QPLV-es Apple Smart Keyboard para el iPad de 10 2 pulgadas el iPad...'
 sku: 'B073Q3QPLV-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad', ]
 actualPrice: 147.93 EUR
 currency: EUR
 price: 147.93

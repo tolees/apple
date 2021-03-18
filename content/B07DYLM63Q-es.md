@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYLM63Q-es TOPELEK Teclado y Raton Inálambrico con Tapa de Suspensión...'
 sku: 'B07DYLM63Q-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WFRRW1Q-es JOOMFEEN Quick Charge 3.0 Cargador USB de Pared 30W QC 3.0...'
 sku: 'B07WFRRW1Q-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone','ipod', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone','ipod', ]
 actualPrice: 21.59 EUR
 currency: EUR
 price: 21.59

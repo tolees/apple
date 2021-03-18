@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F9NGKSJ-es Auriculare/Auriculares Auriculares Cableados En El Ruido...'
 sku: 'B08F9NGKSJ-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

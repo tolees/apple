@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FC18TKS-es Cascos Bluetooth Inalámbricos OLTA Auriculares Plegable...'
 sku: 'B07FC18TKS-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

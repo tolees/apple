@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089QTPLF7-es LUMBRILL - Soporte para ordenador portátil con 9 niveles...'
 sku: 'B089QTPLF7-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

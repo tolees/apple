@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K3X2G2S-es E·Durable 86in1 Herramientas pc Kit Destornilladores...'
 sku: 'B07K3X2G2S-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WBWGBT-es Syncwire Cable HDMI 2.0 de alta velocidad 2M - Ultra HD 4k...'
 sku: 'B071WBWGBT-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

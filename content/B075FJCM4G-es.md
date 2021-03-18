@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FJCM4G-es Spigen Rugged Armor Pro Compatible con Apple Watch Funda...'
 sku: 'B075FJCM4G-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

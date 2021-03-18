@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G1HM32K-es Belkin Boost Charge 20K - Batería Externa USB-C + Cable...'
 sku: 'B07G1HM32K-es'
-tags: [ 'Accesorios','Adaptadores','Adaptadores USB','Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99
