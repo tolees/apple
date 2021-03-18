@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKKVPCV-es IK Multimedia iKlip 3 - Soporte de micrófono Universal...'
 sku: 'B07JKKVPCV-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 42.97 EUR
 currency: EUR
 price: 42.97

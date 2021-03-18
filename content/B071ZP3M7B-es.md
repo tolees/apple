@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071ZP3M7B-es JETech Protector de Pantalla Compatible iPad Air 3 10 5...'
 sku: 'B071ZP3M7B-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 6.77 EUR
 currency: EUR
 price: 6.77

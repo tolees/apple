@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HD26KQK-es Apple Watch Correa rosa peonía con hebilla moderna 40mm -...'
 sku: 'B07HD26KQK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 33.93 EUR
 currency: EUR
 price: 33.93

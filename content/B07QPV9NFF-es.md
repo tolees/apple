@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QPV9NFF-es JETech Funda Compatible iPad Air 10 5 3ª Generación 2019 y...'
 sku: 'B07QPV9NFF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

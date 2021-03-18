@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PLSDPYN-es UGREEN Cable USB C a USB C Cable PD 20V 3A 60W Carga...'
 sku: 'B07PLSDPYN-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

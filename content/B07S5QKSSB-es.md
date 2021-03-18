@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S5QKSSB-es RAVPower Cargador USB con 2 Puertos USB 17W Cargador de...'
 sku: 'B07S5QKSSB-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HDNWLT-es Quntis Cable iPhone [Apple MFi Certificado] 1+2+3m 3...'
 sku: 'B084HDNWLT-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone','ipod', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone','ipod', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

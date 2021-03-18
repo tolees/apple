@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LF8WP15-es Levi s 514 Vaqueros Straight Azul Apple Overt Adapt 1238...'
 sku: 'B07LF8WP15-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 58.79 EUR
 currency: EUR
 price: 58.79

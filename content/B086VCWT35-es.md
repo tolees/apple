@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086VCWT35-es UGREEN Cable USB C a USB C con PD 60W 20V/ 3A Carga Rápida...'
 sku: 'B086VCWT35-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

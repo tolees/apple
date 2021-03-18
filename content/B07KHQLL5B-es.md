@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KHQLL5B-es Auriculares Bluetooth Deportivos Syllable D15 Auriculares...'
 sku: 'B07KHQLL5B-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

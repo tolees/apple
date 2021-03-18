@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HPDBKKQ-es Apple iPhone XS de 512GB - Oro'
 sku: 'B07HPDBKKQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 938.9 EUR
 currency: EUR
 price: 938.9

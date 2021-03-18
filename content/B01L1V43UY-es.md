@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01L1V43UY-es Wacom CS-610CB Bamboo Stylus Fineline 3 Lápiz digital para...'
 sku: 'B01L1V43UY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 34.69 EUR
 currency: EUR
 price: 34.69

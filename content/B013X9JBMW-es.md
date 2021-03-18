@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013X9JBMW-es JETech 3282- Funda para iPad mini 4 Carcasa con Soporte...'
 sku: 'B013X9JBMW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NWD9PF-es Typicshop Tapa Cámara Ultra Delgada 0.85mm Webcam Cover...'
 sku: 'B089NWD9PF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 3.99 EUR
 currency: EUR
 price: 3.99

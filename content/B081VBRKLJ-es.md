@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081VBRKLJ-es Oihxse Silicona Matorral Funda Compatible con iPhone 11...'
 sku: 'B081VBRKLJ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 6.98 EUR
 currency: EUR
 price: 6.98

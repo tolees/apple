@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G1TRBLW-es Belkin Boost Charge 10K - Batería externa con conector...'
 sku: 'B07G1TRBLW-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 58.49 EUR
 currency: EUR
 price: 58.49

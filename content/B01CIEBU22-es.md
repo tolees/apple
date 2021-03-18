@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CIEBU22-es Sandisk iXpand - Memoria flash USB de 32 GB para iPhone y...'
 sku: 'B01CIEBU22-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

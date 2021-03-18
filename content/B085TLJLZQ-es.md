@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085TLJLZQ-es Funda iPhone 11 Pro 5.8" Silicona Anti-Golpes Detalles...'
 sku: 'B085TLJLZQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 7.7 EUR
 currency: EUR
 price: 7.7

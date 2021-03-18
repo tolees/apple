@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X9R17VQ-es Omars Batería Externa 20000mAh PowerBank Bateria Portatil...'
 sku: 'B07X9R17VQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

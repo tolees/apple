@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SX1KVWF-es Auriculares inalámbricos Bluetooth Cascos Bluetooth 5.0...'
 sku: 'B07SX1KVWF-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

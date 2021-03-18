@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NZJXWB-es Apple - Funda de Piel para el iPad Pro de 10 5 Pulgadas -...'
 sku: 'B075NZJXWB-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','ipad', ]
 actualPrice: 71.39 EUR
 currency: EUR
 price: 71.39

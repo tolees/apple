@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C5XBSUK-es Maclean MC 676 -Soporte para iPad 2/3/4/Air/Air2 de Pared...'
 sku: 'B01C5XBSUK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 23.58 EUR
 currency: EUR
 price: 23.58

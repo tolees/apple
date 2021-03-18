@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK7V9JN-es ELEGIANT Mini LED Luz USB con Altavoz Bluetooth Lámpara...'
 sku: 'B07KK7V9JN-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0851FQFVL-es Auriculares Bluetooth 5.0 Auriculares Inalambricos Cascos...'
 sku: 'B0851FQFVL-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 11.93 EUR
 currency: EUR
 price: 11.93

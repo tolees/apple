@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVJ3QLQ-es Kaisi Kit Herramienta movil Destornillador Apertura de...'
 sku: 'B07NVJ3QLQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

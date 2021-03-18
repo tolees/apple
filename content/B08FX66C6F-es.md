@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FX66C6F-es Auriculares Bluetooth 5.0 auriculares con micrófono...'
 sku: 'B08FX66C6F-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

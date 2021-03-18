@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZHB7MY-es Lomogo Funda Cartera [iPhone XS MAX] Funda de Cuero con...'
 sku: 'B08BZHB7MY-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

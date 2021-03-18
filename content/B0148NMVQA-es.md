@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0148NMVQA-es Philips Hue White and Color Ambiance - Lightstrip Plus...'
 sku: 'B0148NMVQA-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

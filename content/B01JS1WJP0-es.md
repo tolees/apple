@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JS1WJP0-es Anker 2 Pack Cable Lightning Cargador iPhone [Apple MFi...'
 sku: 'B01JS1WJP0-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone','ipod', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone','ipod', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

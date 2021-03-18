@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J1RH17P-es Cargador USB Multipuerto LENCENT Ladron Enchufes 4.4A 5V...'
 sku: 'B07J1RH17P-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

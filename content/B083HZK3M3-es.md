@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZK3M3-es Charms Bling Glitter Funda ultradelgada para teléfono...'
 sku: 'B083HZK3M3-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 1.02 EUR
 currency: EUR
 price: 1.02

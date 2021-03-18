@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J6H7QZ8-es Apple iPhone XS Max de 64GB - Plata'
 sku: 'B07J6H7QZ8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 905.26 EUR
 currency: EUR
 price: 905.26

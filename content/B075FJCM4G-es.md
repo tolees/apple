@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075FJCM4G-es Spigen Rugged Armor Pro Compatible con Apple Watch Funda...'
 sku: 'B075FJCM4G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

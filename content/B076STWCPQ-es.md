@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076STWCPQ-es Tucano-Bolsa para Ordenador Hombre y Mujer con Bolsillo...'
 sku: 'B076STWCPQ-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

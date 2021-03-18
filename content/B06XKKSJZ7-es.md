@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XKKSJZ7-es Mophie Juice Pack Air Funda para teléfono móvil 14 cm 5.5"...'
 sku: 'B06XKKSJZ7-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

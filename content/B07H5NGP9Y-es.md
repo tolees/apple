@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5NGP9Y-es Targus THZ749GL Funda VersaVu para iPad Pro de 12 9...'
 sku: 'B07H5NGP9Y-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 43.03 EUR
 currency: EUR
 price: 43.03

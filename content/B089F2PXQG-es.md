@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089F2PXQG-es SYOSIN Soporte Movil Bicicleta Soporte Universal Manillar...'
 sku: 'B089F2PXQG-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 10.59 EUR
 currency: EUR
 price: 10.59

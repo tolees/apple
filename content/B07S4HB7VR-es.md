@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S4HB7VR-es QWDDECO Sticker Pack 360 PCS Vinilo Pegatinas para...'
 sku: 'B07S4HB7VR-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

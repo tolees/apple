@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MCQJE3P-es Pioneer SE-MJ553BT-R - Auriculares inalámbricos Bluetooth...'
 sku: 'B01MCQJE3P-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 41.11 EUR
 currency: EUR
 price: 41.11

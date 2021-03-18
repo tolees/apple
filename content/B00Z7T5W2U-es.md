@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7T5W2U-es Otterbox Symmetry - Funda para Apple iPhone XR diseño RAD...'
 sku: 'B00Z7T5W2U-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','iphone', ]
 actualPrice: 21.57 EUR
 currency: EUR
 price: 21.57

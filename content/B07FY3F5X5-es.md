@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FY3F5X5-es Otterbox Symmetry - Funda Anti caídas Fina para iPhone XS...'
 sku: 'B07FY3F5X5-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

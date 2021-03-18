@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9X6G9M-es Logitech Slim Folio Funda para iPad con Teclado Bluetooth...'
 sku: 'B07F9X6G9M-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 83.66 EUR
 currency: EUR
 price: 83.66

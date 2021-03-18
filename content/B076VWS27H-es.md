@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076VWS27H-es KHOMO Funda iPad Air 3 10.5 2019 / iPad Pro 10.5 2017...'
 sku: 'B076VWS27H-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','ipad', ]
 actualPrice: 13.26 EUR
 currency: EUR
 price: 13.26

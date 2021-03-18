@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K2NZM4G-es Apple Mac mini Modelo Anterior 8GB RAM 256GB de...'
 sku: 'B07K2NZM4G-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 949.0 EUR
 currency: EUR
 price: 949.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CY1GMN9-es Belkin - Cable de Audio de 3 5 mm con Conector Lightning...'
 sku: 'B07CY1GMN9-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S54HRAE-es Aquapac Funda iPhone 6+SIMILARES'
 sku: 'B00S54HRAE-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 26.7 EUR
 currency: EUR
 price: 26.7

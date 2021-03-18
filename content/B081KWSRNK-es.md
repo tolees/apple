@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081KWSRNK-es QYiD Funda para iPad 10.2 / iPad 7th Gen Plegables Soporte...'
 sku: 'B081KWSRNK-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','ipad', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

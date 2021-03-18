@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6S4KVX-es KHOMO Carcasa Funda Trasera Semi Transparente para Apple...'
 sku: 'B07D6S4KVX-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple','ipad', ]
 actualPrice: 8.13 EUR
 currency: EUR
 price: 8.13

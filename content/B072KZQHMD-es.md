@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072KZQHMD-es Fintie Funda para iPad 4/3 / 2 - [Protección de Esquina]...'
 sku: 'B072KZQHMD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

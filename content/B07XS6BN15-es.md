@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS6BN15-es Apple Watch Pulsera de Eslabones Plata 42 mm'
 sku: 'B07XS6BN15-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','apple', ]
 actualPrice: 228.88 EUR
 currency: EUR
 price: 228.88

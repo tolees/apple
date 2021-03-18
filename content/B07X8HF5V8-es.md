@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8HF5V8-es iAmotus Soporte Movil Coche Soporte Movil Coche Celular...'
 sku: 'B07X8HF5V8-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 4.23 EUR
 currency: EUR
 price: 4.23

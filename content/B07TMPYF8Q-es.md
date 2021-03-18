@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMPYF8Q-es Nuevo 8 Cnady Colors Stylus Pen Crystal 2 in1 Pantalla...'
 sku: 'B07TMPYF8Q-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad','iphone', ]
 actualPrice: 0.14 EUR
 currency: EUR
 price: 0.14

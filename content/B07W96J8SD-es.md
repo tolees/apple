@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W96J8SD-es Auriculares Bluetooth Orit Auriculares inalámbricos...'
 sku: 'B07W96J8SD-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

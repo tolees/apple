@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SFLJ7J-es BAIGIO Bolso Bandolera de Piel para Hombres iPad Bolso...'
 sku: 'B082SFLJ7J-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 22.22 EUR
 currency: EUR
 price: 22.22

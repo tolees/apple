@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085XYJTLC-es Babacom Raton Inalámbrico Recargable Ratón Ordenador...'
 sku: 'B085XYJTLC-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 12.23 EUR
 currency: EUR
 price: 12.23

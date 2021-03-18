@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B15CR4C-es Tryone Soporte Tablet Multiángulo Soporte Tablet - Altura...'
 sku: 'B08B15CR4C-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

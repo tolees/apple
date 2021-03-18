@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VK8BCV7-es TECHGEAR Funda Compatible con iPad Pro 11" 2018 [Apple...'
 sku: 'B07VK8BCV7-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','ipad', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

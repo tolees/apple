@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D11KFJ7-es WINMI para iPhone 12 Pro 6.1" Funda 360 Anillo iman...'
 sku: 'B08D11KFJ7-es'
-tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
+tags: [ 'Accesorios','Accesorios para móviles','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Comunicación móvil y accesorios','Electrónica','Fundas y carcasas para teléfonos móviles','Informática','Móviles','Móviles y smartphones libres','iphone', ]
 actualPrice: 6.02 EUR
 currency: EUR
 price: 6.02
