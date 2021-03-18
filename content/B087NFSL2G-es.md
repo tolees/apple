@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NFSL2G-es Tapa Webcam 8 Piezas Cubierta Camara Portatil KIWI design...'
 sku: 'B087NFSL2G-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

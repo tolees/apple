@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKRM12C-es UGREEN Lector Tarjetas SD y Micro SD USB Tipo C Lector...'
 sku: 'B07ZKRM12C-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

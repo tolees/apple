@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M3TJLUC-es UBMSA cargador unicornio 2600mAh Cargadores Horse portátil...'
 sku: 'B01M3TJLUC-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 14.69 EUR
 currency: EUR
 price: 14.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XND2Z8G-es LUDOS Turbo Auriculares con Micrófono y Graves Cascos...'
 sku: 'B07XND2Z8G-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895PY5NS-es TianTa Funda iPad Mini 5/4 Heavy Duty Triple Capa a Prueba...'
 sku: 'B0895PY5NS-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

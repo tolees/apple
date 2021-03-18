@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071XM3VR5-es Targus Click-in - Funda para el iPad Pro de 10.5" Color...'
 sku: 'B071XM3VR5-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

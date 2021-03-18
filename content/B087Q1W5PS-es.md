@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087Q1W5PS-es FSCOVER Funda para iPad Pro 12 9 2020 Purpurina Ultra...'
 sku: 'B087Q1W5PS-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075WTBLM1-es Riñonera Running cintura cinturón deportiva Belt botella...'
 sku: 'B075WTBLM1-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

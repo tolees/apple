@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KW1W3P3-es Baseus Cargador de Coche 5A 30W Tipo C con PD Carga rápida...'
 sku: 'B07KW1W3P3-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

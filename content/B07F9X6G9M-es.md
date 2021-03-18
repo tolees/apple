@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9X6G9M-es Logitech Slim Folio Funda para iPad con Teclado Bluetooth...'
 sku: 'B07F9X6G9M-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 83.66 EUR
 currency: EUR
 price: 83.66

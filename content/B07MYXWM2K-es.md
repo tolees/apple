@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYXWM2K-es OurLeeme Iluminación para lectura Brillo de 4 niveles...'
 sku: 'B07MYXWM2K-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

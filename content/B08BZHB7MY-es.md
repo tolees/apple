@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BZHB7MY-es Lomogo Funda Cartera [iPhone XS MAX] Funda de Cuero con...'
 sku: 'B08BZHB7MY-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','iphone', ]
 actualPrice: 10.45 EUR
 currency: EUR
 price: 10.45

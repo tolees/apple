@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLWZRBG-es UGREEN Cable USB C a USB C Cable PD 60W 20V / 3A Carga...'
 sku: 'B07WLWZRBG-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 5.7 EUR
 currency: EUR
 price: 5.7

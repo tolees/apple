@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVJ3QLQ-es Kaisi Kit Herramienta movil Destornillador Apertura de...'
 sku: 'B07NVJ3QLQ-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JESZT8M-es Inversor De Corriente 300W para Coche BESTEK Transformador...'
 sku: 'B00JESZT8M-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

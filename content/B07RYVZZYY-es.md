@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RYVZZYY-es Otterbox Slim bundle. Pack Funda anti caídas fina +...'
 sku: 'B07RYVZZYY-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01G5KURYC-es Zolion® Laptop Stand solide haut de gamme simple en...'
 sku: 'B01G5KURYC-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

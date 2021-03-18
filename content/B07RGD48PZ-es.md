@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RGD48PZ-es G-Color Laptop Stand / Soporte / Stand Portátil y...'
 sku: 'B07RGD48PZ-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076LJHZVD-es Pisen Ultrafino Banco de la energía 10000 mAh de Capacidad...'
 sku: 'B076LJHZVD-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone','ipod', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone','ipod', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

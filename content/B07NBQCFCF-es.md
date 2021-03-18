@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NBQCFCF-es Tommy Hilfiger T Camiseta Básica de Manga Corta Rojo Apple...'
 sku: 'B07NBQCFCF-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895QWXP2-es RIWNNI [2 Unidades] Protector Pantalla para iPad 8...'
 sku: 'B0895QWXP2-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

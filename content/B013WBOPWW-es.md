@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013WBOPWW-es Sostenedor para télefono móvil Breett soporte universal de...'
 sku: 'B013WBOPWW-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

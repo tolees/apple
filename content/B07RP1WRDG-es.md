@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP1WRDG-es Urban Armor Gear Plyo Funda para Apple Ipad Air 3 2019 /...'
 sku: 'B07RP1WRDG-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

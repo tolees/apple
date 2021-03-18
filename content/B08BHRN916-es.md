@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHRN916-es Cinturón de Cintura para Correr HAISSKY Deportiva...'
 sku: 'B08BHRN916-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 9.34 EUR
 currency: EUR
 price: 9.34

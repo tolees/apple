@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y9R2PRL-es Junfire 2019 - Funda para iPad de 10 2 Pulgadas función...'
 sku: 'B07Y9R2PRL-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 28.24 EUR
 currency: EUR
 price: 28.24

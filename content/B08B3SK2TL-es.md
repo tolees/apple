@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B3SK2TL-es CHOETECH Cargador USB C[GaN Tech] PD 65W Cargador de Pared...'
 sku: 'B08B3SK2TL-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

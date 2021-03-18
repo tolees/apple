@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086MNBTVC-es RE Lápiz Táctil 2.ª generación para Apple iPad 2018 y 2019...'
 sku: 'B086MNBTVC-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XBBMCYD-es NEW C Funda para iPhone 7 iPhone 8 Anti- Choques y Anti-...'
 sku: 'B06XBBMCYD-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

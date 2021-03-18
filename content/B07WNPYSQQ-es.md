@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNPYSQQ-es ESR Funda para iPad 10.2 Inteligente Serie Yippee Trifold...'
 sku: 'B07WNPYSQQ-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 10.78 EUR
 currency: EUR
 price: 10.78

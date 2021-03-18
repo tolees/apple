@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KHQLL5B-es Auriculares Bluetooth Deportivos Syllable D15 Auriculares...'
 sku: 'B07KHQLL5B-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

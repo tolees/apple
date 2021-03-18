@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T927XWB-es Belkin ScreenForce TemperedGlass - Protector de Pantalla...'
 sku: 'B07T927XWB-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

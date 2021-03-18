@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C3S24WB-es Soporte de iPad para el Coche TFY Soporte de iPad para...'
 sku: 'B07C3S24WB-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

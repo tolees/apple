@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GWRH64-es Eve Button - Mando para la casa conectada con tecnología...'
 sku: 'B078GWRH64-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
 actualPrice: 30.2 EUR
 currency: EUR
 price: 30.2

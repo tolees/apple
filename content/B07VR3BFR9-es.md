@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VR3BFR9-es SDBAUX Multi 4 en 1 Cable de carga 1.2m cable de cargador...'
 sku: 'B07VR3BFR9-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','ipod', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','ipod', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

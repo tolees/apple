@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077Q7K7VF-es Luxtude Bateria Externa para iPhone 5000mAh Powerbank Slim...'
 sku: 'B077Q7K7VF-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','iphone', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

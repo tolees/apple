@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XTPSCW3-es Fintie Funda para iPad 2018/2017 - Trasera Transparente...'
 sku: 'B06XTPSCW3-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

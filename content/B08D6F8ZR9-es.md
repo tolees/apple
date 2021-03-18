@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6F8ZR9-es Correa Apple Watch Correa Compatible con Apple Watch 44 mm...'
 sku: 'B08D6F8ZR9-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P1CDQVF-es SATECHI Tipo-C de Aluminio a Adaptador de Conector para...'
 sku: 'B07P1CDQVF-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

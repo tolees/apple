@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZKBRJLB-es Voova Funda Portátil 11 11.6 12 Pulgadas Impermeable para...'
 sku: 'B07ZKBRJLB-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

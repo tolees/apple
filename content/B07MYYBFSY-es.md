@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYYBFSY-es COO Funda Teclado iPad 9.7 Funda iPad 2018 con Ranura para...'
 sku: 'B07MYYBFSY-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

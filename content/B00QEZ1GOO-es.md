@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00QEZ1GOO-es LEADSTAR Niños Funda para Apple iPad Air 2 / iPad 6 EVA...'
 sku: 'B00QEZ1GOO-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

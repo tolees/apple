@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071WLK88B-es Apple Funda de piel para el iPad Pro de 10 5 pulgadas -...'
 sku: 'B071WLK88B-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
 actualPrice: 112.98 EUR
 currency: EUR
 price: 112.98

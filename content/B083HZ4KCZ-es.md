@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HZ4KCZ-es J9503-Yt Anti-Fall Cartoon Cute Elk Snowflake Pattern...'
 sku: 'B083HZ4KCZ-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 1.5 EUR
 currency: EUR
 price: 1.5

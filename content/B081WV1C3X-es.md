@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081WV1C3X-es Siikii Soporte para teléfono móvil Soporte para teléfono...'
 sku: 'B081WV1C3X-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

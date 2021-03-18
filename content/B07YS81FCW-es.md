@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YS81FCW-es UniqueMe [6 Pack] Protector de Pantalla para Apple Watch...'
 sku: 'B07YS81FCW-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

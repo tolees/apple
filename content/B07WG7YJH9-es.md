@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WG7YJH9-es NU NUVO Híbrido PU Funda de Pantalla de activación/Soporte...'
 sku: 'B07WG7YJH9-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

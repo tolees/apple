@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075V1L8BN-es AUKEY Bateria Externa 20000mAh Cargador Portatil con 2...'
 sku: 'B075V1L8BN-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RNRHHR6-es Belkin Boost Up - Soporte de Carga Inalámbrica para Coche...'
 sku: 'B07RNRHHR6-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 44.32 EUR
 currency: EUR
 price: 44.32

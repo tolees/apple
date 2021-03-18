@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082SFNQRR-es AirPods Pro Funda Case ICARER Piel Genuina Cuero Luxury...'
 sku: 'B082SFNQRR-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

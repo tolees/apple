@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0142OHJJY-es Mochila Cámara Réflex - [Multi-Capa] Mochila Fotografía...'
 sku: 'B0142OHJJY-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D5JQYCV-es KHOMO - Funda para iPad de 9 7 Pulgadas 2017 y 2018 Carbon...'
 sku: 'B07D5JQYCV-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 12.33 EUR
 currency: EUR
 price: 12.33

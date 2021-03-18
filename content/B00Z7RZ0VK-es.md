@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7RZ0VK-es Otterbox Symmetry Folio Protección Anti-caídas con Tapa...'
 sku: 'B00Z7RZ0VK-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

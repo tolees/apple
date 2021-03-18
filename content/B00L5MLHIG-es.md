@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00L5MLHIG-es doupi Deluxe Protección Funda para iPad Mini 1 2 3 Smart...'
 sku: 'B00L5MLHIG-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad', ]
 actualPrice: 11.03 EUR
 currency: EUR
 price: 11.03

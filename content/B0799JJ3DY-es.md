@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0799JJ3DY-es RAVPOWER Bateria Externa 10000mAh Ultra-Delgado con Carga...'
 sku: 'B0799JJ3DY-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

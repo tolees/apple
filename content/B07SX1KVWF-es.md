@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SX1KVWF-es Auriculares inalámbricos Bluetooth Cascos Bluetooth 5.0...'
 sku: 'B07SX1KVWF-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

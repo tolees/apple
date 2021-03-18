@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PQ9BK6W-es Apple iPad mini - Tablet 20 1 cm 7.9" 2048 x 1536 Pixeles...'
 sku: 'B07PQ9BK6W-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','apple','ipad', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','apple','ipad', ]
 actualPrice: 496 EUR
 currency: EUR
 price: 496

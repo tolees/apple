@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N2XMG09-es Sony MEXN5200BT - Radio CD USB Bluetooth NFC iluminación...'
 sku: 'B01N2XMG09-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 102.96 EUR
 currency: EUR
 price: 102.96

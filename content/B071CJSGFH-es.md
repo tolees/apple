@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CJSGFH-es POWERADD Versión Mejorada Pilot 2GS Power Bank 10000mAh...'
 sku: 'B071CJSGFH-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','ipad','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','ipad','iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

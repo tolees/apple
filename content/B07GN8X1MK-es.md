@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GN8X1MK-es ZIGLINT Cargador Inalámbrico Coche Rápido Cargador Qi de...'
 sku: 'B07GN8X1MK-es'
-tags: [ 'Accesorios','Auriculares para equipo de audio','Auriculares y accesorios','Cables USB','Cables y accesorios','Cables y conectores','Electrónica','Informática','iphone', ]
+tags: [ 'Accesorios','Cables USB','Cables y accesorios','Cables y conectores','Informática','iphone', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99
