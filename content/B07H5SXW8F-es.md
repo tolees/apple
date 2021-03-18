@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5SXW8F-es KNOK Funda Colgante movil con Cuerda para Colgar iPhone...'
 sku: 'B07H5SXW8F-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

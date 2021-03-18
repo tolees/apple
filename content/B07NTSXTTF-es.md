@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NTSXTTF-es iVANKY Cable USB C a HDMI 2 Metros Cable Tipo C 3.1 a HDMI...'
 sku: 'B07NTSXTTF-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

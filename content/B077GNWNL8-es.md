@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GNWNL8-es MATONE Soporte Movil Bicicleta Soporte Universal Manillar...'
 sku: 'B077GNWNL8-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

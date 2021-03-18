@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082V1VVYQ-es NILLKIN Funda para iPhone 11 Pro 5.8" [Protección de la...'
 sku: 'B082V1VVYQ-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
 actualPrice: 10.79 EUR
 currency: EUR
 price: 10.79

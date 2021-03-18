@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FVQ98WQ-es Eazyhurry - Funda con tapa para iPhone 6 y 6S incluye...'
 sku: 'B07FVQ98WQ-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
 actualPrice: 5.84 EUR
 currency: EUR
 price: 5.84

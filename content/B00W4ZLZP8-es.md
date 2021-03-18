@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W4ZLZP8-es JETech Funda Compatible iPad Pro 12 9 Modelo 2015 y 2017...'
 sku: 'B00W4ZLZP8-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

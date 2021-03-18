@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081DGTT7M-es FNBK Funda para iPhone 11 Pro Max Case Funda Móvil PU en...'
 sku: 'B081DGTT7M-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

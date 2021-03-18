@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RMLT19-es RLTech Funda Carcasa para iPad Pro 11 2020 Silicona TPU...'
 sku: 'B087RMLT19-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
 actualPrice: 8.95 EUR
 currency: EUR
 price: 8.95

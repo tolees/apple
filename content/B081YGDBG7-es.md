@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081YGDBG7-es uni Hub USB C 8 en 1 USB C Hub con un Conector extraíble y...'
 sku: 'B081YGDBG7-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

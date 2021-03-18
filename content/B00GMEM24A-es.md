@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GMEM24A-es Belkin F8J054btBLK - Cargador para coche 12 W para...'
 sku: 'B00GMEM24A-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

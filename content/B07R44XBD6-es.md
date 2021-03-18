@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R44XBD6-es WANPOOL - Soporte para reposacabezas de Coche para Tablets...'
 sku: 'B07R44XBD6-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','ipad','iphone', ]
 actualPrice: 19.5 EUR
 currency: EUR
 price: 19.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08269FVYD-es Adaptador de cámara USB Adaptador OTG Hembra USB...'
 sku: 'B08269FVYD-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

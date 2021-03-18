@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D5XTP6N-es Supore Correa de Repuesto Compatible con Apple Watch de 44...'
 sku: 'B08D5XTP6N-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

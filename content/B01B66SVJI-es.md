@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B66SVJI-es Xiaomi Portable 10000mAh de gran capacidad Segura Mi banco...'
 sku: 'B01B66SVJI-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','iphone', ]
 actualPrice: 27.06 EUR
 currency: EUR
 price: 27.06

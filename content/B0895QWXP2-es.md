@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0895QWXP2-es RIWNNI [2 Unidades] Protector Pantalla para iPad 8...'
 sku: 'B0895QWXP2-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','ipad', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

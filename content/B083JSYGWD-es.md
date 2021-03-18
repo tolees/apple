@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JSYGWD-es Mebber - Soporte para Tablet de Bicicleta portátil para...'
 sku: 'B083JSYGWD-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','ipad', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07258ZQTZ-es DETUOSI Funda iPad 9.7 2017 Ultra Slim Fundas iPad 9.7...'
 sku: 'B07258ZQTZ-es'
-tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','ipad', ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31
