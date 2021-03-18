@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VBF1JRL-es Hunletai Cable iPhone Cable Lightning [3Pack 1M 1M 2M]...'
 sku: 'B07VBF1JRL-es'
-tags: [ 'ipad','iphone','ipod', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad','iphone','ipod', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

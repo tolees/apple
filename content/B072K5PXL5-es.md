@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072K5PXL5-es Apple MacBook de 12 pulgadas Intel Core i5 de doble núcleo...'
 sku: 'B072K5PXL5-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple', ]
 actualPrice: 1199.0 EUR
 currency: EUR
 price: 1199.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCMDK18-es YOOTECH Cargador Inducción Rápido 2 pack 7.5W Qi wireless...'
 sku: 'B07ZCMDK18-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

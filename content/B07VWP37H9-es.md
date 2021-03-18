@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWP37H9-es Warxin Soporte Magnético Movil Coche para Ventilación...'
 sku: 'B07VWP37H9-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

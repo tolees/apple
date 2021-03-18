@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y7SPHLB-es 【Última Versión】 Auriculares Inalambricos Deporte...'
 sku: 'B07Y7SPHLB-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

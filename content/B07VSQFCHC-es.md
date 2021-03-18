@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSQFCHC-es LUDOS Clamor Auriculares con Micrófono y Cable Espuma de...'
 sku: 'B07VSQFCHC-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083YZCT41-es uni Adaptador USB C a HDMI Adaptador USB Tipo C a HDMI...'
 sku: 'B083YZCT41-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

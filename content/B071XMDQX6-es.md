@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071XMDQX6-es Apple iPad Pro 12 9 pulgadas y 512 GB con Wi-Fi - Plata...'
 sku: 'B071XMDQX6-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','ipad', ]
 actualPrice: 975.93 EUR
 currency: EUR
 price: 975.93

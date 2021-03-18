@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN2PF1F-es Auriculares Bluetooth Syllable D900P Auriculares...'
 sku: 'B07CN2PF1F-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

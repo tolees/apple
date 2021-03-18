@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077SNTRGB-es InvisibleShield Ultra Clear Protective Case - Funda...'
 sku: 'B077SNTRGB-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','iphone', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

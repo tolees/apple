@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8LDTLS-es MOSNOVO [Transparente Funda iPhone XR con Absorción de...'
 sku: 'B07K8LDTLS-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

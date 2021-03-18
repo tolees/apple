@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WNWHDQP-es Funda con Cuerda para iPhone X/XS Carcasa Transparente TPU...'
 sku: 'B07WNWHDQP-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 1.99 EUR
 currency: EUR
 price: 1.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074WDWVX1-es Belkin Rockstar - Adaptador de Audio de 3.5 mm + Carga de...'
 sku: 'B074WDWVX1-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

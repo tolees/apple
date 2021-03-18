@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083QMWDP5-es Huyeta Stylus Pen para Apple Pencil Lápiz Stylus...'
 sku: 'B083QMWDP5-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

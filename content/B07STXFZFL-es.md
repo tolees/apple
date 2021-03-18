@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07STXFZFL-es Beats Solo3 Wireless - Auriculares supraaurales - Chip...'
 sku: 'B07STXFZFL-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple', ]
 actualPrice: 166.99 EUR
 currency: EUR
 price: 166.99

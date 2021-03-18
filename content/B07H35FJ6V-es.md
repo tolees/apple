@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H35FJ6V-es Caseflex CS000002AP - Carcasa de gel transparente para...'
 sku: 'B07H35FJ6V-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 6.85 EUR
 currency: EUR
 price: 6.85

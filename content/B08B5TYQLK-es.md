@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5TYQLK-es Nuevo teléfono Celular con Clip Trasero de Estilo de Moda...'
 sku: 'B08B5TYQLK-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 6.69 EUR
 currency: EUR
 price: 6.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087NFSL2G-es Tapa Webcam 8 Piezas Cubierta Camara Portatil KIWI design...'
 sku: 'B087NFSL2G-es'
-tags: [ 'ipad','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad','iphone', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

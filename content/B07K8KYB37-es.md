@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K8KYB37-es MOSNOVO [Ultra Hybrid Funda iPhone XR protección híbrida...'
 sku: 'B07K8KYB37-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','iphone', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

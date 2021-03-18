@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C1VT9WH-es GEARGO Webcam Cover Tapa Webcam Ultra Delgada 0.7mm...'
 sku: 'B07C1VT9WH-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

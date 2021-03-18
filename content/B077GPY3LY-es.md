@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077GPY3LY-es WOWGO Pulsera Monitor de Actividad Pulsómetro y Podómetro...'
 sku: 'B077GPY3LY-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

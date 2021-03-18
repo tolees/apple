@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076LJHZVD-es Pisen Ultrafino Banco de la energía 10000 mAh de Capacidad...'
 sku: 'B076LJHZVD-es'
-tags: [ 'ipad','iphone','ipod', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad','iphone','ipod', ]
 actualPrice: 15.75 EUR
 currency: EUR
 price: 15.75

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089QTPLF7-es LUMBRILL - Soporte para ordenador portátil con 9 niveles...'
 sku: 'B089QTPLF7-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FCYFWCY-es Logitech Slim Combo Funda para iPad con Teclado...'
 sku: 'B07FCYFWCY-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

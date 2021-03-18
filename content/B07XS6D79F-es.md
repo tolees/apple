@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS6D79F-es Apple Watch Correa Loop Deportiva Gris Hierro 44 mm - Regular'
 sku: 'B07XS6D79F-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

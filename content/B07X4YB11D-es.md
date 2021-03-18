@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4YB11D-es Smatree Funda protectora para tableta de 11 5 pulgadas...'
 sku: 'B07X4YB11D-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
 actualPrice: 13.04 EUR
 currency: EUR
 price: 13.04

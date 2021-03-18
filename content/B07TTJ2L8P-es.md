@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TTJ2L8P-es Belkin SoundForm - Auriculares USB-C para Samsung Galaxy...'
 sku: 'B07TTJ2L8P-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

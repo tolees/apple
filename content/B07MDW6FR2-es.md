@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDW6FR2-es AOLVO Funda Game para iPhone X/XS/MAX/XR IPhone8/8 Plus...'
 sku: 'B07MDW6FR2-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

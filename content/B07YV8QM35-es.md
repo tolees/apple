@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YV8QM35-es Maegoo Auriculares Inalámbricos Bluetooth 5.0 Auriculares...'
 sku: 'B07YV8QM35-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

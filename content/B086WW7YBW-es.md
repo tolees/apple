@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086WW7YBW-es Soporte Movil Coche Magnético Universal Avolare N52 Iman...'
 sku: 'B086WW7YBW-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

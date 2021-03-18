@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XH9HRNK-es GadFull 2 Piezas HD Protector de Pantalla para iPhone 6 e...'
 sku: 'B07XH9HRNK-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

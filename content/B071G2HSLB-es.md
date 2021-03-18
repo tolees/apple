@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071G2HSLB-es Apple Funda de piel para el iPad Pro de 10 5 pulgadas -...'
 sku: 'B071G2HSLB-es'
-tags: [ 'apple','ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','ipad', ]
 actualPrice: 75.64 EUR
 currency: EUR
 price: 75.64

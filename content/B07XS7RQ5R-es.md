@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XS7RQ5R-es Apple Watch Series 5 GPS + Cellular 40 mm Aluminio en Gris...'
 sku: 'B07XS7RQ5R-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple', ]
 actualPrice: 364.59 EUR
 currency: EUR
 price: 364.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0776YHLPW-es Apple Funda de piel para el MacBook de 12 pulgadas - Azul...'
 sku: 'B0776YHLPW-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple', ]
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DSZMOWU-es Belkin F8W713vf - Protector de Pantalla de Cristal...'
 sku: 'B01DSZMOWU-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','iphone', ]
 actualPrice: 10.9 EUR
 currency: EUR
 price: 10.9

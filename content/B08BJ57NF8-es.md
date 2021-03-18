@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJ57NF8-es Cinturón de Cintura para Correr HAISSKY Deportiva...'
 sku: 'B08BJ57NF8-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

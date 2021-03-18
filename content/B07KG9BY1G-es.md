@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KG9BY1G-es iPad Lápiz Stylus Tiempo de Trabajo de 40 Horas Espera de...'
 sku: 'B07KG9BY1G-es'
-tags: [ 'ipad', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','ipad', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

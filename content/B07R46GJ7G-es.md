@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R46GJ7G-es Yosh Funda Impermeable para teléfono móvil Compatible con...'
 sku: 'B07R46GJ7G-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

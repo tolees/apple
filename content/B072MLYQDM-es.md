@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072MLYQDM-es 32GB de memoria DDR4 SO-DIMM de Apple a 2.400 MHz 2...'
 sku: 'B072MLYQDM-es'
-tags: [ 'apple', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple', ]
 actualPrice: 146.63 EUR
 currency: EUR
 price: 146.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQ7Q8GF-es inphic Auriculares Bluetooth reproducción las 24 horas...'
 sku: 'B07XQ7Q8GF-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

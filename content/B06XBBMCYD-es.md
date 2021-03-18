@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XBBMCYD-es NEW C Funda para iPhone 7 iPhone 8 Anti- Choques y Anti-...'
 sku: 'B06XBBMCYD-es'
-tags: [ 'iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','iphone', ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

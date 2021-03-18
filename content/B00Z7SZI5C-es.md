@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Z7SZI5C-es LifeProof Fre - Funda estanca y Anti caídas para Apple...'
 sku: 'B00Z7SZI5C-es'
-tags: [ 'apple','iphone', ]
+tags: [ 'Accesorios','Accesorios para tablets','Componentes','Componentes y piezas para portátiles','Informática','Teclados de repuesto para portátiles y netbooks','Teclados para tablets','apple','iphone', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0
