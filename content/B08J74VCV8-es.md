@@ -28,15 +28,15 @@ En este momento está [Apple Watch Series 6  GPS + Cellular  40 mm  Caja de 
 
 🔎:
 
-- El modelo GPS + Cellular te permite llamar, enviar mensajes y recibir indicaciones sin llevar el teléfono encima (Operadores compatibles: Orange, Telefonica, Vodafone. El Apple Watch y el iPhone tienen que usar el mismo operador.)
-- Sincroniza música, podcasts y audiolibros.
 - Controla tu ritmo cardiaco con la app ECG.
 - Controla tu actividad diaria en el Apple Watch y observa tu evolución en la app Fitness del iPhone.
-- Mide tu oxígeno en sangre con una app y un sensor nuevos.
 - El chip S6 SiP es hasta un 20 % más rápido que el del Series 5
-- Registra tus entrenamientos cada vez que salgas a correr, caminar, nadar, hacer yoga, bici, baile y mucho más.
-- La pantalla Retina siempre activa brilla 2,5 veces más en exteriores cuando tienes la muñeca en reposo.
+- El modelo GPS + Cellular te permite llamar, enviar mensajes y recibir indicaciones sin llevar el teléfono encima (Operadores compatibles: Orange, Telefonica, Vodafone. El Apple Watch y el iPhone tienen que usar el mismo operador.)
 - Diseño apto para nadar.
 - El Apple Watch requiere un iPhone 6s o posterior con iOS 14 o posterior
+- Sincroniza música, podcasts y audiolibros.
+- Registra tus entrenamientos cada vez que salgas a correr, caminar, nadar, hacer yoga, bici, baile y mucho más.
+- Mide tu oxígeno en sangre con una app y un sensor nuevos.
+- La pantalla Retina siempre activa brilla 2,5 veces más en exteriores cuando tienes la muñeca en reposo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08J74VCV8/?tag=tolees-21)
