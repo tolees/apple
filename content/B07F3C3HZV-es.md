@@ -30,8 +30,8 @@ En este momento está [Catapult PLAYR Tracker GPS de Fútbol - GPS Vest y App pa
 
 - Transforme su preparación, rendimiento y recuperación con la ciencia en entrenamiento y nutrición de los entrenadores de la Premier League.
 - Cree un team e invite a los miembros de su equipo a monitorear el desempeño de su equipo a través de la App.
+- Tracker GPS autorizado por la FIFA, diseñado para analizar y mejorar su rendimiento futbolístico.
 - Al detallar su velocidad, distancia, potencia, distancia de sprint, volumen de juego, intensidad y posicionamiento a través de heat maps, nuestra tecnología le brinda una comprensión total de su performancia.
 - Compare su rendimiento con los amigos, la competencia y los jugadores profesionales para ver cómo se empareja.
-- Tracker GPS autorizado por la FIFA, diseñado para analizar y mejorar su rendimiento futbolístico.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07F3C3HZV/?tag=tolees-21)
