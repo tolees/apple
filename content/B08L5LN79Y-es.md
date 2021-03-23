@@ -28,10 +28,10 @@ Tienes [LK 6 Pack Protector de Pantalla Compatible con iPhone 12 Pro MAX 6.7 Pul
 
 🔎:
 
-- [Alta definición]: 99,9% de transparencia, solo 0,2 mm de grosor de pantalla prometen una buena calidad de imagen en su dispositivo, no influyen en el efecto de grabación de vídeo.
-- [Protección completa]: 3 * Protector de pantalla de vidrio templado y 3 * Protector de lente de cámara.
-- [Dureza 9H reforzada]: proporciona la máxima protección Compatible con el protector de la cámara trasera de tu teléfono.
 - [Fácil de instalar]: Con marco de montaje. Haga coincidir el marco de instalación para su instalación perfecta.Vea el video de instalación antes de la instalación para facilitar la instalación.
+- [Protección completa]: 3 * Protector de pantalla de vidrio templado y 3 * Protector de lente de cámara.
 - [Cámara trasera de cristal templado]: Perfectamente adaptada a la forma. Recortes precisos, ajuste perfecto.
+- [Dureza 9H reforzada]: proporciona la máxima protección Compatible con el protector de la cámara trasera de tu teléfono.
+- [Alta definición]: 99,9% de transparencia, solo 0,2 mm de grosor de pantalla prometen una buena calidad de imagen en su dispositivo, no influyen en el efecto de grabación de vídeo.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08L5LN79Y/?tag=tolees-21)
