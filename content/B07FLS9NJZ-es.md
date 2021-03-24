@@ -28,10 +28,10 @@ Tienes [ESR Funda Compatible con iPhone XR  Anti-Amarillo  Antiarañazos  Carcas
 
 🔎:
 
+- Protección de Cámara, Pantalla y Esquinas: el marco elevado ayuda a proteger la pantalla y la cámara de las mesas y otras superficies. Las esquinas reforzadas de 50% para proteger su iPhone XR de arañazos, caídas y otros daños.
 - Material clasificado superior: ESR utilizan TPU alemana Bayer de alta calidad, ofreciendo una mejor durabilidad, resistencia a arañazos, transmitancia óptica, resistencia a los rayos UV y capacidad anti-amarillea en comparación con el TPU normal.
-- Estilo minimalista: el diseño de ultra fina slim hace que la funda sea casi invisible y extremadamente fácil de manejar y mantener sin pesadez
 - Diseño de micro-puntos: para evitar marcas similares al agua(por la posterior de vidrio), no daña al vidrio de iPhone XR.
 - Garantía de satisfacción de 180 días: Todos los productos de ESR están garantizados para darle la satisfacción del 100% en cada manera por 180 días a partir de la fecha de la compra. Si por alguna razón no está completamente satisfecho, recibirá un reemplazo o un reembolso.
-- Protección de Cámara, Pantalla y Esquinas: el marco elevado ayuda a proteger la pantalla y la cámara de las mesas y otras superficies. Las esquinas reforzadas de 50% para proteger su iPhone XR de arañazos, caídas y otros daños.
+- Estilo minimalista: el diseño de ultra fina slim hace que la funda sea casi invisible y extremadamente fácil de manejar y mantener sin pesadez
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07FLS9NJZ/?tag=tolees-21)
