@@ -29,9 +29,9 @@ En este momento está [KHOMO Funda iPad Air 3 10.5  2019  / iPad Pro 10.5  2017 
 🔎:
 
 - Carcasa trasera ultra delgada y ligera de bajo perfil y alta protección para obtener la máxima comodidad al viajar.
-- Compatible únicamente con: iPad Air 10.5 2019 / iPad Pro 10.5 2017 (Modelos: A1701, A1709, A2152, A2123, A2153, A2154)
-- Dale un look único a tu nuevo iPad Air 3 10.5" (2019) / iPad Pro 10.5" (2017)
 - Todos los botónes y puertos son accesibles sin necesidad de remover la funda.
+- Dale un look único a tu nuevo iPad Air 3 10.5" (2019) / iPad Pro 10.5" (2017)
 - Marca Registrada KHOMO - Diseñada en Estados Unidos - Escoge el color que más te guste!
+- Compatible únicamente con: iPad Air 10.5 2019 / iPad Pro 10.5 2017 (Modelos: A1701, A1709, A2152, A2123, A2153, A2154)
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B072MK68SH/?tag=tolees-21)
