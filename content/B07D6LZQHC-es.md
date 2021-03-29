@@ -30,8 +30,8 @@ Está [UNBREAKcable Cable Cargador iPhone [Apple MFi Certificado] - Cable Lightn
 
 - [Superprotección] El cable viene con protección de sobrecargas y otras características avanzadas para mantenerle a usted y sus dispositivos seguros. Basta cumplir los requerimientos de seguridad sin más preocupaciones.
 - [Carga más Rápida y Segura] Fabricado con un chip Apple original, este producto soporta cargas súper rápidas (corriente de 2.4A), lo que puede ser 20% más rápido que los cables sin el chip Apple.
+- [Resistente Cable con Trenzado de Nylon] La excepcional resistencia a la tensión se debe a un núcleo ultra fuerte de fibra de aramida (un polímero muy resistente) de elevado rendimiento, el cual está envuelto en un doble trenzado de nylon resultando en un cable flexible pero robusto de resistencia superior.
 - [Cabezal de Conexión Compacto y Resistente] El cabezal de conexión es lo suficientemente pequeño para encajar en la mayoría de los forros protectores del mercado.
 - [Certificado Apple MFi] UNBREAKcable Cable iPhone usando el terminal Apple C48 y el smart-chip, este cable cumple con la certificación MFi y es compatible con los siguientes dispositivos lightning: iPhone 12/ 12 Pro/ 12 Pro Max/ 12 Mini/ 11/ 11 Pro/ 11 Pro Max/ XS / XS Max / XR / X / 8 Plus / 8 / 7 Plus / 7 / 6s Plus / 6s / 6 Plus / 6 / SE / 5s / 5c / 5 / iPad Air / Air 2, iPad mini / mini 2 / mini 3 así como los más recientes sistemas iOS.
-- [Resistente Cable con Trenzado de Nylon] La excepcional resistencia a la tensión se debe a un núcleo ultra fuerte de fibra de aramida (un polímero muy resistente) de elevado rendimiento, el cual está envuelto en un doble trenzado de nylon resultando en un cable flexible pero robusto de resistencia superior.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07D6LZQHC/?tag=tolees-21)
