@@ -30,8 +30,8 @@ Está [ANEWSIR Funda Compatible para iPhone 6.1 Pulgada -  12/12 Pro ](https://w
 
 - 3. [Anti-arañazos]: la carcasa protectora transparente se compone de una cubierta posterior de Plano posterior compuesto de PC, que es lo suficientemente resistente como para soportar fácilmente los pequeños arañazos y colisiones en la vida diaria.
 - 4. [Esquina de protección del colchón de aire]: el material de la esquina suave puede absorber la vibración de manera más efectiva y proporcionar protección adicional para la espalda.
-- 2.[Mantenga la apariencia original]: imite la textura del teléfono y le brinde un agarre firme cuando sostenga el marco de silicona de la funda.
 - 1. [Plano posterior compuesto de PC]: el Plano posterior compuesto de PC resistente con marco de TPU suave puede proporcionar una protección integral y clara para teléfonos móviles.
+- 2.[Mantenga la apariencia original]: imite la textura del teléfono y le brinde un agarre firme cuando sostenga el marco de silicona de la funda.
 - 5. [Nota]: La parte posterior de este estuche está hecha de Plano posterior compuesto de PC. La mayoría de los objetos afilados (por ejemplo, cuchillos) no lo rayarán, pero se romperán bajo suficiente presión. Si tiene alguna pregunta o inquietud acerca de este producto, contáctenos.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07X5WJPJ6/?tag=tolees-21)
