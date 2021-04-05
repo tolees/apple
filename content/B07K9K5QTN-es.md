@@ -28,10 +28,10 @@ Tienes [JETech Protector de Pantalla Compatible iPad Air 4 10 9 Pulgadas  iPad P
 
 ℹ️:
 
-- Paquete al por menor incluye: paquete 2 templado protector de pantalla de cristal, paño de limpieza, la instrucción
-- Compatible con Face ID. Diseñado para iPad Air 4 10,9 Pulgadas, iPad Pro 11 pulgadas (modelo 2020 / 2018) Liquid Retina Display. Apropiado para los modelos de iPad: A2324 A2072 A2316 A2325 A2228 A2068 A2230 A1980 A2013 A1934. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
-- Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo); Alta definición, mayor sensibilidad
 - Libre de polvo, huellas dactilares libre, de una pulsación muy fácil instalación, sin burbujas
 - Hecho con 0,33mm de grosor de alta calidad prima de vidrio templado con bordes redondeados, Compatible con Pencil
+- Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo); Alta definición, mayor sensibilidad
+- Compatible con Face ID. Diseñado para iPad Air 4 10,9 Pulgadas, iPad Pro 11 pulgadas (modelo 2020 / 2018) Liquid Retina Display. Apropiado para los modelos de iPad: A2324 A2072 A2316 A2325 A2228 A2068 A2230 A1980 A2013 A1934. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
+- Paquete al por menor incluye: paquete 2 templado protector de pantalla de cristal, paño de limpieza, la instrucción
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07K9K5QTN/?tag=tolees-21)

@@ -28,10 +28,10 @@ Tienes [JETech Funda Compatible con iPad Air  4.ª Generación  2020 10 9 Pulgad
 
 ℹ️:
 
+- Fabricado con PC y PU de alta calidad. El exterior sintético y el interior liso brindan una protección completa para su iPad
 - Diseñado para iPad Air 4.a generación 10,9 pulgadas. Se adapta perfectamente a su dispositivo
 - La cubierta inteligente magnética admite la función de reposo / activación automática. La cubierta frontal de tres pliegues puede soportar iPad en dos posiciones de pie para ver y escribir
-- Fabricado con PC y PU de alta calidad. El exterior sintético y el interior liso brindan una protección completa para su iPad
-- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
 - El paquete incluye: JETech Funda * 1
+- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07QS4N5FD/?tag=tolees-21)
