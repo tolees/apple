@@ -28,15 +28,15 @@ Tienes [Nuevo Apple MacBook Pro  de 13 Pulgadas  16 GB RAM  512 GB Almacenam
 
 🔎:
 
-- Espectacular pantalla Retina con tecnología True Tone
 - Touch Bar y Touch ID
+- Trackpad Force Touch
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Almacenamiento SSD ultrarrápido
+- Espectacular pantalla Retina con tecnología True Tone
 - Hasta 10 horas de autonomía
 - Intel Iris Plus Graphics
+- Wifi 802.11ac
 - Cuatro puertos Thunderbolt 3 (USB-C)
 - Teclado Magic Keyboard retroiluminado
-- Trackpad Force Touch
-- Almacenamiento SSD ultrarrápido
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Wifi 802.11ac
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
