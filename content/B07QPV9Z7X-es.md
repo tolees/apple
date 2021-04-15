@@ -28,10 +28,10 @@ Ahora mismo tienes [JETech Funda Compatible con iPad 8/7  10 2 Pulgadas  2020/20
 
 🔎:
 
-- El Smart Cover Con cierre magnético: Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.Tres veces plegables: Conveniente soporte posición para ver la película o escribir
 - Le colis comprend: étui pour iPad 10,2 Pouces (2020/2019), carte de service à la clientèle
+- Hecho con PC y PU.Exterior sintético y interior liso para la protección; Despertar automáticamente / poner a dormir Su iPad
 - Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
 - Diseñado para nuevo iPad 8.ª/ 7.ª generación 10,2 pulgadas 2020/2019 modelo. Modelos aptos del iPad: A2197 / A2198 / A2200 / A2270 / A2428 / A2429 / A2430. No es compatible con otro iPad modelo
-- Hecho con PC y PU.Exterior sintético y interior liso para la protección; Despertar automáticamente / poner a dormir Su iPad
+- El Smart Cover Con cierre magnético: Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.Tres veces plegables: Conveniente soporte posición para ver la película o escribir
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07QPV9Z7X/?tag=tolees-21)
