@@ -28,10 +28,10 @@ Tienes [ESR Funda Tríptica para iPad 8ª Gen  2020 /7ª Gen  2019  10 2 Pulgada
 
 🔎:
 
-- [FINA Y ELEGANTE]: La delgada parte trasera es muy ligera, protegiendo tu iPad sin añadir volumen. Su diseño translúcido le dará un toque colorido a tu iPad mientras mantiene el logo visible.
-- [COMPATIBILIDAD]: Diseñada exclusivamente para iPad 8ª generación de 10,2” (2020) y para iPad de 7ª generación (2019). [Números de modelo A2428, A2429, A2430, A2270, A2197, A2200, A2198] No es compatible con ningún otro modelo de iPad.
 - [PROTECCIÓN CONTRA ARAÑAZOS]: Sus potentes imanes mantienen la funda sellada de forma segura para proteger tu iPad contra arañazos.
 - [MODO AUTOMÁTICO DE REPOSO/ACTIVIDAD]: Los potentes imanes integrados encienden automáticamente tu iPad cuando se abre la tapa y lo apagan cuando se cierra, ahorrando valioso tiempo de batería.
+- [COMPATIBILIDAD]: Diseñada exclusivamente para iPad 8ª generación de 10,2” (2020) y para iPad de 7ª generación (2019). [Números de modelo A2428, A2429, A2430, A2270, A2197, A2200, A2198] No es compatible con ningún otro modelo de iPad.
 - [SOPORTE TRÍPTICO]: Su cubierta magnética se pliega en un cómodo soporte para visualización o en uno ergonómico para escritura.
+- [FINA Y ELEGANTE]: La delgada parte trasera es muy ligera, protegiendo tu iPad sin añadir volumen. Su diseño translúcido le dará un toque colorido a tu iPad mientras mantiene el logo visible.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07WQWL7B4/?tag=tolees-21)
