@@ -28,15 +28,15 @@ Ahora mismo tienes [Apple iPad Pro  de 12 9 Pulgadas  4.ª generación  con Wi
 
 🔎:
 
-- Cuatro altavoces y cinco micrófonos con calidad de estudio
-- Chip A12Z Bionic con Neural Engine
-- Cámara frontal TrueDepth de 7 Mpx
-- Conector USB-C para cargar el iPad y conectar accesorios
 - Redes wifi 802.11ax y 4G LTE Advanced
-- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
-- Pantalla Liquid Retina de 12,9 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
-- Hasta 10 horas de autonomía
 - Face ID para autenticarse de forma segura y usar Apple Pay
+- Conector USB-C para cargar el iPad y conectar accesorios
+- Pantalla Liquid Retina de 12,9 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
+- Cámara frontal TrueDepth de 7 Mpx
+- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
+- Chip A12Z Bionic con Neural Engine
 - Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
+- Cuatro altavoces y cinco micrófonos con calidad de estudio
+- Hasta 10 horas de autonomía
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B0863STH7Q/?tag=tolees-21)
