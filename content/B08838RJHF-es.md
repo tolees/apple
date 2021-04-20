@@ -29,14 +29,14 @@ En este momento está [Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16
 🔎:
 
 - Touch Bar y Touch ID
-- Teclado Magic Keyboard retroiluminado
-- Intel Iris Plus Graphics
-- Trackpad Force Touch
-- Wifi 802.11ac
-- Almacenamiento SSD ultrarrápido
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Hasta 10 horas de autonomía
 - Cuatro puertos Thunderbolt 3 (USB-C)
+- Teclado Magic Keyboard retroiluminado
+- Hasta 10 horas de autonomía
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
 - Espectacular pantalla Retina con tecnología True Tone
+- Trackpad Force Touch
+- Almacenamiento SSD ultrarrápido
+- Wifi 802.11ac
+- Intel Iris Plus Graphics
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08838RJHF/?tag=tolees-21)
