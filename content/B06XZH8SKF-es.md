@@ -28,10 +28,10 @@ En este momento está [JETech Funda para iPad  9 7 Pulgadas 2018/2017 Modelo   C
 
 🔎:
 
-- El Smart Cover Con cierre magnético: Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.Tres veces plegables: Conveniente soporte posición para ver la película o escribir
 - El paquete incluye: Funda iPad, tarjeta de servicio al cliente
 - Modelos aptos del iPad: A1822/A1823/A1893/A1954. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo. Diseñado para iPad (9,7 pulgadas 2018 / 2017 Modelo). No es compatible con otro iPad modelo
 - Hecho con PC y PU.Exterior sintético y interior liso para la protección; Despertar automáticamente / poner a dormir Su iPad
 - Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
+- El Smart Cover Con cierre magnético: Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo.Tres veces plegables: Conveniente soporte posición para ver la película o escribir
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B06XZH8SKF/?tag=tolees-21)
