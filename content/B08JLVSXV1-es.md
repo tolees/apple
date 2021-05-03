@@ -29,9 +29,9 @@ Está [Licyley Memoria USB para iPhone 256GB Pendrive Memory Stick 3 en 1 Flash 
 ℹ️:
 
 - 【External Almacenamiento externo】Memoria usb para iPhone funciona bien en almacenamiento de datos digitales, transferencia y uso compartido con familiares, amigos, compañeros de trabajo, clientes y máquinas. Puede guardar música, fotos, películas, diseños, manuales, programas, folletos a gran velocidad.
-- 【Compatibilidad】 Para iPhone 5 5s 6 6+ 6s 6s + se 7 7+ 8 X; Pad (iOS 8.0 o superior), sistema operativo de computadora compatible con Mac OS X v10.6 +, Windows 7/8/10, teléfono Android con función OTG (no compatible con el puerto tipo c)
-- 【Perfecto para proteger la privacidad individual】 La contraseña protege sus datos de forma segura en una unidad flash. Abra TouchID y Contraseña en la configuración para asegurar todo su almacenamiento, o Bloquee los archivos seleccionados con contraseña.
-- 【Almacenamiento fuerte y conector 3 en 1】 Con expansión de memoria externa , puerto dual de 8 pines, puerto estándar Tipo A y puerto Micro-B, la unidad flash le permite compartir y transferir datos entre múltiples plataformas, de forma rápida y gratuita ahorre mucho espacio en su dispositivo IOS / Android y mantenga más memoria.
 - 【Capacidad de expansión】su capacidad de expansión de memoria de inmediatamente. Administre todos sus datos. No se preocupe por la falta de espacio en su teléfono. Reproduzca el video / música directamente desde la memoria externa.
+- 【Perfecto para proteger la privacidad individual】 La contraseña protege sus datos de forma segura en una unidad flash. Abra TouchID y Contraseña en la configuración para asegurar todo su almacenamiento, o Bloquee los archivos seleccionados con contraseña.
+- 【Compatibilidad】 Para iPhone 5 5s 6 6+ 6s 6s + se 7 7+ 8 X; Pad (iOS 8.0 o superior), sistema operativo de computadora compatible con Mac OS X v10.6 +, Windows 7/8/10, teléfono Android con función OTG (no compatible con el puerto tipo c)
+- 【Almacenamiento fuerte y conector 3 en 1】 Con expansión de memoria externa , puerto dual de 8 pines, puerto estándar Tipo A y puerto Micro-B, la unidad flash le permite compartir y transferir datos entre múltiples plataformas, de forma rápida y gratuita ahorre mucho espacio en su dispositivo IOS / Android y mantenga más memoria.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08JLVSXV1/?tag=tolees-21)
