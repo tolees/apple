@@ -28,10 +28,10 @@ Está [JETech Funda Compatible iPad  9 7 Pulgadas  2018/2017 Modelo  6ª/5ª Gen
 
 ℹ️:
 
+- Acceso completo a todas las funciones (botones, altavoces, cámaras y puertos). Se adapta perfectamente a su dispositivo
 - Diseñado para iPad 9,7 pulgadas (6ª / 5ª Generación, 2018 / 2017 Modelo). No es compatible con otro iPad modelo.Modelos aptos del iPad: A1822/A1823/A1893/A1954. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
-- La tapa de PU y la funda detrás de TPU ofrecen una protección integral para su dispositivo. El patrón de panal de miel es antideslizante y asegura un agarre cómodo
 - La posición doble del soporte le permite configurar el ángulo de visión más cómodo firmemente. El arte de coser asegura su elegante perspectiva y estructura sólida
 - El Smart Cover Con cierre magnético: Ábrela para activar el iPad al instante y ciérrala para ponerlo en reposo Ahorro de energía, mayor tiempo de servicio
-- Acceso completo a todas las funciones (botones, altavoces, cámaras y puertos). Se adapta perfectamente a su dispositivo
+- La tapa de PU y la funda detrás de TPU ofrecen una protección integral para su dispositivo. El patrón de panal de miel es antideslizante y asegura un agarre cómodo
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07Q55RXK1/?tag=tolees-21)
