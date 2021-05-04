@@ -28,15 +28,15 @@ Está [Apple iPad Pro  de 11 Pulgadas  2.ª generación  con Wi-Fi y 1 TB  - 
 
 ℹ️:
 
-- Cuatro altavoces y cinco micrófonos con calidad de estudio
-- Chip A12Z Bionic con Neural Engine
 - Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
-- Hasta 10 horas de autonomía
-- Conector USB-C para cargar el iPad y conectar accesorios
-- Cámara frontal TrueDepth de 7 Mpx
-- Redes wifi 802.11ax
 - Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
-- Face ID para autenticarse de forma segura y usar Apple Pay
+- Conector USB-C para cargar el iPad y conectar accesorios
+- Redes wifi 802.11ax
+- Cuatro altavoces y cinco micrófonos con calidad de estudio
 - Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
+- Cámara frontal TrueDepth de 7 Mpx
+- Face ID para autenticarse de forma segura y usar Apple Pay
+- Hasta 10 horas de autonomía
+- Chip A12Z Bionic con Neural Engine
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0863L1FCK/?tag=tolees-21)
