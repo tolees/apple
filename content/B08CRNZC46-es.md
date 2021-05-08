@@ -28,10 +28,10 @@ Está [VicTsing Anillo de luz led  para TikTok  25 4 cm  para Youtube  con Tríp
 
 ℹ️:
 
-- 【Alimentación USB】El anillo de luz funciona con la mayoría de los dispositivos compatibles con puertos USB, como un cargador USB, ordenador portátil, ordenador de sobremesa, batería externa, etc. Nunca tendrás que colocarla cerca del ángulo del enchufe para encenderla. No requiere pilas.
 - 【Mando a distancia Bluetooth】El mando a distancia ha cambiado el modo de tomar fotos, lo que te ofrece una gran comodidad para tomar fotos con un grupo de amigos o familiares. Puedes tomar una foto con un solo clic.
+- 【Alimentación USB】El anillo de luz funciona con la mayoría de los dispositivos compatibles con puertos USB, como un cargador USB, ordenador portátil, ordenador de sobremesa, batería externa, etc. Nunca tendrás que colocarla cerca del ángulo del enchufe para encenderla. No requiere pilas.
+- 【Funciones múltiples】 El anillo de luz VicTsing será una buena elección para tu vida y trabajo, para grabar pequeños vídeos para TikTok, tomar fotos, selfis, vídeos de YouTube, transmisiones en directo, maquillaje, macrofotografía, luz de belleza, llamadas de vídeo (Skype/WhatsApp/Face, etc.)
 - 【Anillo más brillante y trípode más ajustable】Este gran anillo de luz de 25,4 cm cuenta con 120 luces ledes, es lo suficientemente brillante para TikTok, transmisiones en directo, grabación de vídeos, selfis, maquillaje, etc. El trípode para teléfono (ancho ≤ 80 mm) se puede ajustar a 360° en la dirección que necesites. (Soporte para cámara Web)
 - 【3 modos y 10 niveles de brillo ajustable】La lámpara led VicTsing está equipada con 3 modos de iluminación en color (blanco frío/blanco cálido/amarillo cálido) y 10 niveles de brillo a elegir. Se adapta a cualquier efecto de iluminación que desees para tus vídeos o imágenes, muy popular.
-- 【Funciones múltiples】 El anillo de luz VicTsing será una buena elección para tu vida y trabajo, para grabar pequeños vídeos para TikTok, tomar fotos, selfis, vídeos de YouTube, transmisiones en directo, maquillaje, macrofotografía, luz de belleza, llamadas de vídeo (Skype/WhatsApp/Face, etc.)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CRNZC46/?tag=tolees-21)
