@@ -31,7 +31,7 @@ Está [Procase Funda con Teclado Americano para iPad 8 2020 / iPad 7 2019 10.2" 
 - Instrucción para ñ: Ajustes > General > Teclados > Español, al activar el teclado español, cuando pulsas la tecla Punto y Coma (;), al lado de la tecla L, sale ñ (OJO: si activas el teclado español, el teclado americano físico funciona como la distribución español, por tanto hay varias teclas que no coinciden con las pegatinas en la tecla)
 - Teclado innovador de montaje magnético, instala y demonta el teclado cuando quieras; Tres abolladuras en tapa para apoyar la tableta en tres ángulos de visión en modo horizontal
 - Funda con teclado inalámbrico [Versión Inglés, SIN Ñ] SOLO para iPad 10.2" 8ª generación 2020 (Modelos: A2270 A2428 A2429 A2430) y 7ª generación 2019(Modelos: A2197 / A2198 / A2200); Diseño todo en uno: Teclado inalámbrico + Soporte + Funda de transporte, elegente y conveniente, perfecto para uso diario y de viaje [Apple Pencil no incluido]
-- Apoya la activación y suspensión automática (SOLO cuando quita el teclado de la funda);Conserva acceso completo a todos los puertos y funciones (Cámaras, Altavoz, Puertos y Botones)
 - Teclado ligero y delgado es de estilo laptop, hecho de material ABS; Con un espesor de 7 mm, teclas bien espaciadas y mecanismo de resorte; El exterior de cuero sintético y el interior suave antideslizante protege tu tableta de caídas, rasguños y polvo
+- Apoya la activación y suspensión automática (SOLO cuando quita el teclado de la funda);Conserva acceso completo a todos los puertos y funciones (Cámaras, Altavoz, Puertos y Botones)
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07XYM62G6/?tag=tolees-21)
