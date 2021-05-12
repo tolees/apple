@@ -1,42 +1,42 @@
 ---
 layout: post
-title: 'Apple MacBook Pro  de 13 Pulgadas  Chip  al 28.18 % de rebaja'
-date: 2021-05-11 05:42:26
+title: '2020 Apple MacBook Pro  de 13 Pulgadas   al 20.20 % de rebaja'
+date: 2021-05-12 21:30:45
 image: 'https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B08834LSGQ-es Apple MacBook Pro de 13 Pulgadas Chip i5 de Intel 16 GB...'
+slug: 'B08834LSGQ-es 2020 Apple MacBook Pro de 13 Pulgadas Chip i5 de Intel 16...'
 sku: 'B08834LSGQ-es'
 tags: [ 'Informática','Portátiles','apple', ]
-actualPrice: 1529.1 EUR
+actualPrice: 1699.0 EUR
 currency: EUR
-price: 1529.1
+price: 1699.0
 comparePrice: 2129.0 EUR
-prodname: 'Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial  2020 '
+prodname: '2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21'
-descuento: '28.18'
-average: '1829.0394736842'
+descuento: '20.20'
+average: '1822.53749999999'
 ---
 
-Tienes [Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial  2020 ](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21) con precio final de  1529.1 EUR (original: 2129.0 EUR) (28.18 %  de rebaja) aqui!
+Tienes [2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21) con precio final de  1699.0 EUR (original: 2129.0 EUR) (20.20 %  de rebaja) aqui!
 
-[![Apple MacBook Pro  de 13 Pulgadas  Chip ](https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
+[![2020 Apple MacBook Pro  de 13 Pulgadas  ](https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
 
 🔎:
 
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Intel Iris Plus Graphics
-- Touch Bar y Touch ID
-- Cuatro puertos Thunderbolt 3 (USB-C)
-- Espectacular pantalla Retina con tecnología True Tone
-- Hasta 10 horas de autonomía
-- Teclado Magic Keyboard retroiluminado
-- Almacenamiento SSD ultrarrápido
-- Wifi 802.11ac
 - Trackpad Force Touch
+- Cuatro puertos Thunderbolt 3 (USB-C)
+- Teclado Magic Keyboard retroiluminado
+- Hasta 10 horas de autonomía
+- Wifi 802.11ac
+- Intel Iris Plus Graphics
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Touch Bar y Touch ID
+- Almacenamiento SSD ultrarrápido
+- Espectacular pantalla Retina con tecnología True Tone
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
