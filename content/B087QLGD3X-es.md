@@ -28,10 +28,10 @@ En este momento está [ProCase Funda Blanda para iPad Pro 12.9” 2020  Carcasa 
 
 🔎:
 
-- 🚩 Apoya la función suspensión/activación automática; El imán asegura la funda cerrada, es fácil de abrir y cerrar
-- 🚩 La espalda ultra delgada y ligera agrega el mínimo volumen a su dispositivo mientras que su material de TPU flexible ofrece una protección eficiente con golpes y arañazos
+- 🚩 Diseñada para iPad Pro 12,9 2020 4th generación (A2229 / A2069 / A2232 / A2233), también es compatible con iPad Pro 12,9 pulgadas 2018 3.ª generación (A1876 / A2014 / A1895 / A1983); NO es compatible con cualquier otra tableta, por favor revise el número de modelo A**** en la parte posterior inferior de tu iPad
 - 🚩 El panel trasero semitransparente permite ver el símbolo de Apple a través de su color favorito y brinda un tacto agradable
 - 🚩 Acceso completo a todas las funciones (cámaras, altavoz, puertos y botones), NO es compatible con Smart Keyboard
-- 🚩 Diseñada para iPad Pro 12,9 2020 4th generación (A2229 / A2069 / A2232 / A2233), también es compatible con iPad Pro 12,9 pulgadas 2018 3.ª generación (A1876 / A2014 / A1895 / A1983); NO es compatible con cualquier otra tableta, por favor revise el número de modelo A**** en la parte posterior inferior de tu iPad
+- 🚩 La espalda ultra delgada y ligera agrega el mínimo volumen a su dispositivo mientras que su material de TPU flexible ofrece una protección eficiente con golpes y arañazos
+- 🚩 Apoya la función suspensión/activación automática; El imán asegura la funda cerrada, es fácil de abrir y cerrar
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B087QLGD3X/?tag=tolees-21)
