@@ -28,10 +28,10 @@ Está [K&F Concept - Bolsa de Transporte con Compartimentos para Cámara DSLR y 
 
 ℹ️:
 
-- Con compartimentos para iPad de 9.7” Google Nexus 7 o Amazon Kindle Fire.Los bolsillos te ofrecen espacio adicional para tu teléfono móvil.
-- La bolsa cuenta con correa exterior para transportar, alta densidad, suave y resistente, Almohadón acolchado de aire, hace que el transporte sea más cómodo,aún con el equipo a cuestas.
 - Permite guardar 1 cámara réflex + 3 objetivos o 1 cámara réflex + 2 objetivos + 1 flash. (por ejemplo: EOS 700D/800D, Nikon D7000, Sony A7 RⅡ, Leica Q Typ-116)
-- El bolsa interior acolchado grueso, exterior de nylon resistente y impermeable, abajo de cuero antideslizante.(El color del paño de limpieza es seleccionado de forma aleatoria.)
+- Con compartimentos para iPad de 9.7” Google Nexus 7 o Amazon Kindle Fire.Los bolsillos te ofrecen espacio adicional para tu teléfono móvil.
 - Parte interior acolchada y personalizable los separadores,con velcro lo organiza, proteje y personaliza.
+- El bolsa interior acolchado grueso, exterior de nylon resistente y impermeable, abajo de cuero antideslizante.(El color del paño de limpieza es seleccionado de forma aleatoria.)
+- La bolsa cuenta con correa exterior para transportar, alta densidad, suave y resistente, Almohadón acolchado de aire, hace que el transporte sea más cómodo,aún con el equipo a cuestas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B074SNZ6KY/?tag=tolees-21)

@@ -29,9 +29,9 @@ En este momento está [EasyAcc - Funda Compatible con iPad Air 10.9 2020 4. Gene
 🔎:
 
 - Material respetuoso con el medio ambiente: fabricada en piel sintética de alta calidad, la cubierta de fuente es resistente al agua y al polvo, mientras que la cubierta trasera está compuesta de 100% policarbonato, que es resistente a las caídas y difícil de ensuciar.
-- Ultrafino y ligero: un ajuste perfecto para tu dispositivo mientras añade solo 5 mm de grosor y ofrece a tu dispositivo una gran protección.
 - Soporte de ángulo de 2 vistas: la función de soporte estable, la escritura y la visualización se cambian fácilmente. Varios imanes integrados se bloquean juntos cuando están en modo de soporte.
-- Tableta compatible --- fabricada para iPad Air 10.9 2020(4. Generation), permite tu dispositivo bajo una protección completa.
 - Recortes precisos --- le permite tener fácil acceso a todos los puertos, botones y controles como si no hubiera un caparazón.
+- Tableta compatible --- fabricada para iPad Air 10.9 2020(4. Generation), permite tu dispositivo bajo una protección completa.
+- Ultrafino y ligero: un ajuste perfecto para tu dispositivo mientras añade solo 5 mm de grosor y ofrece a tu dispositivo una gran protección.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08R5SM8NJ/?tag=tolees-21)
