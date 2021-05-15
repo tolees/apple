@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '2020 Apple MacBook Pro  de 13 Pulgadas   con un 30.26 % de descuento'
-date: 2021-05-13 08:31:09
+title: '2020 Apple MacBook Pro  de 13 Pulgadas   con un 33.38 % de descuento'
+date: 2021-05-15 09:46:04
 image: 'https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,34 @@ author: 'tole.es'
 slug: 'B08838RJHF-es 2020 Apple MacBook Pro de 13 Pulgadas Chip i5 de Intel 16...'
 sku: 'B08838RJHF-es'
 tags: [ 'Informática','Portátiles','apple', ]
-actualPrice: 1659.0 EUR
+actualPrice: 1585.0 EUR
 currency: EUR
-price: 1659.0
+price: 1585.0
 comparePrice: 2379.0 EUR
 prodname: '2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  1 TB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08838RJHF/?tag=tolees-21'
-descuento: '30.26'
-average: '2025.99884615385'
+descuento: '33.38'
+average: '2009.66555555556'
 ---
 
-En este momento está [2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  1 TB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial](https://www.amazon.es/dp/B08838RJHF/?tag=tolees-21) a 1659.0 EUR (original: 2379.0 EUR) (30.26 %  de descuento) en el siguiente enlace!
+En este momento está [2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  1 TB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial](https://www.amazon.es/dp/B08838RJHF/?tag=tolees-21) a 1585.0 EUR (original: 2379.0 EUR) (33.38 %  de descuento) en el siguiente enlace!
 
 [![2020 Apple MacBook Pro  de 13 Pulgadas  ](https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08838RJHF/?tag=tolees-21)
 
 🔎:
 
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Hasta 10 horas de autonomía
 - Touch Bar y Touch ID
-- Teclado Magic Keyboard retroiluminado
-- Cuatro puertos Thunderbolt 3 (USB-C)
-- Wifi 802.11ac
-- Intel Iris Plus Graphics
 - Espectacular pantalla Retina con tecnología True Tone
 - Almacenamiento SSD ultrarrápido
+- Cuatro puertos Thunderbolt 3 (USB-C)
 - Trackpad Force Touch
-- Hasta 10 horas de autonomía
+- Intel Iris Plus Graphics
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Teclado Magic Keyboard retroiluminado
+- Wifi 802.11ac
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08838RJHF/?tag=tolees-21)
