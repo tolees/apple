@@ -28,14 +28,14 @@ Tienes [Apple iPhone 11 Pro  512 GB  - Plata](https://www.amazon.es/dp/B07XS5MS
 
 ℹ️:
 
-- Sistema de triple cámara de 12 mpx con gran angular, ultra gran angular y teleobjetivo; modo noche, modo retrato y vídeo 4k hasta 60 f/s
-- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
-- Carga inalámbrica
-- Chip a13 bionic con neural engine de 3.ª generación
-- Pantalla OLED super retina xdr de 5,8 pulgadas
 - Ios con modo oscuro, más herramientas para editar fotos y vídeos, y nuevas prestaciones de privacidad
+- Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
+- Pantalla OLED super retina xdr de 5,8 pulgadas
 - Face id para autenticarse deforma segura y usar applepay
-- Carga rápida con el adaptador de 18w incluido
 - Cámara frontal truedepth de 12 mpx con modo retrato, vídeo 4k y grabación a cámara lenta.
+- Chip a13 bionic con neural engine de 3.ª generación
+- Carga rápida con el adaptador de 18w incluido
+- Sistema de triple cámara de 12 mpx con gran angular, ultra gran angular y teleobjetivo; modo noche, modo retrato y vídeo 4k hasta 60 f/s
+- Carga inalámbrica
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XS5MSSM/?tag=tolees-21)
