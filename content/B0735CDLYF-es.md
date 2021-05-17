@@ -28,9 +28,9 @@ Tienes [Apple iPad Pro  12 9 Pulgadas y 512 GB con Wi-Fi + Cellular  - Gris Espa
 
 ℹ️:
 
+- Audio a quattro altoparlanti con suono stereo ancora più ampio
 - Wi-Fi 802.11ac e reti cellulari 4 g lte advanced
 - Fotocamera posteriore da 12mp, fotocamera frontale truedepth da 7 mp
-- Audio a quattro altoparlanti con suono stereo ancora più ampio
 - Chip a10x
 - Ipad offre da sempre un’esperienza multi-touch straordinaria, ma il nuovo display retina di ipad pro ridefinisce ancora lo standard
 
