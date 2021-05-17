@@ -28,10 +28,10 @@ Está [YOSH Funda Impermeable Móvil IPX8 Universal 2 Unidades  Bolsa para Móvi
 
 ℹ️:
 
-- Flexibilidad: Es transparente en dos lados para que pueda tomar fotografías con la cámara frontal y posterior de su móvil. También puede enviar mensajes, revisar el correo y contestar el teléfono.
-- Tamaño Universal: Compatible con todo tipo de teléfonos móviles de longitud diagonal inferior a 6 pulgadas. Tales como el iPhone ,Samsung,LG, Xiaomi, Huawei,etc. Ofrecer espacio adicional para tarjetas de crédito, dinero en efectivo, pasaporte también.
-- Resistente: Protege tus objetos personales del agua, la nieve, el polvo. Puedes disfrutar de tus actividades de exterior preferidas tales como buceo, correr, surfear, viajar,ect. Además,puedes ponerlo alrededor del cuello, muy fácil de llevar.
-- Resistencia Superior Al Agua:IPX8,le permite bucear a 30 m de profundidad de agua. Todas nuestras funda impermeable móvil son sometidas a la prueba de inmersión en agua durante un mínimo de 2 horas para una total seguridad de todos nuestros usuarios.
 - Correa más ancha: diseñada con una correa que es más ancha que otras correas normales en el mercado. Más cómodo de llevar y no fácil de entrelazar.
+- Tamaño Universal: Compatible con todo tipo de teléfonos móviles de longitud diagonal inferior a 6 pulgadas. Tales como el iPhone ,Samsung,LG, Xiaomi, Huawei,etc. Ofrecer espacio adicional para tarjetas de crédito, dinero en efectivo, pasaporte también.
+- Resistencia Superior Al Agua:IPX8,le permite bucear a 30 m de profundidad de agua. Todas nuestras funda impermeable móvil son sometidas a la prueba de inmersión en agua durante un mínimo de 2 horas para una total seguridad de todos nuestros usuarios.
+- Flexibilidad: Es transparente en dos lados para que pueda tomar fotografías con la cámara frontal y posterior de su móvil. También puede enviar mensajes, revisar el correo y contestar el teléfono.
+- Resistente: Protege tus objetos personales del agua, la nieve, el polvo. Puedes disfrutar de tus actividades de exterior preferidas tales como buceo, correr, surfear, viajar,ect. Además,puedes ponerlo alrededor del cuello, muy fácil de llevar.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06Y21DLWB/?tag=tolees-21)
