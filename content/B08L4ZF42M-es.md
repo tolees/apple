@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Looffy Pen Drive 128GB Memoria USB para  al 15.00 % de descuento'
-date: 2021-04-25 23:02:19
+date: 2021-05-17 00:59:42
 image: 'https://m.media-amazon.com/images/I/41vdkuMAjqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
