@@ -29,8 +29,8 @@ Tienes [WEOFUN 2 Unidades iPad Mini 3 / Mini 2 / Mini 1 Protector de Pantalla  C
 🔎:
 
 - 【Anti-arañazos】: Dureza de película de acero de súper dureza de 9H, deje su tablet para evitar arañazos y use un material duro.
-- 【Ultra HD】: vidrio templado ultra delgado de 0,33 mm, funciones compatibles con 3D táctil para una respuesta rápida y sensible, 99,99% de alta definición y transparencia, las imágenes no se ven afectadas ni distorsionadas.
 - 【Instalación sin burbujas】: la película protectora se adapta perfectamente a la pantalla del teléfono, las burbujas de aire desaparecen automáticamente en el tablet y es fácil de instalar y quitar.
 - 【Modelo compatible】: esta película protectora se adapta a iPad Mini 3 / Mini 2 / Mini 1.
+- 【Ultra HD】: vidrio templado ultra delgado de 0,33 mm, funciones compatibles con 3D táctil para una respuesta rápida y sensible, 99,99% de alta definición y transparencia, las imágenes no se ven afectadas ni distorsionadas.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B089QMCC39/?tag=tolees-21)
