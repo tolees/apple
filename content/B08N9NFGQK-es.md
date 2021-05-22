@@ -29,9 +29,9 @@ Tienes [Teclado Funda para iPad Air 4 10.9 Pulgadas 2020  SENGBIRCH Español Tec
 🔎:
 
 - Soporte para lápices, capucha y ranura para el adaptador incorporado, tome su Apple Pencil, Pencil Cap y el adaptador sin esfuerzo siempre que lo desee, fácilmente para llevar su lápiz con su dispositivo. ¡Lápiz, adaptador y gorra para iPad no incluidos!
-- Servicio de Empaque y Satisfacción al 100%-- Incluye 1* Funda para iPad Air 4,1*Teclado bluetooth,1 * Cable de carga micro USB, 1 * Manual de usuario español. SENGBIRCH ofrece un servicio de correo electrónico las 24 horas y un servicio post-venta gratuito de 12 meses.
-- Función de Reposo / Activación Automática--abrir o cerrar la cubierta activa los modos de reposo o activación del iPad Puede presionar cualquier tecla para reactivar el teclado. Le da a su iPad una batería de larga duración, y la batería puede durar hasta muchas horas
-- Teclado Español Bluetooth Inalámbrico -- Funda teclado iPad viene con un teclado ESPAÑOL. Tiene la letra Ñ. El teclado diseñado super delgado y con material ABS de alta gama, más ligero y más cómodo de llevar.
 - Funda con teclado está diseñada para la nueva versión de nuevo iPad 10.9 Pulgadas Air 4 2020 ( Modelo:A2072/A2316/A2324/A2325 ); iPad 11 Pulgadas 2020 (Modelo: A2068/ A2228/ A2230/ A2231) / iPad 11 Pulgadas 2018(Modelo: A1980/ A2013/ A1934/ A1979).
+- Teclado Español Bluetooth Inalámbrico -- Funda teclado iPad viene con un teclado ESPAÑOL. Tiene la letra Ñ. El teclado diseñado super delgado y con material ABS de alta gama, más ligero y más cómodo de llevar.
+- Función de Reposo / Activación Automática--abrir o cerrar la cubierta activa los modos de reposo o activación del iPad Puede presionar cualquier tecla para reactivar el teclado. Le da a su iPad una batería de larga duración, y la batería puede durar hasta muchas horas
+- Servicio de Empaque y Satisfacción al 100%-- Incluye 1* Funda para iPad Air 4,1*Teclado bluetooth,1 * Cable de carga micro USB, 1 * Manual de usuario español. SENGBIRCH ofrece un servicio de correo electrónico las 24 horas y un servicio post-venta gratuito de 12 meses.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08N9NFGQK/?tag=tolees-21)
