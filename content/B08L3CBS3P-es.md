@@ -28,10 +28,10 @@ En este momento está [Smatree Estuche Rígido para Tableta de 11 Pulgadas  Fund
 
 🔎:
 
-- PROTECCIÓN EXCEPCIONAL: Material EVA de alta densidad que es duradero y duradero. Proteja su tableta de arañazos y golpes con bonitas puntadas y almohadillas gruesas. A prueba de golpes, impermeable y ecológico
 - COMPRA SIN RIESGOS: Ofrecemos 100% de devolución de dinero o garantía de reemplazo si hay algún problema de calidad
-- MULTIFUNCIÓN: la funda con funda para tableta se puede usar en diversas situaciones, como viajes diarios, viajes de negocios, viajes escolares y salidas diarias
-- FÁCIL DE LLEVAR: Delgado y liviano, se puede deslizar fácilmente en su maletín, mochila u otra bolsa. La cremallera se desliza suavemente y permite un acceso conveniente a su tableta
+- PROTECCIÓN EXCEPCIONAL: Material EVA de alta densidad que es duradero y duradero. Proteja su tableta de arañazos y golpes con bonitas puntadas y almohadillas gruesas. A prueba de golpes, impermeable y ecológico
 - COMPATIBILIDAD: Compatible con Surface Go2 de 10,5"/ iPad Pro de 10,5"-11" / iPad Air de 10,5"-10,9" / iPad de 10,2" / Samsung Galaxy Tab S7 y otras tabletas de 11", Dimensiones internas: 26 * 19,5 * 2 cm.
+- FÁCIL DE LLEVAR: Delgado y liviano, se puede deslizar fácilmente en su maletín, mochila u otra bolsa. La cremallera se desliza suavemente y permite un acceso conveniente a su tableta
+- MULTIFUNCIÓN: la funda con funda para tableta se puede usar en diversas situaciones, como viajes diarios, viajes de negocios, viajes escolares y salidas diarias
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L3CBS3P/?tag=tolees-21)
