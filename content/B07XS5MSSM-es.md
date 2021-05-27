@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.18 % en Apple iPhone 11 Pro  512 GB  - Plata'
-date: 2021-05-16 10:35:10
+date: 2021-05-27 19:40:07
 image: 'https://m.media-amazon.com/images/I/41i5jooDJYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B07XS5MSSM/?tag=tolees-21'
 descuento: '25.18'
-average: '1347.98333333333'
+average: '1321.57'
 ---
 
 Tienes [Apple iPhone 11 Pro  512 GB  - Plata](https://www.amazon.es/dp/B07XS5MSSM/?tag=tolees-21) con un 25.18 % de descuento con precio de oferta de 1083.85 EUR (original: 1448.67 EUR) en el siguiente enlace!
@@ -28,14 +28,14 @@ Tienes [Apple iPhone 11 Pro  512 GB  - Plata](https://www.amazon.es/dp/B07XS5MS
 
 ℹ️:
 
-- Ios con modo oscuro, más herramientas para editar fotos y vídeos, y nuevas prestaciones de privacidad
+- Cámara frontal truedepth de 12 mpx con modo retrato, vídeo 4k y grabación a cámara lenta.
+- Carga rápida con el adaptador de 18w incluido
 - Resistencia al agua y al polvo (4 metros hasta 30 minutos, ip68).
 - Pantalla OLED super retina xdr de 5,8 pulgadas
-- Face id para autenticarse deforma segura y usar applepay
-- Cámara frontal truedepth de 12 mpx con modo retrato, vídeo 4k y grabación a cámara lenta.
 - Chip a13 bionic con neural engine de 3.ª generación
-- Carga rápida con el adaptador de 18w incluido
-- Sistema de triple cámara de 12 mpx con gran angular, ultra gran angular y teleobjetivo; modo noche, modo retrato y vídeo 4k hasta 60 f/s
 - Carga inalámbrica
+- Sistema de triple cámara de 12 mpx con gran angular, ultra gran angular y teleobjetivo; modo noche, modo retrato y vídeo 4k hasta 60 f/s
+- Ios con modo oscuro, más herramientas para editar fotos y vídeos, y nuevas prestaciones de privacidad
+- Face id para autenticarse deforma segura y usar applepay
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XS5MSSM/?tag=tolees-21)
