@@ -28,15 +28,15 @@ Está [2020 Apple iPad Pro  de 11 Pulgadas  con Wi-Fi y 1 TB  - Plata  2.ª g
 
 ℹ️:
 
+- Chip A12Z Bionic con Neural Engine
+- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
 - Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
-- Hasta 10 horas de autonomía
+- Cuatro altavoces y cinco micrófonos con calidad de estudio
 - Redes wifi 802.11ax
+- Cámara frontal TrueDepth de 7 Mpx
+- Conector USB-C para cargar el iPad y conectar accesorios
+- Hasta 10 horas de autonomía
 - Face ID para autenticarse de forma segura y usar Apple Pay
 - Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
-- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
-- Conector USB-C para cargar el iPad y conectar accesorios
-- Cámara frontal TrueDepth de 7 Mpx
-- Cuatro altavoces y cinco micrófonos con calidad de estudio
-- Chip A12Z Bionic con Neural Engine
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B0863L1FCK/?tag=tolees-21)
