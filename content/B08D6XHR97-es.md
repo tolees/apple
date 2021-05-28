@@ -28,10 +28,10 @@ Ahora mismo tienes [LifeProof Wake funda anticaídas y ecológica para Apple iPh
 
 🔎:
 
-- embalaje reciclable
 - Contribuimos a proteger los océanos
 - Protección contra caídas
 - Fabricación sostenible
+- embalaje reciclable
 - Ultrafina
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08D6XHR97/?tag=tolees-21)

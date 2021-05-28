@@ -28,10 +28,10 @@ Tienes [Lifeproof Wake funda anticaídas y ecológica para Apple iPhone 12 mini 
 
 🔎:
 
-- Versátil
 - Protección contra caídas
-- Estilo elegante
 - A prueba de suciedad, a prueba de nieve
 - Acceso completo
+- Versátil
+- Estilo elegante
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D6X4QV4/?tag=tolees-21)
