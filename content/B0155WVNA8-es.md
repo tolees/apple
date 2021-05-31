@@ -28,9 +28,9 @@ En este momento está [JETech Protector de Pantalla Compatible iPad mini 5  2019
 
 🔎:
 
-- Exclusivamente para iPad mini 5 (2019) y iPad mini 4 , No es compatible con iPad mini 1 / 2 / 3. Modelos de iPad aptos: A1538/A1550/A2124/A2126/A2133
 - El paquete incluye: 1 Unidades templado protector de pantalla de cristal, paño de limpieza, la instrucción, tarjeta de servicio al cliente
 - Hecho con vidrio templado de primera calidad de 0,33 mm de espesor con bordes redondeados
+- Exclusivamente para iPad mini 5 (2019) y iPad mini 4 , No es compatible con iPad mini 1 / 2 / 3. Modelos de iPad aptos: A1538/A1550/A2124/A2126/A2133
 - Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo).Alta respuesta y alta transparencia
 - Libre de polvo, huellas dactilares libre, de una pulsación muy fácil instalación, sin burbujas
 
