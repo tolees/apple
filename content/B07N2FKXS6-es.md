@@ -29,9 +29,9 @@ Está [ESR Cable USB C a Lightning 2M【MFi Certificado】 Nailon Trenzado iPhon
 ℹ️:
 
 - ⚡ Certificado MFi – Los rigurosos test superados para obtener la certificación MFi, te aseguran una carga segura y compatible con todos tus dispositivos Apple.
-- ⚡ Hecho para durar – Hecho con nylon trenzado, para darle una resistencia añadida sin renunciar a la elegancia. La carcasa de aluminio alrededor de las clavijas ha sido testada para ser enchufada más de 3.000 veces.
-- 😊 Satisfacción garantizada – Todos los productos ESR incluyen una garantía de satisfacción del 100%. Si por cualquier motivo no estás satisfecho con tu compra, estaremos encantados de enviarte un artículo de reemplazo o devolverte el dinero.
-- ⚡ Transferencia de archivos estable – Transfiere películas, música y otros archivos de forma estable y segura entre tu iPhone y MacBook, sin tener que preocuparte por posibles incompatibilidades.
 - ⚡ Carga rápida Pd – Emparejar con un cargador USB-C PD permite una carga rápida para el iPhone 12 Mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, iPhone SE 2020, 11, 11 Pro, 11 Pro max, XR, XS, XS Max, 8, 8 Plus, iPad 8, iPad Pro 12.9 2020, AirPods y AirPods Pro, lo que te permite cargar tu iPhone 50% en 30 minutos. Nota: adaptador no incluido.
+- ⚡ Hecho para durar – Hecho con nylon trenzado, para darle una resistencia añadida sin renunciar a la elegancia. La carcasa de aluminio alrededor de las clavijas ha sido testada para ser enchufada más de 3.000 veces.
+- ⚡ Transferencia de archivos estable – Transfiere películas, música y otros archivos de forma estable y segura entre tu iPhone y MacBook, sin tener que preocuparte por posibles incompatibilidades.
+- 😊 Satisfacción garantizada – Todos los productos ESR incluyen una garantía de satisfacción del 100%. Si por cualquier motivo no estás satisfecho con tu compra, estaremos encantados de enviarte un artículo de reemplazo o devolverte el dinero.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07N2FKXS6/?tag=tolees-21)
