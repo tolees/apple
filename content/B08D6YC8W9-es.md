@@ -28,11 +28,11 @@ Tienes [Otterbox Performance Glass  protector de pantalla de Cristal Templado pa
 
 🔎:
 
-- Ultrafino
-- Antirrotura y antiarañazos
-- Alta sensibilidad
-- Claridad impecable
 - Colocación de precisión
 - Dispositivos compatibles: Teléfono móvil
+- Alta sensibilidad
+- Ultrafino
+- Antirrotura y antiarañazos
+- Claridad impecable
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08D6YC8W9/?tag=tolees-21)
