@@ -28,8 +28,8 @@ En este momento está [nonda Lector de Tarjetas USB-C a SD/MicroSD  Adaptador de
 
 🔎:
 
-- Transmisión de datos súper rápido: este lector de tarjetas usb tipo c tiene velocidades de transmisión de datos de hasta 110 mb / s. (nota: el dispositivo con usb 2.0 solo se ejecutará a 480 mbps)
 - Compatibilidad universal: compatible con macbook pro 2019/2018, ipad pro 2019/2018, surface book 2, Samsung Galaxy S10 / S9 / S8 / Note 8 / Note 9, HTC u11 / u12, pixel book, dell XPS 15 / XPS 13, Galaxy Book y muchos otros dispositivos usb-c
+- Transmisión de datos súper rápido: este lector de tarjetas usb tipo c tiene velocidades de transmisión de datos de hasta 110 mb / s. (nota: el dispositivo con usb 2.0 solo se ejecutará a 480 mbps)
 - Enchufe and juegue: lector de tarjetas otg; no se necesita controlador/software adicional; no se requiere aplicación, puede transferir fácilmente fotos y archivos desde su tarjeta sd/tf a un dispositivo usb c
 - Lector de tarjetas USB-C de doble ranura: compatible con tarjetas SD, SDHC, SDXC, micro SD, micro SDHC, micro SDXC son compatibles en modo UHS-I
 
