@@ -28,10 +28,10 @@ Ahora mismo tienes [JETech Protector Pantalla Compatible iPad Pro 12 9 Pulgadas 
 
 🔎:
 
-- Paquete al por menor incluye: paquete 1 templado protector de pantalla de cristal, paño de limpieza, la instrucción, tarjeta de servicio al cliente
 - Hecho con 0,33mm de grosor de alta calidad prima de vidrio templado con bordes redondeados, Compatible con Pencil
 - Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo); Alta definición, mayor sensibilidad
-- Compatible con Face ID. Diseñado para iPad Pro 12,9 pulgadas (2021 / 2020 / 2018 Modelo). Apropiado para los modelos de iPad: A2378 A2379 A2461 A2462 A2229 A2069 A2232 A1876 A2014 A1895. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
 - Libre de polvo, huellas dactilares libre, de una pulsación muy fácil instalación, sin burbujas
+- Paquete al por menor incluye: paquete 1 templado protector de pantalla de cristal, paño de limpieza, la instrucción, tarjeta de servicio al cliente
+- Compatible con Face ID. Diseñado para iPad Pro 12,9 pulgadas (2021 / 2020 / 2018 Modelo). Apropiado para los modelos de iPad: A2378 A2379 A2461 A2462 A2229 A2069 A2232 A1876 A2014 A1895. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07GZTBPNT/?tag=tolees-21)
