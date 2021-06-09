@@ -28,10 +28,10 @@ En este momento está [JETech Funda Compatible iPad Pro 12 9 Pulgadas  4.ª Gene
 
 🔎:
 
-- La cubierta inteligente magnética admite la función Auto-Sueño / Estela. La cubierta frontal de tres pliegues puede soportar la tableta en dos posiciones para ver y escribir
 - Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
+- La cubierta inteligente magnética admite la función Auto-Sueño / Estela. La cubierta frontal de tres pliegues puede soportar la tableta en dos posiciones para ver y escribir
 - Hecho con PC y PU. Diseño delgado / ligero. El exterior sintético y el interior suave proporcionan una protección completa para su iPad
-- El paquete incluye: funda para iPad Pro 12,9 pulgadas (modelo 2020), tarjeta de garantía de por vida
 - Compatible con la carga de Pencil. Diseñado para iPad Pro de 12,9 pulgadas Modelo 2020. Apropiado para los modelos de iPad: A2229/A2069/A2232/A2233. Por favor, revise la parte inferior de su iPad para encontrar el número de modelo
+- El paquete incluye: funda para iPad Pro 12,9 pulgadas (modelo 2020), tarjeta de garantía de por vida
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07QMSVDS8/?tag=tolees-21)
