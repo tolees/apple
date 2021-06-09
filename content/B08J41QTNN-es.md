@@ -28,9 +28,9 @@ Está [INIU Cable USB C  100W PD 5A [2 Pack 2m+2m] Carga Rápida QC 4.0 Cable US
 
 ℹ️:
 
+- ✅【 Chip inteligente con marcador electrónico excepcional: certificado por USB IF, el chip inteligente más avanzado para la carga rápida más segura de 100 W. Ajuste automático para proteger su dispositivo mientras se carga a una velocidad máxima.
 - ✅【Confianza de INIU】 En INIU utilizamos solo materiales de la más alta calidad, por lo que tenemos la confianza de proporcionar una garantía de 3 años líder en la industria.
 - ✅【Un paquete de dos cables】 satisface todas tus necesidades en todas partes con el tamaño más popular de 2 m: utiliza uno en casa, el otro en la oficina para mantenerse siempre alimentado de la manera más rápida.
-- ✅【 Chip inteligente con marcador electrónico excepcional: certificado por USB IF, el chip inteligente más avanzado para la carga rápida más segura de 100 W. Ajuste automático para proteger su dispositivo mientras se carga a una velocidad máxima.
 - ✅【Entrega de potencia súper rápida de 100 W】 La tecnología sin precedentes de 5 A 100 W PD lleva la velocidad de carga al siguiente nivel: combustible increíblemente rápido tu Samsung S20 hasta un 80% en 35 minutos, o MacBook Pro hasta un 100% en 1,9 horas.
 - ✅ 【 Construido para durar】 exclusiva capa trenzada FLYWEAVE de alambre conductor de alta 28 AWG, además de juntas flexibles y conector de aleación de aluminio soldado con láser 3D, construye un cable tan duradero que incluso durará más que tu teléfono.
 
