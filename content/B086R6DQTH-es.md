@@ -28,9 +28,9 @@ Está [Belkin batería externa 5K Boost Charge  cargador portátil con puerto US
 
 ℹ️:
 
-- El indicador LED muestra el estado de la carga
 - La batería externa de 5000 mAh proporciona hasta 35 horas adicionales de autonomía de la batería para tu smartphone*
 - La diferencia de Belkin: liderando tecnología e innovación durante más de 35 años
+- El indicador LED muestra el estado de la carga
 - Protegida por 2 años de garantía del producto y garantía de los equipos conectados de hasta 2000 euros
 - Carga dispositivos conectados por el puerto USB-A de 12 W; llena la batería por el puerto USB-C con el cable USB a USB-C incluido
 
