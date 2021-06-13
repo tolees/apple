@@ -28,10 +28,10 @@ Tienes [Otterbox Slim bundle  Pack Funda Anti Caídas Fina y Protector de Pantal
 
 ℹ️:
 
-- Funda fina de proteccion anti golpes
-- Protector de pantalla de cristal templado incluido
-- Un tercio de la parte trasera en acabado fieltro
-- Diseño elegante
 - Parte trasera transparente
+- Diseño elegante
+- Protector de pantalla de cristal templado incluido
+- Funda fina de proteccion anti golpes
+- Un tercio de la parte trasera en acabado fieltro
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B07XZD5WFG/?tag=tolees-21)
