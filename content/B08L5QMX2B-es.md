@@ -28,15 +28,15 @@ Ahora mismo tienes [Nuevo Apple iPhone 12 Mini  256 GB  -  Product  Red](https:
 
 🔎:
 
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Resistencia al agua IP68, líder en el sector
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - 0.0
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - A14 Bionic, el chip más veloz en un smartphone
 - Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Resistencia al agua IP68, líder en el sector
 - Pantalla Super Retina XDR de 5,4 pulgadas
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L5QMX2B/?tag=tolees-21)
