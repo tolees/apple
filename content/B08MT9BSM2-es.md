@@ -28,10 +28,10 @@ Ahora mismo tienes [FINTIE Funda para iPad Air 10 9"  4.ª Generación  2020  co
 
 🔎:
 
-- Delgado, ligero, duradero cuero sintético y suave frente interior de microfibra sin arañazos. Y la cubierta posterior translúcida, especialmente tratada con acabado mate, mostrará con orgullo el icono.
-- Soporte para lápiz óptico incorporado y ranura para adaptador, agarre su lápiz óptico y adaptador sin esfuerzo siempre que lo desee, fácilmente para llevar su lápiz óptico con su dispositivo. (Solo funda, otros accesorios no incluidos!)
 - Disponible en una variedad de colores brillantes y divertidos.
 - Específicamente diseñado para iPad Air 10.9" ( 4.ª generación 2020) (Número de modelo: A2072/A2316/A2324/A2325).
+- Delgado, ligero, duradero cuero sintético y suave frente interior de microfibra sin arañazos. Y la cubierta posterior translúcida, especialmente tratada con acabado mate, mostrará con orgullo el icono.
 - Ábrela para activar y ciérrala para ponerlo en reposo para maximizar la duración de la batería.
+- Soporte para lápiz óptico incorporado y ranura para adaptador, agarre su lápiz óptico y adaptador sin esfuerzo siempre que lo desee, fácilmente para llevar su lápiz óptico con su dispositivo. (Solo funda, otros accesorios no incluidos!)
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08MT9BSM2/?tag=tolees-21)
