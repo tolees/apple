@@ -28,8 +28,8 @@ Está [DEDC Soporte de Libro de Bambú con Patrón Elegante Hueco Retro  Ajustab
 
 ℹ️:
 
-- El soporte de libros de bambú multifuncional viene con una resistente bandeja frontal, que es resistente para soportar libros, tabletas, revistas, papeles de pintura, documentos, partituras, catálogos, computadoras portátiles, etc.
 - Soporte de libro de bambú con diseño retro hueco elegante, mide 8 x 11 x 0.39 pulgadas (L x W x T)
+- El soporte de libros de bambú multifuncional viene con una resistente bandeja frontal, que es resistente para soportar libros, tabletas, revistas, papeles de pintura, documentos, partituras, catálogos, computadoras portátiles, etc.
 - Ajustable a cinco ángulos diferentes, establezca convenientemente el ángulo para mantener la postura correcta para que la columna esté sana.
 - El soporte para libros cuenta con 2 clips de papel flexibles y fuertes para mantener su libro ampliamente abierto. Permite pasar las páginas fácilmente mientras que las puntas de goma blandas evitan daños en los papeles.
 - Hecho de bambú natural premium, estable y resistente. este soporte para libros es duradero para contener varios tamaños de libros.
