@@ -30,8 +30,8 @@ Tienes [JETech Funda Compatible iPhone 11  2019  6 1"  Carcasa Anti-Choques y An
 
 - Hecho con PC y TPU. El diseño interno de pequeños puntos evita una marca de agua fea contra la parte posterior y los lados del teléfono. Diseño delgado. Respaldo ultra transparente y resistente a los arañazos
 - El paquete incluye: Funda iPhone 11 * 1
-- Biseles levantados para ofrecer protección para la pantalla y la cámara. Tiene un diseño único de la amortiguación: las 4 esquinas absorben los choques con eficacia
-- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
 - Diseñado para iPhone 11 6,1"
+- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
+- Biseles levantados para ofrecer protección para la pantalla y la cámara. Tiene un diseño único de la amortiguación: las 4 esquinas absorben los choques con eficacia
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QQZD49D/?tag=tolees-21)
