@@ -29,9 +29,9 @@ Tienes [Avacom - Adaptador para portátil Apple 60 W MagSafe Conector magnético
 🔎:
 
 - Protección contra sobretensión. Protección contra cortocircuitos. Protección contra fluctuaciones de potencia
-- Adaptador para portátil.
 - Para Apple 60 W.
 - Conector magnético MagSafe.
+- Adaptador para portátil.
 - Adaptador de CA para portátil.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07SWM4QZF/?tag=tolees-21)
