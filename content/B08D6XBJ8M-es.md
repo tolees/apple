@@ -28,10 +28,10 @@ En este momento está [OtterBox Pack para Apple iPhone 12 Pro Max funda anticaí
 
 🔎:
 
+- Transparente
+- Funda reforzada
 - Funda fina y elegante
 - Protección 360º
-- Funda reforzada
-- Transparente
 - Pack funda anti caídas + protector de pantalla de cristal templado
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08D6XBJ8M/?tag=tolees-21)
