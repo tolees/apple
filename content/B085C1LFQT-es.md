@@ -28,10 +28,10 @@ Está [ProCase Funda Antideslizante iPad Pro 12.9 4.ª generación 2020  Estcuhe
 
 ℹ️:
 
-- Ligera y Semidura: Material plástico ABS brinda una protección delgada contra golpes, arañazos y rebalones
-- Encajada a la Perfección: acceso completo a todas las funciones; Apertura lateral permite la carga inalámbrica para Apple Pencil 2.ª generación
+- Atril Estable: 2 surcos permiten soporte horizontal bien fijado
 - Activa la pantalla cuando abres la tapa y la pone en reposo de manera segura cuando la cierras
 - Diseñada para iPad Pro 12,9 2020 4th generación (A2229 / A2069 / A2232 / A2233), también es compatible con iPad Pro 12.9 pulgadas 2018 3.ª generación (A1876 / A2014 / A1895 / A1983); NO es compatible con cualquier otra tableta, por favor revise el número de modelo A**** en la parte posterior inferior de tu iPad
-- Atril Estable: 2 surcos permiten soporte horizontal bien fijado
+- Encajada a la Perfección: acceso completo a todas las funciones; Apertura lateral permite la carga inalámbrica para Apple Pencil 2.ª generación
+- Ligera y Semidura: Material plástico ABS brinda una protección delgada contra golpes, arañazos y rebalones
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B085C1LFQT/?tag=tolees-21)
