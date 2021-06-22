@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '2020 Apple MacBook Pro  de 13 Pulgadas   al 24.89 % de rebaja'
-date: 2021-06-17 08:03:47
+title: '2020 Apple MacBook Pro  de 13 Pulgadas   al 29.59 % de rebaja'
+date: 2021-06-21 22:20:44
 image: 'https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,34 @@ author: 'tole.es'
 slug: 'B08834LSGQ-es 2020 Apple MacBook Pro de 13 Pulgadas Chip i5 de Intel 16...'
 sku: 'B08834LSGQ-es'
 tags: [ 'Informática','Portátiles','apple', ]
-actualPrice: 1599.0 EUR
+actualPrice: 1499.0 EUR
 currency: EUR
-price: 1599.0
+price: 1499.0
 comparePrice: 2129.0 EUR
 prodname: '2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21'
-descuento: '24.89'
-average: '1774.79807692308'
+descuento: '29.59'
+average: '1764.58333333334'
 ---
 
-Tienes [2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21) con precio final de  1599.0 EUR (original: 2129.0 EUR) (24.89 %  de rebaja) aqui!
+Tienes [2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21) con precio final de  1499.0 EUR (original: 2129.0 EUR) (29.59 %  de rebaja) aqui!
 
 [![2020 Apple MacBook Pro  de 13 Pulgadas  ](https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg)](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
 
 🔎:
 
-- Intel Iris Plus Graphics
-- Teclado Magic Keyboard retroiluminado
-- Almacenamiento SSD ultrarrápido
-- Wifi 802.11ac
 - Hasta 10 horas de autonomía
+- Almacenamiento SSD ultrarrápido
 - Trackpad Force Touch
-- Cuatro puertos Thunderbolt 3 (USB-C)
-- Touch Bar y Touch ID
 - Espectacular pantalla Retina con tecnología True Tone
+- Teclado Magic Keyboard retroiluminado
+- Touch Bar y Touch ID
+- Wifi 802.11ac
+- Cuatro puertos Thunderbolt 3 (USB-C)
 - Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Intel Iris Plus Graphics
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
