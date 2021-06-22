@@ -28,10 +28,10 @@ En este momento está [POWERADD EnergyCell Mini Power Bank 10000mAh Cargador Por
 
 🔎:
 
-- Batería de alta calidad: La misma batería con Tesla Model S de pilas 21700 que tiene alta confiabilidad y estabilidad también tiene múltiple protección y más seguro.
 - Alta capacidad de 10000mAh: puede carga iPhone Xs por 2.5 veces, Samsung S9 2 veces, Huawei Mate 20 2 veces.
 - Paquete contenido:EnergyCell 10000mAh,cable de micro usb,usuario manual,tarjeta de bienvenido, bolsa de almacenamiento, ofrecemos 2 años de servicio amable..
-- Salida de alta velocidad hasta 2.4A, dos veces más que el 1A, por ejemplo carga su iPhone Xs sólo necesita 1 hora, más rápido para ahorra su tiempo.
+- Batería de alta calidad: La misma batería con Tesla Model S de pilas 21700 que tiene alta confiabilidad y estabilidad también tiene múltiple protección y más seguro.
 - Más ligero y más pequeño: con el peso de 172g y el tamaño compacto de 10.3*4.95*2.5cm, es la más portable de las baterías de 10000mAh, también muy fácil de llevar, perfecta para la vida diaria, viajes, fiestas.
+- Salida de alta velocidad hasta 2.4A, dos veces más que el 1A, por ejemplo carga su iPhone Xs sólo necesita 1 hora, más rápido para ahorra su tiempo.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B07MGSSJ8J/?tag=tolees-21)
