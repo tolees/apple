@@ -28,10 +28,10 @@ En este momento está [ProCase Funda Folio para Nuevo iPad Air 4 10 9" 2020 Mode
 
 🔎:
 
-- 🍒Atril Estable: 2 surcos permiten soporte horizontal bien fijado
+- 🍒Compatibilidad: Diseñado para iPad Air 4 10.9" 2020 (Modelos: A2324/A2072/A2316/A2325) ÚNICAMENTE. NO es compatible con ningún otro modelo de iPad; Consulte la parte inferior trasera de su iPad para encontrar el número de modelo
 - 🍒Ligera y Semidura: Material plástico ABS brinda una protección delgada contra golpes, arañazos y rebalones
+- 🍒Atril Estable: 2 surcos permiten soporte horizontal bien fijado
 - 🍒Todas las Características: Admite la función de conexión y CARGA de Apple Pencil 2ª generación
 - 🍒Encajada a la Perfección: El imán asegura el cierre de la caja, fácil de poner y quitar. OJO: Configure Primero su Touch ID Antes de Insertar el iPad en la funda
-- 🍒Compatibilidad: Diseñado para iPad Air 4 10.9" 2020 (Modelos: A2324/A2072/A2316/A2325) ÚNICAMENTE. NO es compatible con ningún otro modelo de iPad; Consulte la parte inferior trasera de su iPad para encontrar el número de modelo
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08DHWXJYP/?tag=tolees-21)
