@@ -28,15 +28,15 @@ Tienes [2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  
 
 🔎:
 
+- Trackpad Force Touch
+- Espectacular pantalla Retina con tecnología True Tone
+- Touch Bar y Touch ID
 - Almacenamiento SSD ultrarrápido
 - Teclado Magic Keyboard retroiluminado
-- Touch Bar y Touch ID
-- Espectacular pantalla Retina con tecnología True Tone
-- Intel Iris Plus Graphics
-- Cuatro puertos Thunderbolt 3 (USB-C)
-- Trackpad Force Touch
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
 - Hasta 10 horas de autonomía
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Intel Iris Plus Graphics
 - Wifi 802.11ac
+- Cuatro puertos Thunderbolt 3 (USB-C)
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21)
