@@ -29,9 +29,9 @@ En este momento está [AGPTEK Mini Auriculares Bluetooth In-Ear  Auricualres Ina
 🔎:
 
 - 🎧【Cómodo de Usar y Resistente al Agua】Impermeable IP X 5 para protección efectiva contra el sudor y la lluvia. Hecho de materiales alta calidad, larga comodidad de uso. Los contornos del oído ergonómico y el tapón de los oidos suave. Por favor, cualquier problema o insatisfacción, no dude en comunicarse con nosotros.
-- 🎧 【Estéreo y Micrófono HD】Chip de reducción de ruido inteligente, llamada estéreo, sin ruido, sonido de vibración más estable, micrófono de alta calidad, sonido de alto efecto, ofrece a sus oídos disfrutación cómodo y alto nivel de sonido.
+- 🎧【Uno Botón para Operar】Fácil de operar, soporta pista anterior/ siguente/ pausa, activar Siri, aceptar/ finalizar llamada a través de MFB botón en los cascos. Apoya llamadas binaurales, la llamada es más clara y sin obstrucciones.
 - 🎧【Soporta Reproducir 30Hrs】El estuche de carga portátil es ultraligero con baterías de litio de alta capacidad 1000mAh, 2 horas carga completa rápido, admite carga a los cascos 10 veces, se puede reproducir hasta 30horas.
 - 🎧【Bluetooth Conexión Rápida】Tecnología innovadora de Bluetooth, emparejamiento automático para conectar más rápida. Permite conectar dos dispositivo Bluetooth al mismo tiempo. Sin cables, puede libremente ejercicio, trabajo o en viaje y fácil de llevarlos.
-- 🎧【Uno Botón para Operar】Fácil de operar, soporta pista anterior/ siguente/ pausa, activar Siri, aceptar/ finalizar llamada a través de MFB botón en los cascos. Apoya llamadas binaurales, la llamada es más clara y sin obstrucciones.
+- 🎧 【Estéreo y Micrófono HD】Chip de reducción de ruido inteligente, llamada estéreo, sin ruido, sonido de vibración más estable, micrófono de alta calidad, sonido de alto efecto, ofrece a sus oídos disfrutación cómodo y alto nivel de sonido.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B081ZYWK3R/?tag=tolees-21)
