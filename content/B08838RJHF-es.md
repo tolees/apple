@@ -29,14 +29,14 @@ En este momento está [2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Inte
 🔎:
 
 - Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Hasta 10 horas de autonomía
-- Touch Bar y Touch ID
-- Espectacular pantalla Retina con tecnología True Tone
-- Almacenamiento SSD ultrarrápido
-- Cuatro puertos Thunderbolt 3 (USB-C)
 - Wifi 802.11ac
+- Touch Bar y Touch ID
 - Teclado Magic Keyboard retroiluminado
-- Intel Iris Plus Graphics
 - Trackpad Force Touch
+- Cuatro puertos Thunderbolt 3 (USB-C)
+- Intel Iris Plus Graphics
+- Almacenamiento SSD ultrarrápido
+- Espectacular pantalla Retina con tecnología True Tone
+- Hasta 10 horas de autonomía
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08838RJHF/?tag=tolees-21)
