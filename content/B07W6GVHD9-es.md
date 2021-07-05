@@ -28,12 +28,12 @@ Tienes [Logitech Combo Touch para iPad  7.ª gen: A2197/A2200/A2198/A2270/A2428/
 
 🔎:
 
-- CUATRO MODOS DE USO – Cuatro modos de uso y un soporte ajustable permiten usar cómodamente el iPad para cualquier tarea, como escribir notas, ver vídeos, etc
 - COMPATIBLE CON APPLE PENCIL – Diseñada para funcionar tanto con Logitech Crayon como con Apple Pencil (1.ª generación), te permite escribir notas a mano, dibujar o marcar documentos directamente en el iPad
+- CUATRO MODOS DE USO – Cuatro modos de uso y un soporte ajustable permiten usar cómodamente el iPad para cualquier tarea, como escribir notas, ver vídeos, etc
+- SOPORTE AJUSTABLE – El soporte flexible ofrece una inclinación de 40° para permitir el ángulo adecuado para cada tarea; cuando no te haga falta escribir, desconecta el teclado y disfruta de la pantalla del iPad sin nada de por medio
+- ALIMENTACIÓN Y EMPAREJAMIENTO CON UN CLIC – El teclado y el trackpad se conectan fácilmente al iPad mediante un clic con Smart Connector
 - TECLAS RETROILUMINADAS BIEN ESPACIADAS – Escribe cómodamente y con precisión utilizando un teclado similar al de un portátil; con una fila completa de accesos directos de iOS y teclas retroiluminadas bien espaciadas puedes optimizar tu productividad en cualquier sitio, de día o de noche
 - TRACKPAD DE PRECISIÓN – Usa controles mediante gestos habituales para navegar por el iPad de una manera totalmente nueva; edita documentos, navega por aplicaciones y crea presentaciones con una rapidez y una precisión incomparables
 - PROTECCIÓN PARA LA PARTE POSTERIOR Y FRONTAL – La funda ligera y duradera mantiene el iPad a salvo de golpes, arañazos y salpicaduras; el tejido exterior es suave al tacto
-- ALIMENTACIÓN Y EMPAREJAMIENTO CON UN CLIC – El teclado y el trackpad se conectan fácilmente al iPad mediante un clic con Smart Connector
-- SOPORTE AJUSTABLE – El soporte flexible ofrece una inclinación de 40° para permitir el ángulo adecuado para cada tarea; cuando no te haga falta escribir, desconecta el teclado y disfruta de la pantalla del iPad sin nada de por medio
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07W6GVHD9/?tag=tolees-21)
