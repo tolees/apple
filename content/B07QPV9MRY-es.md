@@ -29,9 +29,9 @@ Tienes [JETech Protector de Pantalla Compatible con iPad 8/7  10 2 Pulgadas  202
 🔎:
 
 - Muy alta dureza: resistente a los arañazos de hasta 9H (más duro que un cuchillo)
-- Exclusivamente para el nuevo iPad 7 / 8 (10,2 Pulgadas, 2019 / 2020 Modelo, 7ª / 8ª Generación), Apto para modelos de iPad: A2197 / A2200 / A2198 /A2270 / A2428 / A2429 / A2430. NO es compatible con ningún otro modelo de iPad
 - Hecho con vidrio templado de primera calidad de 0,33 mm de espesor con bordes redondeados. Alta respuesta y alta transparencia
-- El paquete minorista incluye: 1 paquete de protector de pantalla de vidrio templado, paño de limpieza, varilla para quitar el polvo, varilla guía, instrucciones, tarjeta de servicio al cliente
 - Libre de polvo, huellas dactilares libre, de una pulsación muy fácil instalación, sin burbujas
+- El paquete minorista incluye: 1 paquete de protector de pantalla de vidrio templado, paño de limpieza, varilla para quitar el polvo, varilla guía, instrucciones, tarjeta de servicio al cliente
+- Exclusivamente para el nuevo iPad 7 / 8 (10,2 Pulgadas, 2019 / 2020 Modelo, 7ª / 8ª Generación), Apto para modelos de iPad: A2197 / A2200 / A2198 /A2270 / A2428 / A2429 / A2430. NO es compatible con ningún otro modelo de iPad
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B07QPV9MRY/?tag=tolees-21)
