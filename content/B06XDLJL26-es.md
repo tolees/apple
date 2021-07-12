@@ -28,10 +28,10 @@ Está [Apple EarPods con clavija de 3 5 mm](https://www.amazon.es/dp/B06XDLJL26
 
 ℹ️:
 
+- Diseñados por Apple
+- Mayor protección contra el agua y el sudor
 - Responde y cuelga llamadas
 - Controla la reproducción de música y vídeo
-- Mayor protección contra el agua y el sudor
 - Bajos más profundos y con más matices
-- Diseñados por Apple
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B06XDLJL26/?tag=tolees-21)
