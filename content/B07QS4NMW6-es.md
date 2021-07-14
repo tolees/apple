@@ -29,9 +29,9 @@ Está [JETech Funda Compatible iPhone 6 1 Pulgadas  12  12 Pro   Carcasa Anti-Ch
 ℹ️:
 
 - Hecho con PC y TPU. El diseño interno de pequeños puntos evita una marca de agua fea contra la parte posterior y los lados del teléfono. Diseño ligero y delgado. Respaldo ultra transparente y resistente a los arañazos
-- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
-- Los biseles elevados ofrecen protección adicional para la pantalla y la cámara.
-- El paquete incluye: funda iPhone 12 / 12 Pro en paquete minorista
 - Admite carga inalámbrica. Diseñado para iPhone 12 / 12 Pro 6,1 pulgadas. Se adapta perfectamente a tu dispositivo
+- Los biseles elevados ofrecen protección adicional para la pantalla y la cámara.
+- Fácil acceso a todos los controles y funciones; Recortes perfectos para altavoces, cámara y otros puertos
+- El paquete incluye: funda iPhone 12 / 12 Pro en paquete minorista
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B07QS4NMW6/?tag=tolees-21)
