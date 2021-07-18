@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://apple.tole.es/sitemap.xml
