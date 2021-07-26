@@ -28,15 +28,15 @@ En este momento está [Nuevo Apple iPhone 12  128 GB  - de en Verde](https://w
 
 🔎:
 
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- A14 Bionic, el chip más veloz en un smartphone
+- Resistencia al agua IP68, líder en el sector
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
 - Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- Pantalla Super Retina XDR de 6,1 pulgadas
+- 0.0
 - Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- A14 Bionic, el chip más veloz en un smartphone
-- Pantalla Super Retina XDR de 6,1 pulgadas
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Resistencia al agua IP68, líder en el sector
-- 0.0
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L5RYD8P/?tag=tolees-21)
