@@ -28,15 +28,15 @@ Está [2021 Apple iMac  de 24 Pulgadas  Chip M1 de Apple con CPU de Ocho núc
 
 ℹ️:
 
+- Cámara FaceTime HD a 1080p con el procesador de señal de imagen del chip M1 para una calidad de vídeo increíble
+- Diseño en colores espectaculares y asombrosamente fino con solo 1,15 cm de grosor
+- Sistema de audio de seis altavoces que ofrece una experiencia sonora totalmente única
 - Rendimiento increíble gracias al chip M1 de Apple con CPU de ocho núcleos y GPU de ocho núcleos
+- Ratón Magic Mouse y teclado Magic Keyboard o Magic Keyboard con Touch ID del mismo color
 - Conexión wifi ultraveloz de sexta generación y tecnología inalámbrica Bluetooth 5.0
+- Espectacular pantalla Retina 4,5K de 24 pulgadas con gama cromática amplia (P3) y 500 nits de brillo
 - Dos puertos Thunderbolt/USB 4 y dos puertos USB 3
 - 256 GB de almacenamiento SSD ultrarrápido
 - Conjunto de tres micrófonos con calidad profesional para un sonido cristalino
-- Espectacular pantalla Retina 4,5K de 24 pulgadas con gama cromática amplia (P3) y 500 nits de brillo
-- Sistema de audio de seis altavoces que ofrece una experiencia sonora totalmente única
-- Diseño en colores espectaculares y asombrosamente fino con solo 1,15 cm de grosor
-- Cámara FaceTime HD a 1080p con el procesador de señal de imagen del chip M1 para una calidad de vídeo increíble
-- Ratón Magic Mouse y teclado Magic Keyboard o Magic Keyboard con Touch ID del mismo color
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09336XRPF/?tag=tolees-21)
