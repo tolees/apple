@@ -28,15 +28,15 @@ En este momento está [Apple iPhone 11  256 GB  - en Amarillo](https://www.amaz
 
 🔎:
 
-- Resistencia al agua y al polvo (2 metros hasta 30 minutos, IP68)
-- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
-- Como parte de nuestros esfuerzos por alcanzar nuestros objetivos medioambientales, el iPhone 11 ya no incluye un adaptador de corriente ni EarPods. Utilice su adaptador de corriente y auriculares Apple existentes o compre estos accesorios por separado
 - Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
-- Face ID para autenticarse deforma segura yusar ApplePay
-- Carga inalámbrica
-- Sistema de cámara dual de 12 Mpx con gran angular y ultra gran angular; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
-- Chip A13 Bionic con Neural Engine de 3.ª generación
+- Resistencia al agua y al polvo (2 metros hasta 30 minutos, IP68)
 - Admite la carga rápida
+- Face ID para autenticarse deforma segura yusar ApplePay
+- Sistema de cámara dual de 12 Mpx con gran angular y ultra gran angular; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
 - Pantalla LCD Liquid Retina HD de 6,1 pulgadas
+- Carga inalámbrica
+- Como parte de nuestros esfuerzos por alcanzar nuestros objetivos medioambientales, el iPhone 11 ya no incluye un adaptador de corriente ni EarPods. Utilice su adaptador de corriente y auriculares Apple existentes o compre estos accesorios por separado
+- Chip A13 Bionic con Neural Engine de 3.ª generación
+- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L71KMT3/?tag=tolees-21)
