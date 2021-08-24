@@ -28,15 +28,15 @@ Tienes [Nuevo Apple iPhone 12 Pro  128 GB  - Grafito](https://www.amazon.es/dp/
 
 ℹ️:
 
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
-- Sistema de cámaras Pro de 12 Mpx con teleobjetivo, gran angular y ultra gran angular, rango de zoom óptico x5, modo Noche, Deep Fusion, HDR Inteligente 3, Apple ProRAW y grabación de vídeo en 4K HDR con Dolby Vision
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- A14 Bionic, el chip más veloz en un smartphone
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - Escáner LiDAR para mejores experiencias de realidad aumentada y retratos en modo Noche
-- Pantalla Super Retina XDR de 6,1 pulgadas
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 - Resistencia al agua IP68, líder en el sector
+- Sistema de cámaras Pro de 12 Mpx con teleobjetivo, gran angular y ultra gran angular, rango de zoom óptico x5, modo Noche, Deep Fusion, HDR Inteligente 3, Apple ProRAW y grabación de vídeo en 4K HDR con Dolby Vision
+- A14 Bionic, el chip más veloz en un smartphone
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- Pantalla Super Retina XDR de 6,1 pulgadas
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L5SBHBB/?tag=tolees-21)
