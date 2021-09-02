@@ -28,9 +28,9 @@ En este momento está [Belkin BoostCharge PRO - Cargador inalámbrico 3 en 1  co
 
 🔎:
 
-- Carga inalámbrica rápida de hasta 15 W para los distintos modelos de iPhone 13
-- Reinventa la manera en la que cargas tu iPhone 12 con alineación por tecnología MagSafe y una solución de carga 3 en 1 para iPhone, Apple Watch y AirPods
-- Funciona con iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, Apple Watch Series 6, Series 5, Series 4, Series 3, Series 2, Series 1, AirPods 2 y AirPods Pro
 - Como carga en cualquier orientación lo puedes poner en vertical para hablar por FaceTime, o lo cambias en horizontal para ver vídeos
+- Funciona con iPhone 12 mini, iPhone 12, iPhone 12 Pro, iPhone 12 Pro Max, Apple Watch Series 6, Series 5, Series 4, Series 3, Series 2, Series 1, AirPods 2 y AirPods Pro
+- Reinventa la manera en la que cargas tu iPhone 12 con alineación por tecnología MagSafe y una solución de carga 3 en 1 para iPhone, Apple Watch y AirPods
+- Carga inalámbrica rápida de hasta 15 W para los distintos modelos de iPhone 13
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08LQVYCZH/?tag=tolees-21)
