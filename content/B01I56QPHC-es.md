@@ -28,10 +28,10 @@ Está [Silver HT 111934540199- Funda Universal con Teclado Micro USB Pixel Gamer
 
 ℹ️:
 
-- Tambien compatible con: Samsung TAB A hasta 10", Lenovo TAB A10 10.1", Asus Z500 9.7", Asus Z300 de 10", Acer Iconia One 10, Iconia TAB 10, BQ Aquaris M10
-- Funda tablet para niños
-- Compatible con tablets desde 9” hasta 10.1”
-- Estampado silverht
 - Es necesario que la tablet sea compatible con la tecnología on-the-go (otg)
+- Compatible con tablets desde 9” hasta 10.1”
+- Tambien compatible con: Samsung TAB A hasta 10", Lenovo TAB A10 10.1", Asus Z500 9.7", Asus Z300 de 10", Acer Iconia One 10, Iconia TAB 10, BQ Aquaris M10
+- Estampado silverht
+- Funda tablet para niños
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B01I56QPHC/?tag=tolees-21)
