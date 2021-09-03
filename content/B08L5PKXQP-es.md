@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 17.61 % en Nuevo Apple iPhone 12  256 GB  - de en V'
-date: 2021-08-26 14:31:17
+date: 2021-09-03 06:42:13
 image: 'https://m.media-amazon.com/images/I/41tsqpzlsGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5PKXQP/?tag=tolees-21'
 descuento: '17.61'
-average: '935.0'
+average: '927.333333333333'
 ---
 
 Tienes [Nuevo Apple iPhone 12  256 GB  - de en Verde](https://www.amazon.es/dp/B08L5PKXQP/?tag=tolees-21) con un 17.61 % de descuento con precio de oferta de 889.0 EUR (original: 1079.0 EUR) en el siguiente enlace!
@@ -28,15 +28,15 @@ Tienes [Nuevo Apple iPhone 12  256 GB  - de en Verde](https://www.amazon.es/dp
 
 ℹ️:
 
-- 0.0
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Resistencia al agua IP68, líder en el sector
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
 - Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 - Pantalla Super Retina XDR de 6,1 pulgadas
+- 0.0
+- Resistencia al agua IP68, líder en el sector
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
 - Ceramic Shield, más resistente que cualquier vidrio de smartphone
 - A14 Bionic, el chip más veloz en un smartphone
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08L5PKXQP/?tag=tolees-21)
