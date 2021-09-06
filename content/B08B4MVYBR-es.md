@@ -28,10 +28,10 @@ Tienes [UURig - VIJIM 81 Luz de Video LED Temperatura de Color Luz de Cámara Aj
 
 🔎:
 
-- Brillo: la luz de la cámara puede ajustar el rango de brillo de 0% a 100% girando la esfera, fácil de controlar. El brillo puede iluminar la distancia de 3 a 6 m. Luz de la cámara con 41 cuentas de luz blanca + 40 cuentas de luz cálida. CRI95+. Haz que tus imágenes se vean más naturales. Adecuado para iluminación de cámara para fotografía/videoconferencia.
 - Garantía de posventa: proporcionamos un servicio de garantía de calidad de un año. Si tienes alguna pregunta, no dudes en enviar un correo electrónico al servicio al cliente del vendedor.
-- Temperatura de color: luz de vídeo fácil de controlar luz blanca cálida/blanca cálida. 3200 K-5600 K puede ajustar la luz de vídeo para ajustar el brillo y la temperatura del color a través de los dos discos giratorios en la parte posterior, se adapta a diferentes escenas. Adopta el diseño de tablero de luz suave, la luz es suave y cómoda.
-- 3 zapatos fríos y amplia compatibilidad: 3 zapatos fríos para luces de vídeo se pueden conectar a micrófonos/luz de vídeo y otros accesorios fotográficos. La mini luz de vídeo tiene una interfaz de rosca de 1/4 en la parte inferior, que se puede conectar a la cámara/trípode.
 - Batería de 3000 mAh: luz de vídeo excelente duración de la batería, 150 minutos de tiempo de trabajo a pleno brillo, 480 minutos de tiempo de trabajo a bajo brillo. Fácil de transportar. Interfaz USB-C puede cargarlo.
+- 3 zapatos fríos y amplia compatibilidad: 3 zapatos fríos para luces de vídeo se pueden conectar a micrófonos/luz de vídeo y otros accesorios fotográficos. La mini luz de vídeo tiene una interfaz de rosca de 1/4 en la parte inferior, que se puede conectar a la cámara/trípode.
+- Temperatura de color: luz de vídeo fácil de controlar luz blanca cálida/blanca cálida. 3200 K-5600 K puede ajustar la luz de vídeo para ajustar el brillo y la temperatura del color a través de los dos discos giratorios en la parte posterior, se adapta a diferentes escenas. Adopta el diseño de tablero de luz suave, la luz es suave y cómoda.
+- Brillo: la luz de la cámara puede ajustar el rango de brillo de 0% a 100% girando la esfera, fácil de controlar. El brillo puede iluminar la distancia de 3 a 6 m. Luz de la cámara con 41 cuentas de luz blanca + 40 cuentas de luz cálida. CRI95+. Haz que tus imágenes se vean más naturales. Adecuado para iluminación de cámara para fotografía/videoconferencia.
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B08B4MVYBR/?tag=tolees-21)
