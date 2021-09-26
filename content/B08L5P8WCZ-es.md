@@ -28,9 +28,9 @@ En este momento está [Apple Cartera de Piel con MagSafe  para el iPhone  - Marr
 
 🔎:
 
-- Compatibilidad: iPhone 12 Pro Max, iPhone 12 Pro, iPhone 12, iPhone 12 mini
-- Esta cartera, fabricada en piel europea curtida y refinada con un proceso especial, incorpora unos imanes para que puedas ponerla y quitarla como si nada.
 - Y no te preocupes, porque está diseñada para no desmagnetizar las tarjetas de crédito.
+- Compatibilidad: iPhone 12 Pro Max, iPhone 12 Pro, iPhone 12, iPhone 12 mini
 - Incluso puedes acoplarla a una funda transparente o de silicona con MagSafe para crear un estilo único.
+- Esta cartera, fabricada en piel europea curtida y refinada con un proceso especial, incorpora unos imanes para que puedas ponerla y quitarla como si nada.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B08L5P8WCZ/?tag=tolees-21)
