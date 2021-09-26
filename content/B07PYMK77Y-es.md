@@ -28,15 +28,15 @@ Ahora mismo tienes [Apple AirPods con estuche de carga  2.ª generación ](https
 
 🔎:
 
-- Toca dos veces para reproducir o cambiar de canción
-- Cambio fácil de un dispositivo a otro
-- Configuración sencilla para todos tus dispositivos Apple
+- Sonido y voz de alta calidad
+- Se cargan rápidamente en el estuche
 - El estuche te da para varias cargas y más de 24 horas de uso
+- Conexión inalámbrica más rápida con tus dispositivos gracias al nuevo chip H1 de Apple
+- Toca dos veces para reproducir o cambiar de canción
+- Activación y conexión automáticas.
 - Acceso inmediato a Siri con solo decir «Oye Siri»
 - El estuche se puede cargar con un conector Lightning
-- Activación y conexión automáticas.
-- Conexión inalámbrica más rápida con tus dispositivos gracias al nuevo chip H1 de Apple
-- Se cargan rápidamente en el estuche
-- Sonido y voz de alta calidad
+- Cambio fácil de un dispositivo a otro
+- Configuración sencilla para todos tus dispositivos Apple
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B07PYMK77Y/?tag=tolees-21)
