@@ -28,10 +28,10 @@ Está [ivoler Funda Compatible con iPhone 13 Mini con Protección de La Cámara 
 
 ℹ️:
 
-- La funda diseño ultra delgado de color puro Sencillo para un excelente tacto y la impresión visual, y el cristal templado es muy fácil de instalar y quitar, se adapta perfectamente a su teléfono.
-- Hecho de ultra fino 0.3mm dureza 9H vidrio templado y Premium Funda TPU Compatible con iPhone 13 Mini 5.4 Pulgadas.
-- El diseño camera con cobertura total protege totalmente tu cámara contra arañazos. El borde elevado puede proteger su pantalla y la cámara del roce contra superficies planas. Carcasa esquinas tienen bolsas de aire, pueden reforzar la protección del teléfono cuando cae en el suelo, puede mitigar con eficacia daños en el teléfono.
-- Cover ofrece una excelente protección para su precioso teléfono inteligente, y el Cristal Templado proporciona una excelente protección contra alto impacto gotas, arañazos y golpes para la pantalla del teléfono preciosa.
 - Recortes precisos para todos los controles de puertos, sensores y cámaras. Todos los botones son de fácil acceso. Respaldo ultra transparente y resistente a los arañazos, resistencia a los rayos UV y antiamarillas.
+- Hecho de ultra fino 0.3mm dureza 9H vidrio templado y Premium Funda TPU Compatible con iPhone 13 Mini 5.4 Pulgadas.
+- Cover ofrece una excelente protección para su precioso teléfono inteligente, y el Cristal Templado proporciona una excelente protección contra alto impacto gotas, arañazos y golpes para la pantalla del teléfono preciosa.
+- El diseño camera con cobertura total protege totalmente tu cámara contra arañazos. El borde elevado puede proteger su pantalla y la cámara del roce contra superficies planas. Carcasa esquinas tienen bolsas de aire, pueden reforzar la protección del teléfono cuando cae en el suelo, puede mitigar con eficacia daños en el teléfono.
+- La funda diseño ultra delgado de color puro Sencillo para un excelente tacto y la impresión visual, y el cristal templado es muy fácil de instalar y quitar, se adapta perfectamente a su teléfono.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B096MLBMCJ/?tag=tolees-21)
