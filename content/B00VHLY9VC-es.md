@@ -28,8 +28,8 @@ Tienes [Belkin soporte universal de teléfono para coche  iPhone 12  12 Pro  1
 
 🔎:
 
-- Fácil de usar
 - Adecuado para su dispositivo
 - Buena calidad
+- Fácil de usar
 
 [🛒 Comprar!!!](https://www.amazon.es/dp/B00VHLY9VC/?tag=tolees-21)
