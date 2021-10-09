@@ -28,15 +28,15 @@ Tienes [Apple MacBook Pro  de 13 polegadas  Touch Bar  Processador Intel Core�
 
 ℹ️:
 
-- Espectacular pantalla Retina con tecnología True Tone
-- Wifi 802.11ac
-- Almacenamiento SSD ultrarrápido
 - Teclado Magic Keyboard retroiluminado
-- Hasta 10 horas de autonomía
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Cuatro puertos Thunderbolt 3 (USB-C)
 - Trackpad Force Touch
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Espectacular pantalla Retina con tecnología True Tone
+- Hasta 10 horas de autonomía
+- Wifi 802.11ac
 - Intel Iris Plus Graphics
 - Touch Bar y Touch ID
+- Cuatro puertos Thunderbolt 3 (USB-C)
+- Almacenamiento SSD ultrarrápido
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B08T1QGZ95/?tag=tolees-21)
