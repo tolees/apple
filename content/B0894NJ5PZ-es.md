@@ -28,10 +28,10 @@ Tienes [SanDisk iXpand Go - Memoria Flash USB de 64 GB para tu iPhone y iPad](ht
 
 ℹ️:
 
+- Realiza copias de seguridad automáticas de tus fotografías y vídeos
+- Incluye un adaptador de USB-A a USB-C
 - Protege tus archivos con contraseña en dispositivos iPhone, ordenadores personales y ordenadores Mac
 - Mueve el contenido rápidamente de tu iXpand Go a tu ordenador usando el conector USB 3.0 de alta velocidad
 - Libera espacio fácilmente en tu iPhone
-- Incluye un adaptador de USB-A a USB-C
-- Realiza copias de seguridad automáticas de tus fotografías y vídeos
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B0894NJ5PZ/?tag=tolees-21)
