@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Estabilizador de Movil  Qimic Gimbal Mov al 15.00 % de descuento'
-date: 2021-10-25 10:40:05
+date: 2021-10-27 15:48:01
 image: 'https://m.media-amazon.com/images/I/411j1jrw64S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Qimic'
 buyurl: 'https://www.amazon.es/dp/B098F2YSD1/?tag=tolees-21'
 descuento: '15.00'
-average: '47.49'
+average: '46.24'
 ---
 
 Está [Estabilizador de Movil  Qimic Gimbal Movil Palo para Selfies con Control Remoto Bluetooth  Soporte de Trípode para Teléfono con Cardán de Equilibrio Automático Rápido Compatible con Android y iPhone](https://www.amazon.es/dp/B098F2YSD1/?tag=tolees-21) con 15.00 de descuento por 42.49 EUR (original: 49.99 EUR) en el siguiente enlace!
