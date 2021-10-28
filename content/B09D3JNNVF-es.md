@@ -28,10 +28,10 @@ En este momento está [Energycell - Batería Externa 10000mAh  3 USB Salida  5V 
 
 🔎:
 
-- Batería Externa de 10000mAh de Capacidad Ultra, ligero que cabe facilmente en cualquier bolsillo o bolso.
-- La cáscara del ABS+PC para proteger del polvo y los arañazos.
-- Los LEDs indicador muestra la energía de la batería. Además, Pulse el botón de encendido durante 3 segundos, se puede usar el power bank como una linterna, Apto para uso de emergencia.
-- La baterías de polímero de litio de alta calidad, una serie de pruebas de seguridad pasaron, las protecciones de seguridad inteligentes múltiples incorporadas.
 - Alta capacidad 10000mAh con 3 salida USB para cargar al menos dos dispositivos al mismo tiempo.
+- La cáscara del ABS+PC para proteger del polvo y los arañazos.
+- Batería Externa de 10000mAh de Capacidad Ultra, ligero que cabe facilmente en cualquier bolsillo o bolso.
+- La baterías de polímero de litio de alta calidad, una serie de pruebas de seguridad pasaron, las protecciones de seguridad inteligentes múltiples incorporadas.
+- Los LEDs indicador muestra la energía de la batería. Además, Pulse el botón de encendido durante 3 segundos, se puede usar el power bank como una linterna, Apto para uso de emergencia.
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B09D3JNNVF/?tag=tolees-21)
