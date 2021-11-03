@@ -28,15 +28,15 @@ En este momento está [2020 Apple iPad Pro  de 11 Pulgadas  con Wi-Fi + Cellula
 
 🔎:
 
-- Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
-- Cámara frontal TrueDepth de 7 Mpx
-- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
 - Pantalla Liquid Retina de 11 pulgadas de borde a borde con ProMotion, True Tone y gama cromática amplia (P3)
-- Redes wifi 802.11ax y 4G LTE Advanced
-- Cuatro altavoces y cinco micrófonos con calidad de estudio
-- Hasta 10 horas de autonomía
-- Face ID para autenticarse de forma segura y usar Apple Pay
+- Gran angular de 12 Mpx, ultra gran angular de 10 Mpx y escáner LiDAR
 - Chip A12Z Bionic con Neural Engine
 - Conector USB-C para cargar el iPad y conectar accesorios
+- Compatibilidad con el Magic Keyboard, el Smart Keyboard Folio y el Apple Pencil
+- Hasta 10 horas de autonomía
+- Redes wifi 802.11ax y 4G LTE Advanced
+- Cuatro altavoces y cinco micrófonos con calidad de estudio
+- Face ID para autenticarse de forma segura y usar Apple Pay
+- Cámara frontal TrueDepth de 7 Mpx
 
 [🛒 Aquí!!!](https://www.amazon.es/dp/B0863LNTZS/?tag=tolees-21)
