@@ -28,8 +28,8 @@ Tienes [Apple iPhone 7 128GB - Oro Rosa - Desbloqueado  Reacondicionado ](https:
 
 ℹ️:
 
-- Touch ID. Usa Touch ID para pagar en tiendas, apps y páginas web con tu iPhone
-- Pantalla panorámica LCD Multi-Touch de 4,7 pulgadas (en diagonal) con tecnología IPS
 - Cámara de 12 Mpx con estabilización óptica de imagen y vídeo 4K y Cámara FaceTime HD de 7 Mpx con Retina Flash
+- Pantalla panorámica LCD Multi-Touch de 4,7 pulgadas (en diagonal) con tecnología IPS
+- Touch ID. Usa Touch ID para pagar en tiendas, apps y páginas web con tu iPhone
 
 [🛒 Accede a la oferta!!](https://www.amazon.es/dp/B01N25YGCE/?tag=tolees-21)
