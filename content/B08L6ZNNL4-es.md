@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 11  128 GB  - de en Verde al 18.94 % de rebaja'
-date: 2021-11-14 09:33:49
+date: 2021-11-15 11:43:10
 image: 'https://m.media-amazon.com/images/I/41R0o8pGJjL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L6ZNNL4/?tag=tolees-21'
 descuento: '18.94'
-average: '707.260384615386'
+average: '705.890000000001'
 ---
 
 Tienes [Apple iPhone 11  128 GB  - de en Verde](https://www.amazon.es/dp/B08L6ZNNL4/?tag=tolees-21) con precio final de  599.0 EUR (original: 739.0 EUR) (18.94 %  de rebaja) aqui!
@@ -28,14 +28,14 @@ Tienes [Apple iPhone 11  128 GB  - de en Verde](https://www.amazon.es/dp/B08L6
 
 🔎:
 
+- Carga inalámbrica
+- Admite la carga rápida
+- Chip A13 Bionic con Neural Engine de 3.ª generación
+- Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
+- Resistencia al agua y al polvo (2 metros hasta 30 minutos, IP68)
+- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
 - Face ID para autenticarse deforma segura yusar ApplePay
 - Sistema de cámara dual de 12 Mpx con gran angular y ultra gran angular; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
-- Chip A13 Bionic con Neural Engine de 3.ª generación
-- iOS, con nuevos widgets de pantalla de inicio, nueva biblioteca de aplicaciones, aplicación de clips y más
-- Carga inalámbrica
-- Resistencia al agua y al polvo (2 metros hasta 30 minutos, IP68)
-- Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
-- Admite la carga rápida
 - Como parte de nuestros esfuerzos por alcanzar nuestros objetivos medioambientales, el iPhone 11 ya no incluye un adaptador de corriente ni EarPods. Utilice su adaptador de corriente y auriculares Apple existentes o compre estos accesorios por separado
 - Pantalla LCD Liquid Retina HD de 6,1 pulgadas
 
