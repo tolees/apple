@@ -28,15 +28,15 @@ Ahora mismo tienes [Nuevo Apple iPhone 12  256 GB  -  Product  Red](https://www
 
 🔎:
 
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- 0.0
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 - Pantalla Super Retina XDR de 6,1 pulgadas
-- Resistencia al agua IP68, líder en el sector
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- 0.0
+- Resistencia al agua IP68, líder en el sector
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
 - A14 Bionic, el chip más veloz en un smartphone
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 
 [🛒 Visítala!!!](https://www.amazon.es/dp/B08L5RD2K7/?tag=tolees-21)
