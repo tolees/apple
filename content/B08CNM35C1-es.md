@@ -28,10 +28,10 @@ Está [Lector para cobros con tarjeta con wifi y 3G de SumUp: Acepte tarjetas co
 
 ℹ️:
 
-- UN DISPOSITIVO, MÚLTIPLES FUNCIONES - Consulte su historial de ventas, reembolse a sus clientes, lleve un registro de las propinas y use varias cuentas para empleados directamente desde su lector de tarjetas.
-- CONECTIVIDAD - Conéctese utilizando la tarjeta SIM integrada gratuita con datos 3G ilimitados o mediante wifi.
-- REGISTRO RÁPIDO - Dese de alta en minutos. 100 % online. Sin papeleo.
 - FLEXIBLE - Deje que sus clientes decidan cómo pagar: contactless, tarjetas de chip y PIN , Google Pay o Apple Pay.
+- REGISTRO RÁPIDO - Dese de alta en minutos. 100 % online. Sin papeleo.
+- CONECTIVIDAD - Conéctese utilizando la tarjeta SIM integrada gratuita con datos 3G ilimitados o mediante wifi.
+- UN DISPOSITIVO, MÚLTIPLES FUNCIONES - Consulte su historial de ventas, reembolse a sus clientes, lleve un registro de las propinas y use varias cuentas para empleados directamente desde su lector de tarjetas.
 - ACEPTE PAGOS - Cobre en su local o allá donde vaya con un solo dispositivo independiente.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B08CNM35C1/?tag=tolees-21)
