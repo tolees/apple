@@ -28,10 +28,10 @@ Está [SumUp Solo - Terminal de Tarjeta Móvil con Pantalla Táctil - Acepta tar
 
 ℹ️:
 
-- SIEMPRE EN DESARROLLO. Seguiremos optimizando y añadiendo funciones a Solo mediante actualizaciones de software automáticas.
 - DE BOLSILLO. Hemos adquirido 9 años de experiencia en pagos en un dispositivo verdaderamente portátil. Mantén el control de tu negocio, vayas donde vayas.
+- DURACIÓN EN MAYÚSCULAS. La estación de carga incluida permite mantener el dispositivo Solo siempre cargado, mientras desde el mostrador muestras a tus clientes que aceptas pagos con tarjeta.
 - INTERFAZ DE USUARIO INTELIGENTE. Pantalla táctil intuitiva que garantiza una experiencia de pago sencilla para ti y para tu cliente.
 - BIEN CONECTADO. Conexión wifi potente y fiable. Tarjeta SIM y datos móviles gratuitos para que puedas procesar pagos en cualquier parte.
-- DURACIÓN EN MAYÚSCULAS. La estación de carga incluida permite mantener el dispositivo Solo siempre cargado, mientras desde el mostrador muestras a tus clientes que aceptas pagos con tarjeta.
+- SIEMPRE EN DESARROLLO. Seguiremos optimizando y añadiendo funciones a Solo mediante actualizaciones de software automáticas.
 
 [🛒 Ver la oferta!!](https://www.amazon.es/dp/B09HR1P1QF/?tag=tolees-21)
