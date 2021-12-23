@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- 【Seguro y fiable】Este cargador con certificado UL tiene precauciones de seguridad integradas para evitar que el dispositivo se vea afectado por la corriente excesiva, el sobrecalentamiento y la sobrecarga.
-- Contenido del paquete: cargador de pared SIMPFUN PD, manual de instrucciones (idioma español no garantizado).
-- 【Amplia compatibilidad】Adecuado para la mayoría de los dispositivos USB-C, incluyendo iPhone 12/12 Pro/12 Mini, Google Pixel 4/3 XL, LG V50, AirPods Pro, Switch, 11 "/ 12,9" Pad Pro y Pad Air (la tercera generación), Pad Mini (5ª generación), Xiaomi, Huawei, Samsung y otros dispositivos Android.
 - Diseño ligero y entrada estable: el cargador rápido antideslizante pesa solo 52,2 gramos, 7,7 x 4 x 2,7 cm, por lo que es más ligero que el iPhone 12. El compañero portátil perfecto para usar en casa, en la oficina y de vacaciones. Con un voltaje de 110 V ~ 220 V, se puede utilizar fácilmente en sofás, camas o lugares donde la fuente de alimentación está lejos de un coche.
 - Cargador rápido de 20 W: en comparación con otros cargadores dispone de 2 puertos de carga, USB-C PD y puertos de carga rápida USB-A. Tu iPhone 12 se carga rápidamente de 0 a 50% a 50% a través del puerto USB-C en 30 minutos, ahorrando tiempo de carga en una hora (en comparación con un cargador de 5 W). Puedes cargar otros dispositivos digitales a través del puerto USB A. (Si se cargan dos dispositivos al mismo tiempo, se detecta automáticamente el voltaje óptimo)
+- 【Amplia compatibilidad】Adecuado para la mayoría de los dispositivos USB-C, incluyendo iPhone 12/12 Pro/12 Mini, Google Pixel 4/3 XL, LG V50, AirPods Pro, Switch, 11 "/ 12,9" Pad Pro y Pad Air (la tercera generación), Pad Mini (5ª generación), Xiaomi, Huawei, Samsung y otros dispositivos Android.
+- 【Seguro y fiable】Este cargador con certificado UL tiene precauciones de seguridad integradas para evitar que el dispositivo se vea afectado por la corriente excesiva, el sobrecalentamiento y la sobrecarga.
+- Contenido del paquete: cargador de pared SIMPFUN PD, manual de instrucciones (idioma español no garantizado).
 
 [🛒 Aquí!!!]({{< param buyurl >}})
