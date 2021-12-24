@@ -29,10 +29,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Chip A13 Bionic con Neural Engine de 3.ª generación
-- Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
-- Sistema de triple cámara de 12 Mpx con gran angular, ultra gran angular y teleobjetivo; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
-- Resistencia al agua y al polvo (4 metros hasta 30 minutos, IP68)
 - Face ID para autenticarse deforma segura y usar ApplePay
+- Resistencia al agua y al polvo (4 metros hasta 30 minutos, IP68)
 - Pantalla OLED Super Retina XDR de 5.8 pulgadas
+- Sistema de triple cámara de 12 Mpx con gran angular, ultra gran angular y teleobjetivo; modo Noche, modo Retrato y vídeo 4K hasta 60 f/s
+- Cámara frontal TrueDepth de 12 Mpx con modo Retrato, vídeo 4K y grabación a cámara lenta
 
 [🛒 Comprar!!!]({{< param buyurl >}})
