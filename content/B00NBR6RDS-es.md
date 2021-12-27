@@ -30,7 +30,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados.
 - Diseño ligero para la máxima comodidad
-- Diafragmas tipo cúpula de 30 mm
 - Rango de frecuencia de 12 Hz a 22 kHz
+- Diafragmas tipo cúpula de 30 mm
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
