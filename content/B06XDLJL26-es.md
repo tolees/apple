@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mayor protección contra el agua y el sudor
 - Bajos más profundos y con más matices
+- Controla la reproducción de música y vídeo
 - Diseñados por Apple
 - Responde y cuelga llamadas
-- Controla la reproducción de música y vídeo
+- Mayor protección contra el agua y el sudor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
