@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Funda de Silicona con MagSafe  para el iPhone 13  - en Medianoche'
-date: 2021-12-27 15:16:25
+date: 2022-01-01 17:39:47
 image: 'https://m.media-amazon.com/images/I/21yB35agtsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
