@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SIMPFUN Cargador inalámbrico 4 en 1 Base de Carga Rápida para iPhone iWatch Airpods Soporte de Carga Viene con 3 USB 7.5W para iPhone 11/Pro MAX/XS/XR/X/8/Samsung S9/S8 Sin Cable de Carga iWatch '
-date: 2021-12-31 11:08:24
+date: 2022-01-05 17:43:15
 image: 'https://m.media-amazon.com/images/I/415rtf4KbML._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,14 +12,14 @@ tags: [ 'Accesorios para móviles','Cargadores de móvil por inducción','Cargad
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99
-comparePrice: 20.99 EUR
+comparePrice: 15.99 EUR
 prodname: 'SIMPFUN Cargador inalámbrico 4 en 1 Base de Carga Rápida para iPhone iWatch Airpods Soporte de Carga Viene con 3 USB 7.5W para iPhone 11/Pro MAX/XS/XR/X/8/Samsung S9/S8 Sin Cable de Carga iWatch '
 country: 'es'
 flag: '🇪🇸'
 brand: 'SIMPFUN'
 buyurl: 'https://www.amazon.es/dp/B089LHT8TP/?tag=tolees-21'
-descuento: '38.11'
-average: '16.3233333333333'
+descuento: '18.76'
+average: '15.49'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
