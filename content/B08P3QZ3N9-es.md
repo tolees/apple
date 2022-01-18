@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FABRICACIÓN SOSTENIBLE
-- PROTECCIÓN CONTRA CAÍDAS
 - DISEÑO ESTILIZADO
 - A PRUEBA DE AGUA
 - EMBALAJE RECICLABLE
+- FABRICACIÓN SOSTENIBLE
+- PROTECCIÓN CONTRA CAÍDAS
 
 [🛒 Comprar!!!]({{< param buyurl >}})

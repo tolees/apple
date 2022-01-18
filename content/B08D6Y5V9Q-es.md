@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ultrafina
 - Fabricación sostenible
-- Protección contra caídas
-- embalaje reciclable
 - Contribuimos a proteger los océanos
+- embalaje reciclable
+- Ultrafina
+- Protección contra caídas
 
 [🛒 Comprar!!!]({{< param buyurl >}})

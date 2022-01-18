@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ULTRAFINA, PERFECTA PARA LLEVAR EN EL BOLSILLO
-- Funda rígida con agarre suave
 - PROTECCIÓN CONTRA CAÍDAS
 - MANTIENE LA PANTALLA PROTEGIDA
+- ULTRAFINA, PERFECTA PARA LLEVAR EN EL BOLSILLO
+- Funda rígida con agarre suave
 - COMPATIBLE CON CARGA INALÁMBRICA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

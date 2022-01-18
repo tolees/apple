@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- MANTIENE LA PANTALLA PROTEGIDA
-- DISEÑADA PARA PROTEGER
-- ULTRAFINA
-- DE MODA
 - COMPATIBLE CON VALUE GLASS, PERFORMANCE GLASS Y PERFORMANCE PLUS GLASS
+- ULTRAFINA
+- DISEÑADA PARA PROTEGER
+- DE MODA
+- MANTIENE LA PANTALLA PROTEGIDA
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

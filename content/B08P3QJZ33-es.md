@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- TAPAS PROTECTORAS PARA LOS PUERTOS
 - FABRICACIÓN SOSTENIBLE
 - PROTECCIÓN CONTRA CAÍDAS
-- TAPAS PROTECTORAS PARA LOS PUERTOS
-- HECHA PARA MAGSAFE
 - MANTIENE LA PANTALLA PROTEGIDA
+- HECHA PARA MAGSAFE
 
 [🛒 Aquí!!!]({{< param buyurl >}})
