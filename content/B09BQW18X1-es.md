@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - [➤Seguro y de alta calidad] – El tipo c cargador incorpora nuestro chip inteligente para proporcionar una mayor seguridad. Esto puede evitar en gran medida el sobrecalentamiento, la sobrecarga o la sobrecarga del cargador y permite una carga más eficiente.
 - [➤Diseño pequeño y compacto] – Este cargador de pared, ligero y liviano, resulta muy cómodo de usar. Su diseño compacto lo hace ideal para llevarlo en la maleta durante un viaje. Diseño compacto y liviano, fácil de guardar en su bolsillo / bolso y llevarlo a cualquier parte.
-- [➤Tecnología GaN] – Los componentes elaborados con GaN (nitruro de galio) desperdician menos energía y generan menos calor que los elaborados con silicio. Esto favorece una carga más eficiente y permite que el cargador de pared Syncwire sea pequeño, pero potente.
 - [➤Compatibilidad Amplia] – El cargador Syncwire PPS 30W PD 3.0 Tipo C permite cargar dispositivos a la máxima velocidad, como 13 12 11 Pro Max/X/MacBook Air/iPad Pro/Mini/Air, Google Pixel 6, Samsung Galaxy/Note, Huawei, LG, Sony, Xiaomi/Redmi etc.
 - [➤Carga a alta velocidad] – El protocolo USB-C Power Delivery 3.0 de 30W permite cargar a alta velocidad dispositivos compatibles como iPad Pro, MacBook Air, Samsung Galaxy 10 y más.
+- [➤Tecnología GaN] – Los componentes elaborados con GaN (nitruro de galio) desperdician menos energía y generan menos calor que los elaborados con silicio. Esto favorece una carga más eficiente y permite que el cargador de pared Syncwire sea pequeño, pero potente.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
