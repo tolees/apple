@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Sistema de refrigeración avanzado para mantener un rendimiento bestial
+- Neural Engine de 16 núcleos para un aprendizaje automático avanzado
+- Wifi de sexta generación para una conexión ultraveloz
 - GPU de ocho núcleos con gráficos hasta seis veces más veloces para acelerar los juegos y apps más exigentes
 - Almacenamiento SSD megarrápido para abrir apps y archivos al instante
+- Sistema de refrigeración avanzado para mantener un rendimiento bestial
 - Chip M1 diseñado por Apple para llevar el rendimiento de la CPU, la GPU y el aprendizaje automático a nuevas cimas
-- Neural Engine de 16 núcleos para un aprendizaje automático avanzado
-- Dos puertos Thunderbolt/USB 4, un puerto HDMI 2.0, dos puertos USB-A y Gigabit Ethernet
-- CPU de ocho núcleos con un rendimiento hasta tres veces superior para hacer en un suspiro tareas complejas
 - Memoria unificada de 8 GB para que todo sea rápido y fluido
+- CPU de ocho núcleos con un rendimiento hasta tres veces superior para hacer en un suspiro tareas complejas
 - macOS con un nuevo diseño y grandes mejoras en Safari, Mensajes y Mapas
-- Wifi de sexta generación para una conexión ultraveloz
+- Dos puertos Thunderbolt/USB 4, un puerto HDMI 2.0, dos puertos USB-A y Gigabit Ethernet
 
 [🛒 Aquí!!!]({{< param buyurl >}})
