@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Bee Manos Libres Auricular Bluetooth Auricular inalámbrico Bluetooth Mano Libre con tecnología de Captura de Voz Clara Auricular Bluetooth para iPhone Samsung Huawei Sony  etc  Negro '
-date: 2022-02-06 10:17:56
+date: 2022-02-21 03:19:08
 image: 'https://m.media-amazon.com/images/I/4109Xu2EsYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'New Bee'
 buyurl: 'https://www.amazon.es/dp/B07BQQMZKB/?tag=tolees-21'
 descuento: '45.71'
-average: '21.6346428571427'
+average: '21.5624137931033'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
