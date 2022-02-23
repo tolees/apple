@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU Power Bank  Slimmest USB C Triple 3A de Alta Velocidad 10000mAh Bateria Externa  Bateria Portatil con Linterna para iPhone 13 12 11 X Pro MAX Samsung S21 S20 iPad Tablet Airpods etc [2022Versión]'
-date: 2022-02-22 01:30:27
+date: 2022-02-23 19:12:34
 image: 'https://m.media-amazon.com/images/I/310MozTuFfS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'INIU'
 buyurl: 'https://www.amazon.es/dp/B07PNL5STG/?tag=tolees-21'
 descuento: '23.37'
-average: '20.2285714285715'
+average: '20.0750000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
