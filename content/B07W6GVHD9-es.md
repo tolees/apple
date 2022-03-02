@@ -28,13 +28,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Combo Touch ha superado las pruebas de caída MIL-STD-810g y tiene una clasificación de protección contra caídas de hasta 1,2 metros
+- Haz más cosas estés donde estés, con cuatro modos de uso: escritura, lectura, dibujo y visualización
+- Escribe cómodamente y con precisión utilizando un teclado similar al de un portátil. Con una fila completa de accesos directos de iOS y teclas retroiluminadas bien espaciadas puedes optimizar tu productividad en cualquier sitio, de día o de noche
 - El flexible soporte abatible ofrece una inclinación de 40° para tener siempre el ángulo adecuado para cada tarea. Cuando no te haga falta escribir, desconecta el teclado y disfruta de la pantalla del iPad sin nada de por medio
 - No se incluyen pilas... porque no las necesitarás: el teclado se empareja instantáneamente y se alimenta con Smart Connector. La energía procede directamente del iPad, o sea que no tendrás que cargar el teclado
-- Haz más cosas estés donde estés, con cuatro modos de uso: escritura, lectura, dibujo y visualización
-- Compatible con modelos: A2200, A2198, A2197, A2428, A2429, A2430, A2270, A2604, A2602
 - Diseñada para que parezca una extensión natural del iPad. La funda ligera protege el dispositivo de rozaduras, arañazos y salpicaduras, con materiales premium suaves al tacto
-- Combo Touch ha superado las pruebas de caída MIL-STD-810g y tiene una clasificación de protección contra caídas de hasta 1,2 metros
 - Edita documentos, navega por aplicaciones y crea presentaciones con una precisión incomparable, mediante un trackpad de tipo habitual apto para gestos
-- Escribe cómodamente y con precisión utilizando un teclado similar al de un portátil. Con una fila completa de accesos directos de iOS y teclas retroiluminadas bien espaciadas puedes optimizar tu productividad en cualquier sitio, de día o de noche
+- Compatible con modelos: A2200, A2198, A2197, A2428, A2429, A2430, A2270, A2604, A2602
 
 [🛒 Comprar!!!]({{< param buyurl >}})
