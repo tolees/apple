@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La carcasa FRĒ soporta caídas desde 2 metros (MIL STD 810G-516.6)
 - Está fabricada con más del 60 % del plástico es reciclado (35 % de plástico oceánico reciclado y 25 % de plástico reciclado)
 - Delgada, ligera e increíblemente compacta a la par que muy resistente, FRĒ tiene un diseño elegante para complementar las líneas puras de tu dispositivo.
 - PROTECTOR DE PANTALLA INCORPORADO PARA UNA PROTECCIÓN 360 (El diseño y la funcionalidad de la carcasa no admiten una protector de pantalla adicional).
-- La carcasa FRĒ soporta caídas desde 2 metros (MIL STD 810G-516.6)
 - Que sea a prueba de agua (IP-68) permite sumergirlo a hasta 2 metros de profundidad y durante un máximo de una hora. Protección contra el agua salada y otros líquidos.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
