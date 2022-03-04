@@ -30,7 +30,7 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Resistencia al agua y al polvo ip67 (hasta 1.metro de profundidad durante un máximo de 30.minutos).
 - Doppia fotocamera da 12mp con doppia stabilizzazione ottica dellimmagine (ois) e fotocamera anteriore truedepth da 7mp; modalità ritratto e illuminazione ritratto.
-- Face id; usa face id para pagar en tiendas, apps y páginas web con tu iphone
 - Super retina display; pantalla oled multi‑touch de 5,8 pulgadas (en diagonal)
+- Face id; usa face id para pagar en tiendas, apps y páginas web con tu iphone
 
 [🛒 Aquí!!!]({{< param buyurl >}})
