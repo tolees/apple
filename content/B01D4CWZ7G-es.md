@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Perfecto para controlar los aparatos de stream
 - Contenido en caja: Mando a distancia universal SRP3014, garantía, guía de uso breve
-- Botones grandes
 - compatible con hasta 800 marcas diferentes
+- Botones grandes
 - Soporte URC en línea para encontrar los códigos de las diferentes marcas
 
 [🛒 Visítala!!!]({{< param buyurl >}})
