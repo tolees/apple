@@ -29,9 +29,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 🔎:
 
 - Acceso rápido a Siri con solo decir «Oye Siri»
-- Configuración sencilla con todos tus dispositivos Apple
-- Estuche de carga para disfrutar de más de 24 horas de autonomía
 - Ajuste universal para una gran comodidad todo el día
+- Estuche de carga para disfrutar de más de 24 horas de autonomía
+- Configuración sencilla con todos tus dispositivos Apple
 - Activación y conexión automáticas
 - Cambio fácil de un dispositivo a otro
 
