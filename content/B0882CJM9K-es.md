@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Batería recargable integrada: permite hasta 50 horas seguidas de juego
-- Compra un mando Nimbus+ y consigue hasta 4 meses gratis de Apple Arcade.
-- Joysticks clicables: los botones L3/R3 permiten más opciones en muchos juegos
 - Botones sensibles del D-Pad: la respuesta de las flechas se ha mejorado y agilizado
 - Disfruta de miles de juegos: compatible con millares de títulos de la App Store y Apple Arcade
 - Conectividad inalámbrica con licencia oficial de Apple: funciona con todos los productos de Apple, incluidos los dispositivos con iOS, iPadOS y tvOS
+- Batería recargable integrada: permite hasta 50 horas seguidas de juego
+- Compra un mando Nimbus+ y consigue hasta 4 meses gratis de Apple Arcade.
+- Joysticks clicables: los botones L3/R3 permiten más opciones en muchos juegos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
