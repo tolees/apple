@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Hasta 30 horas de reproducción de audio en total con el estuche de carga MagSafe
-- Configuración sencilla, detección de posición y cambio automático de dispositivo, como por arte de magia
-- Hasta 6 horas de reproducción de audio con una sola carga
 - Audio espacial con seguimiento dinámico de la cabeza que te mete de lleno en lo que escuchas
 - Nuevo diseño con ajuste anatómico
-- Acceso rápido a Siri con solo decir «Oye Siri»
-- Sensor de presión para controlar con facilidad la música, responder o colgar llamadas y mucho más
+- Hasta 6 horas de reproducción de audio con una sola carga
 - Audio compartido en el iPhone, iPad, iPod touch o Apple TV con dos pares de AirPods
+- Sensor de presión para controlar con facilidad la música, responder o colgar llamadas y mucho más
 - Ecualización adaptativa que ajusta automáticamente la música a tus oídos
+- Acceso rápido a Siri con solo decir «Oye Siri»
+- Hasta 30 horas de reproducción de audio en total con el estuche de carga MagSafe
 - Resistencia al agua y al sudor
+- Configuración sencilla, detección de posición y cambio automático de dispositivo, como por arte de magia
 
 [🛒 Comprar!!!]({{< param buyurl >}})
