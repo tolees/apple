@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2020 Apple MacBook Pro  de 13 Pulgadas  Chip i5 de Intel  16 GB RAM  512 GB Almacenamiento SSD  Magic Keyboard  Cuatro Puertos Thunderbolt 3  - Gris Espacial'
-date: 2022-03-14 18:08:16
+date: 2022-03-15 21:32:52
 image: 'https://m.media-amazon.com/images/I/41VdRquQ1JL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08834LSGQ/?tag=tolees-21'
 descuento: '30.06'
-average: '1700.01953846155'
+average: '1696.82227272728'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -30,13 +30,13 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Teclado Magic Keyboard retroiluminado
 - Hasta 10 horas de autonomía
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Almacenamiento SSD ultrarrápido
 - Espectacular pantalla Retina con tecnología True Tone
-- Touch Bar y Touch ID
 - Wifi 802.11ac
-- Intel Iris Plus Graphics
 - Trackpad Force Touch
+- Intel Iris Plus Graphics
 - Cuatro puertos Thunderbolt 3 (USB-C)
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Touch Bar y Touch ID
+- Almacenamiento SSD ultrarrápido
 
 [🛒 Comprar!!!]({{< param buyurl >}})
