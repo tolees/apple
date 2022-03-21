@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Fabricado con más del 50% de material reciclado
-- OtterBox Protección contra caídas: DROP+ | Tres veces más caídas que la norma militar (MIL-STD-810G 516.6)
-- Ligera, delgada y amigable con el bolsillo
 - Antimicrobiana
+- OtterBox Protección contra caídas: DROP+ | Tres veces más caídas que la norma militar (MIL-STD-810G 516.6)
+- Fabricado con más del 50% de material reciclado
+- Ligera, delgada y amigable con el bolsillo
 - El borde elevado y biselado ayuda a proteger su pantalla táctil
 
 [🛒 Visítala!!!]({{< param buyurl >}})
