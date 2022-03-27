@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Antimicrobiana
 - Fabricado con más del 50% de material reciclado
-- Ligera, delgada y amigable con el bolsillo
-- OtterBox Protección contra caídas: DROP+ | Tres veces más caídas que la norma militar (MIL-STD-810G 516.6)
+- Antimicrobiana
 - El borde elevado y biselado ayuda a proteger su pantalla táctil
+- OtterBox Protección contra caídas: DROP+ | Tres veces más caídas que la norma militar (MIL-STD-810G 516.6)
+- Ligera, delgada y amigable con el bolsillo
 
 [🛒 Aquí!!!]({{< param buyurl >}})
