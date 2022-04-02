@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Procesador Intel Core i5 de cuatro núcleos de décima generación
-- Teclado Magic Keyboard retroiluminado
-- Wifi 802.11ac
-- Almacenamiento SSD ultrarrápido
-- Intel Iris Plus Graphics
-- Hasta 10 horas de autonomía
-- Trackpad Force Touch
-- Touch Bar y Touch ID
 - Espectacular pantalla Retina con tecnología True Tone
+- Trackpad Force Touch
+- Almacenamiento SSD ultrarrápido
+- Wifi 802.11ac
+- Intel Iris Plus Graphics
 - Cuatro puertos Thunderbolt 3 (USB-C)
+- Teclado Magic Keyboard retroiluminado
+- Procesador Intel Core i5 de cuatro núcleos de décima generación
+- Touch Bar y Touch ID
+- Hasta 10 horas de autonomía
 
 [🛒 Comprar!!!]({{< param buyurl >}})
