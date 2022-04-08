@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Usa los horarios autónomos para caldear automáticamente habitaciones individuales o toda la casa según tu rutina: funcionan independientemente de tu iPhone y tu conexión a internet
-- Es fácil y rápido de configurar, así que podrás usarlo en unos momentos, y no necesita centralita ni pasarela
-- Controla tu calefacción desde cualquier sitio o en función de la presencia mediante una central de accesorios (Apple TV/HomePod)
 - Ajusta a la perfección tu nivel de confort: usa la app (iPhone, iPad, Mac), habla con Siri o contrólala directamente con los controles táctiles integrados
 - Automatiza tu calefacción con la detección de ventanas abiertas, el Modo de vacaciones, la protección de válvula y muchas más funciones
+- Es fácil y rápido de configurar, así que podrás usarlo en unos momentos, y no necesita centralita ni pasarela
+- Usa los horarios autónomos para caldear automáticamente habitaciones individuales o toda la casa según tu rutina: funcionan independientemente de tu iPhone y tu conexión a internet
+- Controla tu calefacción desde cualquier sitio o en función de la presencia mediante una central de accesorios (Apple TV/HomePod)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
