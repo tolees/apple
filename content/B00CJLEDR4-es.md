@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Cable Lightning compatible con iPhone 11, 11 Pro, 11 Pro Max, XS, XS Max, XR, X, 8/8 Plus y modelos anteriores de iPhone/iPad/AirPods/iPod con conector Lightning
 - Compacto y duradero
 - Cable de Lightning a USB-A con certificación MFi de Apple para cargar y sincronizar tus dispositivos de Apple
-- Cable Lightning compatible con iPhone 11, 11 Pro, 11 Pro Max, XS, XS Max, XR, X, 8/8 Plus y modelos anteriores de iPhone/iPad/AirPods/iPod con conector Lightning
 
 [🛒 Comprar!!!]({{< param buyurl >}})
