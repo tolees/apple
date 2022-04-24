@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Mide tu oxígeno en sangre con una app y un sensor nuevos.
-- El modelo GPS + Cellular te permite llamar, enviar mensajes y recibir indicaciones sin llevar el teléfono encima.
 - El Apple Watch Series 6 se adelanta a su tiempo con una app y un sensor revolucionarios que miden tu oxígeno en sangre. Puedes hacerte un electro desde la muñeca y tener a mano tus datos de actividad gracias a la pantalla Retina siempre activa. Ahora la esfera se ve 2,5 veces más brillante en exteriores cuando tienes la muñeca en reposo. Este reloj te ayuda también a controlar tu descanso y crear una rutina para irte a dormir. Y gracias a la conexión móvil, no te hace falta llevar el teléfono encima. El Series 6 es el mejor dispositivo para llevar una vida sana, activa y conectada con todo lo que te importa.
+- Mide tu oxígeno en sangre con una app y un sensor nuevos.
 - La pantalla Retina siempre activa brilla 2,5 veces más en exteriores cuando tienes la muñeca en reposo.
 - Controla tu ritmo cardiaco con la app ECG.
+- El modelo GPS + Cellular te permite llamar, enviar mensajes y recibir indicaciones sin llevar el teléfono encima.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
