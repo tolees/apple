@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- [Paquete] Dimensiones externas: 34,5 x 25,5 x 3,5 cm, Dimensiones internas: 33 x 23 x 3 cm, tarjeta de servicio al cliente
 - [Alta capacidad] Un bolsillo frontal adicional puede contener las cosas como bolígrafos, móviles, cables, cargadores, batería externa, etc
 - [Compatibilidad] Diseñado Compatible los ordenadores portátiles/tabletas hasta 13,3 pulgadas, incluyendo 13" MacBook Pro tarde 2012-2015 y MacBook Air, 12,3" Surface Pro 3/4/5/6, Surface Laptop 2017/2018, 13" MacBook Pro 2016/2017/2018/2019/2020 (A1706/A1708/A1989/A2159), 13" MacBook Air 2018/2019/2020(A1932/A2179)
-- [Protección de 3 capas] Tela externa impermeable Microfibra y esponja a prueba de golpes, El interior de la funda duradera cuenta con almohadillas de espuma Compatible proteger su tablet / ordenador portátil contra polvos, arañazos, caídas y golpes
-- [Paquete] Dimensiones externas: 34,5 x 25,5 x 3,5 cm, Dimensiones internas: 33 x 23 x 3 cm, tarjeta de servicio al cliente
 - [Portátil] Delgado, liviano y fácil de llevar por todas partes o meter en un maletín, mochila o maletaTela externa impermeable Microfibra y El interior de la funda duradera cuenta con almohadillas de espuma Compatible proteger su tablet / ordenador portátil contra polvos, arañazos, caídas y golpes,El diseño del asa lo hace conveniente para llevar
+- [Protección de 3 capas] Tela externa impermeable Microfibra y esponja a prueba de golpes, El interior de la funda duradera cuenta con almohadillas de espuma Compatible proteger su tablet / ordenador portátil contra polvos, arañazos, caídas y golpes
 
 [🛒 Visítala!!!]({{< param buyurl >}})
