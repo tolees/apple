@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - AC adapter included
+- Supports up to 7.5 W charging
 - Charges through most lightweight cases
 - Non-slip surface helps secure iPhone X, iPhone 8 Plus, and iPhone 8
-- Supports up to 7.5 W charging
 - Qi compatible. Heat-efficient, fan-free design
 
 [🛒 Comprar!!!]({{< param buyurl >}})
