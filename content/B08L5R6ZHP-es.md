@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Apple Cargador MagSafe'
-date: 2022-05-11 21:46:02
+date: 2022-05-22 08:11:04
 image: 'https://m.media-amazon.com/images/I/316svQtzFqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08L5R6ZHP-es Apple Cargador MagSafe'
 sku: 'B08L5R6ZHP-es'
-tags: [ 'Accesorios para móviles','Cargadores para móviles','Comunicación móvil y accesorios','Electrónica','apple','🇪🇸', ]
+tags: [ 'Accesorios para móviles','Cargadores de móvil por inducción','Cargadores para móviles','Comunicación móvil y accesorios','Electrónica','apple','🇪🇸', ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B08L5R6ZHP/?tag=tolees-21'
 descuento: '17.78'
-average: '41.2009322033898'
+average: '41.1656302521008'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Tierras raras 100 % recicladas en los imanes
-- Carga inalámbrica más rápida con ajuste magnético
 - Compatibilidad con el iPhone 12 mini, iPhone 12, iPhone 12 Pro y iPhone 12 Pro Max
+- Carga inalámbrica más rápida con ajuste magnético
+- Tierras raras 100 % recicladas en los imanes
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
