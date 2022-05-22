@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Resistencia al agua y el polvo ip68 (hasta 2.metros de profundidad durante un máximo de 30.minutos).
-- Super retina display; pantalla OLED multi‑touch de 6,5 pulgadas (en diagonal)
 - Face id; usa face id para pagar en tiendas, apps y páginas web con tu iphone
 - Cámara dual de 12.mpx con doble estabilización óptica de imagen y cámara frontal truedepth de 7.mpx: modo retrato, iluminación de retratos, control de profundidad y hdr inteligente.
+- Resistencia al agua y el polvo ip68 (hasta 2.metros de profundidad durante un máximo de 30.minutos).
+- Super retina display; pantalla OLED multi‑touch de 6,5 pulgadas (en diagonal)
 
 [🛒 Visítala!!!]({{< param buyurl >}})
