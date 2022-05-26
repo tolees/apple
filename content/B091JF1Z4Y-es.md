@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- FUNCIONA CON APPLE HOMEKIT – el Satechi Outlet Dual Inteligente está certificado de funcionar con la tecnología del Apple HomeKit para activar a Siri, crea escenas y programa aparatos que se adapten a su estilo de vida moderno
-- COMO FUNCIONA – simplemente use la aplicación Home de Apple o descarga la aplicación Home de Satechi, conecte su red inalámbrica de 2.4Ghz existente y configure sus aparatos para un acceso seguro y sin problemas a sus electrodomésticos
-- MONITOREO DE USO DE ENERGIA – fomenta el uso eficiente de energía con monitoreo de energía en tiempo real desde su dispositivo iOS conectado, para ayudar a reducir el exceso de consumo de energía y programar los dispositivos y programar aparatos para apagarlos cuando sea necesario
-- ACTIVA EL CONTROL DE VOZ SIRI – use la aplicación HOME para crear escenas personalizadas – como “Hola Siri, buenos días” o “Hola Siri, buenas noches” – y llama a Siri para activar una serie preestablecida de luces de la casa. El HomePod, Apple TV o un iPad son requeridos para acceso remoto o crear acciones automatizadas
 - DOBLE SALIDA DE ENERGIA – su diseño compacto 2-en-1 expande su salida de energía para conectar hasta dos aparatos a la vez, sin bloquear su salida vecina. Voltaje de entrada 120V, salida máxima de CA: 15A 1800W
+- COMO FUNCIONA – simplemente use la aplicación Home de Apple o descarga la aplicación Home de Satechi, conecte su red inalámbrica de 2.4Ghz existente y configure sus aparatos para un acceso seguro y sin problemas a sus electrodomésticos
+- FUNCIONA CON APPLE HOMEKIT – el Satechi Outlet Dual Inteligente está certificado de funcionar con la tecnología del Apple HomeKit para activar a Siri, crea escenas y programa aparatos que se adapten a su estilo de vida moderno
+- ACTIVA EL CONTROL DE VOZ SIRI – use la aplicación HOME para crear escenas personalizadas – como “Hola Siri, buenos días” o “Hola Siri, buenas noches” – y llama a Siri para activar una serie preestablecida de luces de la casa. El HomePod, Apple TV o un iPad son requeridos para acceso remoto o crear acciones automatizadas
+- MONITOREO DE USO DE ENERGIA – fomenta el uso eficiente de energía con monitoreo de energía en tiempo real desde su dispositivo iOS conectado, para ayudar a reducir el exceso de consumo de energía y programar los dispositivos y programar aparatos para apagarlos cuando sea necesario
 
 [🛒 Comprar!!!]({{< param buyurl >}})
