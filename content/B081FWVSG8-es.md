@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño reversible
 - Este cable usb 2.0 conecta tu iphone, ipad o ipod con conector lightning al puerto usb del ordenador para sincronizarlo o cargarlo
 - Al adaptador de corriente usb de apple para cargarlo con comodidad en una toma de pared
+- Diseño reversible
 
 [🛒 Aquí!!!]({{< param buyurl >}})
