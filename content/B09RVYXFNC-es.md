@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Ayuda a reducir la electricidad estática
-- Reduce el consumo de plásticos con este formato rellenable de suavizante líquido de 5L.
-- ECOVER Suavizante para Ropa gracias elaborado con aceite de colza de origen europeo y sin aceite de palma suaviza y ayuda a cuidar la ropa. Desde 1989, hemos apostado por la nececidad de reutilizar en toda Europa para reducir los residuos de plástico. El plástico es el último producto que deberíamos tirar. Desde formatos para casa de 5 litros a instaurar puestos de rellenado, es el momento de reutilizar y unirse a la “ERA LA SOSTENIBILIDAD”.
 - Fabricado en una fábrica certificada de cero residuos. Botella fabricada con plástico 100% PCR y tapón con plástico PCR al 50%
-- Consejos de utilización: Conservar entre 5 °C y 25 °C. No apto para seda. No usar en textiles ignífugos. No vertir directamente sobre la tela. 1 tapón = 40 ml Carga estándar (4-5 kg) Suave = 30 ml. Extra suave = 60 ml (2 x 30 ml)
-- No testado en animales
 - Fragancia Apple Blossom & Almond
+- Reduce el consumo de plásticos con este formato rellenable de suavizante líquido de 5L.
 - Testado dermatológicamente para pieles sensibles
-- Elaborado con ingredientes biodegradables a base de plantas
+- Ayuda a reducir la electricidad estática
 - Apto para veganos
+- Consejos de utilización: Conservar entre 5 °C y 25 °C. No apto para seda. No usar en textiles ignífugos. No vertir directamente sobre la tela. 1 tapón = 40 ml Carga estándar (4-5 kg) Suave = 30 ml. Extra suave = 60 ml (2 x 30 ml)
+- ECOVER Suavizante para Ropa gracias elaborado con aceite de colza de origen europeo y sin aceite de palma suaviza y ayuda a cuidar la ropa. Desde 1989, hemos apostado por la nececidad de reutilizar en toda Europa para reducir los residuos de plástico. El plástico es el último producto que deberíamos tirar. Desde formatos para casa de 5 litros a instaurar puestos de rellenado, es el momento de reutilizar y unirse a la “ERA LA SOSTENIBILIDAD”.
+- Elaborado con ingredientes biodegradables a base de plantas
+- No testado en animales
 
 [🛒 Comprar!!!]({{< param buyurl >}})
