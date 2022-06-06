@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Cámara trasera de 12 Mpx y cámara frontal FaceTimeHD de 7 Mpx
-- Conector USB-C para cargar el iPad y conectar accesorios
-- Sonido estéreo amplio
-- Hasta 10 horas de autonomía
-- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
-- Touch ID para autenticarse deforma segura y usar Apple Pay
 - Compatibilidad con el MagicKeyboard, el SmartKeyboard Folio y el Apple Pencil (2.ªgeneración)
+- Sonido estéreo amplio
+- Touch ID para autenticarse deforma segura y usar Apple Pay
 - Redes wifi 802.11ax (6.ªgeneración) y 4G LTE Advanced
 - Disponible en plata, gris espacial, oro rosa, verde y azul cielo
+- Hasta 10 horas de autonomía
+- Cámara trasera de 12 Mpx y cámara frontal FaceTimeHD de 7 Mpx
+- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone y gama cromática amplia (P3)
 - Chip A14 Bionic con Neural Engine
+- Conector USB-C para cargar el iPad y conectar accesorios
 
 [🛒 Visítala!!!]({{< param buyurl >}})
