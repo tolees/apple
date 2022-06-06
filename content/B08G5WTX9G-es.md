@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Protege de forma fiable contra golpes, caídas, arañazos y suciedad - probado según el estándar militar mil-std-810g 516.6 donde la funda con el smartphone debe sobrevivir a varias caídas sin sufrir daños
 - Tamaño de pantalla: 6.7 inches
+- Incluido en la entrega: urban armor gear (uag) metropolis lt funda para el nuevo Apple iPhone 12 pro max (6.7") en el color satin armr negro
+- La cubierta de uag "metropolis lt" fue desarrollada exactamente para las dimensiones del nuevo Apple iPhone 12 pro max (6.7") y consiste en materiales especialmente de alta calidad, que combinan la funcionalidad y la protección en perfecta armonía
 - Excelente caja, hecha de un compuesto de un marco flexible y amortiguador y una espalda suave - la pantalla de su teléfono está protegida por un borde de pantalla ligeramente saliente cuando el teléfono se coloca en la parte delantera
 - Recortes para la cámara y todos los puertos, tapas de botones ampliadas para facilitar el acceso, y totalmente compatibles con la carga inalámbrica (qi) los cargadores magsafe y el pago inalámbrico Apple pay (nfc)
-- La cubierta de uag "metropolis lt" fue desarrollada exactamente para las dimensiones del nuevo Apple iPhone 12 pro max (6.7") y consiste en materiales especialmente de alta calidad, que combinan la funcionalidad y la protección en perfecta armonía
-- Incluido en la entrega: urban armor gear (uag) metropolis lt funda para el nuevo Apple iPhone 12 pro max (6.7") en el color satin armr negro
-- Protege de forma fiable contra golpes, caídas, arañazos y suciedad - probado según el estándar militar mil-std-810g 516.6 donde la funda con el smartphone debe sobrevivir a varias caídas sin sufrir daños
 
 [🛒 Comprar!!!]({{< param buyurl >}})
