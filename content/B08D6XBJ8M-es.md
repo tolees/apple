@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Funda reforzada
-- Protección 360º
 - Funda fina y elegante
 - Pack funda anti caídas + protector de pantalla de cristal templado
+- Funda reforzada
 - Transparente
+- Protección 360º
 
 [🛒 Aquí!!!]({{< param buyurl >}})
