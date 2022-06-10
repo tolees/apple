@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Sonido envolvente, como en el cine
-- Prestaciones destacadas
 - Cancelación activa de ruido que filtra el sonido externo y te permite sumergirte en la música
+- Prestaciones destacadas
+- Sonido envolvente, como en el cine
 - Transductor dinámico diseñado por Apple que ofrece un sonido de alta fidelidad
 - Modo de sonido ambiente para escuchar lo que te rodea
 
