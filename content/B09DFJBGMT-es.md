@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Auriculares Inalámbricos Soicear Cascos Bluetooth 5.1 Alta Fidelidad Estéreo Con Micrófono 38 Horas De Reproducción Control Táctil IPX5 Impermeable Apto Para IPhone Samsung Huawei Xiaomi Blanco'
-date: 2022-06-10 19:39:46
+date: 2022-06-12 01:42:03
 image: 'https://m.media-amazon.com/images/I/31BbRNd0rsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Soicear'
 buyurl: 'https://www.amazon.es/dp/B09DFJBGMT/?tag=tolees-21'
 descuento: '28.56'
-average: '24.4875'
+average: '23.588'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
