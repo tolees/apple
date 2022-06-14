@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Fácil uso
+- Mosquetón incluido
 - Protección anticaídas, antigolpes
 - Protección 360°
 - Compatibilidad con carga inalámbrica
-- Fácil uso
-- Mosquetón incluido
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
