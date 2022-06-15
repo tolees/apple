@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Compatible con funda
-- Resistente a borrones
-- Instalación fácil
 - Ayuda a proteger la pantalla frente a caídas, roturas y arañazos
+- Resistente a borrones
 - Protección antiarañazos
+- Instalación fácil
+- Compatible con funda
 
 [🛒 Aquí!!!]({{< param buyurl >}})
