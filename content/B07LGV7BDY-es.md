@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Carga rápida y “pass-through charging”: 5V 1.5A output , Soporta la Función de Paso.
-- No es necesario tomar un cable de carga adicional. Conecte directamente su iPhone para cargar
-- Alta capacidad: 3350mAh, carga un iPhone 7 1.2 veces (solo 75g, el peso de un huevo)
-- Tamaño compacto: 77 x 42 x 33 mm, el tamaño de un lápiz labial, super fácil de llevar
 - Contiene: 1x Powerbank, 1x Manual; y 12 meses de garantía
+- Alta capacidad: 3350mAh, carga un iPhone 7 1.2 veces (solo 75g, el peso de un huevo)
+- No es necesario tomar un cable de carga adicional. Conecte directamente su iPhone para cargar
+- Carga rápida y “pass-through charging”: 5V 1.5A output , Soporta la Función de Paso.
+- Tamaño compacto: 77 x 42 x 33 mm, el tamaño de un lápiz labial, super fácil de llevar
 
 [🛒 Visítala!!!]({{< param buyurl >}})
