@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 13 Mini  512 GB  - Rosa'
-date: 2022-06-14 09:35:12
+date: 2022-06-15 19:32:49
 image: 'https://m.media-amazon.com/images/I/31cZO2FTAEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B09G9L8NNY/?tag=tolees-21'
 descuento: '22.52'
-average: '901.5'
+average: '900.333333333333'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Diseño robusto con Ceramic Shield
-- iOS 15 con nuevas prestaciones que sacan más partido al iPhone
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Conexión 5G para descargas superveloces y streaming en alta calidad
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, Estilos Fotográficos, HDR Inteligente 4, modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Chip A15 Bionic para un rendimiento ultrarrápido
-- El modo Cine añade poca profundidad de campo y cambia el enfoque automáticamente en los vídeos
-- Pantalla Super Retina XDR de 5,4 pulgadas
 - Resistencia al agua IP68, líder en el sector
+- iOS 15 con nuevas prestaciones que sacan más partido al iPhone
 - Hasta 17 horas de reproducción de vídeo
+- Chip A15 Bionic para un rendimiento ultrarrápido
+- Pantalla Super Retina XDR de 5,4 pulgadas
+- Diseño robusto con Ceramic Shield
+- Conexión 5G para descargas superveloces y streaming en alta calidad
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, Estilos Fotográficos, HDR Inteligente 4, modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- El modo Cine añade poca profundidad de campo y cambia el enfoque automáticamente en los vídeos
 
 [🛒 Aquí!!!]({{< param buyurl >}})
