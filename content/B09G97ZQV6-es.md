@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Registra tus entrenamientos cada vez que salgas a correr, caminar, nadar, hacer yoga, bici, baile y mucho más.
 - El modelo GPS te permite hacer llamadas y mandar mensajes desde la muñeca.
-- Diseño apto para nadar.
-- El Apple Watch SE llega con una pantalla Retina del mismo tamaño que la del Series 6 para que tengas más información a primera vista, así como sensores avanzados que registran tu actividad y tus entrenos, y grandes prestaciones que velan por tu salud. También incluye la app Sueño para que lleves un seguimiento de tu descanso y puedas crear una rutina para irte a dormir. Y te pone más a mano los mensajes, las llamadas y la música. Cuanto más lo conozcas, más te sorprenderá. Empezando por su precio.
+- El modelo GPS te permite hacer llamadas y mandar mensajes desde la muñeca.
 - Controla tu actividad diaria en el Apple Watch y observa tu evolución en la app Fitness del iPhone.
-- Notificaciones de frecuencia cardiaca alta o baja y aviso de ritmo irregular.
-- Gran pantalla Retina OLED.
+- Diseño apto para nadar.
 - Paga con total seguridad desde la muñeca con Apple Pay.
-- El modelo GPS te permite hacer llamadas y mandar mensajes desde la muñeca.
+- Registra tus entrenamientos cada vez que salgas a correr, caminar, nadar, hacer yoga, bici, baile y mucho más.
+- Gran pantalla Retina OLED.
+- El Apple Watch SE llega con una pantalla Retina del mismo tamaño que la del Series 6 para que tengas más información a primera vista, así como sensores avanzados que registran tu actividad y tus entrenos, y grandes prestaciones que velan por tu salud. También incluye la app Sueño para que lleves un seguimiento de tu descanso y puedas crear una rutina para irte a dormir. Y te pone más a mano los mensajes, las llamadas y la música. Cuanto más lo conozcas, más te sorprenderá. Empezando por su precio.
 - Caja, Correa deportiva, Cable de carga magnético de 1 m (USB-C)
+- Notificaciones de frecuencia cardiaca alta o baja y aviso de ritmo irregular.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
