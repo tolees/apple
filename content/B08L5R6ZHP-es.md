@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad con el iPhone 12 mini, iPhone 12, iPhone 12 Pro y iPhone 12 Pro Max
-- Tierras raras 100 % recicladas en los imanes
 - Carga inalámbrica más rápida con ajuste magnético
+- Tierras raras 100 % recicladas en los imanes
+- Compatibilidad con el iPhone 12 mini, iPhone 12, iPhone 12 Pro y iPhone 12 Pro Max
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
