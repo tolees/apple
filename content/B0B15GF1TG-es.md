@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran angular de 12 Mpx
 - He leído, entiendo y acepto los Términos y Condiciones de Venta, especialmente aquellas que, debidamente resaltadas en letra negrita, pudieran ser limitativas de mis derechos.
-- Hasta 256 GB de capacidad
-- Por favor, lea detenidamente los Términos y Condiciones de AppleCare+, el Documento de Puntos Esenciales así como el Nota Informativa previa antes de continuar.
 - Ultra gran angular frontal de 12 Mpx con Encuadre Centrado
-- El producto AppleCare+ debe comprarse con un dispositivo Apple aplicable. No se requiere la compra de AppleCare+ para comprar un dispositivo Apple. Los términos y condiciones se enviarán por correo electrónico después de la inscripción y se pueden descargar a través de su página de elementos digitales (su cuenta-->Juegos y software). AppleCare+ se inscribirá automáticamente en el momento de la compra, y la Prueba de cobertura se enviará por correo electrónico dentro de los 3 días posteriores al envío de su dispositivo.
-- Entiendo y doy mi consentimiento que si además necesitase una copia en papel de tales documentos o me surgen algunas preguntas, puedo contacto Apple.
-- Comprueba si esta funda se ajusta a tus necesidades. Incluye el impuesto sobre primas de seguro y los recargos del Consorcio de Compensación de Seguros
-- Entiendo que esta es una transacción electrónica, y estoy de acuerdo con recibir todos los documentos relevantes electrónicamente, incluyendo garantía, publicación, y documentos del seguro a la dirección de correo electrónico proporcionada.
 - Chip M1 de Apple con Neural Engine
+- Entiendo y doy mi consentimiento que si además necesitase una copia en papel de tales documentos o me surgen algunas preguntas, puedo contacto Apple.
+- Hasta 256 GB de capacidad
+- El producto AppleCare+ debe comprarse con un dispositivo Apple aplicable. No se requiere la compra de AppleCare+ para comprar un dispositivo Apple. Los términos y condiciones se enviarán por correo electrónico después de la inscripción y se pueden descargar a través de su página de elementos digitales (su cuenta-->Juegos y software). AppleCare+ se inscribirá automáticamente en el momento de la compra, y la Prueba de cobertura se enviará por correo electrónico dentro de los 3 días posteriores al envío de su dispositivo.
+- Por favor, lea detenidamente los Términos y Condiciones de AppleCare+, el Documento de Puntos Esenciales así como el Nota Informativa previa antes de continuar.
+- Entiendo que esta es una transacción electrónica, y estoy de acuerdo con recibir todos los documentos relevantes electrónicamente, incluyendo garantía, publicación, y documentos del seguro a la dirección de correo electrónico proporcionada.
+- Gran angular de 12 Mpx
+- Comprueba si esta funda se ajusta a tus necesidades. Incluye el impuesto sobre primas de seguro y los recargos del Consorcio de Compensación de Seguros
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
