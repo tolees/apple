@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
-- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- 0.0
+- Resistencia al agua IP68, líder en el sector
+- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
 - Pantalla Super Retina XDR de 6,1 pulgadas
 - Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Ceramic Shield, más resistente que cualquier vidrio de smartphone
+- Compatibilidad con accesorios MagSafe, que se acoplan fácilmente y permiten una carga inalámbrica más rápida
 - Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, modo Noche, Deep Fusion, HDR Inteligente 3 y grabación de vídeo en 4K HDR con Dolby Vision
+- iOS con widgets rediseñados en la pantalla de inicio, la nueva Biblioteca de Apps, clips de apps y mucho más
+- Ceramic Shield, más resistente que cualquier vidrio de smartphone
 - A14 Bionic, el chip más veloz en un smartphone
-- 0.0
-- Conexión 5G para descargas ultrarrápidas y streaming en alta calidad
-- Resistencia al agua IP68, líder en el sector
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
