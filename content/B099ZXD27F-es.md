@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DJI OM 5 Athen Gray Estabilizador para Smartphones en Tres Ejes  Brazo Extensible Integrado  Portátil y Plegable  Estabilizador Android y Iphone con Shotguides  Gris'
-date: 2022-07-18 13:59:08
+date: 2022-07-23 21:39:10
 image: 'https://m.media-amazon.com/images/I/21PJu75AeiL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Graba como un profesional - ShotGuides reconoce tu entorno automáticamente y recomienda una secuencia de grabación correspondiente, junto con un tutorial sobre cómo obtenerla. Simplemente sigue las instrucciones y muy pronto estarás grabando como un profesional. Con el estabilizador DJI OM 5, incluso los principiantes pueden conseguir resultados épicos.
 - Estabilizador inteligente con ActiveTrack 4.0 - Un algoritmo de última generación asegura que el DJI OM 5 sigue a los objetivos con una mayor estabilidad y capacidad de respuesta, incluso aunque se muevan rápido. Este compacto estabilizador para smartphones también mantiene la fiabilidad en el seguimiento y proporciona movimientos de cámara fluidos, dándote así más tiempo para centrarte en tu entorno.
 - Brazo extensible integrado - Incluye a más amigos en un selfie, o incluso graba a tus mascotas más cómodamente desde ángulos bajos. Este estabilizador inteligente es perfecto para videoblogs, retransmisiones en directo y Youtube.
+- Graba como un profesional - ShotGuides reconoce tu entorno automáticamente y recomienda una secuencia de grabación correspondiente, junto con un tutorial sobre cómo obtenerla. Simplemente sigue las instrucciones y muy pronto estarás grabando como un profesional. Con el estabilizador DJI OM 5, incluso los principiantes pueden conseguir resultados épicos.
 - Encájalo fácilmente - Asegura magnéticamente tu smartphone en el estabilizador en segundos, sin necesidad de calibrarlo o equilibrarlo. El revestimiento de goma de la abrazadera para teléfonos mantiene seguro tu iPhone o Android y, gracias a su diseño flexible, puedes instalar tu dispositivo fácilmente sin retirar su funda.
 - Estabilizador en tres ejes para smartphones - No vuelvas a publicar vídeos con temblores. Incluso con un objetivo externo adicional, el potente motor con tres ejes del DJI OM 5 mantiene tu smartphone estable y tus vídeos fluidos.
 - Estabilizador portátil para smartphones que cabe en la palma de la mano - El DJI OM 5 es una herramienta ligera y versátil que libera todo el potencial de tu teléfono. Disfruta de selfies perfectos, vídeo superfluido, seguimiento automático y mucho más con este estabilizador de teléfonos de DJI.
