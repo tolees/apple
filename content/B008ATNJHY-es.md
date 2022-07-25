@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple MagSafe 2 - Adaptador de Corriente de 45 vatios para el MacBook Air'
-date: 2022-07-19 11:06:19
+date: 2022-07-25 18:44:02
 image: 'https://m.media-amazon.com/images/I/31G0XIi5Z+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B008ATNJHY-es Apple MagSafe 2 - Adaptador de Corriente de 45 vatios para...'
 sku: 'B008ATNJHY-es'
 tags: [ 'Accesorios','Accesorios para portátiles y netbooks','Cargadores y adaptadores para portátiles y netbooks','Cargadores y bases de carga para portátiles y netbooks','Informática','apple','🇪🇸', ]
-actualPrice: 57.0 EUR
+actualPrice: 42.71 EUR
 currency: EUR
-price: 57.0
+price: 42.71
 comparePrice: 85.0 EUR
 prodname: 'Apple MagSafe 2 - Adaptador de Corriente de 45 vatios para el MacBook Air'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B008ATNJHY/?tag=tolees-21'
-descuento: '32.94'
-average: '69.0333333333333'
+descuento: '49.75'
+average: '62.4525'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
