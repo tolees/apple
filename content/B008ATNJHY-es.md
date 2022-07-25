@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Adaptador de corriente de 45 vatios de apple para el macbook air
 - Compatible únicamente con el macbook air con conector de corriente magsafe 2
 - Necesitas un segundo adaptador para casa o la oficina? El adaptador de corriente magsafe 2 de 45 vatios de apple ha sido especialmente diseñado para el macbook air; este adaptador se acopla magnéticamente, por lo que si alguien tropieza con el cable, este se suelta y el ordenador no se cae al suelo
+- Adaptador de corriente de 45 vatios de apple para el macbook air
 
 [🛒 Aquí!!!]({{< param buyurl >}})
