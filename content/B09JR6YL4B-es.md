@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Más de 24 horas de reproducción de audio con el estuche de carga MagSafe
 - Resistencia al agua y al sudor
-- Configuración sencilla, detección de posición y cambio automático de dispositivo como por arte de magia
-- Sensor de presión para controlar con facilidad la música, responder o colgar llamadas y mucho más
-- Modo de sonido ambiente para escuchar lo que te rodea
-- Ecualización adaptativa que ajusta automáticamente la música a tus oídos
-- Audio espacial con seguimiento dinámico de la cabeza que te mete de lleno en lo que escuchas
-- Cancelación activa de ruido que filtra el sonido externo y te permite sumergirte en la música
-- Acceso rápido a Siri con solo decir «Oye Siri»
 - Almohadillas cónicas de suave silicona en tres tamaños para un ajuste a medida
+- Configuración sencilla, detección de posición y cambio automático de dispositivo como por arte de magia
+- Audio espacial con seguimiento dinámico de la cabeza que te mete de lleno en lo que escuchas
+- Acceso rápido a Siri con solo decir «Oye Siri»
+- Cancelación activa de ruido que filtra el sonido externo y te permite sumergirte en la música
+- Modo de sonido ambiente para escuchar lo que te rodea
+- Sensor de presión para controlar con facilidad la música, responder o colgar llamadas y mucho más
+- Más de 24 horas de reproducción de audio con el estuche de carga MagSafe
+- Ecualización adaptativa que ajusta automáticamente la música a tus oídos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
