@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Registra tus entrenamientos cada vez que salgas a correr, caminar, nadar, hacer yoga, bici, baile y mucho más.
-- El Apple Watch SE llega con una pantalla Retina del mismo tamaño que la del Series 6 para que tengas más información a primera vista, así como sensores avanzados que registran tu actividad y tus entrenos, y grandes prestaciones que velan por tu salud. También incluye la app Sueño para que lleves un seguimiento de tu descanso y puedas crear una rutina para irte a dormir. Y en los modelos con conexión móvil puedes salir de casa sin teléfono. Cuanto más lo conozcas, más te sorprenderá. Empezando por su precio.
-- Notificaciones de frecuencia cardiaca alta o baja y aviso de ritmo irregular.
-- Con el modelo GPS + Cellular puedes hacer llamadas, enviar mensajes y recibir indicaciones paso a paso sin llevar el teléfono encima.
-- Gran pantalla Retina OLED.
-- Controla tu actividad diaria en el Apple Watch y observa tu evolución en la app Fitness del iPhone.
-- Caja, Correa deportiva, Cable de carga magnético de 1 m (USB-C)
 - Paga con total seguridad desde la muñeca con Apple Pay.
-- El modelo GPS + Cellular te permite llamar, enviar mensajes y recibir indicaciones sin llevar el teléfono encima (Operadores compatibles: Orange, Telefonica, Vodafone. El Apple Watch y el iPhone tienen que usar el mismo operador.)
 - Sincroniza y escucha música, podcasts y audiolibros.
+- Notificaciones de frecuencia cardiaca alta o baja y aviso de ritmo irregular.
+- Caja, Correa deportiva, Cable de carga magnético de 1 m (USB-C)
+- Registra tus entrenamientos cada vez que salgas a correr, caminar, nadar, hacer yoga, bici, baile y mucho más.
+- Controla tu actividad diaria en el Apple Watch y observa tu evolución en la app Fitness del iPhone.
+- Con el modelo GPS + Cellular puedes hacer llamadas, enviar mensajes y recibir indicaciones paso a paso sin llevar el teléfono encima.
+- El Apple Watch SE llega con una pantalla Retina del mismo tamaño que la del Series 6 para que tengas más información a primera vista, así como sensores avanzados que registran tu actividad y tus entrenos, y grandes prestaciones que velan por tu salud. También incluye la app Sueño para que lleves un seguimiento de tu descanso y puedas crear una rutina para irte a dormir. Y en los modelos con conexión móvil puedes salir de casa sin teléfono. Cuanto más lo conozcas, más te sorprenderá. Empezando por su precio.
+- Gran pantalla Retina OLED.
+- El modelo GPS + Cellular te permite llamar, enviar mensajes y recibir indicaciones sin llevar el teléfono encima (Operadores compatibles: Orange, Telefonica, Vodafone. El Apple Watch y el iPhone tienen que usar el mismo operador.)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
