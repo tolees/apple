@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- CPU de hasta 10 núcleos con un rendimiento hasta 2 veces superior para hacer tareas complejas en un suspiro
-- Cámara FaceTime HD a 1080p con procesador de señal de imagen avanzado para una mayor nitidez en las videollamadas
-- Hasta 64 GB de memoria unificada para que todo sea rápido y fluido
-- Sistema de seis altavoces con cancelación de fuerza en los woofers
 - Chip M1 Pro o M1 Max de Apple para desatar toda la potencia de la CPU, la GPU y el aprendizaje automático
-- Neural Engine de 16 núcleos que multiplica por cinco la velocidad del aprendizaje automático
-- Asombrosa pantalla Liquid Retina XDR de 16 pulgadas con rango dinámico y relación de contraste extremos
-- Autonomía nunca vista que alcanza las 21 horas
-- Hasta 8 TB de almacenamiento SSD megarrápido para abrir apps y archivos al instante
+- CPU de hasta 10 núcleos con un rendimiento hasta 2 veces superior para hacer tareas complejas en un suspiro
 - GPU de hasta 32 núcleos con gráficos hasta 4 veces más veloces para acelerar los juegos y apps más exigentes
+- Neural Engine de 16 núcleos que multiplica por cinco la velocidad del aprendizaje automático
+- Autonomía nunca vista que alcanza las 21 horas
+- Hasta 64 GB de memoria unificada para que todo sea rápido y fluido
+- Hasta 8 TB de almacenamiento SSD megarrápido para abrir apps y archivos al instante
+- Sistema de seis altavoces con cancelación de fuerza en los woofers
+- Cámara FaceTime HD a 1080p con procesador de señal de imagen avanzado para una mayor nitidez en las videollamadas
+- Asombrosa pantalla Liquid Retina XDR de 16 pulgadas con rango dinámico y relación de contraste extremos
 
 [🛒 Comprar!!!]({{< param buyurl >}})
