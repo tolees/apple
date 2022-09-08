@@ -33,7 +33,7 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 - Sigue usando tu teléfono mientras lo cargas con el cómodo y seguro acoplamiento magnético. Utilizar solo con fundas MagSafe de Belkin o de otros fabricantes.
 - Belkin es un fabricante reconocido y líder en el mercado de accesorios, con una trayectoria de más de 35 años creando soluciones de tecnología innovadoras y de alta calidad.
 - La carga passthrough te permite llenar la batería al mismo tiempo que cargas tu teléfono; se incluye un cable USB-C a USB-C de 1 m, necesario para recargar la batería externa
-- Carga inalámbricamente con hasta 7,5 W o con hasta 18 W usando el cable USB-C a Lightning.
 - Fina, ligera y portátil: la batería externa perfecta para viajar.
+- Carga inalámbricamente con hasta 7,5 W o con hasta 18 W usando el cable USB-C a Lightning.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
