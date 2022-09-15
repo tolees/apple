@@ -28,11 +28,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Incluye puertos HDMI 1.4 HDMI, USB-C PD 3.0, 2 USB-A 3.0 BC1.2, lector de tarjetas SD 3.0, Micro SD 3.0 y entrada/salida de audio de 3.5 mm
 - Dispositivos compatibles: Monitors
 - 5 Gbps de transferencias de datos; el puerto HDMI admite resoluciones 4K a 30 Hz; diseño fino y portátil
-- Incluye puertos HDMI 1.4 HDMI, USB-C PD 3.0, 2 USB-A 3.0 BC1.2, lector de tarjetas SD 3.0, Micro SD 3.0 y entrada/salida de audio de 3.5 mm
-- Pone a disposición del usuario los puertos multimedia que han sido eliminados en los últimos modelos de portátiles PC y de Apple
-- Belkin es un fabricante reconocido en el mercado de accesorios, con una trayectoria de más de 35 años creando soluciones de tecnología innovadoras y de buena calidad
 - Carga PD passthrough de hasta 100 W (menos los 15 W que consume el hub)
+- Belkin es un fabricante reconocido en el mercado de accesorios, con una trayectoria de más de 35 años creando soluciones de tecnología innovadoras y de buena calidad
+- Pone a disposición del usuario los puertos multimedia que han sido eliminados en los últimos modelos de portátiles PC y de Apple
 
 [🛒 Comprar!!!]({{< param buyurl >}})
