@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin Cargador de Pared Doble USB-A BoostCharge de 24 W  para iPhone 14/14 Plus  14 Pro  14 Pro Max  13  12 y Modelos Anteriores  Samsung S22  S22+  S22 Ultra  Pixel 4 y Otros '
-date: 2022-09-17 10:37:48
+date: 2022-09-18 13:44:24
 image: 'https://m.media-amazon.com/images/I/31reKq4KFrL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Belkin'
 buyurl: 'https://www.amazon.es/dp/B086H34XZW/?tag=tolees-21'
 descuento: '46.02'
-average: '13.39'
+average: '12.5233333333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
