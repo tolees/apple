@@ -29,9 +29,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Controla la reproducción de música y vídeo
-- Diseñados por Apple
-- Responde y cuelga llamadas
 - Bajos más profundos y con más matices
+- Responde y cuelga llamadas
+- Diseñados por Apple
 - Mayor protección contra el agua y el sudor
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
