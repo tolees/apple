@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Peso del paquete: 1 libras
-- Dimensiones del paquete: 11.7322834526 pulgadas de largo x 3.0708661386 pulgadas de ancho x 2.2047244072 pulgadas de alto
-- Cantidad del paquete: 1 unidad
 - Tipo de producto: comdora portátil
+- Cantidad del paquete: 1 unidad
+- Dimensiones del paquete: 11.7322834526 pulgadas de largo x 3.0708661386 pulgadas de ancho x 2.2047244072 pulgadas de alto
+- Peso del paquete: 1 libras
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
