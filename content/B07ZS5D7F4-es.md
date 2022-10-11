@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Calidad de sonido denon
+- Control por voz: compatible con alexa, google assistant y apple siri
 - Altavoz inalámbrico compacto para cualquier habitación
 - Disfrute de la transmisión
 - 3 teclas de acceso rápido para tus emisoras favoritas
-- Calidad de sonido denon
-- Control por voz: compatible con alexa, google assistant y apple siri
 
 [🛒 Comprar!!!]({{< param buyurl >}})
