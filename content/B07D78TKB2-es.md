@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pioneer SE-QL2T G  Auriculares intraaurales  Cuerpo de Aluminio  Auriculares  Panel de Control  micrófono/Manos Libres  Ligeros  Compacto  para iPhone  Smartphones Android  Tablet   Oro'
-date: 2022-10-20 14:20:21
+date: 2022-10-21 17:54:41
 image: 'https://m.media-amazon.com/images/I/315viXkYAbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Pioneer'
 buyurl: 'https://www.amazon.es/dp/B07D78TKB2/?tag=tolees-21'
 descuento: '64.48'
-average: '7.786'
+average: '7.67166666666667'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
