@@ -30,10 +30,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Disfruta de miles de juegos: compatible con millares de títulos de la App Store y Apple Arcade
 - Compra un mando Nimbus+ y consigue hasta 4 meses gratis de Apple Arcade
-- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
-- Batería recargable integrada: permite hasta 50 horas seguidas de juego
-- Botones sensibles del D-Pad: la respuesta de las flechas se ha mejorado y agilizado
 - Conectividad inalámbrica con licencia oficial de Apple: funciona con todos los productos de Apple, incluidos los dispositivos con iOS, iPadOS y tvOS
+- Nota: es recomendable que el firmware se actualice regularmente usango Steelseries Engine
 - Joysticks clicables: los botones L3/R3 permiten más opciones en muchos juegos
+- Botones sensibles del D-Pad: la respuesta de las flechas se ha mejorado y agilizado
+- Batería recargable integrada: permite hasta 50 horas seguidas de juego
 
 [🛒 Comprar!!!]({{< param buyurl >}})
