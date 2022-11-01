@@ -28,9 +28,9 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Está fabricada en piel europea curtida y refinada con un proceso especial, es suave al tacto y adquiere un tono natural con el tiempo.
 - En cuanto acoplas el cargador MagSafe al iPhone, se empieza a cargar de forma eficiente.
 - El bolsillo interior es perfecto para guardar tarjetas de crédito o tu carné de identidad y la correa a juego es comodísima para tenerla siempre a mano.
 - Se ajusta como un guante a las curvas del iPhone y lo protege de arañazos y caídas sin abultar nada.
+- Está fabricada en piel europea curtida y refinada con un proceso especial, es suave al tacto y adquiere un tono natural con el tiempo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
