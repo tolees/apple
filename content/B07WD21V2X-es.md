@@ -30,8 +30,8 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 - Diseño 2 en 1 & Rechazo de Palma: Puede escribir o borrar con la punta o la tapa. La función única de rechazo de la palma evita de manera efectiva que la palma perturbe su creación.
 - Tapa Magnética & Punta Reemplazable: La tapa se puede unir al lápiz fácilmente con el cierre magnético, lo que reduce la posibilidad de perder la tapa y evita el polvo. Viene con punta de repuesto. Nota: Puede obtener más puntas de repuesto mediante la búsqueda: B08GYL2NG4.
-- Compatible con 2018-2022 iPad & iPad Pro & iPad Air & iPad Mini: Este lápiz es compatible con los modelos de la serie iPad 2018-2022: iPad 10ª generación 2022, iPad 9ª/8ª/7ª/6ª generación, iPad Pro 12,9 pulgadas 6ª/5ª/4ª/3ªgeneración, iPad Pro 11 pulgadas 4ª/3ª/2ª/1ª generación, iPad Air 5ª/4ª/3ª generación, iPad Mini 6ª/5ª generación. Por favor, confirme el modelo de su dispositivo antes de comprar, no es compatible con otro modelo.
 - Alta Sensibilidad & Precisión: Puede disfrutar de la experiencia de escritura fluida y precisa siempre que escriba, pinte o tome notas. Sin líneas dentadas o discontinuas. Compatible con protectores de pantalla.
+- Compatible con 2018-2022 iPad & iPad Pro & iPad Air & iPad Mini: Este lápiz es compatible con los modelos de la serie iPad 2018-2022: iPad 10ª generación 2022, iPad 9ª/8ª/7ª/6ª generación, iPad Pro 12,9 pulgadas 6ª/5ª/4ª/3ªgeneración, iPad Pro 11 pulgadas 4ª/3ª/2ª/1ª generación, iPad Air 5ª/4ª/3ª generación, iPad Mini 6ª/5ª generación. Por favor, confirme el modelo de su dispositivo antes de comprar, no es compatible con otro modelo.
 - Ahorro de Energía: Bajo consumo de energía. Carga de 100 minutos, vida útil de 20 horas. Se apaga automáticamente después de estar inactivo durante 30 minutos.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
