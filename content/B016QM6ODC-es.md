@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Classic Bb Cap - Sombrero para hombre  color apple red  talla OS'
-date: 2022-11-07 07:37:12
+date: 2022-11-08 13:56:13
 image: 'https://m.media-amazon.com/images/I/31jCMsJXVYL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B016QM6ODC-es Tommy Hilfiger Classic Bb Cap - Sombrero para hombre color...'
 sku: 'B016QM6ODC-es'
-tags: [ 'Accesorios para hombre','Gorras de béisbol para hombre','Moda','Moda Hombre','Ropa para hombre','Sombreros y gorras para hombre','apple','tommy hilfiger','🇪🇸', ]
+tags: [ 'Accesorios para hombre','Gorras de béisbol para hombre','Moda','Moda Hombre','Ropa de hombre','Sombreros y gorras para hombre','apple','tommy hilfiger','🇪🇸', ]
 actualPrice: 29.25 EUR
 currency: EUR
 price: 29.25
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.es/dp/B016QM6ODC/?tag=tolees-21'
 descuento: '16.19'
-average: '30.2497959183675'
+average: '30.2298000000002'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
