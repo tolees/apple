@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon Basics - Funda para llevar del hombro ordenador portátil de 11 6 pulgadas  29 4 cm  e iPad  negro  1 unidad'
-date: 2022-11-08 00:23:54
+date: 2022-11-09 06:57:20
 image: 'https://m.media-amazon.com/images/I/51U5EP179RL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazon Basics'
 buyurl: 'https://www.amazon.es/dp/B00DUGZFA6/?tag=tolees-21'
 descuento: '74.98'
-average: '9.57'
+average: '7.76333333333333'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Incluye correa acolchada para el hombro
 - Maletín compacto y poco voluminoso para tu portátil de hasta 29,46 pulgadas
 - Dimensiones externas: 32 x 4,82 x 24,38 cm (largo x ancho x alto)
 - Dimensiones internas: 29,97 x 2,03 x 22,09 cm (largo x ancho x alto)
 - Con bolsillos para almacenar ratón, teléfono móvil y otros accesorios
-- Incluye correa acolchada para el hombro
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
