@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Fácil de configurar: conexión directa con tecnología Bluetooth low energy sin necesidad de usar una centralita o pasarela
-- Control con comodidad: Lanza escenas automáticamente y controla tus accesorios conectados con tu presencia
 - Campo de visión: 120 °. Distancia: 9 m / 30 pies máx. A 2 m / 6,5 pies de altura de montaje. Temperatura de funcionamiento: -18 ° C a + 55 ° C (: 0 ° F - 130 ° F). Certificación IPX 3
+- Control con comodidad: Lanza escenas automáticamente y controla tus accesorios conectados con tu presencia
 - Preparado para HomeKit: facilidad de uso insuperable y seguridad avanzada
+- Fácil de configurar: conexión directa con tecnología Bluetooth low energy sin necesidad de usar una centralita o pasarela
 - Verdaderamente inalámbrico: funciona con pilas extraíbles de larga duración
 
 [🛒 Aquí!!!]({{< param buyurl >}})
