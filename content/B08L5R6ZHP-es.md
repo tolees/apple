@@ -28,8 +28,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Carga inalámbrica más rápida con ajuste magnético
 - Tierras raras 100 % recicladas en los imanes
+- Carga inalámbrica más rápida con ajuste magnético
 - Compatibilidad con el iPhone 12 - iPhone 14
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

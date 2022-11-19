@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- La luz LED informa si se ha detectado un objeto extraño en proximidad, garantizando una carga segura para tu iPhone 14, iPhone 13 y iPhone 12.
+- Un cable largo de 2 metros permite una colocación y uso flexibles en casa o en la oficina
 - Pequeño, fino y portátil, óptimo para viajar
 - Carga inalámbricamente con hasta 7.5 W tu iPhone 14/14 Plus, 14 Pro/Pro Max, iPhone 13/13 mini, 13 Pro/Pro Max, la serie iPhone 12 y otros dispositivos habilitados con MagSafe.
-- Un cable largo de 2 metros permite una colocación y uso flexibles en casa o en la oficina
 - Acoplamiento magnético óptimo para una carga eficiente y un emplazamiento sencillo usando una mano
-- La luz LED informa si se ha detectado un objeto extraño en proximidad, garantizando una carga segura para tu iPhone 14, iPhone 13 y iPhone 12.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
