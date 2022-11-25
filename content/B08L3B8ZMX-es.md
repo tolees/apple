@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lámpara Nocturna Táctil Wi-Fi Inteligente  Multicolor Regulable con RGBWW 2700K - 6500K . Blanco Cálido y Blanco Frío. Compatible con Apple HomeKit  Alexa  Google Assistant y SmartThings  meross.'
-date: 2022-11-23 21:15:40
+date: 2022-11-25 14:55:20
 image: 'https://m.media-amazon.com/images/I/312lcMcTvEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'meross'
 buyurl: 'https://www.amazon.es/dp/B08L3B8ZMX/?tag=tolees-21'
 descuento: '19.12'
-average: '37.838'
+average: '37.6327272727273'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
