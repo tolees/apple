@@ -28,10 +28,10 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Teclas retroiluminadas de tamaño estándar con mecanismo de tijera de 1 mm de recorrido para escribir de forma cómoda y silenciosa.
 - Puerto USB-C para cargar el iPad Pro, permitiendo usar el puerto del dispositivo para otros accesorios.
-- Al plegarse, se convierte en una funda para proteger el iPad Pro por ambos lados.
-- Ajuste preciso del ángulo de visión de la pantalla.
 - Diseñado para los gestos Multi-Touch y el cursor en iPadOS.
+- Ajuste preciso del ángulo de visión de la pantalla.
+- Teclas retroiluminadas de tamaño estándar con mecanismo de tijera de 1 mm de recorrido para escribir de forma cómoda y silenciosa.
+- Al plegarse, se convierte en una funda para proteger el iPad Pro por ambos lados.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
