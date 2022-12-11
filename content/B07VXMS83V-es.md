@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
+- [Carga rápida inteligente]: Su chip inteligente detecta automáticamente y ofrece la potencia de carga óptima para el dispositivo conectado. Carga rápida de 10W para el Samsung Galaxy S10 / S10e / S10 + / Note9. Carga rápida de 7.5W para iPhone XS / XR / XS Max / 8/8 Plus y una carga estándar de 5W para Google Pixel 3 / 3XL y todos los dispositivos compatibles con Qi. NOTA: La carga rápida de 7.5W / 10W requiere un adaptador QC 3.0 o uno compatible con PD.
+- [Perfecto para viajar]: Su diseño compacto y plegable permite ahorrar un valioso espacio en el escritorio y llevarlo contigo mientras viajas.
+- [Garantía de satisfacción garantizada del 100%]: Todos los productos ESR vienen con una garantía de satisfacción del 100%. Si, por alguna razón, no estás satisfecho con este producto, estaremos encantados de ofrecerte un artículo de reemplazo o un reembolso.
 - [Firme y compatible con carcasas]: Su plataforma antideslizante proporciona una mayor estabilidad para tu teléfono, tanto en el modo plataforma como soporte. Es compatible con la mayoría de las fundas de teléfono del mercado (excluyendo fundas de más de 5 mm de grosor o que contengan accesorios metálicos).
 - [Fácil de usar]: Simplemente conéctalo y empieza a cargar tu teléfono. Admite carga tanto en horizontal como en vertical. NOTA: Debido a que el cargador está optimizado para la carga en las dos posiciones, cuando el cargador está plegado, tu teléfono debe estar ligeramente desplazado del centro de la plataforma para una carga correcta.
-- [Carga rápida inteligente]: Su chip inteligente detecta automáticamente y ofrece la potencia de carga óptima para el dispositivo conectado. Carga rápida de 10W para el Samsung Galaxy S10 / S10e / S10 + / Note9. Carga rápida de 7.5W para iPhone XS / XR / XS Max / 8/8 Plus y una carga estándar de 5W para Google Pixel 3 / 3XL y todos los dispositivos compatibles con Qi. NOTA: La carga rápida de 7.5W / 10W requiere un adaptador QC 3.0 o uno compatible con PD.
-- [Garantía de satisfacción garantizada del 100%]: Todos los productos ESR vienen con una garantía de satisfacción del 100%. Si, por alguna razón, no estás satisfecho con este producto, estaremos encantados de ofrecerte un artículo de reemplazo o un reembolso.
-- [Perfecto para viajar]: Su diseño compacto y plegable permite ahorrar un valioso espacio en el escritorio y llevarlo contigo mientras viajas.
 
 [🛒 Aquí!!!]({{< param buyurl >}})
