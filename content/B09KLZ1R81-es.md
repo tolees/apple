@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- ✅ 【Carcasa de aluminio】 Carcasa elegante hecha de aluminio de alta calidad, aleación de aluminio sólido con tratamiento anodizado, tacto cómodo y lujoso. Evita el daño de los componentes internos en caso de caída e impacto, y hace que el producto también sea hermoso.
-- ✅ 【Fácil de Llevar】Tamaño: 11.1x5.4x1.48cm, Peso: 220g, Es muy pequeño y portátil. Cumple con la "aprobado por la aerolínea", lo que significa que puede llevarlo consigo, muy adecuado para viajes de negocios o fines de semana.
 - ✅ 【Carga Rápida PD20W y QC3.0】La función de carga rápida llena la batería de tu iPhone 12 de 0% a 54% en 30minutos por puerto USB-C y de su móvil de 0% a 80% en 35minutos por puerto USB. Nota: Sus dispositivos debe soporta una carga rápida.
+- ✅ 【Fácil de Llevar】Tamaño: 11.1x5.4x1.48cm, Peso: 220g, Es muy pequeño y portátil. Cumple con la "aprobado por la aerolínea", lo que significa que puede llevarlo consigo, muy adecuado para viajes de negocios o fines de semana.
 - ✅ 【Amplia compatibilidad】Puede cargar la mayoría de los dispositivos electrónicos portátiles, como teléfonos y tabletas, por ejemplo iPhone 13
 - ✅ 【2022 Nuevo 10000mAh Batería Externa】Nuevos cambios en tamaño y apariencia, Delgado de 1.48cm, peso de 230g, más ligero que otro power bank mismo material, además, Verde malaquita de color metálico es único y elegante.
+- ✅ 【Carcasa de aluminio】 Carcasa elegante hecha de aluminio de alta calidad, aleación de aluminio sólido con tratamiento anodizado, tacto cómodo y lujoso. Evita el daño de los componentes internos en caso de caída e impacto, y hace que el producto también sea hermoso.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
