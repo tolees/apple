@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - 【 Constitución de TPU】 Una construcción flexible de TPU resistente a los golpes protege tu iPhone 11 Pro Max de caídas y golpes.
-- 【ICONIC】 Funda para iPhone 11 Pro Max Adidas con nuestro legendario patrón de logotipo de Trefoil
 - Flexibilidad: la funda para iPhone de Adidas tiene una capa súper flexible y segura de la que puedes sacar fácilmente tu teléfono cuando lo necesites.
 - La funda para iPhone SE (2020) de Adidas cuenta con bordes elevados que protegen tu pantalla de arañazos, bordes en el recorte de la cámara para evitar distorsiones del rayo.
+- 【ICONIC】 Funda para iPhone 11 Pro Max Adidas con nuestro legendario patrón de logotipo de Trefoil
 - 【 Bordes elevados 】 Nuestra funda para iPhone tiene bordes elevados para proteger tu pantalla de arañazos
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
