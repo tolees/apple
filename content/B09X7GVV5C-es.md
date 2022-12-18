@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Su pincel "perfect fit" de fácil aplicación se adapta óptimamente a los contornos de la uña proporcionando un acabado uniforme y sin marchas
+- El resultado: una manicura resistente, de larga duración y un acabado profesional desde casa
+- Incluye los tonos Mint Candy Apple, Peach Daiquiri y Mademoiselle
 - El kit de manicura de Essie con 3 esmaltes en tamaño mini inspirados en la playa y sus colores más vivos
 - Modo de empleo: Aplica una capa de tu Base Coat de Essie sobre una uña limpia y seca antes de aplicar dos capas de tu color essie favorito y una capa de top coat
-- El resultado: una manicura resistente, de larga duración y un acabado profesional desde casa
-- Su pincel "perfect fit" de fácil aplicación se adapta óptimamente a los contornos de la uña proporcionando un acabado uniforme y sin marchas
-- Incluye los tonos Mint Candy Apple, Peach Daiquiri y Mademoiselle
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
