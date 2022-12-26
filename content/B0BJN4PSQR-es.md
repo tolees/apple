@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2022 Apple iPad de 10 9 Pulgadas  Wi-Fi + Cellular  256 GB  - Azul  10.ª generación '
-date: 2022-12-16 13:51:03
+date: 2022-12-26 13:31:25
 image: 'https://m.media-amazon.com/images/I/318wU38GqnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B0BJN4PSQR/?tag=tolees-21'
 descuento: '23.29'
-average: '807.003333333333'
+average: '793.0025'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Ultra gran angular frontal de 12 Mpx en horizontal con Encuadre Centrado
+- Redes Wi-Fi 6 y 5G (sub-6 GHz)
+- Autonomía para un día entero
 - Gran angular trasero de 12 Mpx
 - Conector USB-C para cargar el iPad y conectar accesorios
-- Redes Wi-Fi 6 y 5G (sub-6 GHz)
-- Compatible con el Apple Pencil (1.ª generación)4 y el Magic Keyboard Folio
-- Espectacular pantalla Liquid Retina de 10,9 pulgadas con True Tone
-- Touch ID para autenticarse de forma segura y usar Apple Pay
 - Chip A14 Bionic con CPU de 6 núcleos y GPU de 4 núcleos
+- Touch ID para autenticarse de forma segura y usar Apple Pay
+- Compatible con el Apple Pencil (1.ª generación)4 y el Magic Keyboard Folio
 - Nuevas prestaciones de productividad y colaboración en iPadOS 16 que multiplican las posibilidades del iPad
-- Autonomía para un día entero
-- Ultra gran angular frontal de 12 Mpx en horizontal con Encuadre Centrado
+- Espectacular pantalla Liquid Retina de 10,9 pulgadas con True Tone
 
 [🛒 Comprar!!!]({{< param buyurl >}})
