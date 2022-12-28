@@ -29,14 +29,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Conector USB-C para cargar el iPad y conectar accesorios
-- Ultra gran angular frontal de 12 Mpx en horizontal con Encuadre Centrado
-- Gran angular trasero de 12 Mpx
-- Redes Wi-Fi 6 y 5G (sub-6 GHz)
-- Chip A14 Bionic con CPU de 6 núcleos y GPU de 4 núcleos
-- Compatible con el Apple Pencil (1.ª generación)4 y el Magic Keyboard Folio
-- Espectacular pantalla Liquid Retina de 10,9 pulgadas con True Tone
 - Touch ID para autenticarse de forma segura y usar Apple Pay
 - Nuevas prestaciones de productividad y colaboración en iPadOS 16 que multiplican las posibilidades del iPad
 - Autonomía para un día entero
+- Chip A14 Bionic con CPU de 6 núcleos y GPU de 4 núcleos
+- Compatible con el Apple Pencil (1.ª generación)4 y el Magic Keyboard Folio
+- Redes Wi-Fi 6 y 5G (sub-6 GHz)
+- Gran angular trasero de 12 Mpx
+- Ultra gran angular frontal de 12 Mpx en horizontal con Encuadre Centrado
+- Espectacular pantalla Liquid Retina de 10,9 pulgadas con True Tone
 
 [🛒 Comprar!!!]({{< param buyurl >}})
