@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Componentes incluidos: asa para iPhone 12 Pro
 - 8 posiciones posibles para el mango
+- Componentes incluidos: asa para iPhone 12 Pro
 - PolarPro
 - Para IiPhone 12 Pro
 
