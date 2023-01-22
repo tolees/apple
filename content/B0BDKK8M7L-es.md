@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo.
-- iOS 16, con más opciones de personalización y formas de comunicarte y compartir.
-- Tecnología que puede salvar vidas: Detección de Accidentes³ pide ayuda por ti cuando tú no puedes.
-- Modo Acción para grabar planos superestables a pulso.
-- Prestaciones punteras en el sector, como Ceramic Shield y la resistencia al agua.
-- Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
 - Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s.
 - Pantalla Super Retina XDR de 6,7 pulgadas.
+- Tecnología que puede salvar vidas: Detección de Accidentes³ pide ayuda por ti cuando tú no puedes.
 - Sistema de cámara avanzado para hacer mejores fotos con cualquier luz.
+- Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
+- iOS 16, con más opciones de personalización y formas de comunicarte y compartir.
+- Prestaciones punteras en el sector, como Ceramic Shield y la resistencia al agua.
+- Modo Acción para grabar planos superestables a pulso.
+- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BDKK8M7L{{</world>}}
