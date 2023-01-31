@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 13  512 GB  - en Medianoche'
-date: 2023-01-30 12:18:02
+date: 2023-01-31 13:51:22
 image: 'https://m.media-amazon.com/images/I/31WaGJ9N3YL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B09G93DKDB/?tag=tolees-21'
 descuento: '20.65'
-average: '1043.0'
+average: '1032.0'
 ---
 
 En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,16 +28,16 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
-- Conexión 5G para descargas superveloces y streaming en alta calidad
-- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, Estilos Fotográficos, HDR Inteligente 4, modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - Diseño robusto con Ceramic Shield
-- Hasta 19 horas de reproducción de vídeo
+- Cámara delantera TrueDepth de 12 Mpx con modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
 - Chip A15 Bionic para un rendimiento ultrarrápido
 - Resistencia al agua IP68, líder en el sector
 - El modo Cine añade poca profundidad de campo y cambia el enfoque automáticamente en los vídeos
-- iOS 15 con nuevas prestaciones que sacan más partido al iPhone
+- Sistema avanzado de cámara dual de 12 Mpx con gran angular y ultra gran angular, Estilos Fotográficos, HDR Inteligente 4, modo Noche y grabación de vídeo en 4K HDR con Dolby Vision
+- Hasta 19 horas de reproducción de vídeo
 - Pantalla Super Retina XDR de 6,1 pulgadas
+- iOS 15 con nuevas prestaciones que sacan más partido al iPhone
+- Conexión 5G para descargas superveloces y streaming en alta calidad
 
 [🛒 Aquí!!!]({{< param buyurl >}})
 {{<world>}}B09G93DKDB{{</world>}}
