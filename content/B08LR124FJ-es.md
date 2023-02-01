@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin Cargador Inalámbrico 2 en 1 con MagSafe  Carga Rápida de 15 W  Soporte de Carga para la Serie iPhone 14  13  AirPods y Otros Dispositivos con MagSafe  Adaptador de Corriente Incluido   Negro'
-date: 2023-01-30 14:05:55
+date: 2023-02-01 17:21:23
 image: 'https://m.media-amazon.com/images/I/31mlNhJRggL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Belkin'
 buyurl: 'https://www.amazon.es/dp/B08LR124FJ/?tag=tolees-21'
 descuento: '25.99'
-average: '87.495'
+average: '84.796'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
