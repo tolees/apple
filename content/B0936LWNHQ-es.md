@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nuevo Apple Paquete de 4 AirTag'
-date: 2023-01-29 05:57:37
+date: 2023-02-01 14:55:17
 image: 'https://m.media-amazon.com/images/I/31dqQvc460S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B0936LWNHQ/?tag=tolees-21'
 descuento: '15.50'
-average: '107.58'
+average: '107.689230769231'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
