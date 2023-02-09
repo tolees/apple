@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone 14 Plus  128 GB  - Malva'
-date: 2023-02-07 12:26:42
+date: 2023-02-09 16:50:56
 image: 'https://m.media-amazon.com/images/I/31ja3BpXlGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Apple'
 buyurl: 'https://www.amazon.es/dp/B0BDKZNZQ6/?tag=tolees-21'
 descuento: '18.98'
-average: '977.833333333333'
+average: '974.846153846154'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,15 +28,15 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s.
+- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo.
+- Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
+- Sistema de cámara avanzado para hacer mejores fotos con cualquier luz.
+- Tecnología que puede salvar vidas: Detección de Accidentes³ pide ayuda por ti cuando tú no puedes.
+- Pantalla Super Retina XDR de 6,7 pulgadas.
 - Modo Acción para grabar planos superestables a pulso.
 - iOS 16, con más opciones de personalización y formas de comunicarte y compartir.
-- Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
 - Prestaciones punteras en el sector, como Ceramic Shield y la resistencia al agua.
-- Tecnología que puede salvar vidas: Detección de Accidentes³ pide ayuda por ti cuando tú no puedes.
-- Sistema de cámara avanzado para hacer mejores fotos con cualquier luz.
-- Pantalla Super Retina XDR de 6,7 pulgadas.
-- Una autonomía de sol a sol que te da hasta 26 horas de reproducción de vídeo.
+- Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDKZNZQ6{{</world>}}
