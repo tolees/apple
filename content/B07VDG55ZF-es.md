@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEDVANCE Lámpara Smart LED  Bluetooth  Filament Classic  E27  blanco cálido  2700K  reemplaza las lámparas incandescentes con 60W controlable con Alexa  Google y Apple SMART+ BTCLA FILDIM paquete de 4'
-date: 2023-02-25 09:16:52
+date: 2023-02-26 09:45:36
 image: 'https://m.media-amazon.com/images/I/31abHhh-pNS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- Bajo consumo de energía - LED de ahorro de energía de 5.5 W con A y una salida de luz de 650 lúmenes
 - Compatible con Siri: gracias a la integración en la aplicación Apple Home, puede controlar sus productos SMART + Bluetooth mediante comandos de voz
 - Posibilidad de integración simple en Alexa a través de la voz: acerque el producto Bluetooth al altavoz, enciéndalo e intégrelo con el comando "Buscar mis dispositivos" (nota: es posible que deba realizar una actualización de firmware a través de la aplicación LEDVANCE SMART + Bluetooth)
-- Bajo consumo de energía - LED de ahorro de energía de 5.5 W con A y una salida de luz de 650 lúmenes
 - Reemplazo real para una bombilla de 50 vatios - Lámpara de filamento LED en forma de bombilla y casquillo E27 para el reemplazo fácil habitual
 - Integración directa en los asistentes de voz Google Assistant y Alexa: controle los productos inteligentes LEDVANCE SMART + Bluetooth simplemente mediante un comando de voz
 
