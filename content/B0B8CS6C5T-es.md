@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Gran pantalla AMOLED y diseño ligero
 - Posicionamiento de doble banda e importación de rutas
+- Gran pantalla AMOLED y diseño ligero
 - Más de 150 modos deportivos y reconocimiento de ejercicios de fuerza
 - Gestión sencilla de la salud durante todo el día
 
