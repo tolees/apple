@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- 【ANTES DE REALIZAR EL PEDIDO】 - Proporcione el modelo y el año de su Mac y asegúrese de que aparezca en el título. La forma más fácil de hacerlo es ir a Acerca de esta Mac, disponible en el menú Apple en la esquina superior izquierda de la pantalla.
-- 【Cliente de servicio】: si tiene problemas de instalación u otros problemas posventa, comuníquese con nosotros. El video de instalación se ha adjuntado a los detalles del producto para su referencia.
 - 【Número de pieza compatible】 - Batería BONAI A1322 para MacBook Pro de 13 pulgadas Batería A1278 Mediados de 2012, finales de 2011, principios de 2011, mediados de 2010, mediados de 2009 Versión (020-6764-A / 661-5229 / 661-5557 / 020-6547 -A/020-6765-A/A1322/A1278)
-- 【Duradero】 - Celdas: 6 celdas; A1322 Tipo de batería: polímero de litio; Voltaje: 10,95 V; Capacidad: 6000 mAh / 63,5 Wh.
 - 【Seguridad y confiabilidad】: hasta 500 ciclos de carga durante la vida útil de la batería, certificación CE, certificación RoHs, prueba EMC y EC aprobada.
+- 【Cliente de servicio】: si tiene problemas de instalación u otros problemas posventa, comuníquese con nosotros. El video de instalación se ha adjuntado a los detalles del producto para su referencia.
+- 【ANTES DE REALIZAR EL PEDIDO】 - Proporcione el modelo y el año de su Mac y asegúrese de que aparezca en el título. La forma más fácil de hacerlo es ir a Acerca de esta Mac, disponible en el menú Apple en la esquina superior izquierda de la pantalla.
+- 【Duradero】 - Celdas: 6 celdas; A1322 Tipo de batería: polímero de litio; Voltaje: 10,95 V; Capacidad: 6000 mAh / 63,5 Wh.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08QVBL841{{</world>}}
