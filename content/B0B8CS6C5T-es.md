@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazfit GTS 4 Smartwatch Alexa Reloj Deportivo con Seguimiento GPS Preciso 150 Modos Deporte 1 75" AMOLED Pantalla Batería de 8 días de Duración Horarios de Sueño Personalizables para Android iPhone'
-date: 2023-03-13 19:39:12
+date: 2023-03-18 20:33:17
 image: 'https://m.media-amazon.com/images/I/41AzH6dcvoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: 'Amazfit'
 buyurl: 'https://www.amazon.es/dp/B0B8CS6C5T/?tag=tolees-21'
 descuento: '33.47'
-average: '164.983333333333'
+average: '164.128571428571'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
