@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CYBERNOVA Ultra Slim externo USB 3.0 DVD VCD CD RW grabadora Drive Super Drive portátil para Apple Mac Macbook Pro Air iMAC  Windows 2000  XP  Vista  7 PC Laptop etc  negro'
-date: 2023-03-27 02:01:34
+date: 2023-04-02 10:32:48
 image: 'https://m.media-amazon.com/images/I/31f+xRVzX7L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
