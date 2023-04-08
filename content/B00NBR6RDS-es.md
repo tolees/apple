@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX110AP- Auriculares para Smartphone  Diadema  Mando de Control  Micrófono  1000 Mw  Android y Iphone   Negro  20 X 15 X 3 5 cm'
-date: 2023-03-30 18:55:08
+date: 2023-04-07 21:11:43
 image: 'https://m.media-amazon.com/images/I/41jAIHFqidL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B00NBR6RDS-es Sony MDR-ZX110AP- Auriculares para Smartphone Diadema...'
 sku: 'B00NBR6RDS-es'
 tags: [ 'Auriculares para equipo de audio','Auriculares y accesorios','Electrónica','iphone','sony','🇪🇸', ]
-actualPrice: 9.79 EUR
+actualPrice: 9.99 EUR
 currency: EUR
-price: 9.79
+price: 9.99
 comparePrice: 20.0 EUR
 prodname: 'Sony MDR-ZX110AP- Auriculares para Smartphone  Diadema  Mando de Control  Micrófono  1000 Mw  Android y Iphone   Negro  20 X 15 X 3 5 cm'
 country: 'es'
 flag: '🇪🇸'
 brand: 'Sony'
 buyurl: 'https://www.amazon.es/dp/B00NBR6RDS/?tag=tolees-21'
-descuento: '51.05'
-average: '12.3275'
+descuento: '50.05'
+average: '12.3181124497992'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Rango de frecuencia de 12 Hz a 22 kHz
-- Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados.
 - Diafragmas tipo cúpula de 30 mm
 - Diseño ligero para la máxima comodidad
+- Auriculares cerrados de tipo supra-aural con un rango de frecuencia de 12 Hz a 22 kHz y cascos acolchados.
+- Rango de frecuencia de 12 Hz a 22 kHz
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B00NBR6RDS{{</world>}}
