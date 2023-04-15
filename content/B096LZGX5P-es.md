@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CyvenSmart - Paquete de 2 cables de cargador de iPhone con certificación MFi de Apple de 2 m  cable de cable Apple Lightning a USB de 2 metros para iPhone 11 / 11Pro / 11Max / X/XS/XR/XS Max / 8/7/6 / IPad'
-date: 2023-02-23 05:53:00
+date: 2023-04-15 05:10:27
 image: 'https://m.media-amazon.com/images/I/31QS0HqmQ1S._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,17 +9,17 @@ author: 'tole.es'
 slug: 'B096LZGX5P-es CyvenSmart - Paquete de 2 cables de cargador de iPhone con...'
 sku: 'B096LZGX5P-es'
 tags: [ 'Accesorios','Cables Lightning','Cables y accesorios','Cables y conectores','Informática','apple','cyvensmart','ipad','iphone','🇪🇸', ]
-actualPrice: 10.97 EUR
+actualPrice: 12.98 EUR
 currency: EUR
-price: 10.97
+price: 12.98
 comparePrice: 18.99 EUR
 prodname: 'CyvenSmart - Paquete de 2 cables de cargador de iPhone con certificación MFi de Apple de 2 m  cable de cable Apple Lightning a USB de 2 metros para iPhone 11 / 11Pro / 11Max / X/XS/XR/XS Max / 8/7/6 / IPad'
 country: 'es'
 flag: '🇪🇸'
 brand: 'CyvenSmart'
 buyurl: 'https://www.amazon.es/dp/B096LZGX5P/?tag=tolees-21'
-descuento: '42.23'
-average: '11.875'
+descuento: '31.65'
+average: '12.0328571428571'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
