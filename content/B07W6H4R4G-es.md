@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Logitech MX Master 3S para Mac  Ratón Inalámbrico Performance con Desplazamiento Rápido  Ergo  8K DPI  Clics Silenciosos  Funciona sobre Cristal  USB-C  Bluetooth  Apple  iPad - Space Grey'
-date: 2023-03-05 12:25:25
+title: 'Logitech MX Master 3S para Mac  ratón inalámbrico Bluetooth con desplazamiento ultrarrápido  ergonómico  8K DPI  seguimiento de cristal  clics silenciosos  USB-C  Apple  iPad  gris espacial'
+date: 2023-04-23 19:21:05
 image: 'https://m.media-amazon.com/images/I/31rSHqDEOyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07W6H4R4G-es Logitech MX Master 3S para Mac Ratón Inalámbrico...'
+slug: 'B07W6H4R4G-es Logitech MX Master 3S para Mac ratón inalámbrico Bluetooth...'
 sku: 'B07W6H4R4G-es'
-tags: [ 'Accesorios','Informática','Ratones','Teclados, ratones y periféricos de entrada','apple','ipad','logitech','🇪🇸', ]
-actualPrice: 85.98 EUR
+tags: [ 'apple','ipad','🇪🇸', ]
+actualPrice: 78.5 EUR
 currency: EUR
-price: 85.98
+price: 78.5
 comparePrice: 135.0 EUR
-prodname: 'Logitech MX Master 3S para Mac  Ratón Inalámbrico Performance con Desplazamiento Rápido  Ergo  8K DPI  Clics Silenciosos  Funciona sobre Cristal  USB-C  Bluetooth  Apple  iPad - Space Grey'
+prodname: 'Logitech MX Master 3S para Mac  ratón inalámbrico Bluetooth con desplazamiento ultrarrápido  ergonómico  8K DPI  seguimiento de cristal  clics silenciosos  USB-C  Apple  iPad  gris espacial'
 country: 'es'
 flag: '🇪🇸'
-brand: 'Logitech'
+brand: ''
 buyurl: 'https://www.amazon.es/dp/B07W6H4R4G/?tag=tolees-21'
-descuento: '36.31'
-average: '97.488888888889'
+descuento: '41.85'
+average: '95.5900000000001'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
@@ -28,14 +28,14 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Desplazamiento Magspeed: ratón de ordenador con una velocidad y precisión de calidad y silencioso - El desplazamiento MagSpeed es un 90% más rápido (4), un 87% más preciso (5) y silencioso
-- Diseño ergonómico: trabaja cómodamente con un ratón de precisión que presenta una silueta elaborada para una postura más natural de la muñeca y unos controles para el pulgar adecuadamente situados
-- Recargable de USB-C a USB-C: con una duración de hasta 70 días con una carga completa y obtén 3 horas de uso de este ratón inalámbrico con solo una carga rápida de 1 minuto (7)
-- Personalizaciones específicas de la aplicación: acelera y personaliza su flujo de trabajo con perfiles predefinidos para macOS y aplicaciones específicas en las opciones mejoradas de Logi+(6)
-- Disfruta su rendimiento: el ratón MX Master 3S para Mac Bluetooth cuenta con un sensor de 8K DPI para funcionar sobre cristal(2) y clics silenciosos, que ofrece un 90% menos de ruido de clic (3)
-- Combina dos herramientas creativas de calidad: consigue una suscripción de 1 mes a Adobe Creative Cloud con la compra de MX Master 3S para Mac; disponible solo en ES
-- Flujo de trabajo multi Mac: empareja este ratón inalámbrico con hasta 3 ordenadores Mac o portátiles y transfiere sin esfuerzo texto, imágenes y archivos entre ellos (6)
-- Reinventado para Mac: el ratón de gran rendimiento MX Master 3S para Mac está adaptado a macOS y es compatible con iPadOS (1)
+- Flujo de trabajo multiMac: conecte este ratón inalámbrico con hasta tres computadoras Mac de escritorio o portátiles y transfiera texto, imágenes y archivos sin problemas entre ellas (6)
+- Diseño ergonómico: trabaje cómodamente con un ratón preciso diseñado para una postura de muñeca más natural y controles con el pulgar en una ubicación ideal
+- Optimizado para Mac: el ratón de alto rendimiento MX Master 3S para Mac está optimizado para macOS y es compatible con iPadOS (1)
+- Recargable de USB-C a USB-C: el ratón inalámbrico ofrece hasta 70 días de duración de la batería con una carga completa y 3 horas de funcionamiento después de solo 1 minuto de carga rápida (7).
+- Desplazamiento a gran velocidad: ratón de ordenador con una velocidad, precisión y casi silencio notables, un 90% más rápido (4), un 87% más preciso (5) y ultrasilencioso.
+- Combina dos de las mejores herramientas creativas del mundo: consigue un abono gratuito de 1 mes a Creative Cloud con la compra de MX Master 3s para Mac.
+- Siente el rendimiento: el ratón Bluetooth MX Master 3S para Mac cuenta con un sensor de 8K DPI rastreado sobre un cristal (2) y ofrece clics silenciosos, lo que ofrece un 90% menos de ruido al hacer clic (3)
+- Personalizaciones específicas de aplicaciones: acelere y personalice sus tareas con perfiles diseñados para macOS y aplicaciones específicas en la versión mejorada de Logi Options+ (6)
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B07W6H4R4G{{</world>}}
