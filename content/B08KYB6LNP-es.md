@@ -29,10 +29,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Compatible con Siri: gracias a la integración en la aplicación Apple Home, puede controlar sus productos SMART + Bluetooth mediante comandos de voz
-- Integración directa en los asistentes de voz Google Assistant y Alexa: controle los productos inteligentes LEDVANCE SMART + Bluetooth simplemente mediante un comando de voz
-- Posibilidad de integración simple en Alexa a través de la voz: acerque el producto Bluetooth al altavoz, enciéndalo e intégrelo con el comando "Buscar mis dispositivos" (nota: es posible que deba realizar una actualización de firmware a través de la aplicación LEDVANCE SMART + Bluetooth)
-- Menor generación de calor (en comparación con el producto de referencia estándar)
 - Consumo de energía 11 kWh / 1000 ha 1521 lm
+- Posibilidad de integración simple en Alexa a través de la voz: acerque el producto Bluetooth al altavoz, enciéndalo e intégrelo con el comando "Buscar mis dispositivos" (nota: es posible que deba realizar una actualización de firmware a través de la aplicación LEDVANCE SMART + Bluetooth)
+- Integración directa en los asistentes de voz Google Assistant y Alexa: controle los productos inteligentes LEDVANCE SMART + Bluetooth simplemente mediante un comando de voz
+- Menor generación de calor (en comparación con el producto de referencia estándar)
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08KYB6LNP{{</world>}}
