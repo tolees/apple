@@ -28,10 +28,10 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Esta fórmula de champú de uso diario está clínicamente probada, con una fórmula dermatológicamente testada y un pH equilibrado
+- La botella hecha de plástico 100 % reciclado (sin incluir el tapón, los colorantes y los aditivos) y es reciclable (sin incluir el tapón y dependiendo de las instalaciones de reciclaje)
 - Ayuda a prevenir la caspa visible con un uso frecuente
 - El champú diario ideal para hombres y mujeres de cualquier tipo de cabello
-- La botella hecha de plástico 100 % reciclado (sin incluir el tapón, los colorantes y los aditivos) y es reciclable (sin incluir el tapón y dependiendo de las instalaciones de reciclaje)
+- Esta fórmula de champú de uso diario está clínicamente probada, con una fórmula dermatológicamente testada y un pH equilibrado
 - La fórmula Microbiome Protect actúa sobre la causa principal de la caspa, manteniendo equilibrado el microbioma del cuero cabelludo
 - Champú anticaspa hasta el 100 % de protección contra la caspa del cabello y el cuero cabelludo (caspa visible con un uso regular)
 
