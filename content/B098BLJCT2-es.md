@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Belkin Cargador Doble de Pared USB-C de 37 W para Teléfono  Puerto USB-C PD de 25 W y Puerto USB-A de 13 W  Carga Rápida para Galaxy S23  S22  Ultra  Plus  Note 20  la Serie iPhone 14 y muchos Otros'
-date: 2023-04-30 11:59:48
+date: 2023-05-03 17:07:50
 image: 'https://m.media-amazon.com/images/I/11KZexkXXsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
