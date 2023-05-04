@@ -28,16 +28,16 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Dynamic Island, una nueva forma mágica de usar el iPhone.
-- Cámara principal de 48 Mpx con hasta 4 veces más resolución.
-- Modo Acción para grabar planos superestables a pulso.
-- Pantalla Super Retina XDR de 6,7 pulgadas siempre activa con ProMotion.
-- iOS 16, con más opciones de personalización y formas de comunicarte y compartir.
 - A16 Bionic, el chip más avanzado en un smartphone. Redes 5G ultrarrápidas.
-- Una autonomía de sol a sol que te da hasta 29 horas de reproducción de vídeo.
-- Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s.
 - Prestaciones punteras en el sector, como Ceramic Shield y la resistencia al agua.
+- Dynamic Island, una nueva forma mágica de usar el iPhone.
+- Modo Acción para grabar planos superestables a pulso.
+- iOS 16, con más opciones de personalización y formas de comunicarte y compartir.
 - Tecnología que puede salvar vidas: Detección de Accidentes pide ayuda por ti cuando tú no puedes.
+- Pantalla Super Retina XDR de 6,7 pulgadas siempre activa con ProMotion.
+- Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s.
+- Una autonomía de sol a sol que te da hasta 29 horas de reproducción de vídeo.
+- Cámara principal de 48 Mpx con hasta 4 veces más resolución.
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B0BDKPPP7T{{</world>}}
