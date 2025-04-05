@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Color de la correa: dorado
 - Material de la correa: acero inoxidable
 - Compatible con: series 1, 2, 3, 4, 5, 6, 7 o 8 de Apple Watch
 - Ajuste personalizable para los Apple Watch de 38/40/41 mm
+- Color de la correa: dorado
 - Tipo de cierre: desplegable con 2 pulsadores
 
 [🛒 Comprar!!!]({{< param buyurl >}})

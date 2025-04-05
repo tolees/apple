@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- suelto
 - Tira de botones
 - Pantalones cortos sostenibles
+- suelto
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B089ZYL4YT{{</world>}}

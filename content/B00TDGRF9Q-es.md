@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Para Apple iPad Air/Air 2
 - Protector de pantalla
 - Tempered Glass 0.33 mm
+- Para Apple iPad Air/Air 2
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B00TDGRF9Q{{</world>}}
