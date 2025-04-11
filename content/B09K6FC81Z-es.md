@@ -30,8 +30,8 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 - El material ultraflexible de silicona evita los enredos y doblamientos
 - Su exterior de doble trenzado es 30 veces más duradero que el de los cables estándar
-- El revestimiento con aislamiento de Teflon incrementa la resistencia y absorción de los efectos de los roces (sin perder flexibilidad)
 - Ha sido sometido con éxito a pruebas de resistencia de más de 30 000 doblamientos
+- El revestimiento con aislamiento de Teflon incrementa la resistencia y absorción de los efectos de los roces (sin perder flexibilidad)
 - Ha pasado pruebas de resistencia de más de 10 000 conexiones
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

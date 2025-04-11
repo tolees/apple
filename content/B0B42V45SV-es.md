@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Apple
 - Apple iPhone 12, 64GB, Morado- Reacondicionado
+- Marca: Apple
 - Tipo de producto: CELLULAR PHONE
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

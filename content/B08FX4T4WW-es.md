@@ -30,8 +30,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Carga rápida 2.5X: combina el cargador USB C de 18 W (no incluido) para cargar la batería externa en 8 horas o menos, lo que reduce considerablemente el tiempo de carga. Protección inteligente a prueba de fallo contra sobrecarga, sobrecalentamiento y más para proteger tus dispositivos.
 - Capacidad máxima: la batería de alta capacidad de 26800 mAh permite almacenar mucha energía en el interior, por lo que será capaz de cargar tu teléfono 8 veces antes de tener que cargarlo.
-- Tamaño portátil y pantalla digital: este banco de energía es lo suficientemente ligero (aproximadamente el mismo peso que tu teléfono medio), que se adapta perfectamente a la mayoría de los bolsillos. La pantalla LCD inteligente es fantástica y lo suficientemente precisa para mostrar el estado de la batería restante.
 - Lo que obtienes: cargador portátil de 26800 mAh, cable USB C, manual del usuario (idioma español no garantizado).
+- Tamaño portátil y pantalla digital: este banco de energía es lo suficientemente ligero (aproximadamente el mismo peso que tu teléfono medio), que se adapta perfectamente a la mayoría de los bolsillos. La pantalla LCD inteligente es fantástica y lo suficientemente precisa para mostrar el estado de la batería restante.
 - Carga de alta velocidad: potente salida PD y QC de 18 W permite que el grupo de baterías proporcione una carga de 18 W al dispositivo acelerando el tiempo de carga, carga un teléfono de 3000 mAh de 0 a 50 % en 30 minutos. Este es un nivel técnico que es difícil de alcanzar con la batería externa normal.
 
 [🛒 Comprar!!!]({{< param buyurl >}})
