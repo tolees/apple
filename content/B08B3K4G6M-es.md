@@ -28,11 +28,11 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Fuerte imán: imán integrado para controlar la función de encendido y apagado y para mantener la cubierta frontal firmemente en tu iPad cuando está cerrada.
-- Diseñado exclusivamente para el nuevo iPad 9 de 10,2 pulgadas. generación (2021) y iPad 8 de 10,2 pulgadas. generación (2020, número de modelo: A2270 / A2428 / A2429 / A2430) y iPad 7. Generación (2019, número de modelo: A2197/A2198/A2200). No compatible con todos los otros modelos de iPad.
 - Material: cubierta frontal de piel sintética + parte trasera de policarbonato transparente mate. El icono de Apple se puede ver mientras protege tu dispositivo de huellas dactilares y arañazos.
-- Función de atril con dos posiciones: fija tu dispositivo en el ángulo de visión ideal o en una posición cómoda para escribir.
+- Diseñado exclusivamente para el nuevo iPad 9 de 10,2 pulgadas. generación (2021) y iPad 8 de 10,2 pulgadas. generación (2020, número de modelo: A2270 / A2428 / A2429 / A2430) y iPad 7. Generación (2019, número de modelo: A2197/A2198/A2200). No compatible con todos los otros modelos de iPad.
 - Ultra delgado y ligero: solo pesa 5 mm, diseño de carcasa trasera rígida ultra delgado y ligero añade un volumen mínimo a tu dispositivo mientras que ofrece una gran protección.
+- Fuerte imán: imán integrado para controlar la función de encendido y apagado y para mantener la cubierta frontal firmemente en tu iPad cuando está cerrada.
+- Función de atril con dos posiciones: fija tu dispositivo en el ángulo de visión ideal o en una posición cómoda para escribir.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
 {{<world>}}B08B3K4G6M{{</world>}}
