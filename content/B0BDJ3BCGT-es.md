@@ -30,13 +30,13 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 - Reproducción en streaming o sincronización de música, podcasts y audiolibros.
 - Medición del oxígeno en sangre con una app y un sensor muy potentes
-- Notificaciones de frecuencia cardiaca alta o baja y avisos de ritmo irregular.
-- App Brújula completamente rediseñada con las prestaciones Puntos de Referencia y Retorno.
-- App Entreno mejorada con métricas más exhaustivas y nuevas formas de hacer ejercicio.
-- Prestaciones de seguridad avanzadas, como la detección de caídas, Emergencia SOS y la detección de accidentes
 - Conexión móvil para mantener el contacto aunque no lleves el iPhone encima
 - Configuración y gestión del Apple Watch de toda la familia directamente desde tu iPhone con Configuración Familiar
+- App Brújula completamente rediseñada con las prestaciones Puntos de Referencia y Retorno.
+- Prestaciones de seguridad avanzadas, como la detección de caídas, Emergencia SOS y la detección de accidentes
 - Seguimiento de la actividad diaria en el Apple Watch y consulta de tendencias en la app Fitness del iPhone.
+- Notificaciones de frecuencia cardiaca alta o baja y avisos de ritmo irregular.
+- App Entreno mejorada con métricas más exhaustivas y nuevas formas de hacer ejercicio.
 - Sensor de temperatura
 
 [🛒 Aquí!!!]({{< param buyurl >}})

@@ -28,16 +28,16 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Touch ID para autenticarse de forma segura y usar Apple Pay
 - Redes wifi 802.11ac
 - Conector Lightning para cargar el iPad y conectar accesorios
-- Hasta 10 horas de autonomía
 - Hasta 256 GB de capacidad
-- Compatibilidad con el Apple Pencil (1.ª generación) y el Smart Keyboard
-- Espectacular pantalla Retina de 10,2 pulgadas con tecnología True Tone
 - Chip A13 Bionic con Neural Engine
-- Altavoces estéreo
+- Touch ID para autenticarse de forma segura y usar Apple Pay
+- Espectacular pantalla Retina de 10,2 pulgadas con tecnología True Tone
 - Gran angular trasero de 8 Mpx y ultra gran angular frontal de 12 Mpx con Encuadre Centrado
+- Compatibilidad con el Apple Pencil (1.ª generación) y el Smart Keyboard
+- Altavoces estéreo
+- Hasta 10 horas de autonomía
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09G9CJCXR{{</world>}}
