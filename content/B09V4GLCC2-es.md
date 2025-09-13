@@ -28,15 +28,15 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
-- Chip M1 de Apple con Neural Engine
+- Touch ID para autenticarse de forma segura y usar Apple Pay
 - Hasta 256 GB de capacidad
-- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone, gama cromática amplia (P3) y película antirreflectante
 - Redes wifi de 6.a generación y 5G
 - Gran angular de 12 Mpx
-- Ultra gran angular frontal de 12 Mpx con Encuadre Centrado
 - Disponible en azul, púrpura, rosa, blanco estrella y gris espacial
-- Touch ID para autenticarse de forma segura y usar Apple Pay
 - Altavoces estéreo en horizontal
+- Pantalla Liquid Retina de 10,9 pulgadas con tecnología True Tone, gama cromática amplia (P3) y película antirreflectante
+- Chip M1 de Apple con Neural Engine
+- Ultra gran angular frontal de 12 Mpx con Encuadre Centrado
 - Autonomía para un día entero
 
 [🛒 Visítala!!!]({{< param buyurl >}})
