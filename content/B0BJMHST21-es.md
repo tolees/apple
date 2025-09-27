@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Mecanismo de tijera de 1 mm de recorrido para escribir con comodidad.
-- 14 teclas de función para acceder fácilmente a los atajos.
-- Soporte ajustable para elegir el mejor ángulo de visión.
 - Trackpad integrado compatible con los gestos Multi‑Touch y el cursor en iPadOS.
+- Soporte ajustable para elegir el mejor ángulo de visión.
+- 14 teclas de función para acceder fácilmente a los atajos.
+- Mecanismo de tijera de 1 mm de recorrido para escribir con comodidad.
 - Diseño versátil de dos piezas: cubierta que protege el dispositivo por ambos lados y teclado extraíble.
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
