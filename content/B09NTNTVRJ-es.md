@@ -30,11 +30,11 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 - Accede a una carga de 15 W de potencia para cargar hasta tres dispositivo al mismo tiempo.
 - Incluye un cable USB-A a USB-C de 15 cm.
+- Provista de 2 años de garantía del producto y de garantía de los equipos conectados (de hasta 2000 euros).
+- Carga hasta tres dispositivos al mismo tiempo mediante su puerto USB-C y sus dos puertos USB-A.
 - El indicador LED te informa puntualmente sobre el estado de el cargador portatil.
 - Los 20 000 mAH de salida de corriente proporcionan hasta 78 horas adicionales de autonomía para las baterías de tus dispositivos.
 - Disponible en rosa, azul y negro.
-- Carga hasta tres dispositivos al mismo tiempo mediante su puerto USB-C y sus dos puertos USB-A.
-- Provista de 2 años de garantía del producto y de garantía de los equipos conectados (de hasta 2000 euros).
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B09NTNTVRJ{{</world>}}

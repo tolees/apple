@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Marca: Apple
 - Apple iPhone 13, 128GB, Verd - Reacondicionado
+- Marca: Apple
 - Color: verde
 - Tipo de producto: CELLULAR PHONE
 

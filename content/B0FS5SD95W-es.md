@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Qhot Microfono Inalambrico Solapa para iPhone iPad Tipo-C | Mini Wireless Lavalier Microphone Bluetooth Movil Android USB-C | Micro para Grabar Video Podcast Grabacion Tiktok Youtube Facebook Vlog'
-date: 2026-03-04 19:20:19
+date: 2026-03-08 08:25:17
 image: 'https://m.media-amazon.com/images/I/41pg+dZo+NL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
