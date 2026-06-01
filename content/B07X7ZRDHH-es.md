@@ -28,11 +28,11 @@ Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente e
 
 🔎:
 
+- Bluetooth
 - Potencía 4x50w
+- Pioneer smart sync app
 - Compatible ios y android
 - Usb
-- Bluetooth
-- Pioneer smart sync app
 
 [🛒 Visítala!!!]({{< param buyurl >}})
 {{<world>}}B07X7ZRDHH{{</world>}}
