@@ -29,8 +29,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 🔎:
 
 - Temp°Guard cuida tu batería: Monitorea la temperatura 3M veces al día con Temp°Guard – máxima protección.
-- Carga total para portátiles: 100W para MacBook, HP y Lenovo – igual de rápido que el original.
 - 30 % más compacto: Más pequeño que el cargador original: ahorra espacio en tu bolso o escritorio.
+- Carga total para portátiles: 100W para MacBook, HP y Lenovo – igual de rápido que el original.
 - Un cargador, tres dispositivos: Carga tu portátil, móvil y tablet al mismo tiempo con un solo enchufe.
 - Cable incluido, máxima velocidad: Incluye cable USB-C 100W gratis – no necesitas comprarlo aparte.
 
