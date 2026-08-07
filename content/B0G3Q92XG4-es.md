@@ -28,10 +28,10 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
+- Opciones de software flexibles: funciona con DJUCED o Serato DJ Lite, elige tu plataforma preferida
+- Ligera e intuitiva: configuración rápida, navegación sencilla e instalación de software sin complicaciones
 - Creatividad sin fin: la función Stems te permite remezclar y reinventar pistas sobre la marcha
 - Portátil y divertida: su diseño compacto hace que sea fácil pinchar en cualquier lugar y momento
-- Ligera e intuitiva: configuración rápida, navegación sencilla e instalación de software sin complicaciones
-- Opciones de software flexibles: funciona con DJUCED o Serato DJ Lite, elige tu plataforma preferida
 - Beatmatch Guide: las luces integradas debajo de las jog wheels y los faders de tempo cercanos te ayudan a sincronizar las pistas perfectamente
 
 [🛒 Comprar!!!]({{< param buyurl >}})

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Metapen A8 Lápiz para iPad 2018-2026 Atracción Magnética Rechazo Palma'
-date: 2026-08-05 18:24:33
+date: 2026-08-07 06:00:20
 image: 'https://m.media-amazon.com/images/I/21L6D4bFvnL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B09ZTXVNVD/?tag=tolees-21'
 descuento: '38.68'
-average: '22.3886170212766'
+average: '22.3436458333333'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!

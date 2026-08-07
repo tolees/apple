@@ -28,8 +28,8 @@ En este momento está [{{< param title >}}]({{< param buyurl >}}) en el siguient
 
 🔎:
 
-- Puma Detalles de la marca
 - Ajuste de alto rendimiento
+- Puma Detalles de la marca
 - Detalles moldeados
 
 [🛒 Aquí!!!]({{< param buyurl >}})

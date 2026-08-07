@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Amortiguación óptima para correr
 - Ofrece comodidad
 - Cierre con cordones
+- Amortiguación óptima para correr
 
 [🛒 Comprar!!!]({{< param buyurl >}})
 {{<world>}}B0F63T7C9F{{</world>}}
