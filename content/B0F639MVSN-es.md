@@ -28,8 +28,8 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Correa Fit Plus para un amplio bloqueo de cordones
 - Goma Protread que proporciona durabilidad y gran tracción
+- Correa Fit Plus para un amplio bloqueo de cordones
 - Puntera redondeada
 
 [🛒 Comprar!!!]({{< param buyurl >}})
