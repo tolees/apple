@@ -28,15 +28,15 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Pantalla Super Retina XDR de 6,1 pulgadas.
-- Prestaciones punteras en el sector, como el Ceramic Shield y la resistencia al agua
 - Chip A15 Bionic supersónico con GPU de 5 núcleos. Redes 5G ultrarrápidas.
+- iOS 16, con más opciones de personalización y formas de comunicarte y compartir
+- Pantalla Super Retina XDR de 6,1 pulgadas.
+- Sistema de cámara avanzado para hacer mejores fotos con cualquier luz
+- Detección de accidentes, una tecnología de seguridad que llama a los servicios de emergencia si sufres un accidente grave de coche
 - Modo Acción para grabar vídeos superestables sin trípode
 - Una autonomía de sol a sol que te da hasta 20 horas de reproducción de vídeo
-- iOS 16, con más opciones de personalización y formas de comunicarte y compartir
-- Detección de accidentes, una tecnología de seguridad que llama a los servicios de emergencia si sufres un accidente grave de coche
+- Prestaciones punteras en el sector, como el Ceramic Shield y la resistencia al agua
 - Modo Cine, ahora en 4K con Dolby Vision hasta 30 f/s
-- Sistema de cámara avanzado para hacer mejores fotos con cualquier luz
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})
 {{<world>}}B0BDJX8GV5{{</world>}}
