@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
+- MÓVIL
 - Manzana
 - Medianoche
-- MÓVIL
 - Apple iPhone 14, 128 GB, color medianoche (renovado)
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

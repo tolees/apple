@@ -28,9 +28,9 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Brand: Apple
 - Apple iPhone 13 Pro, 256GB, Grafito - Reacondicionado
 - Size: 256GB
+- Brand: Apple
 - Product type: CELLULAR PHONE
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})
