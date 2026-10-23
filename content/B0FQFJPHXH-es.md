@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple iPhone Air 512 GB - Negro espacial | Pantalla de 6 5 pulgadas con ProMotion hasta 120 Hz chip A19 Pro cámara frontal Center Stage autonomía para el día entero'
-date: 2026-10-20 14:33:42
+date: 2026-10-22 13:29:33
 image: 'https://m.media-amazon.com/images/I/21ctlrlV9gL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0FQFJPHXH/?tag=tolees-21'
 descuento: '23.62'
-average: '1112.1475'
+average: '1129.386'
 ---
 
 Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

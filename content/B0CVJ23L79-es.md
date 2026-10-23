@@ -28,9 +28,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) aqui!
 
 🔎:
 
-- Apple iPhone 15 128 GB - Negro Renovado
 - Marca: Apple
 - Tipo de producto: Teléfono Celular
+- Apple iPhone 15 128 GB - Negro Renovado
 - Tamaño: 128 GB
 
 [🛒 Comprar!!!]({{< param buyurl >}})

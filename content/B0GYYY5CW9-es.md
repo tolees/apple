@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN MagFlow Pro Power Bank Magnético 10000mAh 25W | USB C 45W Batería Externa MagSafe Portatil Pantalla Digital Compatible con iPhone 18 Pro Max 17 16 15 14 13 12'
-date: 2026-10-21 11:59:09
+date: 2026-10-22 18:51:42
 image: 'https://m.media-amazon.com/images/I/31A+maCDhzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
