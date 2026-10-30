@@ -28,10 +28,10 @@ Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 
 ℹ️:
 
-- Para tocar y compartir música cómodamente
 - Fabricado en metal y plástico, estable para engancharlo al pie de micrófono o al atril
-- Nota: el iPad y el soporte no están incluidos
+- Para tocar y compartir música cómodamente
 - Ajustable para un ángulo de visión perfecto
+- Nota: el iPad y el soporte no están incluidos
 - Apto para iPad y tabletas de 6 a 9,7 pulgadas
 
 [🛒 Ver la oferta!!]({{< param buyurl >}})

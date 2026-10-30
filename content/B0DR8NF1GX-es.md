@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'INIU para MagSafe Qi2 15W Power Bank Ultrafino 10000mAh Bateria Portatil'
-date: 2026-10-28 13:48:36
+date: 2026-10-30 03:23:21
 image: 'https://m.media-amazon.com/images/I/41vI+ZEi+dL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0DR8NF1GX/?tag=tolees-21'
 descuento: '48.57'
-average: '29.9433333333333'
+average: '29.3385714285714'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
