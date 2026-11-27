@@ -29,9 +29,9 @@ Tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
 ℹ️:
 
 - Tamaño: 128GB
-- Color: Negro Noche
 - Apple iPhone 13, 128GB, Negro Noche - (Reacondicionado)
 - Marca: Apple
+- Color: Negro Noche
 - Tipo de producto: CELLULAR_PHONE
 
 [🛒 Accede a la oferta!!]({{< param buyurl >}})

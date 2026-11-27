@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'XIAOMI TV F Pro 75 Pulgadas 190 cm 4K UHD QLED Smart Fire TV L75MB-FPEU | Alexa Voice Control HDR10+ Game Boost Mode 120Hz MEMC 2GB+32GB Compatible with Apple AirPlay'
-date: 2026-11-25 18:40:51
+date: 2026-11-27 11:16:17
 image: 'https://m.media-amazon.com/images/I/41GcaoKbGzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0F45BLD1H/?tag=tolees-21'
 descuento: '28.61'
-average: '564.157464788732'
+average: '563.2524999999996'
 ---
 
 Está [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!

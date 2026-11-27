@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'UGREEN Transmisor y Receptor HDMI Inalámbrico USB C TX HDMI Magnético 1080P | 1080P 60Hz 50M Plug Play 5G Transmisor PD 30W Compatible con iPhone 17 Pro MAX Air 16 Macbook Air Pro iPad Monitor Televisión'
-date: 2026-11-22 18:44:06
+date: 2026-11-27 09:16:36
 image: 'https://m.media-amazon.com/images/I/319MmU1UHqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

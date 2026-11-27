@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Pencil Pro'
-date: 2026-11-23 16:52:22
+date: 2026-11-27 10:58:14
 image: 'https://m.media-amazon.com/images/I/11tFwSm-qdL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇪🇸'
 brand: ''
 buyurl: 'https://www.amazon.es/dp/B0D3J7CKFR/?tag=tolees-21'
 descuento: '26.85'
-average: '114.29899999999931'
+average: '113.8172727272721'
 ---
 
 Ahora mismo tienes [{{< param title >}}]({{< param buyurl >}}) en el siguiente enlace!
